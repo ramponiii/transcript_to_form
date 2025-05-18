@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your expenses a bit. I want to make sure we capture everything accurately. Can you tell me who usually handles the payments for, say, your groceries? Is it you or someone else?",
+            "client_message": "Oh, that's mostly me, I do the grocery shopping and pay for it too. Um, I’d say it’s about like, I dunno, 500 bucks a month? And I guess it’s essential, right? We kinda can’t live without food, haha!",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

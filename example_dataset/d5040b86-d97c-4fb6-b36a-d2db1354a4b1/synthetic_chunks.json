@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who the policy is for? Like, who owns it?",
+            "client_message": "Oh, um, it's actually for me, I own the it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what type of protection policy do you have?",
+            "client_message": "Uh, it’s like, uh, Critical Illness cover thing, I think.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and do you remember the monthly cost of that policy?",
+            "client_message": "Um, yeah, it’s, uh, around fifty dollars a month or something like that.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

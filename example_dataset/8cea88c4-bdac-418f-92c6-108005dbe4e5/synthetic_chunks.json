@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s uh get into your expenses. Can you tell me who, um, usually pays for the mortgage payments? Is it you or your spouse or...",
+            "client_message": "Yeah, uh, I handle the mortgage payments myself. We just, you know, split other bills, but the mortgage is on me.",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it. And, um, how much is that mortgage payment? Like, uh, what's the amount and how often do you, um, pay it?",
+            "client_message": "It's like around, uh, two thousand dollars a month. Yeah, and I pay it monthly, every month without fail.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

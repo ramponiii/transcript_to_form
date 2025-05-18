@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's talk about your expenses a bit, uh, could you tell me who, um, well like who's responsible for those payments? Is it you or, um, maybe your spouse?",
+            "client_message": "Oh, um, it's mostly me, you know? I take care of the mortgage and, uh, other stuff.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what do you, like, call this expense? I mean, is it just mortgage payment, or is there something else you wanna call it?",
+            "client_message": "Yeah, I just call it the mortgage payment. It's pretty simple, haha. I pay, um, about 1500 bucks for that every month.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Alright, that makes sense. And, uh, would you say that's, like, an essential expense for you guys? We should maybe note that down?",
+            "client_message": "Definitely essential! I can't really skip on that, haha. Plus, I really need to remember it goes on till 2035, so we gotta plan around that.",
+            "field_names_covered": [
+                "priority",
+                "timeframe"
+            ]
+        }
+    ]
+}

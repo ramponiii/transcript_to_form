@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, in terms of your dependent, it's important to list their full name along with their date of birth. This will help us assess the benefits you're eligible for.",
+            "client_message": "Yeah, but I mean, do I really need to list all that? It seems kinda unnecessary, right? I mean, I don't want to share every detail.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns, but including your dependent's info ensures that we’re optimizing your benefits until they age out. When do you expect they might no longer be considered a dependent?",
+            "client_message": "Well, if it's just for that, I guess I can share it. They were born on, uh, 15-06-2010. Probably won't be a dependent after they turn 18, so like, 15-06-2028.",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

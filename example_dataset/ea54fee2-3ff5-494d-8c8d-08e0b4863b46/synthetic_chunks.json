@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, can we talk about the assets you have? Let's start with any tangible items like art or collectibles. Do you own anything like that? ",
+            "client_message": "Um, yeah, I, uh, I own a classic car, but, um, I think maybe it’s not as valuable as I thought or somethin’.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Oh, I see! What's the current estimated, uh, value of the car?",
+            "client_message": "I used to think it was worth like twenty thousand or somethin', but, uh, now I’m not so sure. Maybe it’s, like, fifteen thousand? I dunno. Just feels different, I guess. ",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

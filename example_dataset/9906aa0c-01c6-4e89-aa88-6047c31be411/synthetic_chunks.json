@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your home, I just want to clarify whether it's owned or rented. This affects how we approach your financial planning.",
+            "client_message": "Oh, I see. It's owned, but could you explain what you mean by 'financial planning'?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Financial planning involves setting goals, analyzing your current financial situation, and developing a plan together. We take into account things like your assets and any debts you might have.",
+            "client_message": "Got it! So, should I also mention my address? I live in Canterbury, at 123 Main Street, postcode CT1 1AA.",
+            "field_names_covered": [
+                "town_city",
+                "house_name_number",
+                "street_name",
+                "postcode"
+            ]
+        }
+    ]
+}

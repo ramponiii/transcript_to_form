@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s say you have a pension, right? Um, like a Defined Contribution plan with, uh, a provider like ABC Pension Co. If you, you know, contribute 100 bucks a month, it could grow over time. I mean, it it's important to know, like, the, uh, the current value of your fund, like whatever that may be, ya know? Something like 15,000?",
+            "client_message": "Uh, yeah, I think I got a pension from ABC Pension Co. But, um, I’m not really sure about the value or like how much I'm putting in. I think I remember it being around 15 grand, but gotta check. And, um, the policy number’s in my email somewhere, just gotta dig it up. I might have some notes on it, too.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "policy_number",
+                "notes"
+            ]
+        }
+    ]
+}

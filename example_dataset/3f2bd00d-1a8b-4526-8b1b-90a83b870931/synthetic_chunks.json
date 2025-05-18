@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk a bit about your health situation. Can you tell me, like, how do you feel generally? Any concerns or, um, ongoing conditions?",
+            "client_message": "Uh, yeah, um, I've been okay, I guess. No major issues, but I do smoke. I mean, I’ve been smoking since, like, I was 18, and probably around a pack a day, or maybe a bit less. So, um, I don't really have any long-term care needs now but, uh, I know I might need help down the road if things don’t go so well. And I do have a will, but it’s kinda old. I should probably update it, right?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since",
+                "long_term_care_needed",
+                "long_term_care_explanation",
+                "will",
+                "information_about_will"
+            ]
+        }
+    ]
+}

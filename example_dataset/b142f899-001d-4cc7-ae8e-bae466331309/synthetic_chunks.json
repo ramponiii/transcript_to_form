@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let’s talk about your current residency status. Could you please confirm which country you are domiciled in?",
+            "client_message": "Sure, I'm currently domiciled in the UK.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that. Are you also a tax resident here in the UK?",
+            "client_message": "Yes, yes I am a tax resident in the UK as well.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Great to know! Moving on, may I ask about your employment status? It would help us understand your situation better.",
+            "client_message": "I'm currently employed as a software engineer, and I've been at my job since January twenty-twenty-one.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

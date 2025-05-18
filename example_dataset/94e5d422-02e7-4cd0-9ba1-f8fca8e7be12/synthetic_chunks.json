@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk about your mortgage. Can you remind me who the current provider is?",
+            "client_message": "Yeah, it’s with First Bank of America. I got that mortgage, you know, a few years back.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what's the monthly payment you’re looking at now?",
+            "client_message": "Um, it’s around 1,200 a month, but I think I still owe like, uh, thirty thousand on it?",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value"
+            ]
+        }
+    ]
+}

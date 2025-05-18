@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's continue from where we left off. Just to confirm, can you hear me okay?",
+            "client_message": "Yeah, I can hear you just fine, thanks!",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! So, could you share the full name of your dependent?",
+            "client_message": "Sure! It's, uh, Emily Johnson. I hope that helps.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And when was Emily born? If you could give me that in DD-MM-YYYY format.",
+            "client_message": "Um, she was born on 15-04-2015, if I remember correctly. Is that good?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

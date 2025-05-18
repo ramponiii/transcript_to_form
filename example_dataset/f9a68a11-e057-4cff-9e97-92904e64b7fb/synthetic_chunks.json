@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about your retirement plans. What do you envision for yourself when you retire?",
+            "client_message": "Oh, uh, retirement, right. Well, you know, I kinda think, um, I’d like to travel a lot, maybe, like, um, see some places I've never been to, like, uh, Europe or something, you know? And, I guess I also want to spend more time with my family, my grandkids, especially. Um, but, wait, oh, and I need to make sure I have enough, like, funds set aside and, um, there's this policy I started ages ago, I think it’s, like, trying to cover those things, like, for when I stop working. I just, I really don't wanna be stressing about money then, right?",
+            "field_names_covered": [
+                "objectives",
+                "amount_assured"
+            ]
+        }
+    ]
+}

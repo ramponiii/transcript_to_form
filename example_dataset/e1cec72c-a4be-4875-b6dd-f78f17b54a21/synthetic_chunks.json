@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, hey there! Just wanna check, where are you livin’ these days? Like, what country are you callin' home?",
+            "client_message": "Oh, I’m in the UK right now, it's pretty nice here.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Awesome! And are you kinda like a tax resident there? Just need to know if that’s the case.",
+            "client_message": "Yeah, for sure, I’ve been a tax resident in the UK since I moved here, been in the system and all.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Cool, cool! Just one more thing, what’s your job right now? And, you know, where do you work?",
+            "client_message": "I’m a graphic designer at DesignCo, but I’m thinkin’ about switching jobs soon. Not sure yet though.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employer"
+            ]
+        }
+    ]
+}

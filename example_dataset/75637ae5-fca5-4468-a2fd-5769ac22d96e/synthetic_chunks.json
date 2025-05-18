@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Sure, let's talk about your loans. Just to clarify, do you own your home outright, or is there a mortgage involved?",
+            "client_message": "Oh, um, I have a mortgage on the house. But I’m not really sure about all the terms you’re using. Can you explain what you mean by 'outstanding value'?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! The 'outstanding value' refers to the remaining balance that you owe on your mortgage. It's the amount you still need to pay back to the lender.",
+            "client_message": "Got it, that makes sense. So, like, what’s the monthly cost for that, then?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

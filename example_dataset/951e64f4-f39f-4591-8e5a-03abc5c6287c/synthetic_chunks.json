@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your current health, ya know? So, how do you feel health-wise these days? Anything major you think I should know?",
+            "client_message": "Um, I mean it's, uh, kinda okay I guess? I dunno, like, I smoke a lot, like a, maybe two packs a day? Since I was, uh, like, eighteen or something.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Got it, thanks for sharing that. And, uh, do you think you need, like, long-term care or anything like that right now?",
+            "client_message": "Nah, not really, I mean, I feel, uh, fine most days, just don't wanna think about it. Oh, and yeah, I don't have a will, or power of attorney or whatever, just, ugh, it's all a bit much to deal with, ya know?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation",
+                "will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

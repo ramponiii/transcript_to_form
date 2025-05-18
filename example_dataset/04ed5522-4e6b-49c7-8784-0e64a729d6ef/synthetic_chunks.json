@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's review all your loans to make sure we’ve got the right info. Can you tell me who's the owner of your mortgage?",
+            "client_message": "Umm, I think it’s my husband’s name, actually. I said it was mine, but, like, I just remembered it’s his, right?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and what type of loan are we talking about, just to be clear?",
+            "client_message": "Oh, right! It’s a mortgage. I thought it was a personal loan, but nah, it’s a mortgage, I’m sure now. Sorry about that.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

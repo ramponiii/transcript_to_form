@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like a roller coaster ride. There are ups and downs, right? Yes, you can have some thrilling highs, but sometimes there are sharp drops too. That's the risk part; it's all about enduring those twists and turns.",
+            "client_message": "I get that, but like, uh, I'm not sure I want to feel sick on the drops. Can't we just enjoy the highs?",
+            "field_names_covered": [
+                "risk"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Investing has its thrills, but you have to be prepared for those drops. Just like knowing to hold on tight on a coaster, you should have a strategy to manage that risk.",
+            "client_message": "Yeah, but what if I just wanna, you know, avoid the drops altogether?",
+            "field_names_covered": [
+                "risk"
+            ]
+        },
+        {
+            "advisor_message": "That's a fair point! But, avoiding all risk in investing is tough—it's like wanting to ride a roller coaster without actually going up to the peaks. Sometimes, you gotta risk a little to possibly gain a lot!",
+            "client_message": "Hmm, okay, I see what you mean...so there's no way to just, like, skip the drops? That sounds kinda scary.",
+            "field_names_covered": [
+                "risk"
+            ]
+        }
+    ]
+}

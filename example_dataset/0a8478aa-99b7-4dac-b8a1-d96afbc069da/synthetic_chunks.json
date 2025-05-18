@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, let's go over the dependent information again. Can you confirm your dependent’s name and date of birth for me?",
+            "client_message": "Yeah, I thought I had mentioned it before? It's actually Alex Johnson, born on, um, 15-05-2015. I’m pretty sure that's right, right?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Alex Johnson, 15-05-2015. Now, do you need to provide a date until which Alex will be considered a dependent?",
+            "client_message": "Oh, actually, I, uh, changed my mind, I don't think we need to include that. Maybe just leave it open? He’s just still a kid, you know?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

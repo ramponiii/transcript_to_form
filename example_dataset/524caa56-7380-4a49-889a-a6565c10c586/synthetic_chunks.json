@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, when we talk about, um, asset allocation, it’s basically divvin' your money into different investments, y'know? Like stocks, bonds, and cash, so, uh, it can spread the risk around and help grow your money.",
+            "client_message": "Ohhh, right, right. But, uh, what do you mean by, like, spreading the risk? I, uh, I'm not sure I get that part.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, sure! So, like, spreading the risk just means that if one area of your investments loses value, others might not, which, uh, keeps your overall money safer, y'know?",
+            "client_message": "Got it! But, um, I guess my main goal here is to, like, understand how that actually works in my own case, y'know? Like, what would you suggest for me?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

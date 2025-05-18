@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s say you have a salary from a job, right? Like, uh, you earn like two thousand a month, uh but it’s actually kinda complicated. Is it net or gross? You know, after taxes, or before?",
+            "client_message": "Um, yeah, it’s like, gross I think. So, I make like, yeah, two thousand before, um, they take out taxes and stuff and I get it every month, so, yeah, that’s my income.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

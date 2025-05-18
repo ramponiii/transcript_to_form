@@ -1,0 +1,31 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to wrap this up, can you tell me about your, um, current state of health?",
+            "client_message": "Yeah, um, well, I'm, like, it's okay, I guess. No major issues or anything, but, uh, I do smoke, like, maybe ten cigarettes a day?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day"
+            ]
+        },
+        {
+            "advisor_message": "Alright, and, um, do you, like, have any long-term care needed or, ya know, plans for that?",
+            "client_message": "Oh, uh, not really right now, but, I mean, sometimes I think I might need, like, help later, um, you know?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Sure, that makes sense. Uh, do you have a will or, um, any power of attorney set up?",
+            "client_message": "I, uh, have a will, I think, at least I did it maybe last year, and, um, my sister has power of attorney, but, uh, I gotta check how all that is, maybe?",
+            "field_names_covered": [
+                "will",
+                "information_about_will",
+                "power_of_attorney",
+                "details_of_individual_with_power_of_attorney"
+            ]
+        }
+    ]
+}

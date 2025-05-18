@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk about your risk tolerance. Can you imagine investing in something like stocks, which can fluctuate quite a bit? How would you feel about that?",
+            "client_message": "Um, I guess it kinda makes me nervous? Like, I mean, what if the market crashes? I'm not sure if I'm ready for that kinda risk.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "That’s totally understandable. How about, let’s say, a balanced approach, maybe some bonds along with stocks? Would that be something you’d consider?",
+            "client_message": "Yeah, maybe! I think having some bonds might help me feel a bit safer. I just don't wanna lose all my money, you know?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

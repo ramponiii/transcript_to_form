@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s take a look at your current living situation. Can you let me know if you own or rent your property?",
+            "client_message": "Uh, yeah, I was saying I own it, right? Actually, I think I was rentin' it before, but I bought it recently.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what's the address of the property?",
+            "client_message": "Oh! It’s, um, 5 Elm Street, Springfield, but I... I keep forgettin' the post, uh, postal code. I just moved in like, uh, two months ago, you know?",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "town_city",
+                "move_in_date"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the advisor sounds slightly rushed.",
+    "segments": 2,
+    "id": "dbea9acd-a645-4b6b-a18c-0595f12a4ed1"
+}

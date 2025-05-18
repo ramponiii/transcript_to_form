@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your current mortgage, I recommend looking into a refinance option. It could potentially reduce your monthly payments significantly, especially given today's lower interest rates.",
+            "client_message": "Yeah, but, I mean, I just don't see how that could really help me at this point. What if the rates go up again?",
+            "field_names_covered": [
+                "type",
+                "monthly_cost",
+                "interest_rate"
+            ]
+        },
+        {
+            "advisor_message": "That's a valid concern. The interest rates are unpredictable, but locking in a lower rate now might offer you substantial savings. Right now, your outstanding balance is around 150,000, and with a good refinance deal, you could be looking at a 3% interest rate or lower.",
+            "client_message": "Right, but I heard from some friends that rates might drop even more. So why rush into it? Maybe I should just wait...",
+            "field_names_covered": [
+                "outstanding_value",
+                "interest_rate"
+            ]
+        },
+        {
+            "advisor_message": "I understand the hesitation. However, if you wait too long, you might miss out on the current offers available. Plus, it's also important to consider your monthly payment now—could you manage a higher one if rates increase?",
+            "client_message": "I guess, but my monthly costs are already tight, you know? I'm just not sure a refinance is worth the risk right now.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

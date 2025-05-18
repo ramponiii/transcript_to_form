@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about any mortgages you might have? You know, who’s the owner of that mortgage, or, um, is it you? Just trying to get a picture here.",
+            "client_message": "Oh, yeah, that’s me! I’m the one that holds the mortgage. I took it out a while back, pretty standard stuff.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Nice! And, like, what type of mortgage are we dealing with? Is it for a house or, like, something else?",
+            "client_message": "It's a mortgage for, um, my house. Nothing fancy, just a regular mortgage, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And do you mind sharing what your monthly costs are or, like, how much you still owe on it?",
+            "client_message": "Sure! I’m paying about, um, $1,200 a month, and I think, uh, the outstanding value is around $150,000 right now.",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value"
+            ]
+        }
+    ]
+}

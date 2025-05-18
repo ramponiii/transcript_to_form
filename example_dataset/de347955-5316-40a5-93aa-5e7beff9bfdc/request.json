@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor sounds slightly rushed.",
+    "segments": 3,
+    "id": "de347955-5316-40a5-93aa-5e7beff9bfdc"
+}

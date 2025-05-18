@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your dependent. Can you tell me their full name?",
+            "client_message": "Yeah, it's Emily Johnson.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And when was she born?",
+            "client_message": "She was born on the 12th of June, 2015.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

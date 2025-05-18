@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your sources of income. I want to get a clear picture here, so if you could, please start with the name and amount of your income.",
+            "client_message": "Yeah, um, I have a rental income, uh, I think it's about, uh, 2,000 dollars a month. So, that's that. Can you hear me okay?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Yes, I can hear you. That's great! So your rental income is $2,000 monthly. Is that net or gross?",
+            "client_message": "Oh, uh, that's gross, before taxes, I guess. I've, um, I've been doing this for a couple of years now, and it's, uh, pretty steady income.",
+            "field_names_covered": [
+                "net_gross",
+                "timeframe"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Gross income. That sounds solid. Do you have any notes or anything specific you'd like to add about this income stream?",
+            "client_message": "Um, not really, just that, uh, it's under my name and has been consistent, no issues so far. It's, uh, really just what helps pay the bills.",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        }
+    ]
+}

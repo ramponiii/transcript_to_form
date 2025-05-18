@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, now let's talk about your loan, right? We got your mortg—uh, mortgage details here. You know, just the regular stuff like, uh, payment amount and interest rate, etc.",
+            "client_message": "Wait, hold on a sec. What do you mean by ‘outstanding balance’? Is that like how much I still owe or somethin'?",
+            "field_names_covered": [
+                "outstanding_value"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, exactly! The outstanding balance is, uh, the amount you still owe on the loan, you know? It’s like your current debt on that mortgage. So, um, any rate info clear too?",
+            "client_message": "Oh, got it! So, like if my outstanding balance is $150,000, then that’s, uh, what I gotta pay off? And what's the interest rate? You mentioned something about a special rate, right?",
+            "field_names_covered": [
+                "interest_rate",
+                "special_rate"
+            ]
+        }
+    ]
+}

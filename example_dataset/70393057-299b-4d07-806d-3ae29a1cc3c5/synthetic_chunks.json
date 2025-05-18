@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start talking about your retirement plans. How old do you envision yourself retiring?",
+            "client_message": "Oh, uh, you know, I've been thinking about it a lot lately. I guess maybe around, uh, 65 or so? But then again, it kinda depends on a lot of things like, you know, how my health is and stuff.",
+            "field_names_covered": [
+                "desired_retirement_age"
+            ]
+        },
+        {
+            "advisor_message": "That's totally fair. Have you thought about where you'd like to be based, or what country that might be?",
+            "client_message": "Yeah, I mean, I'm kinda, uh, settled here in the UK. So I guess I’ll probably stay here. But, sometimes I wonder, you know, maybe like moving abroad or something, it could be nice? But, yeah, I'm really more of a UK person, so.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Good to know! And what about your current work situation? Do you have an employer you’re with right now?",
+            "client_message": "Oh right! I'm currently working at a, um, tech company, but I’m, uh, thinking of switching jobs soon. I’d say my role is more like project management, but sometimes I feel like a, you know, jack of all trades! It's pretty busy, but I do enjoy it.",
+            "field_names_covered": [
+                "employer",
+                "employment_status",
+                "occupation"
+            ]
+        }
+    ]
+}

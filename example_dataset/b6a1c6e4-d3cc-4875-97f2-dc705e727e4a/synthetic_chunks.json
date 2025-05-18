@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, moving on to your monthly expenses, I'd like to get a clearer picture. You mentioned earlier that your mortgage payment is about 1,200 dollars a month, and I think that's essential to keep in mind for your budget planning.",
+            "client_message": "Uh, yeah, but I just feel like maybe that's a lot. I mean, isn’t there a way to, you know, reduce those payments? Like maybe refinancing or something?",
+            "field_names_covered": [
+                "amount",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Refinancing could definitely be a potential option. It might lower your monthly payments, but we have to consider the fees involved and the term of the loan too. It's important to understand if this fits within your overall financial plan.",
+            "client_message": "Sure, but I also have this car insurance payment that’s, like, really high. I mean, it’s over 200 dollars a month. Plus, groceries and other stuff, I just... I don’t know if that's manageable with what I earn.",
+            "field_names_covered": [
+                "amount",
+                "owner",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "I get that; it’s crucial to keep all your expenses in check. Let’s look into potentially lowering your car insurance payments as well. Maybe shopping around for better rates could help, or even adjusting your coverage.",
+            "client_message": "Yeah, that makes sense. I just want to ensure I'm not totally stretching my budget thin. I mean, all these expenses together, plus savings, it's a lot to juggle.",
+            "field_names_covered": [
+                "notes",
+                "amount"
+            ]
+        }
+    ]
+}

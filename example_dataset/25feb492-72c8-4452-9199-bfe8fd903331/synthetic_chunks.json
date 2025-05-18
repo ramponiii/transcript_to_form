@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your pension policy. Could you remind me of the provider you have it with?",
+            "client_message": "Um, I think it’s with, uh, British Pension Fund, but—wait, I might be wrong, actually. It might be the People’s Pension instead.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "No problem, we can confirm that later. How about the type of pension? Is it a Defined Benefit or a Defined Contribution plan?",
+            "client_message": "Right, so, actually, I thought it was a SIPP, but I'm, like, not so sure now. Could it be a State Pension?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

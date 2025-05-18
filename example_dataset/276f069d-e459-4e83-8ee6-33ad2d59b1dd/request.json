@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an awkward and slightly abrupt call conclusion with some overlapping speech.",
+    "segments": 3,
+    "id": "276f069d-e459-4e83-8ee6-33ad2d59b1dd"
+}

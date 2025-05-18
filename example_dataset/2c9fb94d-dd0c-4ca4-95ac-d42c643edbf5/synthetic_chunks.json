@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your investments. Could you please share with me who the owner of the savings or investments is?",
+            "client_message": "Certainly, I am the owner of the accounts in question.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for clarifying that. Now, can you tell me the type of savings or investments you hold? For example, is it an ISA, a bank account, or something else?",
+            "client_message": "Yes, I have a couple of ISA accounts as well as a general investment account.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That sounds great. And do you know which financial institution is holding these investments?",
+            "client_message": "Absolutely, my ISA accounts are with Nationwide, and the investment account is with Hargreaves Lansdown.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

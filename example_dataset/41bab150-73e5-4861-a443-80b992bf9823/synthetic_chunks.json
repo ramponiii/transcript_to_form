@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your retirement goals. Can you share what you envision for that phase of your life?",
+            "client_message": "Uh, yeah. So, retirement, right? I kinda wanna like, travel, ya know? Like, go to places I've never been. And, um, maybe spend more time with family. I, uh, have this dream of riding elephants in Thailand, or... or just relaxing on a beach somewhere, just chillin’. I guess, like, um, I also want to make sure I have enough money saved up so I’m not, you know, stressing about cash flow. Just wanna enjoy life!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "date_of_birth",
+                "marital_status",
+                "nationality"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "Income",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 2,
+    "id": "c801e543-aabf-40a2-b63c-ddab38e16a46"
+}

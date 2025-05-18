@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can we start with your address? I believe I have a form here that needs to be filled out. What’s your current house number or maybe the name of your place?",
+            "client_message": "Um, right, yeah, it's uh, 45 Elm Street... or wait, I might've mentioned 30 Maple Lane before. I think I gotta stick with the Elm Street one instead.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, 45 Elm Street sounds good. And what about the town or city you live in?",
+            "client_message": "Yeah, it’s in Springfield. I think I said somewhere else earlier, but Springfield is the right place, I’m sure of it now.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, Springfield. And do you have the postal code for that area?",
+            "client_message": "Oh, right! It’s, uh, 62704. I might've mixed it up before with a different zip, but that should be the right one now.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        }
+    ]
+}

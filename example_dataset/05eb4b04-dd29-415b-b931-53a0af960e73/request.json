@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
+    "segments": 3,
+    "id": "05eb4b04-dd29-415b-b931-53a0af960e73"
+}

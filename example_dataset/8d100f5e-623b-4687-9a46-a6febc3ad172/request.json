@@ -1,0 +1,7 @@
+{
+    "model": "OtherAsset",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
+    "segments": 3,
+    "id": "8d100f5e-623b-4687-9a46-a6febc3ad172"
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investment risk like driving a car. When you’re going faster, there’s a higher chance of something unexpected happening, right? It’s similar with investments. The quicker you want to grow your money, usually there's more risk involved.",
+            "client_message": "Wait, so you mean if I want my money to grow quickly, I might, like, crash or something? That sounds kinda scary.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Just like in driving, you have to balance speed and safety. If you're in a reliable car, maybe you feel safer going faster. In financial terms, it’s about choosing investments you’re comfortable with. Some might be riskier, but they can also provide higher returns.",
+            "client_message": "Hmm, okay, but I’m not sure what investments are, ah, considered safer? Like, do I need to steer clear of all risky ones or...?",
+            "field_names_covered": [
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Great question! Safer investments are like taking a scenic drive – you're going at a slower pace, but you get to enjoy the view. For example, bonds are often seen as safer compared to stocks, which can be more like high-speed racing. Both approaches have their place depending on your financial goals.",
+            "client_message": "Ah, got it! So I should probably, like, choose what fits my comfort level better? Makes sense, but I still feel a bit lost on which ones to pick...",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

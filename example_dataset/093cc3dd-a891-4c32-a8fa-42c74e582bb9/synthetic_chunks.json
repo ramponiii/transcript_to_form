@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's start with the basics! Can I get your, um, first name, and then your last name?",
+            "client_message": "Yeah, sure! My first name's Sam, and last name is, um, Johnson.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Cool, cool! Do you have, like, a middle name or anything, and, uh, maybe your birthday and where you were born?",
+            "client_message": "Oh, I actually don't have a middle name. My birthday is, um, 15-08-1990, and I was born in, like, Denver, Colorado.",
+            "field_names_covered": [
+                "middle_names",
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

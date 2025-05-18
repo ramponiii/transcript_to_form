@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to get things straight, can you tell me about your current ownership status? Like, are you renting or do you own your house?",
+            "client_message": "Uh, yeah, I own my place, it's, uh, a small townhouse. Also, I think the postcode is um, 12345, or something like that. And the street name is, um, Maple Street.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And just to make sure I have everything, what town or city are you in?",
+            "client_message": "Oh, right, it's Springfield. I moved in like a couple of years ago now, um, not sure the exact date. But, uh, yeah, Springfield is where I’m at.",
+            "field_names_covered": [
+                "town_city",
+                "move_in_date"
+            ]
+        }
+    ]
+}

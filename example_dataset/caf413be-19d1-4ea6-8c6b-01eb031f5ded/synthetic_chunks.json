@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your investment goals and what you're hopin' to achieve, y'know?",
+            "client_message": "Yeah, I'm really excited about the idea of, you know, makin' my money grow! I mean, who wouldn't be, right?",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Of course! Growth is, like, a big deal. Do you have any specific areas in mind for investments?",
+            "client_message": "Well, I've been thinkin' maybe tech stocks or somethin' like that. It just seems like there's so much potential there!",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, tech can be a good choice. Let's explore some options. Just to get a better sense, what’s your appetite for risk?",
+            "client_message": "Um, I think I can handle a bit of risk. I mean, I just wanna see some solid growth over time. That’s the goal!",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current living situation. Can you tell me where you're domiciled?",
+            "client_message": "Sure, I live in the UK actually, but I was thinking, um, maybe considering changing that down the line.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "That's good to know. And as for your tax status, are you a tax resident in the UK?",
+            "client_message": "Yeah, I am a tax resident here. I’ve been living here full-time for, uh, quite a while! And about my job, I'm actually employed as a software engineer.",
+            "field_names_covered": [
+                "resident_for_tax",
+                "employment_status",
+                "occupation"
+            ]
+        }
+    ]
+}

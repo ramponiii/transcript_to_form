@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your loans or mortgages first. Do you have any that you'd like to discuss today?",
+            "client_message": "Oh, yeah, um, well, there's, like, this mortgage I have, and, uh, I'm the one who's responsible for it, you know? I mean, it's pretty standard, I guess. But I really want to, like, retire early, so I’m not sure if keeping it is the best idea anymore.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's interesting! What type of mortgage do you have, and how's that working out for you?",
+            "client_message": "Right, so it’s a, um, I think it’s a variable rate mortgage, or maybe just fixed? I dunno, I have to check. But with my retirement plans, you know, I wanna minimize my expenses and stuff. I think I pay about, like, 1,200 a month for it. It’s kinda a bit much, I think, especially if I wanna, like, travel post-retirement.",
+            "field_names_covered": [
+                "type",
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Understood. How long is this mortgage for, and what’s the current outstanding balance?",
+            "client_message": "Ah, well, um, the balance is, like, close to 200,000, I think? And, yeah, it's set to end in, uh, let's see… 2035. But I really hope to do something, like, maybe refinance or again – like, maybe pay it down faster to, well, like I said, reduce my costs before I retire. It’s just so confusing sometimes.",
+            "field_names_covered": [
+                "outstanding_value",
+                "final_payment"
+            ]
+        }
+    ]
+}

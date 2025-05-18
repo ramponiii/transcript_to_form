@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a friendly and informal tone throughout.",
+    "segments": 1,
+    "id": "a5fe453c-14e1-4388-8c27-b40ee4b82cb3"
+}

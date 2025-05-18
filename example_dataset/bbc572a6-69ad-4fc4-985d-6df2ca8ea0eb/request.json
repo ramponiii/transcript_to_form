@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 3,
+    "id": "bbc572a6-69ad-4fc4-985d-6df2ca8ea0eb"
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to summarize, it looks like you're interested in getting a better understanding of your investment options moving forward. If I may ask, do you have any specific areas or terms that you’d like to delve into a bit deeper?",
+            "client_message": "Yeah, actually, I keep hearing terms like 'dividends' and 'capital gains.' Can you clarify what those mean? I'm kinda lost here!",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Of course! Let's break it down. 'Dividends' are basically the portion of a company's earnings that they distribute to shareholders. It's like getting a reward for holding onto their stock. 'Capital gains', on the other hand, are the profits you make from selling an investment for more than you paid for it. Does that help clarify things?",
+            "client_message": "Yeah, that makes a lot more sense now. Thanks for explaining! I appreciate it.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        }
+    ]
+}

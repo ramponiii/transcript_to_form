@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk about your property a bit. Um, could you tell me if you, uh, own it, or are you renting? Just trying to get a full picture here.",
+            "client_message": "Uh, yeah, I think, um, I'm renting, but, like, not for long I guess. You know?  I mean, I live in, uh, Manchester, that’s where the place is situated.",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, let's consider some scenarios here. How would you feel, uh, if your investment, like, lost a bit of value but then, you know, had the chance to recover later?",
+            "client_message": "Oh, um, I dunno... I guess I would, uh, feel super anxious about it? Especially if, like, I just moved in, like, three months ago. Yeah, um, my address is on, uh, Maple Road, but I’m not sure if that helps.",
+            "field_names_covered": [
+                "move_in_date",
+                "street_name"
+            ]
+        }
+    ]
+}

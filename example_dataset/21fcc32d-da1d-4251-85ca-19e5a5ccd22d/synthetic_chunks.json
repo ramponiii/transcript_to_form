@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's start with your loan details. Can you tell me who is the owner of the mortgage?",
+            "client_message": "Well, I'm the one responsible for it, it's under my name.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of loan do you have? Is it a mortgage or something else?",
+            "client_message": "Yes, it's a mortgage. I mean, it's, um, a fixed-rate mortgage, and, uh, I'm also curious about the monthly cost—it's around, um, twelve hundred dollars.",
+            "field_names_covered": [
+                "type",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

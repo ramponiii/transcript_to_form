@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's review your current mortgage situation. Can you confirm who the owner is on the mortgage?",
+            "client_message": "Yes, it’s under my name, but actually, I think I want to add my spouse as a co-owner now.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Adding your spouse is definitely possible. Now, regarding the mortgage type, do you still want to go with a standard fixed-rate mortgage?",
+            "client_message": "Um, actually, I've been thinking about it and I prefer an adjustable-rate mortgage instead. They might save us more in the long run.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "SavingOrInvestment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
+    "segments": 3,
+    "id": "2367dbf1-ec81-4242-b500-fb49c3c0a05b"
+}

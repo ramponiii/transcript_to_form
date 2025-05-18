@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me a bit about your job and uh, like, what income you get from it? I mean, is it steady or, y'know, does it vary?",
+            "client_message": "Yeah, I work at, um, this tech company, right? And I get a salary of, like, around 75k a year, but that's, ya know, before taxes and stuff. I think it's gross? But I get paid monthly, every, uh, 15th. And, um, just to add, I'm kinda looking to see if it’s enough for, like, future plans, you know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s chat a bit about where you’re living now, like, what country do ya call home? And, uh, are you, like, a tax resident there or something?",
+            "client_message": "Oh yeah, I live in the UK, and yeah, I’m a tax resident here too, for sure!",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

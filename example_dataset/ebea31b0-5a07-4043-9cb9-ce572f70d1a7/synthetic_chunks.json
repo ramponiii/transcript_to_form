@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's move on to your pension. Can you tell me who's, uh, the owner of the policy?",
+            "client_message": "Sure, uh, it's actually my dad's pension. He, uh, passed away last year, so I'm managing it now.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, uh, what type of pension is it? You know, like a, uh, Defined Benefit or maybe a, um, SIPP?",
+            "client_message": "Oh, right! It’s, um, a Defined Contribution pension, I think. Not sure about the provider though. I’ll have to look that up.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        }
+    ]
+}

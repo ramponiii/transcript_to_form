@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, think of risk like, you know, walking a tightrope, right? If you fall, it could be really bad. And this is sorta like having a policy, to keep you from fallin'.",
+            "client_message": "I guess, but uh, what do you mean by, like, falling? And, like, how does that connect to the policy, uh, thing?",
+            "field_names_covered": [
+                "objectives",
+                "notes"
+            ]
+        }
+    ]
+}

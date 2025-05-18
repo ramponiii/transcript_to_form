@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about any assets you have and their values. Do you, um, have anything specific in mind?",
+            "client_message": "Yeah, totally! I’ve got this classic car, right? It’s like, uh, super cool and I'm thinkin’ it might be worth a lot more than I paid for it!",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That sounds really interesting! Can you tell me, um, what you originally paid for it or like, just an estimate of its value now?",
+            "client_message": "Oh, I bought it for, like, $15,000 a few years back. I dunno, I think it’s worth, like, at least $25,000 now, maybe even more!",
+            "field_names_covered": [
+                "original_value",
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Wow, that’s quite an increase! And do you have any notes about the car or, like, anything extra that might be important?",
+            "client_message": "Um, yeah! It’s in mint condition, and I’ve like upgraded a few things, y’know? I guess that makes it a bit more valuable.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

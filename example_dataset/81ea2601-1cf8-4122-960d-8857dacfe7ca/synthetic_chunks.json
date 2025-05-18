@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s see if I got this right. You mentioned, you’re the owner of  the loan, right? And it’s a, um, a mortgage?",
+            "client_message": "Yeah, that's right! I’m the owner, it's a mortgage I took out for my house.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and what’s the name of the provider? Like, which bank or, uh, lender?",
+            "client_message": "Oh, it’s with Bank of America. They gave me a pretty decent deal.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it. And, um, can you remind me about the monthly costs and the interest rate?",
+            "client_message": "Sure! I pay around, uh, 1,200 a month, and the interest rate is like, uh, 3.5% right now.",
+            "field_names_covered": [
+                "monthly_cost",
+                "interest_rate"
+            ]
+        }
+    ]
+}

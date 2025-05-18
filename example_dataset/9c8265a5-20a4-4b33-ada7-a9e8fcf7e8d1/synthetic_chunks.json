@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your income, I noticed that you have a salary coming in. Can you confirm how much that is and if it's gross or net?",
+            "client_message": "Uh, yeah, I mean, my salary is around fifty thousand a year, but, honestly, I'm not sure if that's enough or if it's gross. Like, I've been thinking about how my expenses keep rising, you know?",
+            "field_names_covered": [
+                "owner",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. Many people are feeling the pinch with rising costs. Would you say you receive this annually or is it monthly?",
+            "client_message": "It’s yearly, but I'm really skeptical about budgeting. Like, I dunno if sticking to a plan is even gonna help, especially with all my bills piling up. And do you think I should include side gigs as part of my income too?",
+            "field_names_covered": [
+                "frequency",
+                "notes"
+            ]
+        }
+    ]
+}

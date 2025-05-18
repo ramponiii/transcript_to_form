@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's go over your investments quickly. Can you tell me who's the owner of the savings or investment we're looking at?",
+            "client_message": "Uh, yeah, that's me actually, just me. I think it's just under my name, yeah.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what type of saving or investment do you have, like is it an ISA or something?",
+            "client_message": "I got a, um, it’s an investment bond I think? Yeah, an investment bond. I don’t really know much about it, but, yeah.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

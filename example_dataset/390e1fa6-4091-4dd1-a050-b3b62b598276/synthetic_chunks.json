@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, the policy here, it's essentially, uh, like a, uh, protection plan, it covers, you know, life assurance and stuff like that. And you get, um, an amount assured, which is what you will, uh, receive in case of a claim.",
+            "client_message": "Okay, I get that, but what does amount assured mean exactly? Is it like the payout I would get if something happens?",
+            "field_names_covered": [
+                "amount_assured"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, it's the, um, sum that you or your beneficiaries, um, would get when, uh, the claim is made depending on the situation, like if, uh, you were to pass away or something, ya know?",
+            "client_message": "Got it, so it's the money my family would get. And what about, um, in trust, what does that mean?",
+            "field_names_covered": [
+                "in_trust"
+            ]
+        },
+        {
+            "advisor_message": "Oh, right, so when it's in trust, um, it means that the, uh, payout is set up to go directly to the beneficiaries, um, without going through the estate, kinda, um, protects it from, uh, inheritance tax, I guess?",
+            "client_message": "Ohh, I see! That kinda makes sense now, thanks for explaining it like that!",
+            "field_names_covered": [
+                "in_trust"
+            ]
+        }
+    ]
+}

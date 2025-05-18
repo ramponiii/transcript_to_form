@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let's talk about your investments—right? I uh, wanted to check like, do you own any, uh, accounts or stuff like that? I mean, savings, investments, whatever you got, you know?",
+            "client_message": "Yeah, I have a savings account, erm, with Chase, uh and it’s like, I don't know, maybe, um, 5 thousand?",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Chase, got it! So uh, what type of account is it? Like a savings account or an ISA or something else? Just wanna get specifics.",
+            "client_message": "Oh, it’s just a regular savings account, not an ISA or anything fancy. Just keeping some cash there, y'know?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! Sounds simple enough. So, just to recap, you've got this Chase savings account worth about, uh, 5 grand. Would you like me to follow up with some suggestions on how to maybe, um, grow those savings a bit more?",
+            "client_message": "Yeah, that sounds good! I’d like to explore some options, uh, for investment, like maybe an ISA later on?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

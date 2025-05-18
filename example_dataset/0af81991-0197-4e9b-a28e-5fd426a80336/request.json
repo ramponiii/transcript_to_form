@@ -1,0 +1,7 @@
+{
+    "model": "Objectives",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an interaction where the advisor probes the client's risk tolerance using different scenarios, and the client expresses some uncertainty.",
+    "segments": 2,
+    "id": "0af81991-0197-4e9b-a28e-5fd426a80336"
+}

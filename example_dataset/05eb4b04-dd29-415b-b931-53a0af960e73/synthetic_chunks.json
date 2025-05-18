@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So uh, can I get your uh, full address? Like, what's your town or city?",
+            "client_message": "Yeah, I live in uh, Springfield.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "And um, what about the street name?",
+            "client_message": "Oh, it’s Elm Street, I think.",
+            "field_names_covered": [
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and are you, like, renting or do you own your home?",
+            "client_message": "I uh, I'm renting it right now.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        }
+    ]
+}

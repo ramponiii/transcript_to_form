@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Thank you for your time today. To start, could you please share where you are currently domiciled? This will help us get a better understanding of your overall tax situation.",
+            "client_message": "Sure, I’m living in the UK right now. I’ve been here for a few years actually. Oh, and just to let you know, I am a tax resident here as well.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "That’s helpful, thank you. Now, can you tell me about your employment status currently? It would also be useful to know if you have an employer and your occupation.",
+            "client_message": "I’m employed at the moment, working as a software developer with ABC Corp, I started there a year ago. My National Insurance number? Uh, let me think... it’s something like QQ123456C.",
+            "field_names_covered": [
+                "employment_status",
+                "employer",
+                "occupation",
+                "employment_started",
+                "national_insurance_number"
+            ]
+        }
+    ]
+}

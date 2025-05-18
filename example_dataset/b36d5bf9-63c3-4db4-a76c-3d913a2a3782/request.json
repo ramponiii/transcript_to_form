@@ -1,0 +1,7 @@
+{
+    "model": "Dependent",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
+    "segments": 3,
+    "id": "b36d5bf9-63c3-4db4-a76c-3d913a2a3782"
+}

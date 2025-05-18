@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think about risk as a kind of balancing act. Like, when you're walking a tightrope over a canyon, there's some chance you'll fall if you don’t keep your balance, right?",
+            "client_message": "Uh, yeah, but like, what do you mean by balance? I don’t really get how that relates to my investments.",
+            "field_names_covered": [
+                "owner",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Right! So, balancing your investments means finding the right mix of safe and risky options. Just like you wouldn't walk the tightrope with a heavy backpack, you shouldn't load your portfolio with too much risk.",
+            "client_message": "Okay, but I still don’t see how, uh, how to know what’s safe or not when it comes to money stuff.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "That’s a good point. It's about assessing your comfort level. Some people are okay with a little wobble, while others want to stay completely still. It really depends on your personal financial goals and risk tolerance.",
+            "client_message": "Got it, that makes sense. So it’s really about what I'm comfortable with, right? Like, I know I need to keep some essentials while still trying to grow my savings.",
+            "field_names_covered": [
+                "name",
+                "notes"
+            ]
+        }
+    ]
+}

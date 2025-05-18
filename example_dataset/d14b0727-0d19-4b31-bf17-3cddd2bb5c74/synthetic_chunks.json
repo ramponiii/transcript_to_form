@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, could we discuss any savings or investment accounts you have? I'm particularly interested in details like the type, provider, and current value.",
+            "client_message": "Oh sure! So, um, I have an ISA, uh, with, I think it's Lloyds? And the value, um, let me see, I think it's around ten thousand, maybe? Wait, hold on, I had a note about it. Sometimes I forget, you know? Anyway, I’m not sure if there’s anything else, um, oh yeah, it has some interest rate features or something like that...",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

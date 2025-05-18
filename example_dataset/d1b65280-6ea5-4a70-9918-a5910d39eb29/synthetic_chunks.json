@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your current employment status and how it may affect your financial planning. For example, if someone is employed full-time, like a software engineer at a tech company, they might have a stable income and benefits. This can make it easier to set a retirement age. Do you currently have a job in a similar capacity?",
+            "client_message": "Yeah, I'm actually working as a project manager for a construction firm. I started last year in March, so, um, I guess I qualify as employed right now. But I just wonder how that will impact my retirement plans.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employment_started"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear. Being in a stable job can definitely help with planning for the future. Now, considering your occupation, do you have any particular age in mind for retirement? Like, say if this hypothetical software engineer wanted to retire at 65, do you have a similar target?",
+            "client_message": "Um, well, I was thinking around 60 would be nice. You know, enjoy some freedom before getting older, but not too early. It's kinda hard to figure out the perfect age though!",
+            "field_names_covered": [
+                "desired_retirement_age"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, let’s talk about your current living situation. Do you own or rent your property?",
+            "client_message": "Um, I, I think we... it’s, like owned, yeah, owned. But my sister she lives with me too and, uh, yeah",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Can I get the address you live at? Like the street name and, maybe house number if you have it?",
+            "client_message": "Oh, uh, it’s on Elm, or wait, no, Oak Street? Yeah, Oak! And it’s, uh, 23 or maybe it’s 32? Something like that, I’m not really sure...",
+            "field_names_covered": [
+                "street_name",
+                "house_name_number"
+            ]
+        },
+        {
+            "advisor_message": "No problem! And can I ask what town you’re in?",
+            "client_message": "Yeah, uh, it’s actually Springfield! I think I should mention there’s a, um, zipcode too? Like 12345? I, uh, also moved in, like, last summer or something, can’t remember the exact date.",
+            "field_names_covered": [
+                "town_city",
+                "postcode",
+                "move_in_date"
+            ]
+        }
+    ]
+}

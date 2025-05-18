@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me a bit about your current health state? Anything specific you're dealing with?",
+            "client_message": "Um, yeah, I mean, I feel okay, like generally healthy, but I do have, uh, some, you know, back pain occasionally, not sure if that counts as anything major.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it. And, um, regarding habits, are you a smoker?",
+            "client_message": "Yeah, I smoke a bit, like, uh, maybe, um, ten cigarettes a day? I've been doing it since, like, I was 18, it's just, you know, stress and all, with work and everything.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's start off by talking about your, you know, financial goals and objectives. Like, what are some things you, um, really want to achieve with your investments? Any, uh, specific targets in mind?",
+            "client_message": "Yeah, um, I was thinking about saving for a new house someday and, like, maybe I also want to, um, start a college fund for my kids. So, those are, you know, my main goals I guess.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, saving for a house and a college fund are, you know, really great objectives. We can, uh, focus on creating a plan for that. What do you think about sitting down again next week to, um, lay out some strategies?",
+            "client_message": "Yeah, that sounds good. Let’s, uh, meet next week and figure out, you know, the steps I need to take for both of those goals!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

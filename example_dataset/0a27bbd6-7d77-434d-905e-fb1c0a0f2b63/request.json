@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a clear next step agreed upon at the end.",
+    "segments": 2,
+    "id": "0a27bbd6-7d77-434d-905e-fb1c0a0f2b63"
+}

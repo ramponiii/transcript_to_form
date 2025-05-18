@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so just to recap some of the details we've talked about so far, your first name is Alex, right?",
+            "client_message": "Yeah, that’s right, it’s Alex. But I usually go by Al with my friends and family.",
+            "field_names_covered": [
+                "first_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what about your last name? I believe it's Taylor?",
+            "client_message": "Yes, that's it. It's Taylor. Just like the famous singer!",
+            "field_names_covered": [
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, Alex Taylor. Now, can you confirm your date of birth for me? I think you mentioned it was in May, correct?",
+            "client_message": "Yeah, I was born on the fifteenth of May, uh, 1990. So, I'm thirty-three now.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

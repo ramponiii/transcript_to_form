@@ -1,0 +1,33 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let's chat about your income sources for a minute. Can you tell me if you have any regular income coming in?",
+            "client_message": "Yeah, um, I have like a salary, right, from my job and it’s, uhh, p- pretty decent. Like, it's gross money, I think, like six thousand a month or summthin. Really makes me hopeful!",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! So you're earning six thousand gross monthly from your salary. Any other income sources you might have?",
+            "client_message": "Oh, I also get rental income too. It's about, like, 1.5K a month, net. I’m like really excited about how much that could grow, y'know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Fantastic! So that's a total of seven. That’s a strong foundation to build on. Are there any, um, future plans or notes you want me to keep in mind regarding these incomes?",
+            "client_message": "Uhh, not really, just, um, the rental stuff helps a lot and I'm just thinking about reinvesting that growth... It’d be awesome!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your risk tolerance a bit. How would you feel about investing in something that might be a bit volatile, like stocks that can go up or down a lot?",
+            "client_message": "Um, I guess I’m not too sure. Like, I don’t want to lose my money, but I also, I know I need to grow it some, right? So, it’s kinda... tricky.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "I understand, it can be a little overwhelming. How would you react if your investment dropped, say, 20%? Would you sell immediately or hold on?",
+            "client_message": "Hmm, I think I might freak out a little and wanna sell, but I know that could be a bad move, right? I just, I just don’t wanna risk it too much.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

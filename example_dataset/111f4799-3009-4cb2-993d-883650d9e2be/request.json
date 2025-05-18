@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client expresses skepticism about the advisor's recommendations.",
+    "segments": 2,
+    "id": "111f4799-3009-4cb2-993d-883650d9e2be"
+}

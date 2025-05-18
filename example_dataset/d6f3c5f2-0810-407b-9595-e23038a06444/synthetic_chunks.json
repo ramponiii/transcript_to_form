@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your employment status for a moment. Can you tell me what your current job is and if you're employed, self-employed, or perhaps unemployed?",
+            "client_message": "Sure, I am currently employed as a marketing manager at Tech Solutions. I started this job back in March 2020, and yeah, I've been enjoying it a lot.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employer",
+                "employment_started"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for sharing that. Now, regarding your tax residency, are you a tax resident in the same country where you live? And could you also provide your National Insurance number if you have one?",
+            "client_message": "Yes, I am tax resident here in the UK, and my National Insurance number is AB123456C. Just to add, I’ve been living here for quite a few years now.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax",
+                "national_insurance_number"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your loans. Can you tell me who is the owner of the mortgage you're currently managing?",
+            "client_message": "Uh, yeah, so I think it's my, uh, my partner mostly, but I also, you know, signed the papers and stuff.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and what type of loan or mortgage are we looking at here?",
+            "client_message": "Right, um, it's a mortgage, I think, but we also have, like, a credit card balance and it's just kinda all over the place, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

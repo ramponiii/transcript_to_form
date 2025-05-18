@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's review your employment status again. Initially, you mentioned that you're self-employed. Is that still the case?",
+            "client_message": "Uh, actually, I think I misrepresented that. I started working for a company part-time last month, so I’m technically employed now.",
+            "field_names_covered": [
+                "employment_status"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense! And how about your occupation? Is it still the same as when you were self-employed?",
+            "client_message": "No, I've switched to being a project manager with my current employer. It's a bit different from what I was doing before, so, yeah.",
+            "field_names_covered": [
+                "occupation",
+                "employer"
+            ]
+        }
+    ]
+}

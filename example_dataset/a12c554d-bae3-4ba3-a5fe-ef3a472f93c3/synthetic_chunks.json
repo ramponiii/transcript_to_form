@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's chat about your assets. Do you have anything in mind, like a car, artwork, or maybe some jewelry?",
+            "client_message": "Oh yeah, I actually have a classic car, uh, a '69 Mustang. I bought it for around 15 thousand bucks a few years ago. Not sure what it’s worth now, maybe around, like 25 grand? I kinda just keep it in the garage though, not really using it much these days.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "original_value",
+                "current_value"
+            ]
+        }
+    ]
+}

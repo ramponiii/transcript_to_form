@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, hey! Let’s start off by chatting about your goals. What do ya wanna achieve? Just throw out whatever comes to mind!",
+            "client_message": "Oh, um, yeah! I was kinda thinkin, like, maybe saving for a house, uhh, and also, like, investing a bit for my future you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! Buying a house is a big deal. What specific things are you looking for in that? Like, do you have a certain area in mind?",
+            "client_message": "Yeah, totally! I’d like a nice neighborhood, but, uh, also something not too expensive, like, I dunno, maybe downtown, but, uh, within budget!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

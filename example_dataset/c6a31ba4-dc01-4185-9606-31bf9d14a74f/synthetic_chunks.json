@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Sure, so let's talk about your investments. Do you own any specific savings or investment accounts currently?",
+            "client_message": "Um, yeah, I have, like, an ISA with, uh, HSBC, and it's worth around, I think, five thousand pounds?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "value",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great! An ISA is a smart choice. Do you have any notes about it, maybe regarding any changes or future plans?",
+            "client_message": "Well, I was thinking about, like, adding more to it, but not sure yet. I guess I should consider my options, um, maybe?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

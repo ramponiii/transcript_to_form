@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your mortgage. Who is the current owner responsible for it?",
+            "client_message": "Um, I think it's me, actually... it's under my name.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and what type of loan is this?",
+            "client_message": "Oh right, it's a mortgage—that's what we have.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "And who is the lender providing the mortgage?",
+            "client_message": "The lender? Yeah, that's ABC Bank. We got it through them.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

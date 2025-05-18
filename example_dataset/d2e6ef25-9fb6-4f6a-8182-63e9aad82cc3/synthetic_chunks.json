@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's chat about your income sources, um, do you have any specific names for those? Maybe like salary or something?",
+            "client_message": "Yeah, my main one is salary, right? It's what I get from my job at the tech firm.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Cool, so how much do you make from the salary, like, what's the amount? And do you, um, know if it's net or gross?",
+            "client_message": "Oh, it's like, um, a gross amount of four thousand a month. So, yeah, before taxes and stuff, right?",
+            "field_names_covered": [
+                "amount",
+                "net_gross",
+                "frequency"
+            ]
+        }
+    ]
+}

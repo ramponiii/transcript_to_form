@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I see that you have a Defined Contribution pension plan. This type of plan can be quite beneficial because you have more control over your investments, although it does come with some risks involved. Do you have any questions about that?",
+            "client_message": "Yeah, I’ve heard that term a lot, but what exactly does Defined Contribution mean? How does it differ from other types?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great question! A Defined Contribution plan means that both you and your employer contribute a fixed amount to your retirement fund, and the final benefit you receive depends on the performance of those investments. In contrast, a Defined Benefit plan guarantees a specific payout at retirement, regardless of investment performance. Does that help clarify it?",
+            "client_message": "Yes, that makes sense. So with my plan, it’s all about how well the investments do over time?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

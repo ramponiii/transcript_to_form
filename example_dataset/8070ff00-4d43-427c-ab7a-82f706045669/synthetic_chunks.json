@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me a bit about your current state of health and any specific considerations we should take into account for your retirement planning?",
+            "client_message": "Well, um, I guess I'm, you know, generally okay? I mean, not too bad, really. I do have a few issues, like like, my back sometimes kinda hurts, but yeah, nothing serious. I try to stay active, walk a bit. I wouldn't say oh, I'm in perfect shape, but, you know, I'm getting by!",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "That's good to hear! It's also important to consider any lifestyle habits that might affect your planning. For example, do you smoke?",
+            "client_message": "Oh, yeah! I do smoke, which is, I know, not great, haha. I’ve been doing it since I was like 18, you know? I used to smoke a lot more, but now it's like, um, maybe a pack a week? I think that's around, um, like, seven or eight a day? But, yeah, I know I should probably try to quit or something, especially as I age.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for sharing that. And just to get a clearer picture, do you have any plans for long-term care or have you made arrangements for a will?",
+            "client_message": "Oh, there’s a lot on my mind with that, um. I mean, I haven’t really sorted out a will yet, but I know I need to. And, like, I think about long-term care sometimes, especially since my parents had to deal with, you know, some health issues. But it's all kinda overwhelming! I guess I should really sit down and figure it out, huh?",
+            "field_names_covered": [
+                "will",
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me your, uh, full name and title? Like, what should I put down?",
+            "client_message": "Yeah, um, it’s, like, I go by Sam, but my full name is Samuel Johnson. No middle names or anything, just that.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Sam. What about your marital status and, um, your date of birth?",
+            "client_message": "Oh right! I'm, uh, married and my birthday is on 10-04-1985. I was born in, um, New York.",
+            "field_names_covered": [
+                "marital_status",
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

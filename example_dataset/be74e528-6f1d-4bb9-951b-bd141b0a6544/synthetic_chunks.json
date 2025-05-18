@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we're talkin' about your assets, uh, like your art collection, I mean, estimating current value is, like, super important. Y'know? It helps us understand how much it might fetch if you, uh, decide to sell it or something.",
+            "client_message": "Right, but like, what do you mean by 'current value'? Is that the same as, um, how much I paid for it? I’m a bit confused...",
+            "field_names_covered": [
+                "description",
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, I get it. Current value is more like, um, the price it could sell for today in the market, not what you originally paid for it.",
+            "client_message": "Ohh, okay! So, if I bought it for like three thousand but now it's worth five, that difference is, like, important, right? Also, what did you mean by assets? Is that just, like, the fancy stuff I own?",
+            "field_names_covered": [
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

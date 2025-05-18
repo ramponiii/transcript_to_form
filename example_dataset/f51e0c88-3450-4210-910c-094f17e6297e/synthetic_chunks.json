@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about your residency. Can you tell me which country you're domiciled in right now?",
+            "client_message": "Yeah, I'm based in the UK at the moment.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Great, and are you considered a tax resident there?",
+            "client_message": "For sure, I am a tax resident here in the UK, always have been, you know?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

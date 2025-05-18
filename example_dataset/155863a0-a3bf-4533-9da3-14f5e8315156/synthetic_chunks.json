@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, it's important to have a clear picture of your income sources for retirement. Can you tell me about your main income streams?",
+            "client_message": "Yeah, um, right. So I, I have a pension, that's like my main thing, I guess it’s, what do you call it? Oh yeah, I think it’s, like, gross income, right? It should, um, start at around two thousand a month, I think. I’m just, you know, hoping it’ll last me till I’m, um, 70 maybe? I mean, if everything goes well. So, yeah, that’s, uh, one major thing.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross",
+                "timeframe"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a solid plan. Is there anything else apart from the pension that comes to mind?",
+            "client_message": "Oh, for sure! Well, there’s this rental income I’m getting from, um, a property I own, well, co-own with my partner. It’s like, um, fifteen hundred bucks a month, but like, it’s net income, you know? After expenses and stuff. But, uh, definitely more if the market, like, goes up, right? And I guess that, um, helps with my plans for a little travel here and there, maybe?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        }
+    ]
+}

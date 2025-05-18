@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your loans. Do you, um, have any specific loans or mortgages in mind that you, ya know, want to discuss?",
+            "client_message": "Yeah, I wanted to know, like, about my mortgage. It's with, um, Bank of America, and I'm not sure about the monthly cost.",
+            "field_names_covered": [
+                "provider",
+                "type",
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Right, so your mortgage is with Bank of America. Can you, um, tell me what your current monthly payment is?",
+            "client_message": "I think it's, like, around 1,200 dollars a month, but, um, the interest rate is kinda high, like 5 percent right now.",
+            "field_names_covered": [
+                "monthly_cost",
+                "interest_rate"
+            ]
+        }
+    ]
+}

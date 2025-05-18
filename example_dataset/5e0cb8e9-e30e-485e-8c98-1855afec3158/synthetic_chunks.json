@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about your main source of income? Like, what do you do for work?",
+            "client_message": "Uh, yeah, I work as a, um, graphic designer, you know, for this small firm. It’s like, uh, I get a salary from them—it's not, like, super high but—um, it’s around, let’s say, three thousand a month? That’s, y'know, gross before taxes and stuff.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "net_gross",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it, graphic design—sounds cool! And so that income, is it considered gross?",
+            "client_message": "Yeah, totally gross! Then—oh, and I guess it’s monthly, right? I mean, I should’ve mentioned earlier that I also freelance a little but, uh, that varies a lot!",
+            "field_names_covered": [
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

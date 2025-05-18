@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me who is responsible for, like, the expenses we’re gonna be talking about today? I mean, is it just you or, like, maybe your spouse too? I understand that can, you know, change things a bit.",
+            "client_message": "Oh, um, it's mainly me. Like, my spouse doesn’t really handle them or anything, so I guess it's just me.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, and what would you say is, hmm, the name of that most important expense? You know, like, uh, it could be mortgage or something else?",
+            "client_message": "Yeah, sure, it’s for my, um, mortgage payment. It's, like, super important because, uh, I’ve got to keep the house, you know?",
+            "field_names_covered": [
+                "name",
+                "priority"
+            ]
+        }
+    ]
+}

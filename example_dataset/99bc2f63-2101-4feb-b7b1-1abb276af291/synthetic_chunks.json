@@ -1,0 +1,31 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to start, let’s talk about your current expenses. Do you have any specific monthly costs that you think will impact your budget for investments?",
+            "client_message": "Yeah, umm I have, like, my mortgage payments and stuff, but I'm really excited about, you know, the potential growth from investing!",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! Investing can definitely help with growth. What would you say is the, umm, priority for your mortgage payments? Are they essential?",
+            "client_message": "Yeah, it’s essential, of course. I mean, I need a place to live, right? But I’m hoping that, like, the money I invest could help, umm, pay that off quicker!",
+            "field_names_covered": [
+                "priority",
+                "frequency",
+                "timeframe"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Do you have an idea of how much you want to allocate towards investing?",
+            "client_message": "I’m thinking, maybe, I could do like a hundred bucks a month? But it’s also, like, I could adjust if the growth looks good! I just wanna, umm, make my money work for me, you know?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "notes"
+            ]
+        }
+    ]
+}

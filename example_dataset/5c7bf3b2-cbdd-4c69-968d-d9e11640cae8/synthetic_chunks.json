@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your dependents. Do you have anyone in mind for this? Maybe kids or someone you support?",
+            "client_message": "Yeah, yeah, I got my son, uh, his name is Tommy. Super excited about how investments could help him, ya know?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That’s great! And when was he born? We might need to know that for the paperwork.",
+            "client_message": "His birthday? Uh, it was like, um, the fifteenth of March, two thousand ten! Can’t wait for him to see how the money grows!",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Good to know! And just to clarify, is he still considered a dependent for your investment purposes?",
+            "client_message": "Oh yeah, he is! I mean, until he's eighteen, so that uh, it's going to end on the fifteenth of March, twenty twenty-eight, and it’s just gonna be awesome!",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

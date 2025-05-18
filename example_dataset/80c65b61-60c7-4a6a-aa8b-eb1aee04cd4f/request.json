@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
+    "segments": 3,
+    "id": "80c65b61-60c7-4a6a-aa8b-eb1aee04cd4f"
+}

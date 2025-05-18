@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's go over your current loans. Can you tell me who the loan is with and what type it is?",
+            "client_message": "Uh, yeah, so, um, it's a, like, personal loan from, um... let me see... I think it’s, like, from First Nation Bank or something? Oh, and the monthly cost is around, like, three hundred dollars, but I um, yeah, I still owe like ten thousand or maybe a bit more, uh... in total, I guess? I think the interest rate is... maybe, uh, seven point five percent, but could be wrong. Like, I don't really remember exactly when I took it, but the last payment is... uh, two thousand twenty-five? Yeah, that sounds right.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

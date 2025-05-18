@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, you know, when we talk about, um, assets like, say, your classic car, it’s important to know its current value, right?",
+            "client_message": "Yeah, um, I get that, but like, what does current value really mean? Is it what I could sell it for, or?",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! The current value is essentially the price you could, like, get if you sold it today, you know? Auction prices, market trends that kinda stuff.",
+            "client_message": "Oh, okay, so it’s based on market stuff. Got it. And, um, imagine I bought the car for like, what, fifty thousand? Is that the original value?",
+            "field_names_covered": [
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Right! The original value is what you paid like, when you got the car. That would be important for calculations on growth too.",
+            "client_message": "Cool! So if I know both those values, I can, um, figure out how much, like, my asset has appreciated, right?",
+            "field_names_covered": [
+                "original_value",
+                "current_value"
+            ]
+        }
+    ]
+}

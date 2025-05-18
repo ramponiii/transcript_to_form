@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s wrap up uh your expenses. Can you tell me who, like, handles those? Is it you, or your spouse, or both?",
+            "client_message": "Oh, it’s mostly me, you know? Like, my spouse helps sometimes but it's, uh, basically my thing, yeah.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, got it. And, um, what would you say is the name of, like, that main expense you have? You know, like mortgage or car stuff?",
+            "client_message": "Yeah, it's the mortgage payment, uh, I mean that's the big one, right, yeah?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "And, uh, how much is that? Like, the payment, I mean?",
+            "client_message": "Uh, it’s around fifteen hundred—wait, no, it's like, um, yeah, fifteen hundred a month.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

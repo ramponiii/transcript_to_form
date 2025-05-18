@@ -1,0 +1,7 @@
+{
+    "model": "SavingOrInvestment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 3,
+    "id": "70617469-0e37-4adf-8d90-5877a7c95083"
+}

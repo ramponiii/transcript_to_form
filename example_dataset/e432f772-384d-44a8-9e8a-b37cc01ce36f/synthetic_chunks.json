@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about the investments you currently have. Can you tell me about any accounts or savings you own?",
+            "client_message": "Yeah, um, I have, like, a few things, but I'm not sure they’re the best options, to be honest. I mean, I’ve heard mixed stuff about ISAs and, uh, investment bonds.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. It's important to feel confident in your choices. What specific worries do you have regarding those ISAs and bonds?",
+            "client_message": "Well, I just think they, like, might not be the right fit for me, you know? I’ve got a Bank Account too, and I feel like the rates are just kinda low.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "That’s a valid point. A low rate can be frustrating. We can explore alternatives that might suit your needs better. Do you have an idea of the value of these investments?",
+            "client_message": "Uhh, the ISAs are around, like, a couple of thousand, but, honestly, I'm starting to think maybe I should be looking elsewhere, like property or something. I just, I dunno, feel skeptical about everything right now.",
+            "field_names_covered": [
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

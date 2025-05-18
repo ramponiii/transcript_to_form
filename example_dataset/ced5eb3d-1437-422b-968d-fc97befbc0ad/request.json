@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
+    "segments": 3,
+    "id": "ced5eb3d-1437-422b-968d-fc97befbc0ad"
+}

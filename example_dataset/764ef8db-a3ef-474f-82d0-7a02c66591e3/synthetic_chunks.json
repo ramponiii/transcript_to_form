@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your pension policy. Can you update me on who the owner is and what type of pension you have?",
+            "client_message": "Yeah, sure! I'm the owner of the pension, and it's a Defined Contribution type, you know? I’m really looking forward to seeing how it grows!",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear you're excited about the growth! What’s the current value of your pension, and who’s the provider?",
+            "client_message": "Oh, the value? It's around 50 thousand, and it's with XYZ Pension Scheme. I'm just hopeful it will increase over time!",
+            "field_names_covered": [
+                "value",
+                "provider"
+            ]
+        }
+    ]
+}

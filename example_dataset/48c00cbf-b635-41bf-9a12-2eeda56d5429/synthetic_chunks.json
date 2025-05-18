@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me a bit about what you do for work? I mean, your job can really influence your investments, you know?",
+            "client_message": "Oh, yeah, yeah! I'm actually, um, I work in marketing, right? Like, I'm a manager at this ad agency, and uh, yeah, I handle like a lot of accounts. It’s pretty busy, but I love it. Like, I was thinking of putting some of my savings into an ISA, um, just makes sense with my current income, right?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "value"
+            ]
+        }
+    ]
+}

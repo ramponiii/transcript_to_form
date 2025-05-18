@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with some basics! What's your first name and last name?",
+            "client_message": "Uh, yeah, my first name's Jordan and last name's Smith, but I’m known as Jody, actually!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Great, Jody! Do you also have any middle names or we just keep it simple?",
+            "client_message": "Naw, no middle names here, just Jody Smith.",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Alright, cool! And what's your date of birth, if you don’t mind sharing? Just making sure I get everything right.",
+            "client_message": "Sure, it’s 15-08-1990. I was born in New York too, just so ya know.",
+            "field_names_covered": [
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

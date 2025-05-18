@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your job—what do you, um, do for a living? Like, what's your position and, you know, your company?",
+            "client_message": "Oh, right!  I'm, uh, an engineer, I, well, mainly work with, uh, software stuff, right? I’ve been at GreenTech for, like, I dunno, a couple years now, I guess. In, uh, programming? And honestly, it’s been, uh, pretty good, you know?",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        }
+    ]
+}

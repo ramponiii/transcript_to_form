@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, before we wrap up, can you confirm the name of the pension policy owner for our records?",
+            "client_message": "Yeah, it's, um, actually me, John Smith. I, uh, own the pension policy.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great. And what type of pension do you have? Is it a Defined Contribution or maybe a State Pension?",
+            "client_message": "Uh, it's a Defined Benefit pension, you know, from my previous job and, um, should I mention the provider?",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Yes, if you could share the provider's name that would be helpful. Also, what is the current value of that fund?",
+            "client_message": "Oh, sure! It's with, um, ABC Pension Co., and the current value is around 250,000 or so. Sorry, I... I mean...",
+            "field_names_covered": [
+                "value",
+                "provider"
+            ]
+        }
+    ]
+}

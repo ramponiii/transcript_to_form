@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
+    "segments": 3,
+    "id": "b9b01948-e634-4bec-92f4-e92e68a1c146"
+}

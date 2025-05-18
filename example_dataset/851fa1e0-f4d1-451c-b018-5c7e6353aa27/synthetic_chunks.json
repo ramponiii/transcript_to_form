@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about any specific objectives you have in mind for our discussion today.",
+            "client_message": "Yeah, I'm really interested in, um, kind of setting some investment goals, you know? Maybe like planning for retirement or saving for my kid's college fund.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense! It's great to have those clear goals. What timeline are you thinking for your retirement planning?",
+            "client_message": "I'm looking at about 20 years from now, but I also wanna start saving for my kid now, like, now-ish, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So we can break this down into two sections: your retirement plan and your kid's education fund. Do you have an idea of how much you're aiming to save for each of those?",
+            "client_message": "For retirement, maybe around, um, a million dollars? And for college, I was thinking like, at least 50 grand. I just wanna be prepared, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

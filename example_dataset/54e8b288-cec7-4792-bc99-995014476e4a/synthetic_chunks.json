@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, could you confirm who exactly owns the classic car? It’s important for our records.",
+            "client_message": "Um, yeah, I initially thought it was just me, but, actually, it’s jointly owned with my brother.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what would you say the current value of the car is?",
+            "client_message": "I had mentioned it was around 30,000, but I've been reevaluating that. I think it’s actually closer to 35,000 now.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        }
+    ]
+}

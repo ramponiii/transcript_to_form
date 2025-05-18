@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an awkward and slightly abrupt call conclusion with some overlapping speech.",
+    "segments": 3,
+    "id": "2ae1e57b-967d-4c99-9128-44496dd4af30"
+}

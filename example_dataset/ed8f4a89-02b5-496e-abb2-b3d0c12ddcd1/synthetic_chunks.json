@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, umm, let’s, like, start by discussing your, uh, expenses. Do you have, um, any specific ones, like, in mind that you want to talk about? Maybe, uh, name and how much it is?",
+            "client_message": "Yeah, I guess, um, I pay around, like, 1200 bucks for my mortgage, uh, every month. It's, like, essential for me, you know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "I understand, that's, uh, really important. You said it’s, like, 1200 every month for the mortgage, right? Uh, do you want to say how long you think you'll keep paying that?",
+            "client_message": "Uh, probably until like 2035, I think. I mean, unless we, uh, decide to move or something. I guess it’s just, like, a big deal for us.",
+            "field_names_covered": [
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

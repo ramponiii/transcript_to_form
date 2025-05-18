@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so before we wrap up, I just need to ask you for the name of your dependent, like the full name, y'know?",
+            "client_message": "Um, yeah, it’s uh, Sarah Miles. I think that’s—",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Sarah Miles, right? Now, what’s her date of birth? Just the DD-MM-YYYY bit.",
+            "client_message": "Uh, she was born on um, 15-06—no, sorry, 15-06-2015!",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Cool, and um, one last thing. Is there a date until she’s still considered a dependent?",
+            "client_message": "Oh, right! It’s like, until she’s 18, so that’s—um, I think 15-06-2033?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

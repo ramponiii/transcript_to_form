@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let’s discuss your current state of health. How are you feeling lately?",
+            "client_message": "Well, I kinda s- feel like, um, I’m really achy sometimes, and also I’ve been, you know, a bit more tired than usual. I guess you could say my health is not the best right now.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "I see. Have you been smoking, or do you smoke currently?",
+            "client_message": "Yeah, I smoke. I've been smoking, uh, like, about a pack a day since, um, I was 18, so that's, like, over ten years now. I kn- I know it’s not good for me.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. Do you need long-term care of any kind?",
+            "client_message": "Honestly, I might need some help, um, down the line... like, my mom needed it, so I think, maybe, I might, too. Just wanna be prepared, ya know?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

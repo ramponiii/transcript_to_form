@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your pension policy. Can you remind me who the provider is?",
+            "client_message": "Uh, yeah, it’s with ABC Financial, I believe.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great! And if I remember correctly, you mentioned the value of your pension. Is that still around 50,000 pounds?",
+            "client_message": "Actually, I’ve reconsidered. It’s closer to 60,000 pounds now, not 50.",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

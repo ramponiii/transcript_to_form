@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let’s talk about your pension. Uh, can you remind me who, um, who the provider is and like, what kind of type it is?",
+            "client_message": "Sure! My provider is, uh, let me think, oh right, it’s ABC Pensions, and I have a Defined Contribution plan with them.",
+            "field_names_covered": [
+                "provider",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, um, what’s the current value of that pension? Do you, uh, have the policy number handy too?",
+            "client_message": "Yeah, the value is around 50,000 pounds, I think, and the policy number is 12345-67890. I also have some notes about it if you need.",
+            "field_names_covered": [
+                "value",
+                "policy_number",
+                "notes"
+            ]
+        }
+    ]
+}

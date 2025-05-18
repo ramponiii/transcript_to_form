@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your job a bit. What are your, like, main goals or, you know, objectives in your career right now?",
+            "client_message": "Yeah, um, I guess I really just wanna, like, move up in my company. You know, get a promotion?? There's this position that opened up recently, and I'm kinda eyeing it. But, like, it’s competitive and stuff. I just hope I have what it takes, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

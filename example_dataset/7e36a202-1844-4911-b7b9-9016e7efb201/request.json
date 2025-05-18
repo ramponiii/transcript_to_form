@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a noticeable difference in speaking pace between the advisor and the client.",
+    "segments": 1,
+    "id": "7e36a202-1844-4911-b7b9-9016e7efb201"
+}

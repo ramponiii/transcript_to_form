@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's discuss your current state of health. Can you share how you're feeling overall?",
+            "client_message": "Um, yeah, I've been pretty good, I think. Just, you know, some minor issues, nothing major, I guess.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "I see. Are there any specific details you’d like to add about your health?",
+            "client_message": "Well, I do smoke, like a pack a day since I was, um, age 20, I think. I know it's not great, but I've tried to cut back a little recently.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for sharing that. In terms of future planning, do you have a will or power of attorney set up?",
+            "client_message": "Oh, right. I don’t have a will yet, but I’m thinking about it. And, um, I haven't granted any power of attorney either.",
+            "field_names_covered": [
+                "will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

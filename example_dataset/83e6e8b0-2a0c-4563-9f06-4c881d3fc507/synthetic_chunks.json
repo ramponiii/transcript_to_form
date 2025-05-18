@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about your current living situation. I mean, do you own your place or is it rented?",
+            "client_message": "Um, right, right, uh... I actually, I rent this, this apartment, right? And, um, yeah, it’s in, like, uh, Cambridge. And the, um, yeah, the postcode is CB2 1AA, I think? I kinda forget, ha! Oh! And I moved in, like, uh, a few months ago, back in April, yeah, April, I think?",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "town_city",
+                "move_in_date"
+            ]
+        }
+    ]
+}

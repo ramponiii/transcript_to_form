@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's discuss your financial goals. What objectives do you have in mind that you'd like us to focus on today?",
+            "client_message": "I think, um, my main objectives are saving for retirement, and maybe, like, paying off some debts. I'd also like to invest a bit more.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. It's great that you're thinking about both retirement and debt. Can you share more about, um, your current retirement savings or any specific debts you want to address?",
+            "client_message": "Sure! I have a retirement account, but I haven't really, uh, contributed much. For debts, I've got a car loan and some credit card bills that I’d like to pay down first.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that information. Having a clear understanding of your current situation will help us create an effective plan. What's your top priority among these objectives?",
+            "client_message": "I’d say, for now, my top priority is to, um, pay off the credit cards first, since the interest rates are kinda high. That's what I want to focus on right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your monthly expenses, I'm referring to all your outflows, like rent or groceries.",
+            "client_message": "Okay, but, um, what did you mean by 'outflows'? Is that like, just normal bills or something?",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Yes, exactly! Outflows are essentially all the money you spend. They can be recurring, like rent, or, you know, one-time payments.",
+            "client_message": "Got it. So, um, how do I, like, categorize those expenses? Like, what's essential versus discretionary?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Great question! Essential expenses are those that you need for basic living, like housing and food, while discretionary could be, say, dining out or entertainment.",
+            "client_message": "Oh, okay, that makes sense. So, my gym membership could be, um, discretionary if I wanted to cut back on spending, right?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me what kind of assets you currently own? I need some info to fill out the forms properly.",
+            "client_message": "Um, yeah, I think I, uh, have some stuff like, like an old car and maybe some art or, um, like jewellery? I'm not too sure about the, uh, details though.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Alright, that's a good start. Do you remember how much the car was when you bought it?",
+            "client_message": "Oh wait, um, no, actually. The car is, like, a classic but, I think I actually sold it a while back! Sorry for the confusion, I just realized.",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an awkward and slightly abrupt call conclusion with some overlapping speech.",
+    "segments": 3,
+    "id": "fa939f94-4df5-48db-ac1f-b7dbde389b88"
+}

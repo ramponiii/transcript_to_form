@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like climbing a mountain. The higher you go, the better the view, but it also becomes riskier, right? You need to assess how comfortable you are with heights before you commit to that climb.",
+            "client_message": "I get that, but... what do you mean by risk? Like, how do I know when it's too risky for me?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Risk is essentially the chance you take—just like a mountain climber faces the risk of falling or encountering bad weather. You can plan, but you still need to be cautious and prepared.",
+            "client_message": "Hmm, okay, but isn't all investing a little risky? I just want to make sure I don't fall off the edge, if you know what I mean.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, and that brings me to the point about diversifying. Just like a climber uses ropes and gear, diversifying your investments can help reduce that risk. It's about spreading out so that you don’t have all your eggs in one basket.",
+            "client_message": "Got it! So maybe... I should look into different kinds of investments then. Just to play it safe?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

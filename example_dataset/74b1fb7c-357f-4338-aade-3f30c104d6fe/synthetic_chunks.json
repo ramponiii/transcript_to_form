@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, you know, risk is kinda like if you were in a boat, right? If you go too close to the edge, you might tip over. But if you stay in the middle, you're more stable. It’s the same with investments. The farther out you go, the riskier it gets.",
+            "client_message": "Wait, so like, if I invest more, is it like, I'm at the edge of the boat? I don't wanna tip over, that sounds scary.",
+            "field_names_covered": [
+                "name",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! If, say, you have a mortgage payment of like, a thousand dollars, that's essential, right? But if you're investing in stocks, it's kinda like paddling close to that edge. You might hit rough waters or you might have smooth sailing!",
+            "client_message": "Oh, I see! But what about those stocks? How much is too much? Like, what should I spend?",
+            "field_names_covered": [
+                "owner",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Great question! It depends on your comfort level with that risk. Think of it like, you wanna buy groceries every month, that’s a necessary expense. But maybe putting some money into a high-risk stock is more like, buying a fancy dinner once in a while?",
+            "client_message": "Got it! So some things are more like, uh, stable like groceries while others are more risky, like, that fancy dinner? I guess I get it now, sort of!",
+            "field_names_covered": [
+                "priority",
+                "notes"
+            ]
+        }
+    ]
+}

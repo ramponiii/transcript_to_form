@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risk like crossing a busy street. You can either wait for the traffic light or just dash across. If you wait, you're minimizing risk, right?",
+            "client_message": "Hmm, I guess I see what you mean, but like, how does that apply to my policy?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! In terms of your policy, the coverage is like that traffic light. It gives you a safer path when you face unexpected events. Like, if something were to happen, your loved ones would be protected, just as you’d be safe at the light.",
+            "client_message": "Okay, but what if the light never changes? I mean, what if I need the coverage sooner than I think?",
+            "field_names_covered": [
+                "in_trust",
+                "amount_assured"
+            ]
+        },
+        {
+            "advisor_message": "That’s a great point! If the light doesn't change, it’s important to know your options—like how much coverage you've got. It’s all about making sure you have enough when you really need it, right? Just as you'd check how much time you have to cross.",
+            "client_message": "Right, that makes sense. So, I do need to know about that amount and how soon I can count on it?",
+            "field_names_covered": [
+                "monthly_cost",
+                "assured_until"
+            ]
+        }
+    ]
+}

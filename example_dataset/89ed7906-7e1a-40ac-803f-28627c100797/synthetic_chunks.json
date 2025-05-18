@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your assets. Do you have any specific items you want to discuss today? Perhaps a classic car or an art collection?",
+            "client_message": "Yeah, I have an old classic car, a 1967 Mustang. I got it from my uncle, and it's worth, um, around 30,000 dollars right now. I didn’t really keep track of how much it cost back then, but it was, like, much less than that.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Great to know about the Mustang! It sounds like a valuable asset. Do you remember any special details about it, or is there anything else that might affect its value?",
+            "client_message": "Well, it's in pretty good shape, but I think it needs some work. I haven't had it appraised or anything, but, uh, if I can get it fixed up, I might be able to sell it for more. Should we maybe look into getting it properly evaluated next time?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

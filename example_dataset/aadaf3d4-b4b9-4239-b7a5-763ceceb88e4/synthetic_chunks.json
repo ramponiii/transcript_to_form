@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, you know, about your investments, uh, let’s discuss your risk tolerance. If you were, like, to invest in something really risky, like, I dunno, tech startups, how would you feel about that?",
+            "client_message": "Um, risky like, I guess it depends, you know? I mean, I’ve, um, heard about people losing money in startups... but also, there’s a chance to, uh, make a lot too. I’m not really sure, actually.",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Right, it’s definitely a, um, difficult decision. Okay, how about something, like, a bit safer, maybe bonds or dividend stocks? What do you think about that?",
+            "client_message": "Bonds sound, um, safer, but, uh, I worry they won’t, you know, grow much? Like, I mean, what's the point if I don’t see any, um, real returns? I just don’t know.",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

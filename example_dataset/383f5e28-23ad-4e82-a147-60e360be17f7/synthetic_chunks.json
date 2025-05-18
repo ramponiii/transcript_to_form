@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's talk about your investments and goals. What are you thinkin' in terms of, like, when you wanna, uh, retire?",
+            "client_message": "Oh, I really wanna retire by the age of, like, 65! It's all dependin' on how my investments grow, ya know? I feel super excited about that!",
+            "field_names_covered": [
+                "desired_retirement_age"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! And, uh, do you have a specific country where you, um, call home?",
+            "client_message": "Yeah, I'm livin' in the UK right now. Uh, I guess I'm also a tax resident here, I think? It just feels like everything's gonna work out!",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Awesome! And just curious, what's your current, uh, job situation?",
+            "client_message": "Oh, I'm self-employed, actually! I really love it. I think, with the right investments, I could see some real, ya know, growth in the next few years!",
+            "field_names_covered": [
+                "employment_status"
+            ]
+        }
+    ]
+}

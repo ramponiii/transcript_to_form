@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your tax situation a little more. Can you tell me where you are, like, what country you're domiciled in?",
+            "client_message": "Uh, well, I mean I live in the UK, but not sure if I’m, like, really domiciled 'n all, you know?",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so you're in the UK. Just to confirm, are you considered a tax resident there?",
+            "client_message": "Yeah, I guess. I mean, I pay taxes here and all, but sometimes I wonder if it’s really worth it with everything they take. Seems high, you know?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. Let's get into your employment status next—what's your current situation?",
+            "client_message": "Right, um, I’m self-employed but it’s kinda tough, I don't know if you really get how hard it is, I mean it’s not like I got a steady paycheck coming in.",
+            "field_names_covered": [
+                "employment_status"
+            ]
+        }
+    ]
+}

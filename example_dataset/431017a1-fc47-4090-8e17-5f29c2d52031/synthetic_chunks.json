@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you confirm if you own your property or if it's rented?",
+            "client_message": "Uh, yeah, I thought it was rented, but you know what, actually, I remember now that I bought it last year. So, it's owned.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Great! And just to make sure, what's the full address of your property including the postcode?",
+            "client_message": "Right, it's, um, 123 Maple Street, and the postcode is AB12 3CD. I think that’s it, oh, I’m just remembering there’s no house number, just the street name, yeah.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "postcode"
+            ]
+        }
+    ]
+}

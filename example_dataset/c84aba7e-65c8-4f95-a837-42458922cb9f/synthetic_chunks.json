@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, could you tell me about your ownership status for the property? Is it something that you own or are you renting?",
+            "client_message": "Um, yeah, I’m, I’m actually renting right now. But, um, I did want to ask about, like, if that affects anything like my application or... um, what I should mention. ",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "No problem, that makes sense. Generally, your renting status won't hurt your application. Can you share the address of the property, including the town or city?",
+            "client_message": "Sure, the address is, um, 12 Maple Street in Springfield. Oh, and, uh, the postcode is actually 12345. I mean, that’s important, right?",
+            "field_names_covered": [
+                "town_city",
+                "postcode",
+                "house_name_number",
+                "street_name"
+            ]
+        }
+    ]
+}

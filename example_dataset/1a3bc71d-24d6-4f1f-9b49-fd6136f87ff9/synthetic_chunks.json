@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your investments, can you tell me who, uh, owns the, you know, the savings accounts we were lookin' at? And also, which type of investments you're, um, considering?",
+            "client_message": "Oh, right! So I own like a, um, ISA, I think? Yeah, that's it. It’s just been sittin’ there for a while.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, uh, do you remember which provider holds that ISA? Like, the name of the bank or whatever? Also, what's the current value, if you have an idea?",
+            "client_message": "Um, yeah, it’s with, uh, Barclays, I think. And, uh, the value? It’s probably around like, um, maybe fifteen thousand, but don’t quote me on that!",
+            "field_names_covered": [
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

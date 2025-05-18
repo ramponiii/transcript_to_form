@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about your retirement goals and what you envision for that time in your life.",
+            "client_message": "Well, I definitely want to travel! I've always dreamed of visiting Europe, maybe Italy or France, you know? And uh, I also think about spending more time with my grandkids, like doing fun stuff like taking them to the park or going on little trips.",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That sounds wonderful! Do you have a specific timeline or any expenses in mind for these plans?",
+            "client_message": "Yeah, um, I'm hoping to retire in about ten years, if everything goes as planned. I'll need to consider things like travel costs and maybe, you know, some housing expenses too. It’s just so much to think about!",
+            "field_names_covered": [
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

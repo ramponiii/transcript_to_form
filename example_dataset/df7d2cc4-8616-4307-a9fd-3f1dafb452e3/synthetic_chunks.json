@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, if I got it right, you currently live in the UK, yeah?",
+            "client_message": "Um, yeah, I uhh, I'm based in the UK. Been here for a while now.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And you're a tax resident there too, right?",
+            "client_message": "Yeah for sure, I pay my taxes here so, I guess that means I'm uhh, a tax resident?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Alright, and about your work—you're employed at the moment, correct? Can you remind me of what your job is?",
+            "client_message": "Yeah, I'm working full-time as umm, a graphic designer for this agency. It's been uhh, almost three years now since I started.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employment_started"
+            ]
+        }
+    ]
+}

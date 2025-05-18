@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your current health status?",
+            "client_message": "Uh, yeah, I mean I'm generally okay, just, you know, a bit tired sometimes.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Do you have any specific health issues or required long-term care?",
+            "client_message": "Not really, I don’t need any long-term care, I think right now I'm managing alright.",
+            "field_names_covered": [
+                "long_term_care_needed"
+            ]
+        },
+        {
+            "advisor_message": "And how about smoking? Are you a smoker?",
+            "client_message": "Yes, I smoke, like, around ten cigarettes a day, have been doing it since I was eighteen.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

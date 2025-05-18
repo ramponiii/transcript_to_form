@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, let's go over what you've shared so far. I just wanna confirm, your first name is John, right?",
+            "client_message": "Yea, it's John. Just John, no middle names.",
+            "field_names_covered": [
+                "first_name",
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Got it, John. And what's your last name? You mentioned it earlier, it was Smith?",
+            "client_message": "Uh, yeah, it's Smith. I also go by Johnny sometimes.",
+            "field_names_covered": [
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, Johnny! Just to wrap this up, I need to double-check your birthdate. You said it was the 15th of March, 1990, right?",
+            "client_message": "Uh, yeah, 15-03-1990. Born in, um, New York.",
+            "field_names_covered": [
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

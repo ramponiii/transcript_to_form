@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s discuss your assets, right? Do you have, like, anything special that you’re thinking about investing in, or just general assets?",
+            "client_message": "Oh yeah, I have this, um, classic car, right? I'm super excited about how its value might, like, grow over time!",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Classic cars can be great investments! What's its current value, if you, um, have an idea?",
+            "client_message": "Uh, yeah! I think it's worth around, like, 60,000 dollars now? I bought it a few years back for, um, 40,000?",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "That’s some good growth! Are there any notes or, like, specific details you wanna add about that car? Any, um, unique history or features?",
+            "client_message": "Yeah, the engine’s been, like, totally restored and it has a cool, uh, racing history? I think that, um, helps the value a lot!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

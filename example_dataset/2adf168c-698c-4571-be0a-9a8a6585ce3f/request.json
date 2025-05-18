@@ -1,0 +1,7 @@
+{
+    "model": "SavingOrInvestment",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
+    "segments": 3,
+    "id": "2adf168c-698c-4571-be0a-9a8a6585ce3f"
+}

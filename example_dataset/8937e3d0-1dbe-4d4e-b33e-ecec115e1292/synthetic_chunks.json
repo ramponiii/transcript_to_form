@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your current state of health. How do you feel overall?",
+            "client_message": "Uh, you know, I thought I'm doing okay, but actually, I've been feeling more tired lately than I usually do.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Okay, I see. Do you smoke or have any history with smoking?",
+            "client_message": "Actually, I used to smoke, like I quit a couple of years ago but, um, I just realized I might've put that I don't smoke now but I, uh, started again. I usually smoke about, like, five to six cigarettes a day.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

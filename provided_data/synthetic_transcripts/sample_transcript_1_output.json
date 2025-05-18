@@ -1,0 +1,489 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Client Information for Jerome Wantsome",
+                "first_name": "Jerome",
+                "middle_names": null,
+                "last_name": "Wantsome",
+                "known_as": "CLIENT1",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null,
+                "sources": [
+                    "0",
+                    "1",
+                    "35",
+                    "36",
+                    "39",
+                    "178"
+                ]
+            },
+            "employments": {
+                "employments": [
+                    {
+                        "country_domiciled": null,
+                        "resident_for_tax": null,
+                        "national_insurance_number": null,
+                        "employment_status": "employed",
+                        "desired_retirement_age": 65,
+                        "occupation": "Logistics Manager",
+                        "employer": null,
+                        "employment_started": null,
+                        "highest_rate_of_tax_paid": null,
+                        "notes": "Currently exploring retirement options with a focus on annuities and systematic withdrawals.",
+                        "sources": [
+                            "13",
+                            "14",
+                            "35",
+                            "36",
+                            "191"
+                        ]
+                    }
+                ]
+            },
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null,
+                "sources": [
+                    "0",
+                    "2",
+                    "25",
+                    "35",
+                    "36",
+                    "42",
+                    "192"
+                ]
+            }
+        },
+        {
+            "client_information": {
+                "title": "Client Information Form",
+                "first_name": "Jennifer",
+                "middle_names": null,
+                "last_name": "Wantsome",
+                "known_as": null,
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null,
+                "sources": [
+                    "0",
+                    "35",
+                    "36",
+                    "177"
+                ]
+            },
+            "employments": {
+                "employments": [
+                    {
+                        "country_domiciled": null,
+                        "resident_for_tax": null,
+                        "national_insurance_number": null,
+                        "employment_status": "part-time",
+                        "desired_retirement_age": 65,
+                        "occupation": "Customer Service Associate",
+                        "employer": "Kroger",
+                        "employment_started": null,
+                        "highest_rate_of_tax_paid": null,
+                        "notes": "Working part-time for Kroger, limited retirement savings.",
+                        "sources": [
+                            "15",
+                            "16",
+                            "19",
+                            "35",
+                            "36"
+                        ]
+                    }
+                ]
+            },
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null,
+                "sources": [
+                    "35",
+                    "36",
+                    "39",
+                    "41",
+                    "243"
+                ]
+            }
+        }
+    ],
+    "addresses": {
+        "address": {
+            "ownership_status": "Owned",
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "",
+            "county": null,
+            "country": null,
+            "move_in_date": null
+        },
+        "previous_addressess": []
+    },
+    "dependents": {
+        "dependents": [
+            {
+                "name": "Not Provided",
+                "date_of_birth": null,
+                "dependent_until": null,
+                "sources": [
+                    "129"
+                ]
+            },
+            {
+                "name": "Not Provided",
+                "date_of_birth": null,
+                "dependent_until": null,
+                "sources": [
+                    "129"
+                ]
+            }
+        ]
+    },
+    "incomes": {
+        "incomes": [
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Salary",
+                "amount": 43000.0,
+                "frequency": "Annually",
+                "net_gross": "Gross",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "13",
+                    "14"
+                ]
+            },
+            {
+                "owner": "Jennifer Wantsome",
+                "name": "Part-Time Income",
+                "amount": 11000.0,
+                "frequency": "Annually",
+                "net_gross": "Gross",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "15",
+                    "18"
+                ]
+            }
+        ]
+    },
+    "expenses": {
+        "loan_repayments": [],
+        "housing_expenses": [
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Property Taxes",
+                "amount": null,
+                "frequency": "Annual",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "26"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Utilities (Water, Sewage, Electricity)",
+                "amount": null,
+                "frequency": "Annual",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "31"
+                ]
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Car Purchase",
+                "amount": 30000.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": "Planning to share with Jennifer",
+                "sources": [
+                    "43"
+                ]
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Household Expenses",
+                "amount": 8000.0,
+                "frequency": "Annual",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": "Estimate of unavoidable expenses",
+                "sources": [
+                    "26"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "name": "Vacations",
+                "amount": null,
+                "frequency": "Annual",
+                "priority": "Discretionary",
+                "timeframe": null,
+                "notes": "Vacation costs covered by shared condo",
+                "sources": [
+                    "24"
+                ]
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": [
+            {
+                "owner": "Jennifer Wantsome",
+                "name": "401(k) Withdrawal Taxes",
+                "amount": null,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "In first tax year after retirement",
+                "notes": "Plan to withdraw and pay tax on small 401(k) account",
+                "sources": [
+                    "35"
+                ]
+            }
+        ]
+    },
+    "pensions": {
+        "pensions": [
+            {
+                "owner": "Jerome Wantsome",
+                "type": "Defined Contribution",
+                "provider": "Vanguard",
+                "value": 33000.0,
+                "policy_number": "N/A",
+                "notes": "Workplace 401(k) plan, ten years old with a current valuation of $33,000. Pays $28.50 monthly.",
+                "sources": [
+                    "1",
+                    "17",
+                    "71"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "type": "IRA",
+                "provider": "Fidelity",
+                "value": null,
+                "policy_number": "N/A",
+                "notes": "Converted from an old 401(k) plan with Summit and Oak Financial. Details of contributions and current investment strategy need to be reviewed.",
+                "sources": [
+                    "4",
+                    "6",
+                    "8"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "type": "Annuity",
+                "provider": "Prudential",
+                "value": null,
+                "policy_number": "N/A",
+                "notes": "Currently concerned about the annuity's performance; initially expected $2400/year, but values have fluctuated significantly.",
+                "sources": [
+                    "0",
+                    "10",
+                    "84"
+                ]
+            },
+            {
+                "owner": "Jennifer Wantsome",
+                "type": "IRA",
+                "provider": "N/A",
+                "value": null,
+                "policy_number": "N/A",
+                "notes": "Jennifer has inherited funds that will be converted into a Roth IRA or high-yield savings account by July.",
+                "sources": [
+                    "13",
+                    "54",
+                    "55"
+                ]
+            }
+        ]
+    },
+    "savings_and_investments": {
+        "savings_and_investments": [
+            {
+                "owner": "Jerome Wantsome",
+                "type": "Fidelity IRA",
+                "provider": "Fidelity",
+                "value": null,
+                "notes": "Current IRA from a previously held 401(k) plan, converted approximately one year ago. Paying $300 a month into this account.",
+                "sources": [
+                    "4",
+                    "6",
+                    "73"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "type": "Vanguard 401(k)",
+                "provider": "Vanguard",
+                "value": null,
+                "notes": "Invested through employer with 5% contribution and 3% employer match. Initially paying $4,000 a year but asked for it back to access cash.",
+                "sources": [
+                    "72",
+                    "104"
+                ]
+            },
+            {
+                "owner": "Jennifer Wantsome",
+                "type": "Inheritance Funds",
+                "provider": null,
+                "value": 33.0,
+                "notes": "Jennifer has inheritance funds locked away until July; intended to invest part in a Roth IRA and high-yield savings account.",
+                "sources": [
+                    "55"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "type": "High-Yield Savings Account (Future)",
+                "provider": null,
+                "value": null,
+                "notes": "Planning to allocate part of the inheritance into a high-yield savings account.",
+                "sources": [
+                    "54"
+                ]
+            }
+        ]
+    },
+    "other_assets": {
+        "other_assets": [
+            {
+                "owner": "Jerome Wantsome",
+                "description": "50% share in a vacation condo",
+                "current_value": null,
+                "original_value": null,
+                "notes": "Located in Sarasota, Florida. No mortgage, only minimal maintenance costs.",
+                "sources": [
+                    "24"
+                ]
+            },
+            {
+                "owner": "Jerome Wantsome",
+                "description": "Fidelity IRA",
+                "current_value": null,
+                "original_value": null,
+                "notes": "Main retirement account; details not specified.",
+                "sources": [
+                    "4",
+                    "36"
+                ]
+            },
+            {
+                "owner": "Jennifer Wantsome",
+                "description": "401(k) retirement account",
+                "current_value": 10000.0,
+                "original_value": null,
+                "notes": "Plans to take and pay tax on this account as she is not in a tax bracket.",
+                "sources": [
+                    "35"
+                ]
+            }
+        ]
+    },
+    "loans_and_mortgages": {
+        "loans_and_mortgages": []
+    },
+    "protection_policies": {
+        "protection_policies": [
+            {
+                "owner": "Jerome Wantsome",
+                "type": "Life Assurance",
+                "provider": "Prudential",
+                "monthly_cost": 28.5,
+                "amount_assured": null,
+                "in_trust": null,
+                "assured_until": "2025-12-31",
+                "notes": "Annual income target of $12K from retirement assets.",
+                "objectives": "To ensure financial security in retirement and provide a benefit to Jennifer if anything happens to him.",
+                "sources": [
+                    "0",
+                    "1",
+                    "5",
+                    "11",
+                    "36",
+                    "244"
+                ]
+            },
+            {
+                "owner": "Jennifer Wantsome",
+                "type": "401(k)",
+                "provider": "Vanguard",
+                "monthly_cost": null,
+                "amount_assured": null,
+                "in_trust": null,
+                "assured_until": "2025-12-31",
+                "notes": "Limited retirement savings to $10K, would take a lump sum withdrawal and pay taxes.",
+                "objectives": "To secure some funds for living expenses post-retirement.",
+                "sources": [
+                    "0",
+                    "35",
+                    "36"
+                ]
+            }
+        ]
+    },
+    "objectives": {
+        "objectives": [
+            "Discuss retirement investment strategies with a focus on systematic withdrawals and potential annuity options.",
+            "Ensure retirement income targets are achieved, specifically aiming for $24,000 yearly income.",
+            "Review and analyze the current investment portfolio, particularly in the Fidelity IRA and 401(k) plans.",
+            "Consider the timing of Social Security benefits and how they will contribute to overall retirement income.",
+            "Evaluate household expenses and financial requirements during retirement."
+        ],
+        "sources": [
+            "6",
+            "10",
+            "25",
+            "89",
+            "242"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me a bit about your current home situation? Are you renting or do you own it?",
+            "client_message": "Um, yeah, so I, uh, I actually own it now but it's been a bit, um, complicated with like the move n’ everything. Just got here, um, you know?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what's the address of the property? Just the basics will help.",
+            "client_message": "Oh, yeah, right! It's, uh, 123 Elm St, but I think it’s in Springfield, zip code, uh, 62704. I haven't really settled in yet, y'know?",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "town_city",
+                "postcode"
+            ]
+        }
+    ]
+}

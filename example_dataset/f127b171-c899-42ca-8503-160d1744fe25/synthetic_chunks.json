@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your protection policies. Do you remember who the owner of your life assurance policy is? Can you hear me okay?",
+            "client_message": "Yeah, it’s actually me, I’m the owner of that policy. I got it a while back.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And which type of protection policy is it? Something like Life Assurance, or maybe Income Protection?",
+            "client_message": "Um, I think it’s, uh, Life Assurance. I might also have critical illness cover, but I’m not too sure. Did you say you could hear me well?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Yes, I can hear you just fine now! And do you recall the monthly cost associated with that policy? That would be helpful for us.",
+            "client_message": "Oh, right! I think it costs around 50 bucks a month. Can we, like, also check if it’s written in trust or not?",
+            "field_names_covered": [
+                "monthly_cost",
+                "in_trust"
+            ]
+        }
+    ]
+}

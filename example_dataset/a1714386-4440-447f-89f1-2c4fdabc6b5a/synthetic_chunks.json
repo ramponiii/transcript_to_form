@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk about your current situation. Can you tell me if you own your home or are you renting? It’s important for me to understand your overall financial picture.",
+            "client_message": "Um, yeah, I actually I rent at the moment. My address is, uh, 45 Maple Street, and, uh, I think it's in Springfield, you know? I... ah, I can get the postcode for you, I just need to check. But yeah, rented is the status.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "house_name_number",
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "That’s helpful, thank you. Now, thinking about risk tolerance, imagine you have the option to invest in something that could yield high returns but comes with higher risk. How do you feel about that?",
+            "client_message": "Honestly, I’m not sure. Like, it sounds good, but then again I... I worry about losing money. You know, um, I’ve just moved in here a few months ago, end of June, and I don’t wanna jeopardize my savings.",
+            "field_names_covered": [
+                "move_in_date"
+            ]
+        }
+    ]
+}

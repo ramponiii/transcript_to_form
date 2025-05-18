@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
+    "segments": 3,
+    "id": "f41c663f-aa0f-4a8e-a4cb-10a625509a89"
+}

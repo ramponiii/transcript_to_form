@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I see here that we need to talk about your protection policy. Can you tell me, um, who the owner of the policy is? Like, is that you?",
+            "client_message": "Uh, yeah, the policy is mine, I mean I own it, it's, uh, a Life Assurance, you know? I got it from, um, Sun Life? And I think I pay like, um, 50 bucks a month, but, um, it’s for uh, 100K, so, like, that's the amount assured, right?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

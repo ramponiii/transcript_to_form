@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current savings and investments. Can you tell me who actually owns those investments?",
+            "client_message": "Yeah, so I own a couple of things, um, mostly it's me. I do have a joint account with my partner, but the main stuff is just under my name.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "That's good to know. And what type of investments are we looking at here? Like ISAs or maybe a bank account?",
+            "client_message": "Right, I have an ISA and a bank account, both under my name. The ISA is worth about 5,000 pounds, and the bank account is, um, maybe around 3,500. Let’s also keep a note—I think I should look into other options too, like an investment bond maybe?",
+            "field_names_covered": [
+                "type",
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

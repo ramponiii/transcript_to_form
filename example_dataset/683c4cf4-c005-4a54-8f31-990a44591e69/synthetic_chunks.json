@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can you tell me about your, like, current living situation? I mean, are you owning or renting the, you know, place?",
+            "client_message": "Oh, uh, right now, I'm renting, uh, a flat in, um, Sheffield. It’s like, on, um, Maple Street, you know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, uh, do you have any, like, specific details about your, um, address? Like, the postcode or such?",
+            "client_message": "Yeah, the postcode is, um, S1 2AB. And the, uh, house number is 15, just to, uh, let ya know.",
+            "field_names_covered": [
+                "postcode",
+                "house_name_number"
+            ]
+        }
+    ]
+}

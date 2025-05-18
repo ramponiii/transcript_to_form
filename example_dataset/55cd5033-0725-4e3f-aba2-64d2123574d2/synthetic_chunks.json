@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's dive into your assets. Could you please tell me who owns the asset we're discussing today?",
+            "client_message": "Sure, I actually own the asset myself. It’s, um, an art collection I started investing in a few years back. ",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what is the current market value of your art collection, if you have an estimate?",
+            "client_message": "I think it's around fifty thousand dollars right now, but I bought it for like thirty thousand. It's been appreciating quite well over the years. Also, I've kept detailed records just in case there's anything else you'd need to know about it.",
+            "field_names_covered": [
+                "current_value",
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

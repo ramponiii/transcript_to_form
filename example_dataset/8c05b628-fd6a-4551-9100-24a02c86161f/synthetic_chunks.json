@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to get started, could you tell me what country you're currently domiciled in? This will help us understand your tax situation better.",
+            "client_message": "Sure, I’m domiciled in the UK, and I’ve been a resident here for tax purposes as well.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Great, thanks for that. And can you share your current employment status and perhaps your occupation?",
+            "client_message": "Um, I’m currently employed as a software engineer, and I've been with my employer since June 2019.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

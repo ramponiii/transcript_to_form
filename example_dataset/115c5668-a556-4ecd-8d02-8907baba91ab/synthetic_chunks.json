@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let’s talk about the loans you have currently. Uh, do you know who’s like, the lender for your mortgage? I mean, which bank or company do you have it with?",
+            "client_message": "Um, yeah, I think it’s with Home Finance Corp. They uh, provided me the mortgage when I bought the house.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great, and can you tell me about how much you’re payin’ every month on that mortgage? It’ll help to know your monthly cost.",
+            "client_message": "Oh, right, I pay about four hundred and fifty bucks a month for that. It’s kinda tight with my budget, you know.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

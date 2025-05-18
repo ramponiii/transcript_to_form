@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I wanted to ask about the protection policies you currently hold, like which company is providing them and maybe what types of cover you’ve gotten?",
+            "client_message": "Uh, yeah, I have like, uh, a Life Assurance policy from some company, I think it’s called, um, Lifeguard insurance or something like th-that. I’m not really sure right now.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "That’s helpful to know. Can you tell me how much you’re paying for it every month and, like, what the amount assured is?",
+            "client_message": "Hmm, let me think. I think it's around uh, fifty pounds a month. And, um, the amount assured, I believe it’s like, maybe, uh, a hundred thousand or something? I’m not totally sure. But yeah that's about it.",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's dig into your pension details. Can you tell me who actually owns the policy right now?",
+            "client_message": "Yeah, that's me. I'm the one who holds the pension, just my name on it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of pension do you have? Is it like a defined contribution or something else?",
+            "client_message": "Oh, it's a Defined Benefit plan, I think. It’s from my old job, but I’m not sure about the specifics, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

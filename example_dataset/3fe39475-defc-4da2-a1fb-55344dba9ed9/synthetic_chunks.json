@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk a bit about your pension. Do you have a particular type in mind, maybe a State Pension or something like that?",
+            "client_message": "Yeah, so I was thinking about my retirement, um, you know, I really want to enjoy my golden years, but also, I don’t know, maybe something like a Defined Benefit plan would be good? I'm just not totally sure if that would suit me, like, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's great! A Defined Benefit plan can provide more security. Do you already have a provider in mind or any current policies?",
+            "client_message": "Oh, um, I might have a, uh, policy with some, I think it's called, um, Aviva? Yeah, they manage my pension. But, um, I honestly don't know the exact value right now. Just want to, like, make sure I’m on track, you know? And I think the policy number is somewhere in my paperwork.",
+            "field_names_covered": [
+                "provider",
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we're looking at your investment options, I think considering something like an ISA could be beneficial to you due to its tax advantages.",
+            "client_message": "Um, I dunno... I've heard ISAs can be kinda risky sometimes, right? Like, what if I don’t get my money back or it doesn’t grow?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's a fair point, but generally, ISAs are designed to be safer compared to other investments. They offer a good balance of risk and reward, depending on how you fund them.",
+            "client_message": "But, like, what about if I want something more stable, you know? I'm not sure about all these ups and downs.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concern. We could also explore options like a savings account or a bond, which provide more stability. Just wish to ensure you have the right growth potential too.",
+            "client_message": "Yeah, I get that. I just want to make sure whatever I choose is solid. Do you have suggestions on the providers for these options?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

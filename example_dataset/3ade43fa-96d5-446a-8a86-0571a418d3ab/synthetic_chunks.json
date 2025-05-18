@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great to hear you're excited about potential investment growth! Can we start by discussing your personal details? For example, what's your full name and do you have any titles like Mr. or Ms. that you prefer?",
+            "client_message": "Oh, absolutely! My name's Luke Smith, but I usually just go by Luke. No title for me, just Luke!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, Luke! Now, if you don't mind, could you share your date of birth? This helps us understand your investment timeline better.",
+            "client_message": "Sure thing! I was born on the 15th of March 1990. Kinda excited to see how investment can grow as I plan for the future!",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that, Luke! It's great to know your birthdate. Now, let's talk about your investment goals and how you see growth happening over the years. What's your vision?",
+            "client_message": "Well, I'm really looking forward to watching my investments grow, you know? I'd love to see some solid returns, maybe like aim for retirement by 60. That sounds awesome, right?",
+            "field_names_covered": [
+                "marital_status"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's dive into your expenses for a moment. Can you tell me more about who usually takes care of those? Like, is it you, or maybe a spouse?",
+            "client_message": "Oh, um, it’s mostly me, but sometimes my spouse helps out with it too. Um, can you hear me okay?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Yes, I can hear you! Great. Now, how would you describe your biggest expense? Maybe like, you know, Mortgage Payment or Car Insurance?",
+            "client_message": "Yeah, it’s definitely the Mortgage Payment, that's the top one for sure. I mean, we have, uh, some other bills but that’s the main one.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, thanks! And what’s the amount for that Mortgage Payment? Also, how often do you pay it, like monthly or something?",
+            "client_message": "Oh, it’s, uh, $1,500 every month. It’s a monthly thing for us, yeah.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

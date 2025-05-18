@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who the owner of the mortgage is?",
+            "client_message": "Yeah, it's actually just me, my name is Alex Johnson.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Alex. And what type of loan are we looking at here?",
+            "client_message": "It's a regular mortgage, nothing fancy.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

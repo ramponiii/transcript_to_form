@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me about your, like, current state of health? Any, uh, issues or conditions we should know about?",
+            "client_message": "Um, yeah, I think I’m okay, mostly. I mean, I have, like, asthma and, uh, I get these headaches sometimes, but, um, I try to manage them.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, uh, do you smoke or have you ever smoked?",
+            "client_message": "Totally, I smoke, like, a pack a day and, um, I’ve been doin’ it since, um, I was 18. It’s not great, I know.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

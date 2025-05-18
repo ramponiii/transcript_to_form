@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
+    "segments": 3,
+    "id": "e05992bf-7285-499a-a16e-c54296f47499"
+}

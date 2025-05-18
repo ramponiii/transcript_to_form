@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, could you tell me, like, who owns this, um, investment you mentioned? And, like, what type it is? I mean, is it an ISA or somethin' else?",
+            "client_message": "Yeah, um, it's actually my, uh, brother's ISA. Uh, he set it up, like, long ago. I think the current value, um, is about 10 thousand dollars, if I'm not mistaken. It's all with, uh, XYZ Bank. They, uh, have been really good at managing it.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

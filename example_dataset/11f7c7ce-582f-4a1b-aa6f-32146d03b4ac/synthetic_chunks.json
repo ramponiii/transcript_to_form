@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, do you have any assets that y'know you want to discuss? Like maybe something fancy, um, cars or, uh, jewelry?",
+            "client_message": "Yeah, I have this classic car, a 1965 Mustang. I, um, bought it for like 10 grand but, uh, it's worth way more now... maybe around, like, 30,000?",
+            "field_names_covered": [
+                "description",
+                "original_value",
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Oh wow, that's a nice gain there! Have you thought about keeping track of, you know, notes or any specific details about it?",
+            "client_message": "Yeah, it's stored in my garage and, um, has some custom paint, but I shouldn't sell it yet, you know? So, uh, yeah, I think we should keep it in mind for future planning?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

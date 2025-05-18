@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you share with me your main objectives for this financial plan? It’ll help me understand what you’re looking to achieve, you know?",
+            "client_message": "Yeah, I was thinking, um, initially I wanted to focus on saving for a house. But now, I kinda want to prioritize retirement savings instead, if that makes sense?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That definitely makes sense! Retirement is super important. Can you elaborate a bit on what you're hoping to achieve in terms of retirement savings?",
+            "client_message": "Sure! I guess I want to, um, have enough to live comfortably when I retire, like maybe around a million… at least that's what I'm aiming for now, instead of the house goal.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

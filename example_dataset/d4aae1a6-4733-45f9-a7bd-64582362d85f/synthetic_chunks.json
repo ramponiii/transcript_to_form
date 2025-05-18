@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me about your place? Like do you own it or are you renting?",
+            "client_message": "Oh, right, um.. I own my, uh, place. It's in, um, Stafford, ya know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Stafford. And what's the, um, postal code there?",
+            "client_message": "Uh, it's, um, ST16 2PH I think? Yea, that sounds rright.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, so uh, let's move on. Can you give me the street name and, like, the house name or number? Also, when did you, um, move in?",
+            "client_message": "Sure! It's, um, 23 Green Lane and I moved in, um, last year. Like, I think it was in April.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "move_in_date"
+            ]
+        }
+    ]
+}

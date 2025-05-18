@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's start with some basic information. Can you please provide me with your full name?",
+            "client_message": "Sure, um, my name is Jane, but people call me Janie, actually, my full name is Jane Marie Smith, I guess.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as",
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that, Janie! How about your date of birth and place of birth?",
+            "client_message": "Oh right, that's easy! I was born on the, um, 15th of April, 1990, in Austin, Texas, if that helps.",
+            "field_names_covered": [
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

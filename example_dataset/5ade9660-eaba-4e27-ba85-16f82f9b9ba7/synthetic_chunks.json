@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about the protection policy you have in place. Could you let me know the type of policy you currently hold, like whether it's Life Assurance or something else?",
+            "client_message": "Yeah, I have a Life Assurance policy. It’s, um, through ABC Insurance.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Life Assurance with ABC Insurance. Do you remember the monthly cost of that policy?",
+            "client_message": "I think it's around 50 bucks a month, but I should check my papers. Also, I have it until I retire, I think?",
+            "field_names_covered": [
+                "monthly_cost",
+                "assured_until"
+            ]
+        }
+    ]
+}

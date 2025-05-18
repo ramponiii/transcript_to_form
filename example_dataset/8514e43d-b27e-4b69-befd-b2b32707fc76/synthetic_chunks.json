@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, before we dive into the details, um, can you hear me okay? I just want to make sure we have a clear connection here.",
+            "client_message": "Yeah, I can hear you just fine. So, about my health, I’d say, it's not too bad, but I've been feeling a bit off lately.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "I appreciate that. Do you smoke or have you ever smoked? It can really impact your health, you know.",
+            "client_message": "Yeah, I smoke, um, like maybe a pack a day? I've been doing it since I was about 18, so a while now. I know it's not great for my health, but it’s just kinda hard to quit.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

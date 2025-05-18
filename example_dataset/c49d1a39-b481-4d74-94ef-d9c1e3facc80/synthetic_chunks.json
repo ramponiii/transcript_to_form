@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s talk about your objectives today. I, uh, I’m curious, like, what specific goals do you want to discuss?",
+            "client_message": "Yeah, um, I really just want to focus on saving for retirement and, uh, maybe buying a new house too. Those are, like, my main things right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Right, I understand. So, saving for retirement and buying a house. Those are both really important, uh, goals. Have you thought about how much you’re aiming to save for each?",
+            "client_message": "Kinda, um, I think I want to save like three hundred thousand for retirement, and maybe, uh, fifty thousand for the house? Yeah, something like that.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

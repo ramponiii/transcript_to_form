@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a friendly and informal tone throughout.",
+    "segments": 1,
+    "id": "d3cf9abf-c2e9-4195-94a1-bed73bb77f91"
+}

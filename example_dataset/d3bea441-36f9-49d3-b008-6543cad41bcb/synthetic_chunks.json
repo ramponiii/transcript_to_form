@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your savings plan. Do you still feel good about keeping your ISA with your current provider?",
+            "client_message": "Actually, um, I’m not sure about the ISA anymore. I mean, I thought it was a good idea, but maybe it’s not the best option. I’ve been thinkin’ maybe a GIA could be better.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Okay, switching to a GIA could definitely give you more flexibility. Can you tell me if you have a specific provider in mind for that?",
+            "client_message": "Hmm, I need to check. I think I was looking at one but, like, I can’t remember the name right now. So, not sure on that one.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "No problem at all. And just to confirm, what’s the current value of your assets you want to explore this option with?",
+            "client_message": "Uhh, it’s around 15,000, I think. But, yeah, I might wanna throw in some more later, just depends on how this all works out.",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like sailing a boat. The winds represent market conditions and your strategy is, well, your sails. If you tighten the sails too much, you could miss out on favorable winds, and if you loosen them too much, you could capsize. Finding that balance is key to managing risk.",
+            "client_message": "Uh, I get the sailing thing, but, like, what if there's a storm? How do I know when to, you know, tighten or loosen those sails?",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, that's a great question! A storm would be equivalent to a market downturn. You have to watch the skies, or in our case, the market trends. It’s about knowing when to adjust your investments—like changing your route when facing rough water.",
+            "client_message": "Right, but how do I even see the storm coming? It all feels a bit, um, overwhelming. I just wanna make sure I'm not putting, you know, everything on the line.",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Understandable! It's all about preparation and diversification—think of it like packing extra gear for your trip. If one part of your investment gets hit hard, you still have other parts to rely on. Keeping a diverse portfolio is your life jacket, in a way.",
+            "client_message": "Gotcha, so I shouldn’t just invest in one thing, right? Like, uh, if I put all my money in one, it could be risky, is that what you're saying?",
+            "field_names_covered": [
+                "notes",
+                "sources"
+            ]
+        }
+    ]
+}

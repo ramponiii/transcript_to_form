@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's discuss your investment portfolio. Could you confirm the type of investments you currently have?",
+            "client_message": "Right, um, I think I mentioned earlier that I have a GIA, but I actually realized it's an ISA, not a GIA. Sorry about that!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "No problem at all! So, an ISA, that’s great. Could you also share who the provider is?",
+            "client_message": "Sure! It's with Halifax. I just remembered, I was looking into it the other day.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

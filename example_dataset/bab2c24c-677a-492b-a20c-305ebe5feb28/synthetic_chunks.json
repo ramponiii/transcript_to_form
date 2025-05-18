@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, you mentioned before about, um, your job. Can you, like, tell me more about, you know, how long you've been working there or, uh, maybe what your position is?",
+            "client_message": "Oh right, so, I've been at the, uh, place for like, um, three years now. I'm kinda like, a marketing assistant, I guess? But, uh, it’s a bit more complicated? Ugh, sometimes it feels just like a, uh, mess with all the projects and stuff!",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That sounds, um, pretty interesting! And, sort of chaotic too, haha. Have, uh, have you thought about your, like, future plans there or, I dunno, any kids maybe?",
+            "client_message": "Oh for sure, um, I actually have a daughter, right. Her name's Lucy and she’s, like, three years old now. I, you know, I worry about her future and all. And, um, with work, it’s tricky to manage everything, y'know?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Wow, Lucy must be, like, a handful haha! Do you think you’d, uh, need help with, like, planning for her—like, education stuff or, um, dependent status?",
+            "client_message": "Yeah, totally! I mean, I guess she’ll be a dependent until, uh, she’s 18, which is, like, a long way off, but yeah, it’s just, um, so much to think about with work and home, you know?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

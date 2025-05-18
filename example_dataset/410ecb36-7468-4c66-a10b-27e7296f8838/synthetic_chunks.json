@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's dive into your income sources. Can you tell me the name of your primary source of income and how much you make from it?",
+            "client_message": "Sure, it’s uh, my salary from XYZ Corp, and I get about 75,000 a year, but that’s gross, right?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it, thanks! And how often do you receive that income? Is it monthly or annually?",
+            "client_message": "I’m paid monthly, so it’s like uh, 6,250 bucks each month. And, um, it’s the full gross amount before anything gets deducted. No other income sources right now, just this one.",
+            "field_names_covered": [
+                "frequency",
+                "amount",
+                "net_gross"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me how you're feeling health-wise? Any current issues you’re experiencing?",
+            "client_message": "Well, um, I guess my current state of health is okay, but, you know, I do have some high blood pressure. I’ve been dealing with it for a few years now.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. Do you smoke or anything like that? And do you have a will or power of attorney set up?",
+            "client_message": "Yeah, I smoke, about ten cigarettes a day. I’ve been smoking since I was, like, 18. And, um, I do have a will in place, it's just, um, kinda old from a while back.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since",
+                "will",
+                "information_about_will"
+            ]
+        }
+    ]
+}

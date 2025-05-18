@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great, thank you for joining me today! To start off, can you tell me your first and last name? And if you have any titles you prefer to use, please share those as well.",
+            "client_message": "Sure! My name is Ms. Sarah Johnson. You can just call me Sarah, though.",
+            "field_names_covered": [
+                "title",
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, Sarah. Now could you share your date of birth and where you were born? That'll help us get everything set up.",
+            "client_message": "Yeah, I was born on 15th May 1985, and I was born in Boston.",
+            "field_names_covered": [
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

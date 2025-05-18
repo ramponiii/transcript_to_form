@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, it sounds like you're considering some investment options. I can help explain the different types available, like ISAs or investment bonds. Are you familiar with these terms?",
+            "client_message": "Uh, sort of! But can you, like, clarify what an ISA is exactly? I’m not sure I get the differences between that and other types.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! An ISA, or Individual Savings Account, is a tax-efficient way to save or invest. It means you won't pay tax on the interest or gains you make. As for an investment bond, it's typically a longer-term investment where your money is locked in for a specific period, often with higher returns.",
+            "client_message": "Got it, that makes sense! So, am I right in thinking that the returns are generally better with investment bonds compared to, like, a regular savings account?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

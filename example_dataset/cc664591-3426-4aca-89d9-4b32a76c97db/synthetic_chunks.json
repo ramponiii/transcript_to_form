@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your expenses. Do you have a specific expense in mind that you feel excited about with the potential for growth?",
+            "client_message": "Yeah! I'm really looking to invest more in my, uh, tech stocks, I think they might grow pretty well!",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That sounds promising! Are you thinking of focusing on any specific companies or is it more general?",
+            "client_message": "Um, yeah, I mean, maybe like, uh, I wanna keep my eye on those big tech names, you know? Definitely, I feel like that's a good move.  I could allocate more of my funds for sure!",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Excellent! Allocating funds to tech could be beneficial. Have you considered how often you'll invest—like a monthly investment plan, for instance?",
+            "client_message": "I think doing it monthly would be good, um, let’s say, like, a couple hundred dollars or somethin.' I just really want to make sure I’m being smart about it!",
+            "field_names_covered": [
+                "priority",
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "Pension",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client rambles a bit while describing their retirement aspirations.",
+    "segments": 3,
+    "id": "ba9033f3-5cd3-493c-af2a-3ef38323aa79"
+}

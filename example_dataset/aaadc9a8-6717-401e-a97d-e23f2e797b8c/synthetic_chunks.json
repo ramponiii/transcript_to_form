@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, uh, let's just quickly go over your policies. Who's the, um, the owner of the life assurance policy?",
+            "client_message": "Oh, it's actually my husband, Jake, I think? Yeah, he's the one the policy is under.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "right, and what type of, uh, protection cover is it? Like, um, life assurance or something?",
+            "client_message": "Yeah, it's life assurance, and we pay about fifty bucks a month for it. It should cover, like, up to 100 thousand dollars if anything happens.",
+            "field_names_covered": [
+                "type",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

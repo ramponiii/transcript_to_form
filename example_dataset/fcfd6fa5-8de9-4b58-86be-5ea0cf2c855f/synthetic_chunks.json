@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your expenses. Do you have a specific expense in mind that we should focus on right now?",
+            "client_message": "Um, yeah, I think my, uh, car insurance, that's a big one. I pay, like, every month.",
+            "field_names_covered": [
+                "name",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Car insurance, got it. Alright, how much do you usually pay for that each month?",
+            "client_message": "Right, it’s, um, about 150 dollars, I think? Something around there.",
+            "field_names_covered": [
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Okay, so around 150 bucks monthly for the car insurance. Would you say that's essential for you or more like discretionary?",
+            "client_message": "I mean, I kinda need it, so, uh, it's essential, for sure. And yeah, we should, like, make a note about it. What’s next?",
+            "field_names_covered": [
+                "priority",
+                "notes"
+            ]
+        }
+    ]
+}

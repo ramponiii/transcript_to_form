@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current state of health. It's important for planning your retirement. How do you feel health-wise these days?",
+            "client_message": "Um, well... I mean, I feel okay? Like, I try to eat healthy and, uh, exercise a bit. But, you know, sometimes I just get these aches and pains, right? Nothing too serious, but enough to kinda make me think about... you know... the future. It's like, I've got this vision of retiring somewhere nice, but I worry about my health, you know?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "That's definitely understandable. Planning for retirement involves recognizing your health needs. And any specific health concerns we should note? Maybe around smoking or long-term care?",
+            "client_message": "Oh right! I do smoke, like... not a ton, but maybe a pack a week, I guess? I started when, uh, I was about 18 or so. Sometimes I think about quitting, especially if I'm gonna, you know, retire and enjoy life more! Uh, I also don't think I need long-term care yet, but... it is something that kinda lingers in my mind when I think about those plans for sunbathing on a beach somewhere down the line.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since",
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

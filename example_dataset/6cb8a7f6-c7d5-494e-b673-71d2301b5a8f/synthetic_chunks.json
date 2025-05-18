@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about, um, your dependents. Can you give me like the full name of your dependent, right? Just the, the complete name?",
+            "client_message": "Uh, yeah, so my dependent's name is Emily Jane Smith, I think that's it. Like, that's the full thing, right?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great, thanks! Uh, and, um, what’s, you know, Emily’s date of birth? Like, when was she born? Just, uh, in DD-MM-YYYY format, if you could?",
+            "client_message": "Oh, sure! She was born on 15-04-2015. I hope that's right? Like, you want that for the forms or something?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

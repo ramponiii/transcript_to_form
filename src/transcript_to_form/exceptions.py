@@ -1,0 +1,2 @@
+class ChromaDbNotRunningError(Exception):
+    pass

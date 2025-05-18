@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your income a bit. Can you, um, tell me where your main income source is coming from? Like, what's the job you're doing?",
+            "client_message": "Oh right, uh, I work at this, um, cafe, you know? It's not much, but I get, like, my salary is, um, around fifteen hundred a month, roughly. I guess it's before tax? Yeah, gross, I think?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

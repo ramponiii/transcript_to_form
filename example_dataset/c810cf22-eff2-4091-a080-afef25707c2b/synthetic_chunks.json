@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s start with your protection policies. Can you tell me who owns them?",
+            "client_message": "Um, I think, oh, it’s me, right? But, like, my family is also kinda covered? I dunno. It's all mixed up really.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what type of policy do you have? Like, is it life assurance or something else?",
+            "client_message": "Yeah, yeah, it’s uh, life cover, no wait. I think, maybe, critical illness? Something with cover, but, I’m not sure, it’s confusing.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

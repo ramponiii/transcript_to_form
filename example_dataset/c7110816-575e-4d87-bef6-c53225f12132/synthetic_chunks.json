@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's start off with your investments. Can you tell me about any savings or investment accounts you might have? Just need to get a clear picture here, you know? Uh, can you hear me okay?",
+            "client_message": "Yeah, I can hear you just fine! So, I have an ISA with my bank, it’s with, uh, Hargreaves Lansdown and it’s worth around six thousand pounds right now.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Great, good to know! Hargreaves Lansdown is a solid provider. Do you have any other investments or assets that you are currently managing?",
+            "client_message": "Um, yes, I also have a GIA, that’s a General Investment Account—uh, it’s with Barclays. The value there is about, like, four thousand five hundred pounds. I plan on moving some funds around, too.",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Okay, that sounds like a plan. And just for clarity, do you have any additional notes or details about these accounts that might be useful for us?",
+            "client_message": "Let me think... I think that’s about it, I just want to keep things flexible, you know? No specific notes really on the ISA or GIA, but I’m considering adding to both once I get some clarity on my cash flow.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

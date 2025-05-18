@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, based on your current loans, I think it might be a good idea to consolidate them. Have you considered that? It could simplify your monthly payments.",
+            "client_message": "Consolidation, huh? I dunno... I mean, what if it ends up costing me more in the long run? Like, I currently have a personal loan and a car finance, plus my mortgage, right? What's the catch here?",
+            "field_names_covered": [
+                "type",
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concern. With consolidation, you're actually looking at lower monthly costs, and your interest rate could be reduced too, depending on the provider. Let’s say, if we could get a special rate, it might help a lot!",
+            "client_message": "Okay, but what about the outstanding values on my loans? The personal loan's about ten grand and my car finance is another five. If I switch things up, will I really save money?",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value",
+                "provider",
+                "special_rate"
+            ]
+        }
+    ]
+}

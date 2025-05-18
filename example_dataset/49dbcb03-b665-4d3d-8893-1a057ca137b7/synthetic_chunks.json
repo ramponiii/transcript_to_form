@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so you mentioned your uh, monthly mortgage payment is lik, like around twelve hundred?",
+            "client_message": "Yeah, that's right, it's like, uh, twelve fifty or something. But, yeah, I pay it every month.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "And you're covering that on your own? Or is your spouse hel helping with that too?",
+            "client_message": "It's just me paying for it, ya know? My spouse, they don’t really help out with that right now.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it. So, we should mark that as an essential expense, right? Do you have any notes about this mortgage or like any timeframe?",
+            "client_message": "Yeah, I guess it's, um, essential. And, uh, I plan to keep it until like 2035 or whatever, I think.",
+            "field_names_covered": [
+                "priority",
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

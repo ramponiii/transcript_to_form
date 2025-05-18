@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to confirm, do you own the property or is it rented?",
+            "client_message": "Um, it’s, uh, kinda rented but, like, I dunno, might own someday? But, yeah, I mean, that’s how it is right now.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what’s the postcode or zip code?",
+            "client_message": "Oh right, it’s, um, you know, like, the one for my place? It’s, uh, 12345 I think? But, uh, also, I live on Main Street.",
+            "field_names_covered": [
+                "postcode",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Okay, Main Street, and do you recall the town or city?",
+            "client_message": "Yeah, it’s in Springfield, you know the one? Uh, and I moved in, like, last year, I think, late um, August?",
+            "field_names_covered": [
+                "town_city",
+                "move_in_date"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, think of investing kinda like, uh, going out for a hike, right? You gotta decide if you wanna stick to the easy path or, like, try climbing the mountain. The easy path is low risk, while the mountain is much riskier, but could lead to, ya know, more rewards.",
+            "client_message": "I kinda get that, but, um, what if I trip on the mountain path?",
+            "field_names_covered": [
+                "employment_status",
+                "occupation"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Tripping is like taking a loss on an investment. The higher up you go, the, uh, greater the risk, but if you’re careful and prepared, you could really, y'know, enjoy the view from the top.",
+            "client_message": "But isn't it scary up there? Like what if it's too steep? I mean, um, how do I know my, like, footing is solid?",
+            "field_names_covered": [
+                "desired_retirement_age",
+                "highest_rate_of_tax_paid"
+            ]
+        },
+        {
+            "advisor_message": "Right, it's like, you need a good pair of boots—just like having a solid investment strategy. You back it with, um, education and experience. That way, when the path gets rough, you can handle it. Understand?",
+            "client_message": "Sorta, but it’s hard to see the whole path, ya know? I just want to, um, ensure I’m not losing too much and can retire when I want.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

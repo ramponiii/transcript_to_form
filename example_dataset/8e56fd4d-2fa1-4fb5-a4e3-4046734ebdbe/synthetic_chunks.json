@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your retirement goals. What do you envision for that phase of your life?",
+            "client_message": "Oh, well, I mean I’ve thought about it a lot, you know, like I want to, um, travel maybe? Yeah, see the world! But I also wanna uh, spend some time with my family, especially my grandkids, you know?",
+            "field_names_covered": [
+                "retirement aspirations"
+            ]
+        },
+        {
+            "advisor_message": "That's wonderful! Traveling can be such a rewarding experience. Do you have specific places in mind?",
+            "client_message": "Yeah, definitely! Like, um, I’ve always wanted to go to Europe, you know, Paris, Italy, those kinda places. But then there's also like staying at home and just, you know, enjoying the simple things too, like cooking with my spouse, maybe gardening or something. It’s just, there's so much I, uh, want to do!",
+            "field_names_covered": [
+                "retirement aspirations"
+            ]
+        },
+        {
+            "advisor_message": "It sounds like you have a vibrant picture of your retirement life. Balancing adventure with family time is great. Have you considered how you’ll manage your finances to support these plans?",
+            "client_message": "Oh, for sure! This is where it gets a bit tricky, honestly. Like, I’m thinking about my savings and if it'll be enough and stuff. I mean, I don't wanna run out of money while traveling or if I, um, end up needing more care later. It just... makes me nervous, you know?",
+            "field_names_covered": [
+                "retirement aspirations"
+            ]
+        }
+    ]
+}

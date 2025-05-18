@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's say you have a Life Assurance policy, just to illustrate how these things work. Imagine it's with a provider like XYZ Insurance, and the amount assured is, for example, £200,000. This means that in the event of unforeseen circumstances, your loved ones would receive that amount. Do you already have something like this in place?",
+            "client_message": "Actually, I do have a plan in place, but it's with ABC Insurance. The coverage is around £150,000. I haven't really thought much about the specifics lately.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "amount_assured"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, if you’re paying a monthly cost of say £50 for that coverage, it’s essential to know if it’s written in trust. This would ensure your family doesn’t face delays with payouts. How about your policy? Is it set up that way?",
+            "client_message": "Hmm, that's a good question. I don't think mine is in trust, but I can check. I just wanted to make sure everything is covered until I retire, which is in 2035. I guess I need to clarify that too.",
+            "field_names_covered": [
+                "monthly_cost",
+                "in_trust",
+                "assured_until",
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s start with your address details, right? Can you tell me about the ownership status of your property? Like, do you own it or is it rented?",
+            "client_message": "Um, yeah, I-I own it, I think? Like, we’ve been here for a while now, so yeah… but, uh, it’s hard to keep track, you know?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what about the postal code? Do you have that handy?",
+            "client_message": "Oh jeez, I-I think it’s, uh, 12345? I’m not really sure, um, I don’t remember if it’s exactly that but it’s around that number, you know?",
+            "field_names_covered": [
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "No worries, we’ll double-check that later. Now, can you give me the town or city name where you live?",
+            "client_message": "Sure! It’s, um, Newtown. Yeah, Newtown! And, oh! I live on, like, Elm Street, I think? We moved here a couple years ago.",
+            "field_names_covered": [
+                "town_city",
+                "street_name"
+            ]
+        }
+    ]
+}

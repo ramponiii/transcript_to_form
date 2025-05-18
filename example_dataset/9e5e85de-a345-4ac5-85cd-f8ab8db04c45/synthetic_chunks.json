@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so tell me, what are you looking to get out of this session? Any specific goals on your mind?",
+            "client_message": "Oh yeah, um, I'm really excited about how much my investments can grow! Like, I want to, you know, make the most of it and see those numbers go up, right?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That sounds promising! Do you have any particular investment strategies or areas you're interested in?",
+            "client_message": "Well, uh, I was thinking maybe like, stocks? I’ve heard that they can, you know, really take off if you pick the right ones. It’s just super exciting to think about!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Stocks can be great. It’s all about timing and research. Any sources of information you've looked into to help guide you?",
+            "client_message": "I’ve been reading a few articles online and watching, um, YouTube videos, but I'm no expert. Just want to make sure I’m making smart moves with my money, you know?",
+            "field_names_covered": [
+                "sources"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, think of risk like, like, driving a car, okay? If you go too fast, uh, you might crash. But, if you drive slow, you get there safer, but it takes longer, right?",
+            "client_message": "Yeah, I kinda get that, but, um, what do you mean by like, crash? Like, is that, uh, bad investments or something?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! If you, like, don’t pay attention, you could make a bad turn, sort of like how people might not see market changes. It's all about, um, how prepared you are.",
+            "client_message": "Oh, okay, I think I see, but, uh, why would anyone wanna drive fast if it’s risky?  I mean, is there like a reward or...",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Right, that’s a good question! People sometimes want to reach their destination quicker, and, uh, higher risk can mean, like, higher rewards. But you gotta, you know, balance that with caution.",
+            "client_message": "Got it, but it still sounds kinda dangerous. Uh, what should I do if I wanna, like, be safe but also not miss out on, uh, opportunities?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's talk a bit about, like, your risk tolerance, alright? If you were, uh, to consider, uh, investing in something that could, like, lose a lot of value before it could potentially gain, how, um, would you feel about that?",
+            "client_message": "Uh, I dunno, like, I guess it kinda makes me nervous, you know? I mean, if I lost, say, a big chunk of my income, uh, I wouldn't be great, right?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Right, totally get that. How about if the investment, um, had a chance to, like, double your income over time? Would that change how, uh, you feel?",
+            "client_message": "Hmm, well, I mean, doubling my income sounds good and all, but what if I – I, like, need that money, uh, for expenses? I, like, worry about how stable it is, you know? Like, is it, uh, consistent?",
+            "field_names_covered": [
+                "owner",
+                "amount",
+                "frequency",
+                "notes"
+            ]
+        }
+    ]
+}

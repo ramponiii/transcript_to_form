@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a clear next step agreed upon at the end.",
+    "segments": 2,
+    "id": "03de8e36-9642-4ba7-9414-71ea2290a7a6"
+}

@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a friendly and informal tone throughout.",
+    "segments": 3,
+    "id": "3065e708-0f96-4990-bc98-7257cb3de961"
+}

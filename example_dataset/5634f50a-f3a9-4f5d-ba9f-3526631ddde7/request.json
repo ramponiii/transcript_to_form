@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a clear next step agreed upon at the end.",
+    "segments": 3,
+    "id": "5634f50a-f3a9-4f5d-ba9f-3526631ddde7"
+}

@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great! So, let's talk about your investments. Do you have any specific savings or investment accounts that you own currently? Maybe like an ISA or something?",
+            "client_message": "Yeah, I actually have an ISA. It’s with Barclays, and it's worth around five thousand pounds right now. I mean, I haven’t put much money into it lately, just trying to figure out my options, you know?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

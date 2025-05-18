@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's talk about your pension, uh, what type of pension do you have, like is it, um, Defined Contribution or something else?",
+            "client_message": "Um, yeah, I think it's, uh, a Defined Benefit pension. And, um, the provider is, like, UK Pension Services. But I, uh, don't remember the, um, policy number right now.",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "policy_number"
+            ]
+        }
+    ]
+}

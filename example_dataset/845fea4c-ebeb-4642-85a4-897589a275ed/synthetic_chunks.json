@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me about your, like, current living situation? Do ya own your place or is it, um, rented?",
+            "client_message": "Oh, I actually, um, I rent my place. It's, uh, a two-bedroom flat in the center of, you know, the town. Just by the park and all that, it's nice, I guess. Umm, I live on, uh, Park Avenue, number 50.",
+            "field_names_covered": [
+                "ownership_status",
+                "house_name_number",
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Nice, nice! Gotcha. And, um, do you know your postcode or ZIP code? Just so we can, ya know, get the details all sorted out.",
+            "client_message": "Yeah, it's, uh, 12345, right in the heart of the city. I moved in here about six months ago, I think, in, like, April or so, if that helps.",
+            "field_names_covered": [
+                "postcode",
+                "move_in_date"
+            ]
+        }
+    ]
+}

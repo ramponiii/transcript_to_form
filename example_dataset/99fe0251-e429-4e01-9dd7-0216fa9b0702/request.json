@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a noticeable difference in speaking pace between the advisor and the client.",
+    "segments": 2,
+    "id": "99fe0251-e429-4e01-9dd7-0216fa9b0702"
+}

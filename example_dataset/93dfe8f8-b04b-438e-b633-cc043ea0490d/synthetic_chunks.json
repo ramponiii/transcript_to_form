@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, can we go over some basic details about your employment situation and residency? Let's start with where you’re living for tax purposes.",
+            "client_message": "Uh, yeah, so I'm, um, living in the UK I guess, uh, London actually. But I’ve been, like, spending some time, you know, visiting family in Spain. Tax resident? Not sure...maybe, right? My job is sort of part-time at a, um, retail store, but I also freelance a little, like, uh, in graphic design. Oh! My employer, it’s, um, let me think, it’s called Creative Store. And my National Insurance number is, uh, oh gosh, I think it’s like AB123456C, or something like that. I really want to retire at, um, maybe 65, if I, you know, manage? And, uh, I started working there about a year ago, I think? So, um, yeah…",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax",
+                "national_insurance_number",
+                "employment_status",
+                "occupation",
+                "employer",
+                "employment_started",
+                "desired_retirement_age"
+            ]
+        }
+    ]
+}

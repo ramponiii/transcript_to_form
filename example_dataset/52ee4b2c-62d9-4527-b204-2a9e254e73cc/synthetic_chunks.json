@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s start with your dependent. Can you tell me their full name?",
+            "client_message": "Um, the name? It’s like, uh, Jessie, I think that's right, Jessie maybe Jones or something? Yeah, Jones, that sounds right.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it. When is Jessie’s birthday?",
+            "client_message": "Oh, yeah, it's, like, um, I wanna say, uh, February something... No, wait, wait, it’s the 15th, uh, 2005 or maybe 2006? Uh, it's in February for sure!",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

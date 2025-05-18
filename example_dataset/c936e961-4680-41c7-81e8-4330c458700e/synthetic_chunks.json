@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your assets. Can you tell me what you have and maybe a little bit about each one?",
+            "client_message": "Sure! I have a classic car, it's a 1967 Mustang. I bought it for about 25,000 dollars a few years ago.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a great asset. And what's its current estimated market value?",
+            "client_message": "Um, I think it’s worth around 40,000 now? I, I've also got some collectibles, like a few rare coins, which I haven't really assessed yet. Just really love having them!",
+            "field_names_covered": [
+                "current_value",
+                "notes"
+            ]
+        }
+    ]
+}

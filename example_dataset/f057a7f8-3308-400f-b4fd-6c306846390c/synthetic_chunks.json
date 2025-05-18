@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your loan, can you tell me who the current loan provider is?",
+            "client_message": "Yeah, it's with Wells Fargo. I just want to make sure I have everything right for my records.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "And what's the outstanding balance on that loan right now?",
+            "client_message": "Uh, I believe it's around $15,000, but I need to double-check on the monthly payments as well.",
+            "field_names_covered": [
+                "outstanding_value",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

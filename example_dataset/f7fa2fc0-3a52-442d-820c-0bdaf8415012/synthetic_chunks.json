@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current loans and mortgages. Can you remind me who exactly is the owner of the mortgage?",
+            "client_message": "Oh, uh, that's me, I'm the owner. Right now, I've got a mortgage and, um, I work as a graphic designer too.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what type of mortgage are we looking at, do you remember?",
+            "client_message": "Yeah, it's a mortgage. I, um, pay like a pretty decent monthly cost, you know?",
+            "field_names_covered": [
+                "type",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

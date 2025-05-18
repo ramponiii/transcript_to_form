@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's say you're planning for retirement, right? Imagine you want to retire by 65, and you estimate your yearly expenses to be around 50,000 dollars. If you plan to live until 85, you'd need about a million dollars to cover those costs, assuming you don't have other income streams or pensions.",
+            "client_message": "Yeah, that makes sense, but, um, what if I don’t even have close to a million saved? Like, I only have about 200,000 right now and I’m honestly not sure how to, like, make up that gap.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Could you please let me know what expenses you have that are tied to any joint ownership? This could include things like mortgage payments or insurance.",
+            "client_message": "Oh, sure! We’ve got a couple of shared expenses. For instance, the mortgage payment is mostly paid by me, and it's about fifteen hundred dollars a month.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "That’s helpful to know. Would you say this mortgage is an essential expense, and do you have any specific timeline or notes you want to add regarding it?",
+            "client_message": "Yeah, definitely an essential one! We plan to keep paying it till twenty thirty-five. It’s pretty straightforward, nothing special about it, really.",
+            "field_names_covered": [
+                "priority",
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

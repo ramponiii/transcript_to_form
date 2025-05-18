@@ -1,0 +1,7 @@
+{
+    "model": "Dependent",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 3,
+    "id": "85759c32-b487-4d34-9fcb-09f5a65a4a6e"
+}

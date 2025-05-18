@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, when thinkin about your investments, how would you feel, like, if the market dropped, say, 20%? Would you, like, be comfortable just kinda sittin tight or, uh, would that worry you?",
+            "client_message": "Uh, wow, a twenty percent drop? I mean, that would, like, make me kinda nervous. I’m not sure I’d be comfy just sittin there, you know?",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "And what if, um, let’s say you had a chance to invest in somethin that could, you know, double your money but then it could also lose half its value? How do you, um, feel about that kinda risk?",
+            "client_message": "Hmm, doubling would be cool, but losing half? That’s... I dunno, sounds too risky for me, I guess. But maybe I could try it if I knew more, ya know?",
+            "field_names_covered": [
+                "risk_tolerance",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Right, I get that. Risk is, um, really personal. Last one, what if you had something, say, like a vintage car? You bought it for, like, 50 grand, and it’s now worth 30 grand, but you’re attached to it. How would you think about that?",
+            "client_message": "Oh man, that’d be tough! Like, I love that car but losing value like that? Mmm, I can see why people get stressed over it. I’d probably hold onto it tho, y’know?",
+            "field_names_covered": [
+                "original_value",
+                "current_value",
+                "description",
+                "notes"
+            ]
+        }
+    ]
+}

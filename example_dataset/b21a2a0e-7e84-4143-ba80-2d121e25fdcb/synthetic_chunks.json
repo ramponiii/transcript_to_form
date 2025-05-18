@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s say you’re, um, living in the UK, right? And if you're, uh, working, like, full-time, that’s considered your employment status, yeah? Let’s say you’re employed by a company, and your job title might be something like a software developer. Then, if you’re, um, working in the UK, you’d wanna think about your tax residency, too, like, basically where you are domiciled, you know?",
+            "client_message": "Yeah, I’m actually in the UK, and I've been, um, living here for a long time. I work as a software developer for this tech firm, and, like, yeah, I’m a tax resident here. My National Insurance number is, uh, AB123456C, and I started working back in 2015, haha.",
+            "field_names_covered": [
+                "country_domiciled",
+                "employment_status",
+                "occupation",
+                "employer",
+                "resident_for_tax",
+                "national_insurance_number",
+                "employment_started"
+            ]
+        }
+    ]
+}

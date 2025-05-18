@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's start with your current living situation. Can you share whether you own or rent your home?",
+            "client_message": "I actually own my home now.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Great! And which town or city do you currently reside in?",
+            "client_message": "I live in Bristol.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that information. Could you also provide me with your street name and postal code?",
+            "client_message": "Sure! I'm on Maple Avenue, and the postcode is BS1 2AB.",
+            "field_names_covered": [
+                "postcode",
+                "street_name"
+            ]
+        }
+    ]
+}

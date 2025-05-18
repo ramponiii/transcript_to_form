@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
+    "segments": 3,
+    "id": "313b2b1c-a85d-49f1-aed8-9be4b53977df"
+}

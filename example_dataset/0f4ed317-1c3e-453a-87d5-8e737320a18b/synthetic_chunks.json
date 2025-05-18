@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, tell me, where are you, like, domiciled? I mean, which country do you currently call home?",
+            "client_message": "Oh, right! So, I'm uh, actually living in the UK right now. I moved here a couple years ago, and, um, that's where I, like, set up my home.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "I see, I understand. And, um, are you a tax resident, like, in the UK?",
+            "client_message": "Yeah, yeah, I am a tax resident now, uh, since I've been here for a while. I, um, pay my taxes here and all.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

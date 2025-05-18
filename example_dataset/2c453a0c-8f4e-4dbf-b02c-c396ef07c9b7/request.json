@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an interaction where the advisor probes the client's risk tolerance using different scenarios, and the client expresses some uncertainty.",
+    "segments": 3,
+    "id": "2c453a0c-8f4e-4dbf-b02c-c396ef07c9b7"
+}

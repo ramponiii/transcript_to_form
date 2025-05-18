@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so think about uh, like, uh, driving a car, right? You, um, you gotta know the risks involved. If you drive too fast, uh, you might crash, but if you drive slow, you might miss, like, all the fun. Investing is kinda like that—there’s a balance, you know?",
+            "client_message": "Uh, yeah, okay, but, like, I’m not really sure how that relates to my loan stuff? I mean, I just wanna know how my monthly payments will, um, change overtime or something.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate"
+            ]
+        }
+    ]
+}

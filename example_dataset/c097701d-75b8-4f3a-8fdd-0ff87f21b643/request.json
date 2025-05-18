@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client expresses skepticism about the advisor's recommendations.",
+    "segments": 3,
+    "id": "c097701d-75b8-4f3a-8fdd-0ff87f21b643"
+}

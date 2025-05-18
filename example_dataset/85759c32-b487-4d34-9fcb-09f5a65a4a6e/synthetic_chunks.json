@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, before we move on, could you provide me with the full name of your dependent?",
+            "client_message": "Sure, it's Mia Johnson.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great, and when was Mia born? I need the date of birth in DD-MM-YYYY format.",
+            "client_message": "She was born on 15-04-2015.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Thanks! Just one more thing, is there a specific date until when Mia will be considered your dependent?",
+            "client_message": "Yeah, she’ll be a dependent until she turns 18, so that would be till 15-04-2033.",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

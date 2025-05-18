@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so regarding your income, I suggest we consider various sources to optimize your portfolio. It’s crucial to identify all the avenues you have, like salary or rental income, you know what I mean?",
+            "client_message": "Yeah, but like, I dunno man, are we sure we need to list every little thing? I mean my salary's kinda low, plus I’m not even sure if the rental income is worth it.",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "I understand your hesitation. But having a clear picture of your assets is important. Can you tell me more about your salary and the rental income? How much do you bring in from each source?",
+            "client_message": "Um, okay so my salary is like around twenty-five thousand a year but uh the rental's, I guess it's maybe a thousand bucks a month? But like it's not super stable or anything.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "That’s good info! Now, is the amount you mentioned net or gross? That’ll help us figure things out better.",
+            "client_message": "Uhh, I think it's gross? I mean I always get taxed, so, y'know, it's not like I see all of that. And uh, do we really have to look at all this income stuff right now?",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        }
+    ]
+}

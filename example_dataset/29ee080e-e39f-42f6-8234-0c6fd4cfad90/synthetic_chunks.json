@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to get a better understanding of your health for planning purposes, could you tell me how you're feeling these days? Like, any issues you might have or uh, just your general state of health?",
+            "client_message": "Yeah, um, I've been okay, I guess. Not really any major problems. Just, you know, bugged by allergies and stuff. Oh, and I smoke a bit, like... maybe ten cigarettes a day? Been doing that since, uh... age 19? But, it’s nothing too serious, right?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

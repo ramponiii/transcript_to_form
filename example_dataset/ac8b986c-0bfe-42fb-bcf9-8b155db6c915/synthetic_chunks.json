@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about your current health. How have you been feeling lately? Any issues you want to share?",
+            "client_message": "You know, I feel okay overall, but I do have some nagging back pain. It's been bugging me for a while now, but it’s not too serious, I think.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "And what about smoking? Do you smoke at all? It’s okay if you do, just to keep it all honest, right?",
+            "client_message": "Yeah, I smoke. Been doing it since I was about 18. I’d say I smoke around ten cigarettes a day, maybe a few more on weekends. Just trying to manage it, you know?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your dependents. Do you have anyone in mind you’d like to include for retirement planning?",
+            "client_message": "Oh, yeah, um, I have a daughter, her name's Lucy, right? And, wow, she's turning 18 next month, so I kinda wonder, you know, should I consider her a dependent? I mean, she’ll need support, like, for college and all that stuff. It's just, uh, a lot to think about with her heading into adulthood and, um, finding her way.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Understood. It sounds like you really want to ensure Lucy is taken care of during this transition. Do you know when she’ll no longer be classified as your dependent?",
+            "client_message": "Hmm, I guess technically, uh, it’s like when she turns 24, right? Like, if she’s still in school, but honestly, I hope to support her until she really stands on her own feet, which could take some time but, yeah, I think it’s around that age.",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

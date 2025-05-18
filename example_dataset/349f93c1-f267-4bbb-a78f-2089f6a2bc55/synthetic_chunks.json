@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, as we start, could you tell me what your main, uh, goals are, like what you want to achieve?",
+            "client_message": "Yeah, um, I really wanna save up for my kid's college, uh, that's like super important to me.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So college savings, anything else on your mind, maybe retirement?",
+            "client_message": "Eh, retirement is, you know, kind of in the back of my mind, but college is, uh, the top priority right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Understood! We'll focus on the college savings for now then. When do you want to start, or do you have a plan?",
+            "client_message": "I was thinking to start like, uh, maybe next month? Just want to get things rolling.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

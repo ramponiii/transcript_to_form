@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Now, regarding your investment portfolio, could you please share with me the specific type of savings or investment you currently hold? It would help if you could mention the provider as well.",
+            "client_message": "Sure! I have an ISA with Barclays that’s currently my main savings vehicle.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for clarifying that! Can you also let me know the current value of your ISA, and if there are any additional notes about it that I should be aware of?",
+            "client_message": "Yes, it’s about £15,000 right now. Um, oh, and I've been really happy with the interest rate, so no complaints there.",
+            "field_names_covered": [
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

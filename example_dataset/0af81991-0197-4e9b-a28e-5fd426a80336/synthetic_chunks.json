@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to get a better sense of your risk tolerance, let’s think about a couple of scenarios. First, imagine you’ve invested in a stock that drops significantly in value. How do you think you might react to that? Would you hold on, sell, or maybe buy more?",
+            "client_message": "Hmm, I guess that’s a tough one. I mean, if it drops, part of me says to maybe hold on and see, but then another part thinks, uh, should I just sell and cut my losses? I kinda feel uncertain about it.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That's a completely valid response. It’s normal to feel unsure. Now, let’s switch gears a bit. If you were investing in a bond that offers lower returns but is stable, how would you feel about that in comparison to the stock scenario?",
+            "client_message": "Yeah, uh, that sounds more comfortable, I guess? Just knowing it’s more stable gives me some peace of mind, but then I'd wonder if I'm missing out on bigger gains with stocks, y’know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

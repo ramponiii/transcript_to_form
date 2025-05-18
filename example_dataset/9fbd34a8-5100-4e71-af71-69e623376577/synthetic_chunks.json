@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your dependent's name and their date of birth?",
+            "client_message": "Uh, yeah, so, my son his name is like um, Jake, no wait, it's Jason, yeah, Jason! He was born uh, I think it's like a, uh, 12-05-2006 or somethin', maybe? And, I, I guess, uh, I don't know if he still depends on me after like, when's that, 2024? Oh wait, I should check, I dunno, I just, I'm kinda fuzzy on all this stuff and, like, it’s, it’s a bit confusing.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

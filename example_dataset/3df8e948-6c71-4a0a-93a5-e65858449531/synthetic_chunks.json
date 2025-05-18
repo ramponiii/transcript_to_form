@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's dive into your financial situation. First off, can you tell me where you're currently domiciled? I want to make sure I have all the right info here.",
+            "client_message": "Sure, I’m living in the UK right now. Um, can you hear me okay?",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Yes, I can hear you! Now, do you consider yourself a tax resident here in the UK?",
+            "client_message": "Yeah, I am a tax resident here in the UK. So, um, yeah, that should be good for tax purposes.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what about your employment status? Are you currently employed, self-employed, or unemployed?",
+            "client_message": "I’m employed at a tech company, started a couple of years ago. You know, just trying to save for retirement and all that.",
+            "field_names_covered": [
+                "employment_status",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

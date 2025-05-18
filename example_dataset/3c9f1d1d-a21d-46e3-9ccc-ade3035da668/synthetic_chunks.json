@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, to start off, do you have like any assets you want to discuss? Maybe like, I dunno, a car or somethin’?",
+            "client_message": "Yeah, I have this classic car, uh, it’s a 1970 Mustang. I think it’s worth, maybe, 25 thousand?",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Oh cool, a Mustang! Do you remember how much you, uh, paid for it initially?",
+            "client_message": "I bought it for like 15 thousand I think, or maybe it was 12. I dunno, it's been a while, you know?",
+            "field_names_covered": [
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Got it, that’s helpful! Any, uh, notes or other details about the car? Like, special paint or something?",
+            "client_message": "Yeah, it’s got this special paint job and, um, a few upgrades that I did over the years, I should probably mention that.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

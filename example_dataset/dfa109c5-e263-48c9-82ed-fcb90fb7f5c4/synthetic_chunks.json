@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your financial goals. What specific objectives do you have in mind that we should focus on today?",
+            "client_message": "I really want to save for uh, my kids' college and, maybe start investing for retirement too.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That makes perfect sense. Saving for college and investing for retirement are both really important. We can definitely create a plan for that.",
+            "client_message": "Yeah, I just wanna make sure I'm on the right track, y'know? Like, is there a specific percentage I should be saving each month or something?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

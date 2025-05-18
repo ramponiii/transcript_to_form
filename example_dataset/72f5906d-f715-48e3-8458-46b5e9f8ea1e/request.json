@@ -1,0 +1,7 @@
+{
+    "model": "Income",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an awkward and slightly abrupt call conclusion with some overlapping speech.",
+    "segments": 3,
+    "id": "72f5906d-f715-48e3-8458-46b5e9f8ea1e"
+}

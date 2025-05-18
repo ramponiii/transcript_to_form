@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s recap your pension details. You mentioned that the owner of the policy is you, correct?",
+            "client_message": "Yes, that's right, I'm the owner.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of pension are we looking at here? Was it a Defined Contribution plan, or something else?",
+            "client_message": "Oh, it's actually a SIPP, Self-Invested Personal Pension.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it, a SIPP. And do you recall the current value of that pension fund?",
+            "client_message": "Um, yes, I think it's around fifty thousand pounds, but I should double-check the exact figure.",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

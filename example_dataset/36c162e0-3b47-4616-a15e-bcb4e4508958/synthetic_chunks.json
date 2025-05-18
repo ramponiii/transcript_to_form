@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, in our discussions, I mentioned the concept of tax residency, which basically refers to whether you're considered a tax resident in the country you live in. Do you understand how tax residency affects your financial planning?",
+            "client_message": "I think I get it, but can you explain that tax residency thing a bit more? It sounds important but I'm not sure how it works, you know?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Being a tax resident means you're liable to pay taxes in that country on your worldwide income. For example, if you're living and working in the UK, you might be seen as a tax resident there.",
+            "client_message": "Ah, got it! So, would that mean if I decided to retire abroad, I might have to pay taxes in both places? That could get complicated, huh?",
+            "field_names_covered": [
+                "country_domiciled",
+                "desired_retirement_age"
+            ]
+        }
+    ]
+}

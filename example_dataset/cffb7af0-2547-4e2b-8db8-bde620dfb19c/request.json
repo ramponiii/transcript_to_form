@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a formal and polite exchange.",
+    "segments": 2,
+    "id": "cffb7af0-2547-4e2b-8db8-bde620dfb19c"
+}

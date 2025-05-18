@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about your income. What sources do you have coming in?",
+            "client_message": "Um, well I got this salary from my job, yeah, it’s like a, uh, gross amount, I think it’s like, uh, four thousand a month, I guess. And I mean it’s just, um, for now, until I, you know, move or something.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross",
+                "timeframe"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So that’s four thousand gross per month from your salary. Do you have any other income sources you’d like to share?",
+            "client_message": "Yeah, um, I also have some rental income, right? It’s, like, a thousand, I think? And that comes in monthly too. Just kinda helps with bills y'know?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

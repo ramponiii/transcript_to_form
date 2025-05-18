@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risk like, um, driving a car. You know, when you drive, there's always a chance of, like, hitting a bump or even, uh, getting in an accident, right? But if you wear your seatbelt, that helps, um, reduce the risk. Investments are kinda similar.",
+            "client_message": "Uh, okay, but like, do I need to, um, wear a seatbelt for everything? Like, some of my money is, um, in stocks?",
+            "field_names_covered": [
+                "net_gross",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Just like you wouldn’t drive without a seatbelt, you wanna make sure your financial plan, um, has some safety measures in place. The higher the potential reward from your investments, you know, usually it means there’s also, uh, higher risk involved.",
+            "client_message": "Right, but, like, how do I know if it’s too risky or, um, not? Like, uh, what does that even mean for me?",
+            "field_names_covered": [
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Great question! It's like, uh, if you're going off-road versus driving on, um, a flat highway. Off-roading is exciting but risky, while the highway is, uh, smoother and safer. We just wanna balance that, um, excitement with your comfort level.",
+            "client_message": "Got it, but I still feel a bit lost on, um, how to decide what’s safe for my savings?",
+            "field_names_covered": [
+                "owner",
+                "sources"
+            ]
+        }
+    ]
+}

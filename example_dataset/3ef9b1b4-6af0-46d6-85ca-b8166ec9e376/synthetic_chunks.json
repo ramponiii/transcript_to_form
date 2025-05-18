@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can you tell me who actually owns the the pension policy, if you know? Like, um, is it you or someone else?",
+            "client_message": "Yeah, it's mine, I got it in my name. Just me, right?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "I see! And, um, what type of pension is it? Like, is it a Defined Contribution or State Pension, something like that?",
+            "client_message": "Oh, um, it’s a Defined Contribution pension, yeah. Just a regular one from my employer, I think. You know?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

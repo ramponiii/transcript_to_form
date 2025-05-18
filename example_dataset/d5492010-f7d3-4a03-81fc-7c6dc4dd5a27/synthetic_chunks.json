@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's discuss your existing protection policies. Could you please tell me who the owner of the policy is?",
+            "client_message": "Sure, the policy is in my name, it’s just me. I took out a life assurance cover about three years ago.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that. And could you share the type of protection policy you have, as well as the monthly cost associated with it?",
+            "client_message": "Yeah, it’s a Life Assurance policy, and I pay about fifty-five pounds a month for it. The payout amount is around one hundred thousand, if I remember correctly.",
+            "field_names_covered": [
+                "type",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

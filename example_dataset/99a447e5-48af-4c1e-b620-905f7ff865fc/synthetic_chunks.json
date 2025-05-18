@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your assets. Do you currently have any significant assets that you'd like to discuss? Just checking, can you, um, hear me okay?",
+            "client_message": "Yeah, I can hear you pretty well. I actually have a classic car and a small art collection that I think is valuable.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Great! Could you tell me more about the classic car? Like, what do you think it's worth now? And, uh, do you remember how much you paid for it originally?",
+            "client_message": "Sure! The car, I bought it for around 15 grand and now, I think it’s worth about 25 grand, maybe? I just love it, it’s a beauty!",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your income sources, right? Do you have, like, a primary source of income you can share?",
+            "client_message": "Yeah, um, I get my salary from my job. It's, like, uh, around 3 thousand a month, I think.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Okay, so that’s clear. Would that be, um, gross or net income? Like, after taxes or before?",
+            "client_message": "Oh, it’s net, you know, after taxes. Yeah, that's what I meant to say.",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And is there any, uh, specific timeframe for this income? Like, just ongoing or, um, set to end anytime?",
+            "client_message": "Nah, it’s, uh, ongoing for now, no end date or anything like that.",
+            "field_names_covered": [
+                "timeframe"
+            ]
+        }
+    ]
+}

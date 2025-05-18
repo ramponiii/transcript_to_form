@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about any income you have, like, uh, sources or anything? Just, you know, stuff you're getting from work or other things?",
+            "client_message": "Yeah, I guess my main income is from my job. I, uh, make about three thousand dollars a month, I think? It's, like, at a, um, graphic design firm. So that's my main thing, right now.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool! So that's definitely helpful. Is that amount gross or net, like after taxes or before? Also, any idea on how long you'll keep getting that?",
+            "client_message": "Oh, um, that's gross, I guess. And I, uh, plan on staying there at least until, like, 2025, if everything goes well, you know? It’s a fun job.",
+            "field_names_covered": [
+                "net_gross",
+                "timeframe"
+            ]
+        }
+    ]
+}

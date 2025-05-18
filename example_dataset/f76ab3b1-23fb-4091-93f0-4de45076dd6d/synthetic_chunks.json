@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's start with some basics. Can you tell me your first name and your last name?",
+            "client_message": "Sure! My name is Jessica Brown.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Nice to meet you, Jessica! Do you have any middle names you'd like to share?",
+            "client_message": "Uh, yeah, actually! It's Marie, so it’s Jessica Marie Brown.",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, Jessica Marie Brown. I love it! Just one more thing, can I ask you how you prefer to be known, like do you have a nickname?",
+            "client_message": "Oh, just Jess is fine! Everyone calls me that.",
+            "field_names_covered": [
+                "known_as"
+            ]
+        }
+    ]
+}

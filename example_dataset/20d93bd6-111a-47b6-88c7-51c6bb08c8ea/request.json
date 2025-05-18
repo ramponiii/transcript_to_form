@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an exchange where the advisor uses a hypothetical example to illustrate a point.",
+    "segments": 2,
+    "id": "20d93bd6-111a-47b6-88c7-51c6bb08c8ea"
+}

@@ -1,0 +1,7 @@
+{
+    "model": "SavingOrInvestment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client expresses skepticism about the advisor's recommendations.",
+    "segments": 2,
+    "id": "434e9e3f-2511-4e37-a2a4-a1bd79f5d7b7"
+}

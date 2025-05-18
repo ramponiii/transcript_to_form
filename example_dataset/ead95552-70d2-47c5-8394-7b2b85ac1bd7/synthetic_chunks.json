@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Good morning! I’d like to start by confirming your current country of domicile. Could you please provide that information?",
+            "client_message": "Good morning! Yes, I’m currently domiciled in the United Kingdom.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that. Are you a tax resident in the UK as well?",
+            "client_message": "Yes, I'm indeed a tax resident here in the UK.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "That’s good to know. Lastly, could you share your employment status and what your occupation is?",
+            "client_message": "Certainly! I’m currently employed as a project manager at a tech firm.",
+            "field_names_covered": [
+                "employment_status",
+                "occupation",
+                "employer"
+            ]
+        }
+    ]
+}

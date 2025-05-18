@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, reviewing your pension options, I think a Defined Contribution plan would be the best fit for your goals. You could potentially maximize your contributions and grow your fund over time. What do you think?",
+            "client_message": "I dunno, I mean, isn't a Defined Contribution, like, kinda risky? What if the market doesn't do well?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's a valid concern. However, with a good strategy, we can mitigate some of those risks. Also, which provider are you currently with for your pension?",
+            "client_message": "Well, I'm with XYZ Financial, but I'm not sure about the value or even the policy number off the top of my head. It's been a while since I looked into it, y'know?",
+            "field_names_covered": [
+                "provider",
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

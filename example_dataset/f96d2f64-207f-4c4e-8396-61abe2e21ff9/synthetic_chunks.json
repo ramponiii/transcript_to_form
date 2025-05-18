@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s talk about, uh, the loans you might have, right? Can you tell me, uh, who’s the loan, um, owned by? Like, your name or if there are some other, uh, people involved?",
+            "client_message": "Yeah, um, the loan's under my name, it's just me, I took out a, uh, personal loan.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and, um, can you share how much, uh, you pay monthly for that loan? Like, what’s, uh, the monthly cost?",
+            "client_message": "I think it's around, like, uh, three hundred bucks a month, or maybe a bit more, I’m not sure.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

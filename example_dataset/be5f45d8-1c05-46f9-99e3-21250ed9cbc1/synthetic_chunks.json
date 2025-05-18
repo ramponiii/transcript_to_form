@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, just to summarize, we need to go over your pension details. You mentioned you have a, uh, Defined Contribution plan, right? What about the, uh, provider, like who’s managing it?",
+            "client_message": "Yeah, I think it’s, um, like, yeah, it's with Standard Life or something. W-wait, did you need the policy number too?",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Yes, exactly! The policy number would be helpful, and, uh, what's the current value of your pension fund?",
+            "client_message": "Oh man, um, let’s see... like it's around fifty thousand, uh, I think? I’m not sure, though, it might be more or less, um, but around that.",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so fifty thousand is a good start. And any notes you want to add about that pension?",
+            "client_message": "Uh, I al— I remember there’s that, um, note about the fees, they’re high, I think? Really need to check that, but, um, yeah.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of it like this, um, if you have a dependent, like a child, you might want to note their name and, um, when they were born, okay? Like, say your child, I dunno, their name is Alex, and they were, um, born, uh, on, like, 15-08-2015 or something. That means they will be considered a dependent until a certain age, maybe 18 years old, so you’d need to, uh, mention that too, right?",
+            "client_message": "Yeah, um, I have a son, his name's actually James, he was born on 20-01-2016. I guess, um, he'd be considered a dependent until he's, uh, 18 then, right?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

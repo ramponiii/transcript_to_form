@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you remind me, do you still work at the same place? Like the one you mentioned, um, the tech company or what was it again?",
+            "client_message": "Oh, uh, yeah, I’m still there! Just, um, you know... my job’s kinda stressful actually, and it’s, uh, a lot to handle with all those deadlines and stuff. But,yeah, it’s a good job, I think. I mean, I, d'you know what I mean?",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it! And, uh, do you have any pension stuff through them? Like a scheme or something?",
+            "client_message": "Right, eh, I think so. They have this, um, yeah, pension plan like a defined contribution type or whatever. It’s confusing, like I just get the papers, you know? So, I, um, just hope it’s enough later, if that makes sense?",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "That makes perfect sense! And what’s the value of that pension plan right now? Any idea?",
+            "client_message": "Uh, let me think... I, I don’t really keep track, you know? Maybe around, um, a thousand dollars or so? Something like that. I just kinda looked at it last week, but yeah...",
+            "field_names_covered": [
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

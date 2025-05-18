@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your expenses, yeah? Like, can you tell me who's mainly responsible for those? I mean, like, you or maybe your spouse?",
+            "client_message": "Oh yeah, it's mostly me, um, for updating the bills and all that stuff, my spouse helps out sometimes, but I'm the one who keeps track, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, uh, what’s the name of one of your bigger expenses? Like, do you have a mortgage or anything like that?",
+            "client_message": "Uh, right! We have this mortgage payment – it’s a bit high, but, um, it’s just part of owning a house, right?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, it sure is! And, um, if you don’t mind me asking, how often do you make that payment, is it monthly or... ?",
+            "client_message": "Oh, yeah, it’s monthly. I mean, like, thank goodness it’s not weekly! That would be, um, too much to handle, haha.",
+            "field_names_covered": [
+                "frequency"
+            ]
+        }
+    ]
+}

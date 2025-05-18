@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So um, I just need to confirm your first name and um, last name for the records, could you tell me that?",
+            "client_message": "Sure, it's John Smith, that's J-O-H-N S-M-I-T-H.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, thanks. And, do you have a date of birth? Like when were you born?",
+            "client_message": "Yeah, I was born on 15-08-1980.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And um, where were you born? Just to get that information, you know?",
+            "client_message": "Oh, I was born in New York City.",
+            "field_names_covered": [
+                "place_of_birth"
+            ]
+        }
+    ]
+}

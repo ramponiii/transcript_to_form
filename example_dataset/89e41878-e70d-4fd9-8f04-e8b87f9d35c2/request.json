@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a slightly chaotic exchange with interruptions and informal language while discussing the client's job.",
+    "segments": 2,
+    "id": "89e41878-e70d-4fd9-8f04-e8b87f9d35c2"
+}

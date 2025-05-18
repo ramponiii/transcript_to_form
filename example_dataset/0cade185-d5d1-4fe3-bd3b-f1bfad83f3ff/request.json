@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a friendly and informal tone throughout.",
+    "segments": 2,
+    "id": "0cade185-d5d1-4fe3-bd3b-f1bfad83f3ff"
+}

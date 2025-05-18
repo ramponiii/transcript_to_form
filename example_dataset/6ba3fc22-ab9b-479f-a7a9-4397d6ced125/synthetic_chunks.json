@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, you know, um, think of risk like, uh, walking a tightrope. You can either walk, like, super carefully and, um, stay balanced, or you can take steps a bit more, like, wobbly, and that can make things, you know, kinda scary. And that’s what we look at with your investments, you have to, like, find your own balance.",
+            "client_message": "Uh, I get that but, like, if I'm walking the tightrope, I might fall, right? I mean, does that mean I should just, um, avoid taking risks all together?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! It’s really about, um, managing the risk. Like, you can choose to, uh, put some weight on one side to balance out the other instead of, like, just avoiding it. So this means, uh, diversifying your investments, keeping some safe ones while, like, taking some calculated risks.",
+            "client_message": "I think I’m still, um, kinda lost. Like, do I need to, um, put more into the safer things or, like, should I just go for those, uh, big opportunities?",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate",
+                "special_rate",
+                "final_payment",
+                "notes"
+            ]
+        }
+    ]
+}

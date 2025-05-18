@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your primary income source? What do you call it, and how much do you make?",
+            "client_message": "Yeah, my main income is my salary, it's about 5,500 a month, before tax.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "And is that gross or net?",
+            "client_message": "Oh, it's gross, so, you know, before any taxes or whatever.",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        }
+    ]
+}

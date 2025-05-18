@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about any assets you might have. Do you own any collectibles or anything, like maybe art or cars? Can you hear me okay?",
+            "client_message": "Yeah, I can hear you! I actually have a classic car, a 1967 Mustang. It's been in the family for a while now.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That's great! Classic cars can be quite valuable. Do you have any idea about its current value? Have you had it appraised recently?",
+            "client_message": "Um, I haven’t had it appraised lately, but I know it should be worth around, like, 30 thousand maybe? Not sure, though.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what about the original purchase price? Do you remember how much it was when it was bought?",
+            "client_message": "Oh, yeah, it was about 10 thousand back in the day, cause my dad got it as a project car, you know?",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

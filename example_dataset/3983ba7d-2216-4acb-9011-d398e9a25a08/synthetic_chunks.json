@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's think about risk like driving a car. You know, the speed at which you drive can impact how likely you are to get into an accident.",
+            "client_message": "Yeah, that makes sense, but I'm not totally clear on how that relates to my investments.",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Right, well, if you're going 20 miles an hour, the risk is lower, just like investing more conservatively. But if you speed up to 80, the risk increases, similar to aggressive investments.",
+            "client_message": "Okay, so I should be careful with higher-risk investments? I guess, but it still feels a bit overwhelming to me.",
+            "field_names_covered": [
+                "priority",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! The idea is to find a balance. Just like you wouldn't drive recklessly, you want to manage your investments in a way that feels right for you.",
+            "client_message": "Got it, but how do I know what feels right? Like, what should I be aiming for in terms of risk?",
+            "field_names_covered": [
+                "frequency",
+                "timeframe"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so just to confirm, you’re the owner of this personal loan, correct?",
+            "client_message": "Uh yeah, I, um, I took it out last year, right? It’s, um, with that bank—the one that, like, has the blue logo. I think.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what’s the monthly cost looking like for that loan?",
+            "client_message": "Oh, uh, it’s... I wanna say, like, three hundred around that um number, but sometimes it changes, you know?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Right, and you mentioned any special rates or details about the outstanding balance?",
+            "client_message": "Yeah, it’s, um, it’s like five thousand left and, uh, the rate’s, like, 6.5 percent I think? Pretty sure.",
+            "field_names_covered": [
+                "outstanding_value",
+                "interest_rate",
+                "special_rate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start by discussing your objectives for today's meeting. Are there any specific goals or topics that you wanted to cover?",
+            "client_message": "Uh, yeah, I think, um, one thing I really wanna focus on is, like, saving for retirement. It's, um, super important to me. And maybe, like, I dunno, also look into college funds for my kids or somethin'.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Those sound like very important topics. Let's delve into retirement savings first. What specific goals do you have in mind for that?",
+            "client_message": "Right, um, well, I just want to make sure I have, like, enough saved up to, uh, retire comfortably. I don't wanna be, like, stressed about money when I get older, you know? So, yeah, planning for that is crucial too.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

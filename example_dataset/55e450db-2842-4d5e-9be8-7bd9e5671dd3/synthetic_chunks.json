@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can you tell me who owns the pension policy?",
+            "client_message": "Yeah, it’s mine, I think my name is on it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of pension do you have? Like, is it a, um, Defined Contribution or something?",
+            "client_message": "Oh, right, it’s a, uh, State Pension, I believe?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! Can you give me the, um, provider's name for the pension?",
+            "client_message": "Um, it’s with, uh, National Pension Fund I guess?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

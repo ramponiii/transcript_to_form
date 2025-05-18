@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor uses analogies to explain risk, and the client expresses some confusion.",
+    "segments": 3,
+    "id": "39b4878b-23fa-4880-9ffe-0ed40eb34ec6"
+}

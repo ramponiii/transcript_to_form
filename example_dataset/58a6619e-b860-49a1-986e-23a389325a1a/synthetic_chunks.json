@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s talk about the dependents. Like, uh, do you have a full name for the dependent? I understand those details are really important for us.",
+            "client_message": "Yeah, uh, I have a daughter, her name is Milly, but we usually just call her Mill.  I, uh, sometimes forget to mention names, you know? But yeah, it's Milly.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Right, thanks for that. Now, could you tell me what her date of birth is? Just, um, need it in that DD-MM-YYYY format, alright?",
+            "client_message": "Oh, uh, sure! Milly was born on 15-05-2015. I think that’s all set, right?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "Employment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
+    "segments": 3,
+    "id": "433a9722-13e9-4867-9aa6-6eb7530d741d"
+}

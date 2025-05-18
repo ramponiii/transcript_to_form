@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Could you tell me who owns the pension policy we discussed?",
+            "client_message": "Oh, yeah, that's my father, John Doe.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, and do you know what type of pension it is?",
+            "client_message": "I think it's a Defined Contribution plan, but I'm not 100% sure.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

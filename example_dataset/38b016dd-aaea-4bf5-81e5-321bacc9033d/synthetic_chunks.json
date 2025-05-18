@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk a bit about your health. How would you describe your current state of health?",
+            "client_message": "Oh, um, it's okay, I guess? Like, I mean I, uh, do smoke; I smoke like, five to ten cigarettes a day, you know? But I’ve been trying to, like, cut down on that.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And how long have you been smoking?",
+            "client_message": "Uh, I started when I was around 18, so it’s been, like, more than a decade now. You know, I really hope to stop eventually.",
+            "field_names_covered": [
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "That's good to hear. Now, do you think you might need any long-term care in the future?",
+            "client_message": "Well, I'm kinda excited about, like, the growth I feel with investments, you know? So, I don't really think I’ll need long-term care, at least not anytime soon.",
+            "field_names_covered": [
+                "long_term_care_needed"
+            ]
+        }
+    ]
+}

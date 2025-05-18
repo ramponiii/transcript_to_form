@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, let’s talk about your health. Can you, uh, give me a quick overview of your current state of health?",
+            "client_message": "Sure! I mean, overall I'm feeling fine, just you know, the usual stuff. A bit of high blood pressure, but nothing too serious.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And do you smoke? Like, how many cigarettes a day?",
+            "client_message": "Yeah, I smoke, um, about a half a pack each day, I guess. Been smoking since I was 18. But, yeah, I'm working on cutting back.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

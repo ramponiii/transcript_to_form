@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Thank you for joining me today. I’d like to start by discussing your objectives. What specific goals do you hope to achieve through our sessions?",
+            "client_message": "Thank you for having me! Well, uh, I really want to, um, get better at managing my investments and, you know, maybe saving for, uh, retirement. Those are pretty important to me.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a solid plan. Saving for retirement is crucial. Do you have any specific timelines or amounts in mind for these objectives?",
+            "client_message": "I, um, think I’d like to retire in about, ya know, 20 years and, uh, ideally, I want to save at least, um, a hundred thousand dollars for that, if possible.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

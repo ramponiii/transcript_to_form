@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, now let’s dive into your protection policies a bit. Can you tell me who the policy is actually, you know, under? Like, who’s, um, the owner of it?",
+            "client_message": "Oh, uh, yeah! That’s me, it’s, uh, under my name! I got it from, ah, that company—what was it called again? Um, oh yeah, Protection Plus, I think. It’s like Life Assurance or something. I pay about, uh, 50 bucks a month for it, I believe?",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "type",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

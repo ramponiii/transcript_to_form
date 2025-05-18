@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, when we look at your expenses, um, do you have any specific bills or stuff you wanna, like, focus on first?",
+            "client_message": "Yeah, um, I was wondering about my mortgage payments, like, how much they should be every month and stuff?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Right, okay, so your mortgage payment is, um, usually around like, 1,500 bucks per month. It’s pretty essential, you know what I'm saying?",
+            "client_message": "Got it, yeah that makes sense. I mean, it’s like, a priority for me definitely. I just wanna make sure I'm keeping track of that and, you know, not, uh, falling behind.",
+            "field_names_covered": [
+                "priority",
+                "notes"
+            ]
+        }
+    ]
+}

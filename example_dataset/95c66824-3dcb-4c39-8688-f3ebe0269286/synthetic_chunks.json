@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let’s go through what we’ve discussed. You have a uh, what was it again? Oh right, a classic car, yes?",
+            "client_message": "Yeah, that's right! It's a 1967 Mustang, been in the family for ages.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That’s a cool piece of history! And uh, do you know the current market value of this Mustang?",
+            "client_message": "Um, I think it's around, like, maybe thirty-five thousand or something like that? Not sure exact.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Got it. So, you originally got it for?",
+            "client_message": "Oh, we bought it for, um, I think around fifteen thousand back in the day, somethin' like that.",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to clarify, um, when we're talkin' about, you know, estate planning, that kinda involves things like wills and stuff like that.",
+            "client_message": "Yeah, but, um, what exactly does estate planning mean? Like, I-I don’t really get it.",
+            "field_names_covered": [
+                "will"
+            ]
+        },
+        {
+            "advisor_message": "Right, right. So, an estate plan, it’s basically, um, a plan you have for what happens to your stuff after you're gone, right? So, do you, um, have a will in place?",
+            "client_message": "Oh, yeah, I do have a will. But, it's kinda old, I think... from like five years ago? I should check it.",
+            "field_names_covered": [
+                "will",
+                "information_about_will"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it. And, um, do you know if you put, uh, a power of attorney in that will, or if that's somethin' you need to do separately?",
+            "client_message": "I think I did, but I’m not sure who it is. Maybe my sister? I-I guess I really need to look at it again.",
+            "field_names_covered": [
+                "power_of_attorney",
+                "details_of_individual_with_power_of_attorney"
+            ]
+        }
+    ]
+}

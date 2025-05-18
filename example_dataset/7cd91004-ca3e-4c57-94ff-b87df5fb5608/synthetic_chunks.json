@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with some basic info. Can you tell me your first and last name?",
+            "client_message": "Uh, yeah! My first name is, uh, Jamie and my last name’s, um, Smith. I don’t have a middle name though.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Great, Jamie Smith. Do you have any preferred pronouns or, like, a title you use?",
+            "client_message": "Uhh, yeah. I go by she/her, and I'm, like, just Jamie, no titles really.",
+            "field_names_covered": [
+                "pronouns",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that! Now, can you share your date of birth and, uh, where you were born? We could use that for your profile.",
+            "client_message": "Sure! I was born on 12-05-1990, in Miami, Florida. How’s that?",
+            "field_names_covered": [
+                "date_of_birth",
+                "place_of_birth"
+            ]
+        }
+    ]
+}

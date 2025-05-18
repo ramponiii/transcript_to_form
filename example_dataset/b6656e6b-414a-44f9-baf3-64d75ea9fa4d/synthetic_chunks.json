@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I'm glad to hear you're excited about the investment opportunities! Before we dive deeper, can you tell me your dependent's name and date of birth so we can assess any potential tax benefits?",
+            "client_message": "Sure! My dependent's name is Alex, and he was born on 12-03-2005. I really think this investment could grow—like, really fast, you know?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Great! Now, thinking about Alex's future, is there a specific age or date you envision him being dependent until? This can help us frame our investment strategy better.",
+            "client_message": "I imagine he’ll be dependent until he’s 18, so that’s around 12-03-2023... I can’t believe it’s just around the corner! This could really work out well for us.",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, that gives us a clear timeline. Now, let’s talk about how we can leverage this investment to maximize growth while Alex is still a dependent. What are your main sources of income currently?",
+            "client_message": "Well, my main sources are my job and some side gigs. I'm just super pumped about, like, making sure Alex has a bright future, you know?",
+            "field_names_covered": [
+                "sources"
+            ]
+        }
+    ]
+}

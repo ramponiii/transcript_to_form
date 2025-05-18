@@ -1,0 +1,346 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Samuel",
+                "middle_names": null,
+                "last_name": "Smith",
+                "known_as": "Samuel",
+                "pronouns": null,
+                "date_of_birth": "31-10-1991",
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null,
+                "sources": [
+                    "0",
+                    "11",
+                    "12",
+                    "31",
+                    "34",
+                    "36",
+                    "68"
+                ]
+            },
+            "employments": {
+                "employments": [
+                    {
+                        "country_domiciled": null,
+                        "resident_for_tax": null,
+                        "national_insurance_number": null,
+                        "employment_status": "Employed",
+                        "desired_retirement_age": null,
+                        "occupation": "Commercial Finance Director",
+                        "employer": "Sunrise Assisted Living",
+                        "employment_started": "[not provided]",
+                        "highest_rate_of_tax_paid": null,
+                        "notes": "Seeking financial advice for high-income management. Previous employment at J&R Apparel for four years, currently enrolled in BrightPath Workplace 401(k).",
+                        "sources": [
+                            "1",
+                            "29",
+                            "46"
+                        ]
+                    }
+                ]
+            },
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null,
+                "sources": [
+                    "29",
+                    "31",
+                    "68",
+                    "90"
+                ]
+            }
+        }
+    ],
+    "addresses": {
+        "address": null,
+        "previous_addressess": []
+    },
+    "dependents": {
+        "dependents": [
+            {
+                "name": "Maylee Smith",
+                "date_of_birth": "DD-MM-2020",
+                "dependent_until": null,
+                "sources": [
+                    "12"
+                ]
+            },
+            {
+                "name": "Lylee Smith",
+                "date_of_birth": "DD-MM-2021",
+                "dependent_until": null,
+                "sources": [
+                    "12"
+                ]
+            }
+        ]
+    },
+    "incomes": {
+        "incomes": [
+            {
+                "owner": "Samuel Smith",
+                "name": "Salary",
+                "amount": 165000.0,
+                "frequency": "Annual",
+                "net_gross": "Gross",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "31"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "name": "Bonus",
+                "amount": 39000.0,
+                "frequency": "Annual",
+                "net_gross": "Gross",
+                "timeframe": null,
+                "notes": "This year it will be about $20,000 since he has only been at the job for half the year.",
+                "sources": [
+                    "31"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "name": "Wife's Salary",
+                "amount": 78000.0,
+                "frequency": "Annual",
+                "net_gross": "Gross",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "35"
+                ]
+            }
+        ]
+    },
+    "expenses": {
+        "loan_repayments": [],
+        "housing_expenses": [
+            {
+                "owner": "Samuel Smith",
+                "name": "Mortgage Payment",
+                "amount": 3000.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "48"
+                ]
+            }
+        ],
+        "motoring_expenses": [],
+        "personal_expenses": [
+            {
+                "owner": "Samuel Smith",
+                "name": "Childcare Costs",
+                "amount": 2000.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null,
+                "notes": null,
+                "sources": [
+                    "48"
+                ]
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": []
+    },
+    "pensions": {
+        "pensions": [
+            {
+                "owner": "Samuel Smith",
+                "type": "Traditional IRA",
+                "provider": "Vanguard",
+                "value": 58500.0,
+                "policy_number": null,
+                "notes": "Formerly with J&R Apparel, now enrolled in BrightPath Workplace 401(k).",
+                "sources": [
+                    "68"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "type": "401(k)",
+                "provider": "BrightPath",
+                "value": 500.0,
+                "policy_number": null,
+                "notes": "Recently started with current employer, contributing minimal amount.",
+                "sources": [
+                    "37"
+                ]
+            }
+        ]
+    },
+    "savings_and_investments": {
+        "savings_and_investments": [
+            {
+                "owner": "Samuel Smith",
+                "type": "High-Yield Savings Account",
+                "provider": "Ally Bank",
+                "value": 130000.0,
+                "notes": "Getting about 5% interest, considering moving more into investments.",
+                "sources": [
+                    "0",
+                    "88",
+                    "90"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "type": "Investment Fund",
+                "provider": "Not specified",
+                "value": 26000.0,
+                "notes": "Recently moved from high-yield savings to an investment fund.",
+                "sources": [
+                    "90"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "type": "401(k)",
+                "provider": "BrightPath",
+                "value": 500.0,
+                "notes": "Just started at the current employer, putting in the minimum (3%).",
+                "sources": [
+                    "37",
+                    "68"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "type": "401(k)",
+                "provider": "Vanguard",
+                "value": 58500.0,
+                "notes": "Pension from previous employment with J&R Apparel.",
+                "sources": [
+                    "67"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "type": "Brokerage Account",
+                "provider": "Not specified",
+                "value": 156000.0,
+                "notes": "Total savings across accounts.",
+                "sources": [
+                    "68"
+                ]
+            }
+        ]
+    },
+    "other_assets": {
+        "other_assets": [
+            {
+                "owner": "Samuel Smith",
+                "description": "Savings account balance and investment funds",
+                "current_value": 156000.0,
+                "original_value": null,
+                "notes": "High-yield savings account with $130,000 at Ally Bank, currently earning about 5% interest. Recently allocated $26,000 into an investment fund.",
+                "sources": [
+                    "31",
+                    "68",
+                    "90"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "description": "Vanguard Solo 401(k) from previous employer",
+                "current_value": 58500.0,
+                "original_value": null,
+                "notes": "Transferred from the previous work position; seeking advice on whether to invest more into the employer's plan or explore better fund options.",
+                "sources": [
+                    "67"
+                ]
+            },
+            {
+                "owner": "Samuel Smith",
+                "description": "BrightPath Workplace 401(k)",
+                "current_value": 500.0,
+                "original_value": null,
+                "notes": "Currently containing a minimal balance; client puts in 3% to match employer's contributions.",
+                "sources": [
+                    "37"
+                ]
+            }
+        ]
+    },
+    "loans_and_mortgages": {
+        "loans_and_mortgages": [
+            {
+                "owner": "Samuel Smith",
+                "type": null,
+                "provider": null,
+                "monthly_cost": 3000.0,
+                "outstanding_value": null,
+                "interest_rate": null,
+                "special_rate": null,
+                "final_payment": null,
+                "notes": "Mortgage payments. Total household expenses including childcare are about $6,500.",
+                "sources": [
+                    "0",
+                    "46"
+                ]
+            }
+        ]
+    },
+    "protection_policies": {
+        "protection_policies": [
+            {
+                "owner": "Samuel Smith",
+                "type": "null",
+                "provider": "null",
+                "monthly_cost": null,
+                "amount_assured": null,
+                "in_trust": null,
+                "assured_until": null,
+                "notes": "No specific protection policies mentioned in the transcript.",
+                "objectives": "Financial planning and high-income management due to family and childcare expenses.",
+                "sources": [
+                    "0",
+                    "1",
+                    "29",
+                    "31",
+                    "68"
+                ]
+            }
+        ]
+    },
+    "objectives": {
+        "objectives": [
+            "Seek advice on managing high-income salary of $165,000 plus bonuses.",
+            "Discuss increasing 401(k) contributions and explore Traditional IRA options.",
+            "Evaluate childcare expenses and government benefits in relation to income threshold.",
+            "Consider starting a 529 plan for children's education savings.",
+            "Explore investment strategies for savings currently held in cash and high-yield accounts."
+        ],
+        "sources": [
+            "0",
+            "31",
+            "37",
+            "68",
+            "89"
+        ]
+    }
+}

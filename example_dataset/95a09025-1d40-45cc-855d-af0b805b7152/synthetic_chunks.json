@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let’s talk about any assets you might want to include in your financial plan. Do you have any specific assets in mind you’d like to detail?",
+            "client_message": "Um, yeah, okay. So, like, I have this classic car, uh, it’s a, like, vintage, uh, Chevy, I think. And, um, I got it, like, maybe five years ago for around thirty thousand, but now, I dunno, it’s worth, um, I’d say it’s, like, maybe forty? I’m not really sure. Oh, and my uncle gave me this art collection too, but, uh, I don’t have a clue what that’s worth. Like, there’s some paintings and stuff. Also, um, it’s kinda special to me, you know?",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value",
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

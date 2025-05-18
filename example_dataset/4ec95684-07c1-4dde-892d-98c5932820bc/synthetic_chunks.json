@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let’s talk about your protection policy. Can I ask who the owner of the policy is and what type of coverage you have? Perhaps Life Assurance or something like Critical Illness Cover?",
+            "client_message": "Oh, sure! The policy's in my name, and it's actually Life Assurance. I just want to make sure it covers everything I need.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great! Life Assurance is a solid choice. Could you also share which company provides this policy? And what’s your monthly premium?",
+            "client_message": "It's with XYZ Insurance, and I’m paying about $50 a month for it.",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your life assurance policy, could you confirm who the owner is? Is it you, or perhaps someone else?",
+            "client_message": "Uh, yeah, it's me, I think. Or, actually, wait—let me check. I might've put it under my spouse's name instead.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Please double-check that. And while you're at it, do you remember which insurance company provides the policy?",
+            "client_message": "I thought it was ABC Insurance... but now I'm second-guessing. It might be XYZ Insurance actually. I need to look at the paperwork again.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

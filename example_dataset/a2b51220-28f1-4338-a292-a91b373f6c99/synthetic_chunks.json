@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's start with your address details. Can you tell me your current ownership status of the property? Like, do you own it or rent it? Just, uh, checking for any technical issues, can you hear me okay?",
+            "client_message": "Yeah, I can hear you just fine. Uh, right now, we’re renting the property.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what about the street name of your rental? Would you mind sharing that with me?",
+            "client_message": "Sure, it’s Maple Street, number 15, just off the main road.",
+            "field_names_covered": [
+                "street_name",
+                "house_name_number"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Maple Street 15. Now, can you also give me the town or city you're located in? And, uh, any additional address info you think I might need?",
+            "client_message": "Yeah, I'm in Springfield, and the postal code is 62704. There’s also a, um, county but I’d need to check it for you.",
+            "field_names_covered": [
+                "town_city",
+                "postcode"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about where you're currently living? Any specific details about your ownership status or the address?",
+            "client_message": "Yeah, um, I live in a little, uh, flat in Bristol, right? It's rented, you know, and I, uh, really like the area. It's, um, near the park and all that. The postcode is B12 3AB, I think. Oh, and it's in a nice neighborhood, um, just kinda cozy.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! And what are your thoughts for retirement? Any plans on settling down somewhere?",
+            "client_message": "Oh, for retirement, I've been, uh, thinking maybe I wanna move to the coast, like, you know, by the beach. I mean, ideally, I’d love to buy a little bungalow or something, um, in Devon or Cornwall. Not too big, just enough for me, maybe a small garden. But it's all kinda, uh, up in the air right now, you know?",
+            "field_names_covered": [
+                "county",
+                "country"
+            ]
+        }
+    ]
+}

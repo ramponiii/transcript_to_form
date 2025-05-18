@@ -1,0 +1,7 @@
+{
+    "model": "Employment",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor uses active listening cues (e.g., 'I understand,' 'Right') frequently.",
+    "segments": 2,
+    "id": "0a16a5de-3809-4e4d-8870-c09a89abba87"
+}

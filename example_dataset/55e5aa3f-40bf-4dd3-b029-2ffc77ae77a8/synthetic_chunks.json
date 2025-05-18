@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your, uh, professional goals. How's your job going? Any specific things you want to focus on?",
+            "client_message": "Oh, you know, it’s, um, pretty busy lately. I mean, I want to, like, move up in my position. I'm a project manager—but, I feel like I need, uh, some more, um, skills to do that. Like maybe some certifications or something?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Right, right, certifications can definitely help! Have you looked into any particular ones that interest you?",
+            "client_message": "Kinda, but it’s hard to choose. I think there's, um, a PMP one, but also, like, some agile stuff. I just wanna make sure I, you know, pick what’ll really help me advance, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

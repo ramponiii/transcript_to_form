@@ -1,0 +1,7 @@
+{
+    "model": "Income",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
+    "segments": 3,
+    "id": "e18baff3-be2e-452c-929a-0b843e667694"
+}

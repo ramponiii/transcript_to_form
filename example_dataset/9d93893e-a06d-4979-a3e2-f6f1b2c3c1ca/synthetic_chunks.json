@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, can we start with your first name and last name for the records?",
+            "client_message": "Yeah, it's Alex Johnson.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, Alex. Do you have a preferred title? Like Mr., Ms., or something else?",
+            "client_message": "I usually go by Mr. Johnson, but I mean, Alex is fine too.",
+            "field_names_covered": [
+                "title"
+            ]
+        }
+    ]
+}

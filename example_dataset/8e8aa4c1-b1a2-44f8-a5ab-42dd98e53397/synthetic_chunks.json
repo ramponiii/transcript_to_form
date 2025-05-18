@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I wanted to touch on your investment goals a bit more. What are you hoping to achieve in terms of growth over the next few years?",
+            "client_message": "You know, I'm really excited about the potential growth! I was thinking, like, if I could get, maybe, 8 to 10% returns, that would be awesome, right?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That's a reasonable expectation, definitely. Are there specific areas or sectors you're particularly interested in for that kind of growth?",
+            "client_message": "Yeah, totally! I'm really interested in tech and green energy. I feel like those sectors are gonna explode in the next few years!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, tech and green energy are hot right now. Have you thought about how much you want to invest in those areas?",
+            "client_message": "I was thinking of starting with around $20,000. I just think it could really grow if I play it right!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

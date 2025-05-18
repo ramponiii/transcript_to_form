@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's talk about your investments. Do you, uh, have any particular accounts or savings that you'd like to, you know, go over?",
+            "client_message": "Yeah, um, I’ve got like a, uh, savings account with NatWest or something, and it’s kinda worth about, uh, 5,000 right now. Not much, but something!",
+            "field_names_covered": [
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "NatWest, got it! And, um, what type of account is it exactly? Like, is it a standard savings account or something else?",
+            "client_message": "Oh, it’s just a regular savings account. Just, you know, sitting there and not really doing much!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I see! And anything special you’d like to note about it? Like, uh, terms or stuff like that?",
+            "client_message": "Not really, just, um, I guess it’s easy to access if I need to take money out, so that's good. But, yeah, nothing major!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

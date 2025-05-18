@@ -1,0 +1,36 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risk like, um, crossing a busy street, right? You can look both ways and see if there are any cars coming. But still, there's a chance you could get hurt, you know? That's kind of how investments work.",
+            "client_message": "Oh, I get that, but, um, so like, does that mean if I invest, there’s like always a chance I could lose money? That’s kinda scary.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax",
+                "national_insurance_number",
+                "employment_status",
+                "desired_retirement_age",
+                "occupation",
+                "employer",
+                "employment_started",
+                "highest_rate_of_tax_paid",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! And it’s like, you might decide to, uh, wait for a clear time to cross or kind of wait till there’s less traffic. Just like you’d pick your investments based on your comfort with risk.",
+            "client_message": "Right, but, uh, how do I know when it’s like, safe to invest? That part's still kinda confusing.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax",
+                "national_insurance_number",
+                "employment_status",
+                "desired_retirement_age",
+                "occupation",
+                "employer",
+                "employment_started",
+                "highest_rate_of_tax_paid",
+                "notes"
+            ]
+        }
+    ]
+}

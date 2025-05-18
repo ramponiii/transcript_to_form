@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your investments now. Can you remind me who, um, who holds those? Is it like a bank or another institution?",
+            "client_message": "Yeah, it's, um, with Barclays, but I also have a little bit, like, with a different provider. Just, you know, keeping options open, right?",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. And what, what type of investments are we talking about? Like, any particular accounts or, um, types you're using?",
+            "client_message": "Oh, right! So, I got an ISA, and then there's a GIA, which I opened last year. It’s kind of, uh, messy, to be honest. Like, I just wanted to diversify, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over the investments you mentioned, um, you said you have a bank account, right?",
+            "client_message": "Yeah, that's, uh, my main saving. I also have, like an ISA and I think a little bit in an investment bond too.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Right, and the bank account is, uh, just for daily use or do you save a bit in there?",
+            "client_message": "I save um, probably about a thousand pounds, but, uh, not much more than that. The ISA has more, around three thousand, I think.",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And which, um, provider is your ISA with?",
+            "client_message": "Oh, it’s with HSBC, I, uh, just opened it last year. The bond is with, um, Lloyds I think, but I don’t have that much in it like maybe five hundred.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

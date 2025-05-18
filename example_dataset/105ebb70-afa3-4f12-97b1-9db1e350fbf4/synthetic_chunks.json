@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding the whole protection policy we're discussing, I think it's really important to go for something like Life Assurance or Critical Illness Cover. It could really help you in the long run, especially with your goals in mind.",
+            "client_message": "I dunno, I'm kinda skeptical about these policies. Like, do they really pay out when you need them?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. The policies, like the Life Assurance, are designed to provide financial security for your family. Companies like XYZ Insurance have a solid track record of paying out claims.",
+            "client_message": "But what if my circumstances change? What if I need the money for something else? It just seems a bit risky to me.",
+            "field_names_covered": [
+                "provider",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That's a valid point, and it’s always good to think about the what-ifs. However, the set amount assured, like in your case, would still be there to support your needs regardless of the changes. Plus, if you write this policy in trust, it gives more flexibility for your family.",
+            "client_message": "I guess that makes sense, but I'm still not totally sold on the idea. Could we go over the monthly cost again?",
+            "field_names_covered": [
+                "amount_assured",
+                "in_trust",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

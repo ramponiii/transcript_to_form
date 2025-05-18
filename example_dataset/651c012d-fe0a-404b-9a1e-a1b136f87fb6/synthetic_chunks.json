@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, as we start our discussion today, could you please share your specific financial objectives that you wish to focus on? This will help me understand your needs better and guide our conversation.",
+            "client_message": "Yeah, um, I was thinking. I really wanna save up for, like, a house and probably also, um, start a retirement fund? You know, just, like, maybe a few other things too, but those are the main ones.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

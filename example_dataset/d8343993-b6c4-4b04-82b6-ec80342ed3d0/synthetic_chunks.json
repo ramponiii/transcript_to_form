@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let me just recap what you've told me about your income, okay? You mentioned that your main source is your salary right?",
+            "client_message": "Yeah, uh, that's right, it's my salary, I, um, get paid monthly.",
+            "field_names_covered": [
+                "name",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "And the amount you said you get is like, what was it? Oh, yeah! You said it's around three thousand dollars?",
+            "client_message": "Close, I mean, uh, it's actually like three thousand two hundred, but yeah, that's about it.",
+            "field_names_covered": [
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And you mentioned that's gross income, right? Before taxes?",
+            "client_message": "Yup, it's gross, uh, before they take out for taxes and stuff. No, um, notes on it.",
+            "field_names_covered": [
+                "net_gross",
+                "notes"
+            ]
+        }
+    ]
+}

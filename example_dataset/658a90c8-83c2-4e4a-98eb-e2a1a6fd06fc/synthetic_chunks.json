@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about your current home? Like, what’s the ownership status?",
+            "client_message": "Um, yeah, it's, uh, I own it, I think? Or I mean, yeah, I own the house. It’s, uh, in, um, some place, you know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and what's the address like—street name, postcode, and all that?",
+            "client_message": "Oh! Right, so it’s, uh, on, um, Maple Street, kinda near the, uh, park? And the postcode is... wait, uh, it’s 12345, yeah. And, uh, I think I moved in, like, a while ago… uh, was it '20? I dunno. But I live there, for sure.",
+            "field_names_covered": [
+                "street_name",
+                "postcode",
+                "move_in_date"
+            ]
+        }
+    ]
+}

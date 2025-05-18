@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
+    "segments": 2,
+    "id": "bd95508d-f2fc-45bf-80f9-fa0c6e3b71f3"
+}

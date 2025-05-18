@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s uh, talk about your pension, right? Can you tell me who, um, who owns that policy?",
+            "client_message": "Oh yeah, so it’s actually mine, I mean, it's my dad’s but he, like, transferred it to me or something? And it's with this, uh, provider called, uh, what's it called... oh! Right, it's, uh, Vanguard, I think. And it’s, um, like a Defined Contribution kind of thing.",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "type"
+            ]
+        }
+    ]
+}

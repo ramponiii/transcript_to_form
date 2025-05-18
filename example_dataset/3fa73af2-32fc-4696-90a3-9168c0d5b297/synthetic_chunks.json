@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Thank you for taking the time to discuss your dependents today. Can you please provide the full name of the dependent we’ll be adding to your profile?",
+            "client_message": "Sure, it’s Alex Johnson. I also want to mention that he was born on 15-03-2016.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Got it. Thanks for that information. Now, is there a specific date until which Alex will be considered a dependent?",
+            "client_message": "Yeah, I believe it’ll be until 15-03-2034, which is when he turns 18.",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

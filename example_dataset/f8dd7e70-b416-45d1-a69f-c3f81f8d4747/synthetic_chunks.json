@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your job a bit. Can you tell me what you do for a living?",
+            "client_message": "Oh, right, uh, I work as a graphic designer, but, like, I also do some freelance stuff on the side, you know? Just trying to, um, make things work, especially with, like, my current value of art pieces and such.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Freelancing can be a bit tough! Do you have, like, any specific projects you're working on or focusing on?",
+            "client_message": "Yeah, yeah! I’m working on this big project, uh, it’s for a gallery. They want to showcase some classic art stuff I’ve done. But, um, I don't, like, have a fixed income right now, you know? My original value just kinda... fluctuates.",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

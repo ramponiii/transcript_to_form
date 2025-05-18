@@ -1,0 +1,8 @@
+### Transcript
+{transcript}
+
+### Transcript Context
+{context}
+
+### Guidance
+{guidance}

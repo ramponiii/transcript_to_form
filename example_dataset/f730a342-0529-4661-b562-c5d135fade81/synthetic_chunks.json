@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your investments. Do you have a specific saving or investment that you want to start with?",
+            "client_message": "Yeah, I have an ISA account with my bank.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what’s the current value of that ISA account?",
+            "client_message": "It’s, um, around twenty-five thousand but it's been fluctuating.",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that. Are there any notes or details about it that we should keep in mind?",
+            "client_message": "Not really, just that I opened it last year and it’s with, uh, First National Bank.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

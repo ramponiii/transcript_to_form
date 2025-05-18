@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I think it would be a good idea to take a closer look at your monthly expenses. Items like your groceries or utilities can impact your overall budget significantly. Have you thought about categorizing those expenses?",
+            "client_message": "Yeah, I mean, I get that, but I dunno, sometimes it feels like those categories just make things um, more complicated. Like, do I really need to track every little thing?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Tracking them can actually help you see where you might cut back, maybe on discretionary expenses like eating out or entertainment.",
+            "client_message": "Right, but it kinda sounds like a lot of work to me. Like, I already have things like the mortgage and car insurance to worry about, ya know? How much would that help anyway?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority",
+                "notes"
+            ]
+        }
+    ]
+}

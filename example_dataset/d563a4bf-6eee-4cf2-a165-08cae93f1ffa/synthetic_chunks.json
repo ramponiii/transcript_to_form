@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I see you’ve got a pension policy with, um, ABC Pension Corp. What type of pension is it, just to clarify?",
+            "client_message": "Yeah, it’s like a, uh, Defined Contribution plan. I’m really thinkin' this could help me out big time, especially with growth potential!",
+            "field_names_covered": [
+                "provider",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That’s great! Do you know the current value of your fund? I mean, it’s important for planning.",
+            "client_message": "Um, let me think... I think it’s around, like, 25 thousand, but it could grow more, right? I feel excited about the future!",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, growth is key! Any notes or specifics we should consider for your investments? Just to optimize things for you.",
+            "client_message": "Right, I should mention my policy number is, uh, 5678-91011. That might help, like, getting everything sorted!",
+            "field_names_covered": [
+                "policy_number"
+            ]
+        }
+    ]
+}

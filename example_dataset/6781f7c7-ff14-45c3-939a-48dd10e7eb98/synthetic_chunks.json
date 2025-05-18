@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's get into your, you know, sources of income. Can you tell me about, um, your job? Like, what do you do for work?",
+            "client_message": "Right, uh, so I work at, you know, this tech company. Been there, um, for like three years, I think. My role is, uh, software dev. I get like 6,000 a month, but that's before tax, it's gross. Um, I guess it’s, like, just paid monthly. Not sure if that'll change, heh.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool, so that's, uh, some solid figures. Do you have, like, any other income sources or, you know, notes about this one? Anything else that’s important?",
+            "client_message": "Oh, um, yeah! I also, uh, do some freelance stuff on the side, uh, whenever I can fit it in. Like, um, 1,500 extra a month sometimes! But it’s, like, you know, hit or miss, heh. I guess it's 'cause I’m busy with the main job.",
+            "field_names_covered": [
+                "notes",
+                "amount"
+            ]
+        }
+    ]
+}

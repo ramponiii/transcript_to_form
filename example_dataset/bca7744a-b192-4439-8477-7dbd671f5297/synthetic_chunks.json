@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Good afternoon! Thank you for taking the time to meet with me today. I’d like to start by understanding your specific objectives for this session. What particular goals or topics are you hoping to discuss?",
+            "client_message": "Good afternoon! Thank you for having me. I’m particularly interested in discussing my retirement plans, as well as some investment options I’ve been considering. I’d like to clarify my goals and see how I can align them with your strategies.",
+            "field_names_covered": [
+                "objectives",
+                "sources"
+            ]
+        },
+        {
+            "advisor_message": "That sounds great! Retirement planning is crucial, and it’s good to see you proactive about it. Are there any specific milestones or ages that you have in mind for your retirement goals?",
+            "client_message": "Yes, I’m looking to retire around the age of sixty-five. I want to ensure that I have enough saved up to maintain my lifestyle after retiring, so that’s also a key point for me.",
+            "field_names_covered": [
+                "objectives",
+                "sources"
+            ]
+        },
+        {
+            "advisor_message": "Understood, planning for a comfortable retirement is indeed essential. Now, regarding the investment options you've mentioned, could you elaborate on which ones you’re considering? This will help us tailor a strategy that fits your retirement objectives.",
+            "client_message": "Certainly! I’ve been looking into a mixture of stocks and bonds, but I'm not fully sure about the balance. I’d like your input on what you think would work best for my situation.",
+            "field_names_covered": [
+                "objectives",
+                "sources"
+            ]
+        }
+    ]
+}

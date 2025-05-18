@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's start by discussing your current loan situation. Can you tell me who the loan is with and what type of loan it is?",
+            "client_message": "Uh, yeah, I-I have a mortgage, I think, uh, with, um, Wells Fargo, yeah, that's it, Wells Fargo.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what about the monthly cost or any outstanding balance on the mortgage?",
+            "client_message": "So, um, my monthly payment is kinda like 1,200, I guess? And, uh, there's still like, I dunno, maybe 200,000 left on it?",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that information! Can you share the interest rate and, um, any other special rate details?",
+            "client_message": "Right, it’s around, um, 3.5 percent, but I think there's some kind of, uh, fixed rate, uh, yeah, for five years or so, something like that.",
+            "field_names_covered": [
+                "interest_rate",
+                "special_rate"
+            ]
+        }
+    ]
+}

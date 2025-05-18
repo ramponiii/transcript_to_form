@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a friendly and informal tone throughout.",
+    "segments": 3,
+    "id": "33c3b76d-cd88-4345-aef7-b0a85ec4e416"
+}

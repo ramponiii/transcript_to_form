@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to wrap things up, can you tell me your full name, like, you know, the first and last, and, um, if there's any middle names maybe?",
+            "client_message": "Oh, yeah, sure. It’s, um, it’s Kyle, Kyle Johnson, and I don’t, uh, I don’t have any middle names so just, just Kyle, yeah.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Kyle! And, um, what about your title? Like, Mr., or anything, and your date of birth?",
+            "client_message": "Uh, just Mr. for the title, I guess. And my birthday’s 15-08-1990, yeah.",
+            "field_names_covered": [
+                "title",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And, uh, where, where were you born, if you don’t mind me asking?",
+            "client_message": "Yeah, I was, uh, born in Denver, it’s, um, in Colorado.",
+            "field_names_covered": [
+                "place_of_birth"
+            ]
+        }
+    ]
+}

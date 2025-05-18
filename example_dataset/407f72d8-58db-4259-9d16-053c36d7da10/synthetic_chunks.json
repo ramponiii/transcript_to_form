@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, imagine if you were driving a car, right? Every time you get in, there's a little risk you might get into an accident. But w-with good insurance, you kind of mitigate that risk, ya know?",
+            "client_message": "Uh, yeah, but like, how does that relate to how my investments are, um, doing? I kinda don’t get it all that well.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Alright, think of your investments like a garden. If you plant seeds, some will grow, and some might not. That’s the risk of investing in different areas, like stocks or bonds. You gotta tend to it.",
+            "client_message": "Hmm, I mean, okay, but are there like, specific, uh, ways to make sure I plant the right seeds? Or like, avoid the bad ones? It’s kinda overwhelming.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Just like you might want to pick the right plants for your garden based on the weather, you need to assess your risk tolerance.",
+            "client_message": "Right, I think so, but I'm not sure about my, um, risk tolerance? Is it like, based on how healthy I am or... something else maybe?",
+            "field_names_covered": [
+                "smoker_since",
+                "long_term_care_needed"
+            ]
+        }
+    ]
+}

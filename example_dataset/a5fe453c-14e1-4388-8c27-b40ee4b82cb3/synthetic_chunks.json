@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your protection policies. Who is the owner of the policy?",
+            "client_message": "Oh, that's me. I’m the one who owns it, and it's with ABC Insurance. I have a Life Assurance policy that costs around 50 bucks a month.",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "type",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

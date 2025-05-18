@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I’d like to discuss your retirement aspirations. What kind of lifestyle do you envision for your retirement?",
+            "client_message": "Oh, well, you know, I really hope to travel a lot, like, visiting places I’ve never been to. Ideally, I’d love to, um, spend some time in Europe and maybe also explore some national parks here in the U.S.",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That sounds wonderful. Do you have any specific financial investments in mind to help fund those plans?",
+            "client_message": "Yeah, I guess I should probably consider something like, um, an ISA or maybe even a GIA? I’ve got some savings in a bank account too, but it, you know, doesn’t seem like enough if I really want to enjoy my retirement.",
+            "field_names_covered": [
+                "type",
+                "owner",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

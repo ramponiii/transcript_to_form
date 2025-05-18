@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's say you have a life assurance policy, right? Like, um, you know, it's kinda like having a safety net? Imagine your family, if something happens to you, they would get a payout, like, say fifty thousand dollars probably? And it costs, like, you know, maybe just fifty bucks a month or so. If it's written in trust, it means the money goes directly to them without issues.",
+            "client_message": "Yeah, I get it. So, my policy is like that, right? I think it’s for twenty-five thousand, and I pay around forty-five bucks or somethin'. Oh, and I think it’s not in trust though, uh, not sure. But I want it to, like, help with any expenses for my family if, you know, anything happens. And, um, I guess it covers until I retire?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "monthly_cost",
+                "amount_assured",
+                "in_trust",
+                "assured_until",
+                "objectives"
+            ]
+        }
+    ]
+}

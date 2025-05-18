@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor sounds slightly rushed.",
+    "segments": 2,
+    "id": "4b9dfdd8-40b6-4757-9f64-a6699aad3faa"
+}

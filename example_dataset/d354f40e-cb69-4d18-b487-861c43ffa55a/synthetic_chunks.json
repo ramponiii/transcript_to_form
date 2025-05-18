@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your health, um, how do you feel, like overall?",
+            "client_message": "Well, um, I dunno, I guess I'm okay but I've been, uh, feeling kinda, um, tired lately. Like sometimes I get short of breath, you know?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Right, and, uh, do you smoke at all?",
+            "client_message": "Yeah, I do, uh, I've been smoking since, um, well, since I was, like, 20? So that’s, uh, lets see, about 15 years now? I smoke, like, a pack a day, I guess. But, you know, with how I'm feeling, I maybe need to think about cutting back or something.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

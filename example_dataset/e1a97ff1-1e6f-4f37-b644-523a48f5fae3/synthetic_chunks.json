@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me more about your retirement aspirations? What are you hoping to achieve?",
+            "client_message": "Um, yeah, for retirement, I kinda want to, like, travel a bit, maybe, you know, see Europe or, um, just spend time with family. I’ve been thinking a lot about like, uh, how I want to manage my finances, and, um, I’m not super clear on what I need to set up for that. Maybe something for income protection?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "It sounds like traveling and family time are really important to you. Have you thought about any specific investment or protection policies that could help support those goals?",
+            "client_message": "Yeah, actually, I have a couple of policies. Like, I’ve got a Life Assurance policy with, um, HealthGuard. I think I pay something like, um, 150 a month? And, it’s supposed to assure, uh, 200,000, you know, in case anything happens. I might need to look into, um, getting it written in trust, though. I just want to ensure everything’s set for my family if I'm not around or something like that.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost",
+                "amount_assured",
+                "in_trust"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's say you're planning for retirement. Imagine you want to maintain your current lifestyle, which requires a certain monthly income. If you estimate that your monthly expenses will be around five thousand dollars, then we can start calculating how much you'll need to save. This is a great base to use for our discussion about your retirement objectives.",
+            "client_message": "That makes sense. So, if I want to retire comfortably, I should aim for around five thousand a month. But how do I figure out how much I need to save to get there?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! To achieve that, we can look at how much you currently have saved and what types of investments you might consider. For instance, if you have a diversified portfolio that grows at an average of 6% per year, we can use that assumption to project your savings.",
+            "client_message": "Got it! So, if I have a mix of stocks and bonds at that rate, I can estimate my future savings. It sounds like we need to evaluate my current savings strategy, too.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

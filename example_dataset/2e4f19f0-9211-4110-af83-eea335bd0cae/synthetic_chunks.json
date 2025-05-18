@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let’s talk about your objectives today. What are some goals you really want us to focus on?",
+            "client_message": "Um, yeah so... I kinda want to save for my kid's college, like, I think that's important, y'know? And maybe, uh, I’m not really sure but getting, like, a better retirement plan I guess?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Saving for college is definitely a good goal. I can help you find a way to balance that with saving for retirement. What else is on your mind?",
+            "client_message": "I mean, yeah, I also wanna, um, maybe invest in... you know, stocks or something but, like, not sure how or what's good or anything, so... I guess that's, like, another thing?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

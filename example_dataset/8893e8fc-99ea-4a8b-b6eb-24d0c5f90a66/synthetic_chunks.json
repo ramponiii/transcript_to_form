@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your loan stuff. I need to know who, like, who’s the owner of the loan? Is that you or?",
+            "client_message": "Uh, yeah, that’d be me. I took out a mortgage, y’know, back when we bought our house. So, I'm the owner and, um, yeah, it’s a mortgage.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        }
+    ]
+}

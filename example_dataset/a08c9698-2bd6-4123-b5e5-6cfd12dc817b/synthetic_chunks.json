@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, your pension is like a big savings pot for when you stop work, um, you know, we call it a defined contribution plan. It’s pretty common. I kinda thought you’d know that already.",
+            "client_message": "Oh, um, wait, a defined contribution plan? What does that mean exactly? I don’t really get all the financial jargon.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Right, uh, basically it means you put in money and your employer might too, then it grows over time? But the amount you get in retirement can kinda depend on how well the investments do. I hope that makes sense?",
+            "client_message": "Yeah, sorta? I mean, what are the investments? Like, do I choose them or?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That’s a good question! The investments are usually chosen by the pension provider, but you might have some choice, uh, depending on your plan. I can give you more info, uh, if you’d like to see what options you have.",
+            "client_message": "Sure! That’d be great! Just, um, I really didn’t even know who my provider is, do you have that info?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

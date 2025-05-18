@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Think of investing like sailing a ship, where the winds represent market risks. Just like you have to adjust the sails depending on how strong the wind is, you have to adjust your investments based on the market fluctuations.",
+            "client_message": "Uh, okay, I kinda get it, but what do you mean by adjusting the sails? Like, how do I even do that with my pension?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great question! Adjusting the sails means making changes to your portfolio to suit your risk tolerance. For example, if the wind gets really strong, you might want to lower your exposure to riskier investments, like stocks, similar to how a sailor would reduce the sail size to keep control of the ship.",
+            "client_message": "So, uh, if I've got like a State Pension or something, does that mean I don't really have to adjust much? Or...",
+            "field_names_covered": [
+                "value",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! A State Pension is more stable, like a big sturdy ship. However, if you have any other pensions, like a Defined Contribution plan, you may need to be more vigilant about adjusting for risks as those investments can be more volatile.",
+            "client_message": "Right, right, I see. So my other pension, like with the Defined Contribution, I should look into adjusting those more often? Also, what's the current value of that again? I think it w-was mentioned somewhere.",
+            "field_names_covered": [
+                "policy_number",
+                "provider"
+            ]
+        }
+    ]
+}

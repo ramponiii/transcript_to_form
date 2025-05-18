@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risk like crossing a busy road, yeah? You gotta look both ways before you cross. Now, in finance, it's kinda similar. If you don’t check, you might get hit by unexpected charges or losses.",
+            "client_message": "Uh, I mean, I get the road thing, but how does it apply to, like, my loan? Like, crossing the road could mean... what?",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Right! So, crossing the road without looking is like taking a loan without knowing your interest rate or any other extra costs. You could have, um, surprises later on, y'know?",
+            "client_message": "Okay, but like, what if I'm going to a crosswalk? Is that better or worse? I’m kinda lost on it.",
+            "field_names_covered": [
+                "interest_rate",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Ah, good point! A crosswalk is safer, just like a fixed interest rate, which keeps your payments steady. That way, you know exactly what’s coming each month.",
+            "client_message": "Ohhh, that makes more sense now! So, if I have a fixed rate, it’s like, um, being at a crosswalk? And that's better?",
+            "field_names_covered": [
+                "type",
+                "monthly_cost",
+                "special_rate"
+            ]
+        }
+    ]
+}

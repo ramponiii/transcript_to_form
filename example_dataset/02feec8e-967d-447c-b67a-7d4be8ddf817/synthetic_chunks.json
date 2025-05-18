@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about where you currently live. I need to know your ownership status, like, do you own or rent your property?",
+            "client_message": "Um, I actually own my house, yeah. It’s been great for me so far!",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "That’s good to hear! What’s the address of your property? Could you give me the street name and the postcode?",
+            "client_message": "Sure, it’s on Maple Street. The postcode is 12345, and I just love my neighborhood... really feels like a good investment!",
+            "field_names_covered": [
+                "street_name",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Sounds like a fantastic place! Have you moved in recently, or how long have you been there?",
+            "client_message": "Oh, I moved in, let’s see... about two years ago now. I’m excited, I think the area is only gonna grow more!",
+            "field_names_covered": [
+                "move_in_date"
+            ]
+        }
+    ]
+}

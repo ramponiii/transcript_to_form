@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your retirement aspirations. What specific goals do you have in mind for this stage of your life?",
+            "client_message": "Uh, yeah, I mean, retirement is like this big deal, right? I just want to, um, travel a lot and maybe, like, spend time with family? And, um, I’ve always wanted to live near the beach, you know, just sip coffee and watch the waves.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That sounds lovely! Living by the beach can be very relaxing. Have you thought about how you would sustain that lifestyle financially?",
+            "client_message": "Yeah, totally! So, I think I’d need to have some, uh, savings or, like, a good income from investments, maybe? I mean, I’ve been saving for a while, but it’s hard to gauge how much is enough?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Indeed, determining a sustainable income for retirement is vital. Besides finances, what other aspects of retirement are important to you?",
+            "client_message": "Uh, well, I think I want to, um, stay active, like, do some gardening or, you know, maybe volunteer? I don’t just wanna sit around all day, right? But then, like, spending time with grandkids, that’s a big goal too!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

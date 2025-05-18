@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So think of risk like, uh, crossing a busy street, right? You gotta look both ways and, uh, sometimes there's a lot of cars and it can be kinda scary, yeah? But, if you just, uh, wait for the light and then cross, you're much safer. In investing, that light is like doing your research.",
+            "client_message": "Uh, okay, I guess I see what you mean but it's like, um, I'm not sure I get how that relates to, um, my expenses? Like, uh, do I need to take risks with my spending or something?",
+            "field_names_covered": [
+                "owner",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Exact... exactly! You have to evaluate your, um, expenses like you'd evaluate traffic. If it's just, uh, groceries—like crossing when it’s quiet—that's a low risk. But, let's say you're deciding to, um, invest further, that’s like, uh, deciding to cross when it's kinda chaotic, ya know?",
+            "client_message": "Right right, but what if, um, I don't feel comfy with that? Like, should I just stick to, uh, safer things? And how does that, um, fit with what I'm spending right now?",
+            "field_names_covered": [
+                "frequency",
+                "priority",
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your income sources. Do you have any regular income you’d like to mention?",
+            "client_message": "Yeah, I um... I have a salary from work, it’s kinda nice. I mean, it's not like huge or anything, but it helps, you know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! What’s the amount and how often do you get paid?",
+            "client_message": "Oh right, um... it’s like, nine hundred, I think, a month, and that's, um, after tax I guess, like net?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Awesome! Anything else you have?",
+            "client_message": "Well, I’m really excited about maybe investing some of this, you know?! I think it could grow and help me a lot!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

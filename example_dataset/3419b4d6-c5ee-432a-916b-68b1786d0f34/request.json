@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
+    "segments": 2,
+    "id": "3419b4d6-c5ee-432a-916b-68b1786d0f34"
+}

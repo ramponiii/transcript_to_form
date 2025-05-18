@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, now let's talk about your personal details, if that's alright. Can you confirm your full name for me? I know we have James, but what about your middle name?",
+            "client_message": "Yeah, um, my full name is actually James Arthur Moore. I usually just go by James though, so you can just use that. I think my middle name might have been left out in the last notes.",
+            "field_names_covered": [
+                "first_name",
+                "middle_names",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Got it, James. And just to double-check, is there a preferred pronoun you’d like me to use?",
+            "client_message": "Oh right! Sorry about that, I actually prefer he/him, not sure if I mentioned that before. I totally changed my mind on it!",
+            "field_names_covered": [
+                "pronouns"
+            ]
+        }
+    ]
+}

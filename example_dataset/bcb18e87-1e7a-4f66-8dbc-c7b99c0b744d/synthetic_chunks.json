@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's start with some basics, ya know? Can I have, um, your full name? Like, first name, last name and maybe any middle names you might, uh, have?",
+            "client_message": "Sure, my name's, uh, Jhonny Walsh. And no middle names, just Jhonny. But, a lot of my friends just call me J. It's, uh, simpler, I guess!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Jhonny, that's cool. Now, um, do you have any prefered pronouns? Also, if you don't mind sharing, what’s your date of birth?",
+            "client_message": "Yeah, I use he/him pronouns. And I was born, like, 15-06-1990. Not that I, uh, really celebrate my birthday or anything, but yeah, that's it.",
+            "field_names_covered": [
+                "pronouns",
+                "date_of_birth"
+            ]
+        }
+    ]
+}

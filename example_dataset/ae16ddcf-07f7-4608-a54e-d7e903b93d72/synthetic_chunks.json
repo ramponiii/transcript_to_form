@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "It's fantastic to see you're interested in exploring protection policies! Can you tell me what type of policy you currently have or are considering, especially regarding how it might align with your investment goals?",
+            "client_message": "Yeah, I’ve been looking into some life assurance policies, and honestly, I'm really excited about the potential for growth. I think it could be a good fit for my goals!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! Life assurance can indeed offer a solid foundation for many. Do you already have a provider in mind or are exploring your options? Also, what about the amount you would want to be assured?",
+            "client_message": "I'm not sure about the provider yet, but I’d be looking for something with a monthly cost that's manageable. Ideally, I’d want an amount assured that offers good coverage without breaking the bank, you know?",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

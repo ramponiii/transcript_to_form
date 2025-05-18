@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I see you have a mortgage with XYZ Bank. Can you confirm if you are the sole owner of this loan?",
+            "client_message": "Right, um, I thought I was, but actually, my partner is also on the mortgage, just forgot to mention that.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so it's joint ownership. Now, what's the type of loan? Is it a standard mortgage?",
+            "client_message": "Yeah, it's actually a, uh, kind of a home equity line of credit, I think I said mortgage earlier. My mistake!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "No problem! And could you tell me the outstanding balance on this loan?",
+            "client_message": "Hmm, the outstanding value is around, uh, $120,000, but I think I need to double-check that. It might be less, actually.",
+            "field_names_covered": [
+                "outstanding_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you please tell me about your current property ownership status? Are you renting or do you own your home?",
+            "client_message": "Um, yeah, I'm renting at the moment, actually. I live in a flat in town, and, uh, I think it's really lovely here. The postcode is QW12 3YZ.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that information. Could you share the address of your residence? Including details like the street name and city, if you don’t mind.",
+            "client_message": "Sure! It's on Maple Street, in the city of Springfield. I can get you the house number too, it's 25. And, um, we moved in last year, around May.",
+            "field_names_covered": [
+                "street_name",
+                "town_city",
+                "house_name_number",
+                "move_in_date"
+            ]
+        }
+    ]
+}

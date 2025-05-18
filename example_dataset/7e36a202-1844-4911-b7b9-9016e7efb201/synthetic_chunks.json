@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your expenses, right? You know, uh, it’s good to, um, understand who’s, like, responsible for each one. Like, who’s the o-owner of this expense you have?",
+            "client_message": "Oh, yeah, um, I’m the one covering most of it, it’s, uh, I think my car insurance, right? It’s something like, um, I pay, like, hundred bucks every month. It’s, uh, pretty important too, I guess.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

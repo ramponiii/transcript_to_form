@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, moving on to your employment status, could you clarify whether you're currently employed or self-employed? That will help us determine your tax situation better.",
+            "client_message": "Uh, I'm self-employed, but, um, I'm not sure what exactly you mean by, like, tax situation? What do you mean by that, exactly?",
+            "field_names_covered": [
+                "employment_status"
+            ]
+        },
+        {
+            "advisor_message": "When I say tax situation, I mean where you're domiciled for tax purposes. Basically, this means what country you're living in and if you're considered a tax resident there.",
+            "client_message": "Oh, right! So I'm in the UK and I've been living here for, like, most of my life, I think I'm a tax resident? I mean, that's what I've heard, but I'm not totally sure.",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "That's a good point to clarify! Being a tax resident means you're subject to UK tax laws. Also, could you provide your National Insurance number? It's like an identifier for taxes here.",
+            "client_message": "Yeah, um, I have that. It’s something like AB123456C, I think? Sorry if that's a bit jumbled, but I got it somewhere.",
+            "field_names_covered": [
+                "national_insurance_number"
+            ]
+        }
+    ]
+}

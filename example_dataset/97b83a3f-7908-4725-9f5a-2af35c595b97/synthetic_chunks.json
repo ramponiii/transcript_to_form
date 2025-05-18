@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, do you know who is the uh, like, the owner of the loan or mortgage?",
+            "client_message": "Yeah, that's me, it's, uh, under my name.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool! And uh what type of loan you got there?  Like, Mortgage or something?",
+            "client_message": "It's a personal loan, I think, yeah.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And do you know the current outstanding value on that loan?",
+            "client_message": "Umm, yeah, it's about ten thousand dollars or so.",
+            "field_names_covered": [
+                "outstanding_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your pension plan. Do you know what type of pension you have? Like, is it a Defined Contribution or maybe a State Pension?",
+            "client_message": "Oh, yeah! I think it’s a Defined Contribution pension, right? It's with, uh, what's it called... oh, yeah, uh, Pension Fund Co. or something!",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great! And can you tell me the current value of your pension fund?",
+            "client_message": "Hmm, uh, I think it’s around... like, um, maybe twenty thousand dollars? Or something like that. I’m super excited, 'cause I heard it might grow a lot more!",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "That’s a solid amount! Do you know your policy number? It helps to have that handy when we look into growth options.",
+            "client_message": "Uh, sure! I think it’s, um, like 12345-A or... something like that. I just wanna make sure it keeps growing, you know?",
+            "field_names_covered": [
+                "policy_number"
+            ]
+        }
+    ]
+}

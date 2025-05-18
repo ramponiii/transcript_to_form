@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your current policies, I see that you have Life Assurance. It's a solid choice for your family’s financial protection. What do you think about keeping it updated?",
+            "client_message": "I mean, sure, I get it, but like, is it really worth it? I've always thought Life Assurance was kinda, you know, overhyped?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns, but this protection helps ensure that your loved ones are taken care of financially. Also, have you checked your monthly cost? It might be less than you think.",
+            "client_message": "Right, but what’s the monthly cost? I don’t wanna be paying too much for something I’m not even sure I believe in.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "It's only around fifty dollars a month, which is quite reasonable. Plus, the amount assured should cover major expenses if anything happens.",
+            "client_message": "Okay, but like, what’s the amount assured again? I just don’t want to be throwing money away if it’s not going to help us much.",
+            "field_names_covered": [
+                "amount_assured"
+            ]
+        }
+    ]
+}

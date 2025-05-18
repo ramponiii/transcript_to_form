@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to get started, I’d like to ask about your dependent. Can you provide me with their full name?",
+            "client_message": "Uh, yeah, sure, it’s, um, Alex Johnson, but hey, so about my job, right? I work in marketing, and it can get pretty crazy sometimes!",
+            "field_names_covered": [
+                "name"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, uh, first let's get your name down, can I have, like, your first name and last name?",
+            "client_message": "Yeah, sure! My name's, uh, Sarah Connors.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Alright, Sarah! And, um, do you have a title or anything like that you go by? Or, like, any middle names?",
+            "client_message": "Oh, just Sarah Connors, no middle names or title, that's all I go by.",
+            "field_names_covered": [
+                "middle_names",
+                "title"
+            ]
+        }
+    ]
+}

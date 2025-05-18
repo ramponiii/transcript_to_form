@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Could you tell me what your current ownership status is? Are you renting or do you own your home?",
+            "client_message": "Um, yeah, I actually own my house.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what's the address of your place?",
+            "client_message": "It's, uh, 15 Maple Street in Springfield.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Thanks! Do you know the postal code for that area?",
+            "client_message": "Yeah, it's, um, 62701, I believe.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        }
+    ]
+}

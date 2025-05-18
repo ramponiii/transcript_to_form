@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about your pension. I'm, uh, curious to know how you feel about taking risks with it. You know, like, if I said, if you had, like, a choice between a safer low return investment versus a riskier one that could, um, earn more money over time, which would you kinda lean towards?",
+            "client_message": "Um, I dunno... I mean, I guess I want to grow it but, like, risks make me, you know, kinda nervous? I'm not sure if I'm up for, um, losing money, y'know?",
+            "field_names_covered": [
+                "type",
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, that makes sense. It’s important to feel comfortable with where your money's going. What if I told you that like a Defined Contribution pension could give you, um, more control? Would that make you feel better about taking on some risk?",
+            "client_message": "Yeah, that sounds, um, better? But still, I'm worried about, like, my provider having a good track record? What if it doesn't, uh, work out?",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, that's a valid concern. We can look into the specifics of the provider's history. But, you know, a higher value in your fund could mean, uh, improved retirement funds later on. How do you feel about, say, a scenario where your policy number indicates promising, um, growth?",
+            "client_message": "Well, if it’s growing, that would be nice! But, I still feel like, I dunno, something could go wrong? Like, what if I end up losing it all?",
+            "field_names_covered": [
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

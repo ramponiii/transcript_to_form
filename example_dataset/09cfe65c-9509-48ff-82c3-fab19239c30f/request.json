@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
+    "segments": 2,
+    "id": "09cfe65c-9509-48ff-82c3-fab19239c30f"
+}

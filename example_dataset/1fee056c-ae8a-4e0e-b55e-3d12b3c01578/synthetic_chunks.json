@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s talk about your insurance policies, right? Who's, um, the owner of the policy?",
+            "client_message": "Oh, that's me, I’m the owner, yeah.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, uh, what type of protection policy do you have? Like, is it life assurance or somethin' like that?",
+            "client_message": "Yeah, it’s a Life Assurance policy, actually. Been havin' it for a while now.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great! So, um, just to wrap it up, what’s your monthly cost for that policy and any notes we should keep in mind?",
+            "client_message": "Hmm, I think it’s around 50 bucks a month, and, uh, I need it for my family’s future, you know?",
+            "field_names_covered": [
+                "monthly_cost",
+                "notes"
+            ]
+        }
+    ]
+}

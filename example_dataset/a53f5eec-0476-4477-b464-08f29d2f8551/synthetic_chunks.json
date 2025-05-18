@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your dependents. Can you tell me, like, who they are and what their names are?",
+            "client_message": "Yeah, I've got one, um, my son, his name is Liam, he just turned five last month. I think I, uh, I should probably give you his date of birth too, right?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Right, right! And when is he considered a dependent until? Do you know that?",
+            "client_message": "Uh, I think he’ll be a dependent until, like, he’s 18 or something? So, uh, that would be, let me see... um, 2027?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

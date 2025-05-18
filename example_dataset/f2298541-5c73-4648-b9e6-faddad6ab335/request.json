@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client rambles a bit while describing their retirement aspirations.",
+    "segments": 2,
+    "id": "f2298541-5c73-4648-b9e6-faddad6ab335"
+}

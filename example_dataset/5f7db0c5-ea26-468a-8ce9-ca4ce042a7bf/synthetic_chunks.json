@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great to hear you're interested in your investments! What assets are you currently focused on?",
+            "client_message": "I’m really excited about my art collection. I just feel like it's potential for growth is huge, especially with how the market's changing.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That sounds promising! Can you share the current estimated value of your art collection?",
+            "client_message": "Yeah, I’d say it's worth around twenty thousand right now, but I bought it for, um, about fifteen thousand, I think. It's definitely appreciated!",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "That’s a solid increase! Any additional details about the collection you think are worth noting?",
+            "client_message": "Well, um, there's a few pieces in there that could really trend up. I’ve kept them in great condition and, oh, I have some certificates of authenticity for the higher value pieces too!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

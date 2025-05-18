@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's look at your investments. I suggest considering an ISA for its tax benefits, you know? It could really help grow your money without taxes eating into your returns.",
+            "client_message": "Uh, I dunno, those ISAs, they sound good and all, but like, are they really that effective? I feel like I heard some bad stuff about them or somethin'.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. ISAs can sometimes get a bad rap, but many people find them beneficial if they’re used correctly. Have you thought about how much you might want to invest in one?",
+            "client_message": "Yeah, like, I mean, I was thinkin' maybe a couple thousand or somethin', but still, it just feels risky, right? Like, what if I lose that money?",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "It's completely fair to be cautious. The current market can seem unstable, but remember, investing is about growth over time. We can set up some protections to help mitigate those risks as well.",
+            "client_message": "Mhm, I guess, but isn’t there like, a chance I just end up with nothin’? I mean, what if everything crashes? That would suck, man.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

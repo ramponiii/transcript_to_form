@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s discuss your loan details. Could you let me know who the owner of the loan is and the type of loan you currently have?",
+            "client_message": "Yeah um, the owner is, uh, Alex Taylor. It's like a mortgage, I think? Of, you know, like for the house. Umm, and I dunno, the provider is that big bank, uh, you know, Maple Bank. Yeah, and I think the interest rate is, um, 3.5 percent? Maybe? Oh! And it's, um, due to be, like, finalized by 2030, I think. Yeah, um, the monthly cost, it's like around a thousand, you know?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost",
+                "interest_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

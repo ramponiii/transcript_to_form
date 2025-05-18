@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive into your income sources a bit. Can you tell me about your job and, um, the kind of income it brings in?",
+            "client_message": "Yeah, for sure! So I, uh, work as a software engineer, which is pretty cool, I guess. I make around, um, like, 80 thousand a year, but that’s, uh, before taxes and all that. So it’s gross, right?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And how often do you receive that payment? Is it monthly or what’s the deal there?",
+            "client_message": "Oh right! I get paid monthly, um, I think it’s around the first, usually. And, oh, I should mention, I plan to keep this job for another, like, three years at least.",
+            "field_names_covered": [
+                "frequency",
+                "timeframe"
+            ]
+        }
+    ]
+}

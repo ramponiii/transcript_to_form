@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's talk about your income sources. Can you list some for me?",
+            "client_message": "Uh, yeah, I mean, I get, uh, my salary from my job, that's like, I dunno, maybe five thousand a month, I think. And, oh, also there’s, um, some rent from the apartment I own, that's another, like, about 1,200 dollars, but uh, that's, it's net I guess, uh, yeah, it's net income. And, uh, oh, I have some dividends, but not sure how much, they're kinda random, you know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

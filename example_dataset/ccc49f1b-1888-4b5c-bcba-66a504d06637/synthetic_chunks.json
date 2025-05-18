@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So just to wrap things up, can you remind me who owns this income? Like, is it you personally or, you know, someone else involved?",
+            "client_message": "Uh, yeah, um, it's mine, I mean, I get the money ya know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what’s the, uh, name of this income source? You know, like salary or something?",
+            "client_message": "Oh right, it's, um, like, a rental income I think. Yeah, that's it, rental income!",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool! And, uh, how much do you, um, receive from that? Can you tell me the amount?",
+            "client_message": "It's around, I dunno, like a thousand dollars... no, wait, I think it's, um, a thousand fifty, yeah.",
+            "field_names_covered": [
+                "amount"
+            ]
+        }
+    ]
+}

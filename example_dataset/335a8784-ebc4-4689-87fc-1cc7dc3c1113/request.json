@@ -1,0 +1,7 @@
+{
+    "model": "OtherAsset",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 2,
+    "id": "335a8784-ebc4-4689-87fc-1cc7dc3c1113"
+}

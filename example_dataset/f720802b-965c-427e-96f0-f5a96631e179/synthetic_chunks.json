@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, I know you mentioned you have some assets. Can you, like, tell me who's the owner of that?",
+            "client_message": "Yeah, it's me, uh, John. I'm the owner of, um, my assets. I guess that's simple enough!",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what, um, kinda assets do you have? Like, uh, could you describe em for me?",
+            "client_message": "Sure! I have, uh, this classic car and some art. Oh, and there's jewelry too, I think. It's a mix really.",
+            "field_names_covered": [
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, um, do you know how much they’re worth now? Like, current value and maybe what you bought them for?",
+            "client_message": "I think the car is around twenty grand now, but I got it for, um, fifteen? The art, uh, I’m not sure exactly, and the jewelry… maybe around, like, five? I’ll look into that more, yeah?",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

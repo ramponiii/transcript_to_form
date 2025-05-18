@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s chat a bit about your health. How would you describe your current state of health? Any issues we should know about?",
+            "client_message": "Um, yeah, I mean, I don’t feel bad but I’ve got a couple of things going on. I smoke like, maybe, ten cigarettes a day. Been doing that since I was 18. My doctor said I could, you know, work on that but I haven’t yet. And, uh, I don’t think I need long-term care or anything, but just, you know, I should probably start looking into that stuff, huh?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since",
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

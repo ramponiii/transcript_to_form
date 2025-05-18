@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let me just recap what I think I heard about your, um, expenses. You mentioned you have this monthly thing, right? Like the mortgage or something?",
+            "client_message": "Yeah, yeah, that's, um, the mortgage payment. It’s, uh, $1,500 a month, I think?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "And, um, who's mainly responsible for that? Is it you or, uh, somebody else?",
+            "client_message": "It’s just me. I handle that all on my own, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Okay, got it. And you also said earlier that, uh, you consider this expense pretty essential for you? Right?",
+            "client_message": "Yep! Definitely essential. Can’t really skip on that, haha!",
+            "field_names_covered": [
+                "priority"
+            ]
+        }
+    ]
+}

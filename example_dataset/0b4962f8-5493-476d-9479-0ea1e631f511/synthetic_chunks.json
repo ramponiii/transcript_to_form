@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can you tell me abt, like, any savings or investments you have?",
+            "client_message": "Yea, I got an ISA, it's with, um, this bank, I think it's, uh, Nationwide, and, like, it's worth, uh, 15 thousand right now.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Okay, that's good to know! Any notes or specifics you wanna add regarding that ISA?",
+            "client_message": "Hmm, not really, just that I'm planning to, you know, keep adding money to it over the next few years or something.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

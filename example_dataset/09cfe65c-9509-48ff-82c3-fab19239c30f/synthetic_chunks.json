@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your existing protection policies. Who is the owner of your policy right now?",
+            "client_message": "Uh, it's me, actually. I, um, think it's with Aviva, and, oh, I pay about fifty pounds a month... I think.",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "That's great, thanks for sharing that. Can you tell me what type of protection policy it is?",
+            "client_message": "Right, um, it's, like, a life assurance, I guess? And, oh! I remember now, it’s assured until, um, 2040 or something. Yeah, that's it.",
+            "field_names_covered": [
+                "type",
+                "assured_until"
+            ]
+        }
+    ]
+}

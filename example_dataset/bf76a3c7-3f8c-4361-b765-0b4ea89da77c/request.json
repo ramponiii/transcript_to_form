@@ -1,0 +1,7 @@
+{
+    "model": "SavingOrInvestment",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
+    "segments": 2,
+    "id": "bf76a3c7-3f8c-4361-b765-0b4ea89da77c"
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let’s see here you mentioned, uh, your, uh, salary right? And you get it, like every, uh, month?",
+            "client_message": "Yeah that's right, my salary is about, um, three thousand dollars a month.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Right, so your salary, um, is net, correct? Like after taxes and stuff?",
+            "client_message": "Yeah, yeah, it's net. So, I don’t really, um, worrie about taxes being taken out.",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and, uh, is there any, um, timeframe for this income or is it, like, um, ongoing?",
+            "client_message": "No, it’s ongoing. So, I don't have a, um, end date or anything like that, just, uh, getting it monthly.",
+            "field_names_covered": [
+                "timeframe"
+            ]
+        }
+    ]
+}

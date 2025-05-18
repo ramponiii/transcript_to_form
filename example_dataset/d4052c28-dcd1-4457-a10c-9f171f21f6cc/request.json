@@ -1,0 +1,7 @@
+{
+    "model": "Pension",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor uses a hypothetical example to illustrate a point.",
+    "segments": 1,
+    "id": "d4052c28-dcd1-4457-a10c-9f171f21f6cc"
+}

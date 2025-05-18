@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, when we talk about long-term care, it’s basically about planning for, ya know, assistance you might need as you get older or if, if your health declines.",
+            "client_message": "Oh, okay, I think I get that, but what does long-term care really mean? Does it like, include in-home services or, uh, what exactly?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Yes, exactly! It can include not just, like, nursing homes but also in-home healthcare, uh, depending on your current state of health. For instance, if you've had, uh, chronic issues, you may need more, uh, daily support.",
+            "client_message": "Right, right. I see. So, um, based on my health now, do you think I might need, like, long-term care anytime soon?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "long_term_care_needed"
+            ]
+        },
+        {
+            "advisor_message": "Well, it's hard to say without knowing more, but, you know, if you have concerns about your health or, um, any ongoing treatments, that might be a signal. Have you considered, um, anything like a will or power of attorney?",
+            "client_message": "Hmm, I haven’t really thought about that. I mean, I do have some health issues, so maybe it’s time to look into a will? Like, I guess I should figure out if I need one, right?",
+            "field_names_covered": [
+                "will",
+                "information_about_will"
+            ]
+        }
+    ]
+}

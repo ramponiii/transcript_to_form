@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to wrap up, could you confirm your ownership details on the asset we discussed? Who exactly owns it?",
+            "client_message": "Um, yeah, I own it. It’s, uh, a classic car, I guess, that I somehow inherited.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what’s the current market value of that classic car?",
+            "client_message": "Hmm, I think it's probably around like, uh, fifty thousand dollars? I mean, that's, that's just an estimate.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, and could you tell me what the original purchase value was?",
+            "client_message": "Oh, uh, I’m not entirely sure, maybe, uh, thirty thousand? I’m not good with these things, you know?",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

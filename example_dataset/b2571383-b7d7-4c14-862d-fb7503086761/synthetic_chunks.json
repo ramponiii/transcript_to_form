@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s go over your income sources to get a clearer picture. Can you tell me about your salary? What’s the amount and how often do you get paid?",
+            "client_message": "Yeah, uh, my salary is actually 5,000 a month, I think. But... wait, actually, I might have forgotten. It’s more like 4,800, like, after tax comes off, right? I mean, I’m not sure if that really counts as gross or net.",
+            "field_names_covered": [
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so that's around 4,800 net monthly. And how about any other sources of income, like bonuses or rental income?",
+            "client_message": "Oh, right! I also get some rental income, but, uh, I used to think it was about 1,200... but now I remember it’s more like 1,000. Like, it's gross income, not net. I sometimes forget, you know? It’s a bit confusing.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that clarification! And just to confirm, you’re receiving that rental income monthly as well?",
+            "client_message": "Yes, yes, exactly. Monthly. But, um, I think I might also want to reconsider this whole situation like, in six months or so. Just in case, you know?",
+            "field_names_covered": [
+                "frequency",
+                "timeframe"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a slightly chaotic exchange with interruptions and informal language while discussing the client's job.",
+    "segments": 3,
+    "id": "89d70cc1-7604-4afc-999a-5103a4e95a57"
+}

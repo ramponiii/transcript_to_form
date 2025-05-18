@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to wrap up, can we confirm your address details? Just to make sure everything's accurate.",
+            "client_message": "Yeah, yeah, I live in, um, 24 Maple Street, uh, in Springfield.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Got it, 24 Maple Street in Springfield. And what's the postal code for that area?",
+            "client_message": "Oh right, um, it's 62704, I think. Yeah, that's it.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Perfect. And do you own this place or is it rented?",
+            "client_message": "Oh, I own it, uh, yes, owned, right?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        }
+    ]
+}

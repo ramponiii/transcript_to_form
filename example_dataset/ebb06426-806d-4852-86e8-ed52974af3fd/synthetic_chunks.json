@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your retirement plans. Have you thought about how you envision your lifestyle during retirement?",
+            "client_message": "Yeah, I've been thinking a lot about it lately. I mean, ideally, I’d love to travel more, maybe like go to Europe or something, but also, I don’t wanna spend all my savings on trips. Ah, and yeah, I guess, my kids will still kinda depend on me... for a bit? I mean, I wanna help them out for school and everything...",
+            "field_names_covered": [
+                "name",
+                "dependent_until"
+            ]
+        },
+        {
+            "advisor_message": "It's great that you have a vision for traveling! How many children do you have that might still be relying on you?",
+            "client_message": "Oh, just two. One's... um, 22 and the other is 19, still in college. So, I guess... they’ll probably depend on me until they graduate, right? And dates, uh, for them... the older one should be done in a year or so, I hope. Haha!",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. And what about your younger child—do you have an estimate of when they might finish their studies?",
+            "client_message": "Right, so they started college last year, should be like, uh, done in 2025? I think? I’m just... really focused on making sure they have what they need, you know? Like, they might be dependents until around that time, 'cause I mean, college isn’t cheap!",
+            "field_names_covered": [
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

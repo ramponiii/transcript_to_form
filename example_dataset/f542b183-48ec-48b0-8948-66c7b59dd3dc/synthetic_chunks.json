@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hey there! So, let's dive into some details about your loans. Can you tell me who holds the mortgage and maybe what type of loan you've got? Like, is it a personal loan or something else?",
+            "client_message": "Oh, right! The mortgage is actually with my bank, and it’s just a regular mortgage, nothing fancy like a car loan or credit card or whatever. Just the plain ol' mortgage.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what's your monthly payment looking like? Also, it’d help to know the outstanding balance and the interest rate if you have that. And any special rates? Like maybe a fixed rate deal or something?",
+            "client_message": "Yeah, uh, the monthly payment is about $1,200, and I think I still owe around 150,000. The interest rate is, um, like 3.5%, and I’ve got a fixed rate until 2025, which is nice!",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate",
+                "special_rate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s dive into your income sources. Can you tell me about the main income you have and what it’s from? Like, is it a salary, rental income, or something else?",
+            "client_message": "Sure! Um, I have a salary from my job, and it's about 5,000 a month. But I’m not quite sure whether it’s net or gross, maybe gross?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So that’s a gross salary of 5,000 monthly. Do you have any notes or specifics about the job or anything else we should add?",
+            "client_message": "Yeah, I should mention that I'm planning to keep this job at least until 2025. Just want to make sure that’s noted, you know?",
+            "field_names_covered": [
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

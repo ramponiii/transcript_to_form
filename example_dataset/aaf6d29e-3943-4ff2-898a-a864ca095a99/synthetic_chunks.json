@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's go over some of your monthly expenses. Can you tell me about any specific ones that concern you? Just to start, I'll need to know who the owner of the expense is, for instance, is it you or your spouse?",
+            "client_message": "Um, yeah, I can hear you okay. So, I guess the mortgage payment is one of the biggest things. That's, uh, mainly just my responsibility.",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, the mortgage payment. How much is that, and how often do you make that payment?",
+            "client_message": "Right, it's around fifteen hundred a month. I, um, think it's pretty essential, you know? Just keeps the roof over my head and all.",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

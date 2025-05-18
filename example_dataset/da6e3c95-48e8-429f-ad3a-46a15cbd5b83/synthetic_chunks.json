@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's discuss your current state of health. How would you describe it? It’s important for us to have a clear picture in order to plan effectively.",
+            "client_message": "Um, my health is generally good, I mean, I try to stay active and eat well. Just a few minor issues like, uh, allergies every now and then.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "That’s helpful to know. Do you smoke, or have you ever smoked?",
+            "client_message": "Yeah, I smoke. I’ve been smoking since I was 18, and usually I go through about ten cigarettes a day. Trying to quit, though. Just, you know, it’s hard.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

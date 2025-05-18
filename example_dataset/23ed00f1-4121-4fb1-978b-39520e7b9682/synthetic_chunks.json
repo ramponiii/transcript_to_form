@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's start with your personal details. Can you tell me your full name?",
+            "client_message": "Uh, yeah, so my name is like, um, Joe? And, uh, my last name is Smith. I think I have a middle name too but, it's kinda, um, hard to remember right now. Not sure if I, like, wrote it down anyplace.  You can just call me Joe, that’s what everybody sees me as, y'know? Oh, and my birthday is somewhere, um, in July? Like, on the, uh, 15th? I know it’s in the 7th month for sure. But uh, yeah, that's pretty much it!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as",
+                "date_of_birth"
+            ]
+        }
+    ]
+}

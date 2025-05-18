@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your pension policy. Who's the owner of that?",
+            "client_message": "Um, yeah, that's me, I think. I mean, like, it is, right? I have it, yeah.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great to confirm that. And what type of pension is it? Do you know?",
+            "client_message": "Uh, I got, like, SIPP or something? I’m not, um, sure but it’s... something like that?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And could you tell me who's the provider of this pension?",
+            "client_message": "Oh, uh, it's, um, with like, a bank, I think, something like, uh, you know, uh, why's it hard to remember this... it's, uh, blah blah Bank or smthin?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

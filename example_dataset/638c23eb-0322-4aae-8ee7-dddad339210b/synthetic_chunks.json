@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Ok, so, ahh, let's talk about your risk tolerance, right? I mean, if you were to invest in something like, um, stock market, how would you feel about that? You know, high risks and all that?",
+            "client_message": "Well, I dunno, I mean I guess it depends? Like, if it’s just a lil bit, then maybe I could handle it, but, um, like what if I lose all my money?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Totally understandable! Now, imagine you were, like, looking at a rental property, would that make you feel more or less secure, y'know?",
+            "client_message": "Hmm, yeah I think renting could be easier? But, um, there’s still that, like, worry about the market, right? What if the place loses value?",
+            "field_names_covered": [
+                "town_city",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, for sure! And what if I said you could get a house, right, same way, would that change your outlook? Say you’ve already, um, moved in, you know?",
+            "client_message": "Ohh, getting a house sounds good, but like, I'm kinda confused about the move-in date and when stuff would be final. I don’t really, um, have a set date yet, so...",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "county"
+            ]
+        }
+    ]
+}

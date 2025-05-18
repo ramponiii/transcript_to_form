@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk a bit about your loan situation, um, can you tell me what type you have and, uh, your provider?",
+            "client_message": "Yeah, um, I have a mortgage with ABC Bank. And it's, like, really exciting 'cause I think I'm gonna, you know, invest more soon!",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "That's great! So, what’s your monthly cost looking like for that mortgage?",
+            "client_message": "Oh, it’s around, um, 1200 bucks a month, but I'm curious, you know, with the potential investment growth, it might help me pay that off faster!",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "And do you have any, um, outstanding balance or interest rate details?",
+            "client_message": "Uh, yeah, I still owe like 250,000. The interest rate, uh, it’s 3.5%. I'm just super pumped thinking about how, uh, my investments can, you know, gain value soon!",
+            "field_names_covered": [
+                "outstanding_value",
+                "interest_rate"
+            ]
+        }
+    ]
+}

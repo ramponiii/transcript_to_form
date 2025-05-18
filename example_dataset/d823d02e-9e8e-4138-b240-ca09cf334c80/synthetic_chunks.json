@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your risk tolerance. If you had to, um, choose between a very aggressive investment, like stocks, that could, you know, potentially double your money or like risk losing it all. How would that make you feel?",
+            "client_message": "Uh, I mean, that sounds really risky. I, uhh, feel a bit nervous about losing money like that, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Right, I get that. How about something, uh, less risky? Like, uh, balanced funds or maybe, um, something in real estate? How do you view those?",
+            "client_message": "Mmm, I think that's, like, better. But I'm still unsure if, um, it's the best way for me. I just wanna make sure I'm not, like, jumping into something too risky, ya know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Totally understandable. It’s good to be cautious. Let's say there's an option that, um, has moderate risk. Like it can grow steadily without extreme ups and downs. Would that make you feel better?",
+            "client_message": "Yeah, I think that sounds, like, more my speed. But I'm still a bit, um, confuse-d about what I should do, really.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

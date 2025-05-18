@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate a slightly chaotic exchange with interruptions and informal language while discussing the client's job.",
+    "segments": 1,
+    "id": "eb94dfb2-fd44-4a4a-9f8b-351a79ac7668"
+}

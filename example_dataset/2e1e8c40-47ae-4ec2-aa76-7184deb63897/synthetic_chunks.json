@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, I see you’ve got, like, a monthly expense here? What’s, uh, the name or like description of that expense?",
+            "client_message": "Oh right, it's, uh, for our rent payment, around, um, 1200 dollars I think. We pay that, uh, monthly, it's pretty essential for us.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and, like, is there an owner listed for this expense?",
+            "client_message": "Yeah, I guess, um, both me and my spouse are, like, responsible for it. It's just, uh, something we split, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, what specific goals do you have in mind for today's session? Any particular areas we should focus on?",
+            "client_message": "Yeah, I was thinking about, um, maybe retirement savings and, like, getting better at budgeting.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That sounds great. For retirement, do you have a specific age you want to target for when you'd like to retire?",
+            "client_message": "I guess around sixty-five, but, like, not sure how much I need to save up for that, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it, we can definitely calculate that. And what about budgeting? What issues are you facing there?",
+            "client_message": "I tend to overspend on, um, like, eating out and stuff, so I wanna find a way to, uh, control that better.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

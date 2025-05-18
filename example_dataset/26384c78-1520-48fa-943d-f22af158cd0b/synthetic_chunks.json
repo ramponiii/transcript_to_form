@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's go over your protection policies. Can you tell me who owns the policy and a bit about it?",
+            "client_message": "Um, yeah, so like, I think my, uh, wife is, I mean, she's like the owner or something. And it's uh, Life Assur… Assurance, I think? Oh, and uh, I pay like, uh, 50 bucks a month or, um, something like that. The cover uh ends when I retire, I guess, not sure. Oh and there’s, uh, an amount of like, uh, 100,000 or something? I, uh, don’t know if it’s in trust or anything and I, um, have some notes, maybe? But, yeah, it's just 'cause of like family stuff, you know, that's the objective, I think.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "monthly_cost",
+                "assured_until",
+                "amount_assured",
+                "objectives"
+            ]
+        }
+    ]
+}

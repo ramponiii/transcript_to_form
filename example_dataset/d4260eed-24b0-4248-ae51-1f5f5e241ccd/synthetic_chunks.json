@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to start us off, could you share what your main objectives are for this financial session? Any specific goals you want to discuss today?",
+            "client_message": "Initially, I was focused on saving for retirement, but I think I should really prioritize my kids' education planning instead.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That's a great shift in focus. Planning for children's education can be really beneficial. What kind of savings goals do you have in mind for that?",
+            "client_message": "Yeah, I was thinking of maybe setting aside about a hundred thousand over the next ten years, you know, for college.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

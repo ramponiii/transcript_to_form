@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you confirm your full name for me? Just so I have it right.",
+            "client_message": "Sure, it’s uh, Emily, Emily Johnson. Just Emily, I don’t really use a middle name or anything.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Okay, great, Emily. And when's your birthday, if you don’t mind sharing that?",
+            "client_message": "I was born on January 15, 1990, so yeah, that's my birthday.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

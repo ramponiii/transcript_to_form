@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's say, um, you have a, uh, savings account. Like a regular bank account, you know? And, um, maybe the value of that account is, uh, 5,000 pounds. Now, um, imagine that's with... what would you say, a big bank like, um, Barclays? Just for example, right?",
+            "client_message": "Oh, yeah, I have a savings account with, um, Lloyds actually, and it's around 4,500 right now. I've been thinking, um, about where to put my money, you know?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

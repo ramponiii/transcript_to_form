@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
+    "segments": 3,
+    "id": "8e86965b-0c58-42b7-8efd-53ffd5d0ee22"
+}

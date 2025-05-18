@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who the mortgage, um, who the owner is for the mortgage?",
+            "client_message": "Yeah, that's me, I’m the owner, my name is Jordan, but, you know, I just bought the house recently.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what type of loan is it that you have?",
+            "client_message": "Oh, uh, it's just a mortgage, yeah, a standard mortgage for the house.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And who is the provider of that mortgage?",
+            "client_message": "The provider is, uh, Bank of America, I think. Yup, that's right.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

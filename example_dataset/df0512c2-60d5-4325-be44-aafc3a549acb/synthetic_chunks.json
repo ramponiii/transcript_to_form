@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's start with your mortgage details. Can you tell me who the owner of the loan is?",
+            "client_message": "Um, yeah, it’s me, but, like, I dunno if you’re really considering all options here.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "I understand. And what's the type of loan you have? Is it a mortgage, or, like, something else?",
+            "client_message": "It’s a mortgage, but I feel like I’m paying too much, y’know? Are you sure your advice is right?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it, we can look at that. Now, what’s your monthly cost for this mortgage?",
+            "client_message": "It’s around a thousand bucks a month, but I’ve seen better rates online! Are you really suggesting I stay with this lender?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

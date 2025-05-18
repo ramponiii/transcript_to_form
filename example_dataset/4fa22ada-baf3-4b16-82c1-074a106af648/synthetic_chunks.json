@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's say you have a mortgage, right? And imagine you're paying, like, a monthly cost of, uh, $1,200. Now, if we look at the total outstanding balance, it might be around, you know, $200,000 or so. The interest rate could be, say, 3.5%, but if you have a special rate, like 2.5% fixed until, uh, like 2030, that's a big deal. Your final payment, let's say it's due on 2035-12-01. Just thinkin' 'bout that can really help you see the bigger picture here. What do you think?",
+            "client_message": "Yeah, uh, that makes sense! So, if I were to have a mortgage like that, with all those numbers, it would really be a lot to consider. I mean, the monthly cost and like the final payment date, yeah, I gotta keep track of that.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate",
+                "special_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

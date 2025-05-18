@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, for your child, I recommend we list them as a dependent. What’s their full name again? Just to make sure we have it right.",
+            "client_message": "Uh, yeah, it’s like... um, John Doe? But, uh, do we really need to do that?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Right, John Doe. Got it. And when is his birthday? We need that for the forms.",
+            "client_message": "It’s in February, I think? Like, um, 15th or somethin'. But, y'know, do we really have to put this stuff down? Seems kinda unnecessary...",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Well, for tax purposes, you usually need to if he’s still, you know, considered a dependent until a certain age. Do you know if he’s considered dependent until a specific date?",
+            "client_message": "I mean, he’s still in school, so like, that’s a long way to go, but I just... I dunno if this is all worth it...",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your expenses. Can you tell me who's in charge of paying the bills? Like, is it mostly you or maybe your spouse?",
+            "client_message": "Uh, yeah, well, I take care of, um, most of it, but my wife helps out with some stuff too, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what kinda expenses do you usually have? Like, do you keep track of that, or is it just random?",
+            "client_message": "Oh, um, there’s the mortgage, uh, and then groceries and stuff. I think groceries, like, maybe a, uh, two hundred a month? And, like, we do the mortgage every month too, but I’m not super sure about the amount.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

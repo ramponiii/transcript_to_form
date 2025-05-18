@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you confirm the type of loan you're currently considering? Is it, for example, a Mortgage, Personal Loan, or something else?",
+            "client_message": "I was thinking it was a Personal Loan at first, but actually, it might be a Mortgage instead. I've been doing some more research, and that seems to fit my needs better.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. How about the provider? Do you have a specific lender in mind?",
+            "client_message": "I said before it was XYZ Bank, but now I'm leaning towards ABC Financial. They offer better rates for mortgages, I've heard.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

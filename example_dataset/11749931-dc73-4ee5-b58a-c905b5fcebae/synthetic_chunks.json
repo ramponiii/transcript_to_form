@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "I think one of the main objectives we should focus on is your long-term investment strategy. I believe diversifying your portfolio could really benefit you right now.",
+            "client_message": "Well, I don't know, that sounds a bit risky to me. I mean, I thought we were focusing on safer investments?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concern. But with the current market trends, having a mix of stocks and bonds can really balance the risk. What are your thoughts on that?",
+            "client_message": "Yeah, but I've read a lot about how some stocks are just too volatile, and I'm not sure that's the way to go. Aren't there better options?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That's a valid point. Some stocks can be volatile, but we can choose more stable ones or mix it with conservative investments. It’s really about finding the right balance that meets your goals. What kind of returns are you expecting in your strategy?",
+            "client_message": "I guess I just want something that won’t, like, lose money. I’m not looking to gamble my savings away here, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

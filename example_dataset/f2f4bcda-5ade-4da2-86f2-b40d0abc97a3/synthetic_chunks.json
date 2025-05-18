@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so think of risk like driving a car. You know, when you're driving, there's always a chance something could happen, right? Like, if it rains, the roads get slippery. That how risk works in investing too!",
+            "client_message": "Uh, yeah, I guess? But, like, what do you mean exactly? Are you saying umm...we could crash?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Right, exactly! So when you invest, it's kinda like choosing how fast to drive. If you're going fast, there's a higher chance of something bad happening, right? Like, you gotta be careful, or it could turn out nasty. The same with stocks, where sometimes they go up and down, and it's risky.",
+            "client_message": "Hmm... I think I sort of... get it? But, uhh, what if I don't want to drive fast? Is there, like, a slower way to invest or something?",
+            "field_names_covered": [
+                "dependent_until",
+                "sources"
+            ]
+        },
+        {
+            "advisor_message": "Totally get that! You can drive slow, and that's like investing in safer options, you know? Like bonds or savings accounts, those are like the safe roads. But just keep in mind, they might not take you as far, sometimes they grow slower too!",
+            "client_message": "Oh, okay! So slower means safer, and umm...super fast is risky? Alright, I think I'm following you somewhat now!",
+            "field_names_covered": [
+                "sources"
+            ]
+        }
+    ]
+}

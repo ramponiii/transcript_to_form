@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's discuss the information I have about you. I see your name is Michael Smith, is that correct? And how do you usually prefer to be addressed?",
+            "client_message": "Yeah, that's right. Uh, you can just call me Mike, I guess. But I mean, do you really think that the strategy you suggested will work for me?",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, Mike! It’s really tailored to fit your profile. You mentioned being born on 15-05-1985, correct? It helps understand your financial journey better.",
+            "client_message": "Yeah, that's my birthday. But, I don’t know, it feels like a lot of risks... I mean what if things don't go as planned?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns, but taking some calculated risks can really pay off. Speaking of, do you feel your current marital status might impact your decisions?",
+            "client_message": "Well, I'm single right now, but uh, I just don’t wanna dive into anything too risky, you know? It makes me nervous.",
+            "field_names_covered": [
+                "marital_status"
+            ]
+        }
+    ]
+}

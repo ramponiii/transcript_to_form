@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your health for a sec. How do you feel, like, overall? Any issues or anything?",
+            "client_message": "Uh, well, I mean, I'm, um, pretty okay, I guess? But, like, I've had some headaches lately?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, um, do you smoke, or have you ever, you know?",
+            "client_message": "Yeah, I do smoke, like, just maybe a pack a week or so? I started around, hmm, age 20, I think.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. And do you, um, have a will or power of attorney set up?",
+            "client_message": "Oh, uh, not really... I mean, I haven't done that yet, so it’s kinda, like, on my mind but not done, you know?",
+            "field_names_covered": [
+                "will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

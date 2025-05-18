@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current health. How would you describe your overall state of health right now?",
+            "client_message": "Um, well, I guess, uh, my health's okay, I mean, I, I feel mostly fine, but I do have, like, a bit of a cough sometimes. It's not, like, super serious, though.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "I appreciate that. And do you smoke at all? It's just important for me to know for your health profile.",
+            "client_message": "Oh, yeah, I smoke. Uh, like, maybe, uh, ten cigarettes a day, and I've been doing it since I was, like, 18 or something, I think. It's probably not the best thing for my health, right?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

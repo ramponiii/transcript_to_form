@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me what specific goals or objectives you wanna focus on today? Like, retirement savings or um, maybe investments or somethin'?",
+            "client_message": "Yeah, um, I’m really interested in, like, maybe saving for retirement mostly, and also, uh, I guess I have questions about investing in the stock market.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it, retirement savings and, uh, stock market investing. Those are good topics! Do you have any specific amounts in mind or, like, timelines for your retirement plans?",
+            "client_message": "Well, I think, you know, I’d like to retire by 65, but I’m not super sure about how much I should save. It just seems kinda overwhelming, honestly.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

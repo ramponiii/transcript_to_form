@@ -1,0 +1,14 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let’s, uh, talk about your assets. Do you, uh, have any specific asset in mind that you own?",
+            "client_message": "Um, yeah, I I have this, uh, classic car, you know, it’s a '65 Mustang, uh, I think I paid like... um, 15 thousand for it, but now, uh, it’s probably worth, like, around 25 thousand or sumthin. I just, uh, love that car, it’s been in the family for ages.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's dive into your goals for today. What specific objectives do you have in mind that we should focus on?",
+            "client_message": "Um, yeah, uh, I really want to, like, save for retirement, but also, I wanna, um, look into buying a house or something, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Retirement and a house, understood. Do you have any other, uh, short-term or long-term goals you'd like to discuss?",
+            "client_message": "Uh, yeah, I think maybe, um, helping my kids with college could be important too. I mean, there's just so much to think about, right?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

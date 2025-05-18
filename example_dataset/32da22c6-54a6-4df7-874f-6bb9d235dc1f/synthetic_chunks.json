@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s start with some basics. Can you tell me your first name and last name, please?",
+            "client_message": "Sure! My name's, um, John, John Smith.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Thank you, John. And, uh, do you have any middle names you'd like to share?",
+            "client_message": "Oh, I don’t really have middle names or anything, just John Smith, that’s it!",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        }
+    ]
+}

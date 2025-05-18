@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me what type of pension you currently have?",
+            "client_message": "Yeah, um, I think it's a Defined Contribution pension, but, like, I'm not too sure about the specifics.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for clarifying! And do you know which financial institution is managing that pension for you?",
+            "client_message": "Yeah, it's with, uh, Fidelity, I believe. I got it set up a while back.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what would you say is its current value?",
+            "client_message": "Um, the last I checked, it was around, like, fifty thousand dollars, or something close to that.",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

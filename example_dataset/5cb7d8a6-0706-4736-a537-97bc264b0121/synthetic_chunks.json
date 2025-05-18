@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so to get started, can you tell me your full name? Like your first name, middle names if ya have any, and your last name?",
+            "client_message": "Uh, yeah, sure! I’m, like, my name’s Alex, uh, and my, uh, last name’s Johnson. I don’t really have any middle names.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Great! And do you go by anything else, like a nickname? Also, what’s your date of birth?",
+            "client_message": "Ohh, yeah, I’m like, people call me Al, and, um, I was born on, like, the 05-12-1990.  It’s all good, I mean, haha!",
+            "field_names_covered": [
+                "known_as",
+                "date_of_birth"
+            ]
+        }
+    ]
+}

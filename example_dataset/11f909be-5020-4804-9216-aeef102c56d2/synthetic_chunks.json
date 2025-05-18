@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's talk about, you know, your job and how, um, that, that ties into, uh, expenses. Can you tell me what kinda expenses you have right now?",
+            "client_message": "Oh, right, um, yeah, I’ve got like, my, uh, rent's like a big one, right? I pay that every month, uh, it's pretty essential and then, uh, there's also like my gym membership I guess, um, it's more like, you know, half essential? But, like, I try to go to work out, you know? And yeah, I’ve got, uh, expenses from my car too, uh, that's important for getting to work. Like, gas and insurance all adds up, ugh!  And yeah, I’m the one paying for, um, all of that, so it’s just, like, me.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

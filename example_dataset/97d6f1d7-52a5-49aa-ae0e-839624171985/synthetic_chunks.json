@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your monthly expenses, we have that your mortgage payment is around fifteen hundred. Does that still hold, or have there been changes?",
+            "client_message": "Uh, you know, I was thinking, it might actually be closer to sixteen hundred now. I just refinanced and forgot to update that, sorry about that.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "No problem at all! And how about your car insurance? Is that still about a hundred twenty-five per month?",
+            "client_message": "Actually, I just checked and I think it’s gone up to about a hundred forty a month now. So, yeah, that’s a change too.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

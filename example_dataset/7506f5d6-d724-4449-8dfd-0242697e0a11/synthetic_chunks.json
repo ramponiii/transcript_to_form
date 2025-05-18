@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I wanted to check in with you about your financial situation. Can I ask, where are you currently domiciled?",
+            "client_message": "I'm living in the UK right now, and I think it's a great place for investments!",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "That’s good to hear! And how do you feel about your investment opportunities here? Any thoughts on retirement plans?",
+            "client_message": "Oh, I'm really excited! I hope to retire at around 65, and I’ve been looking into some strategies that could really boost my savings. I just feel like there's so much potential for growth!",
+            "field_names_covered": [
+                "desired_retirement_age"
+            ]
+        }
+    ]
+}

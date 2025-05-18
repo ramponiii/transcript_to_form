@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So think about investment risk like, um, driving a car, right? If you're going fast, there's more chance of getting into an accident, right?",
+            "client_message": "I guess, yeah, but it's kinda hard to, to like see how that relates to my money? Like, uh, what do you mean by 'going fast'?",
+            "field_names_covered": [
+                "description",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Well, it's just, if you invest in really risky things, it's like going 100 miles an hour. You could crash and lose a lot, or you could, um, get to your destination quicker.",
+            "client_message": "Ah, okay, but do I, like, need to drive fast to make money? Or can I go slow?",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! You can take it slow and steady, like, um, just cruising along. That way, your investment grows more gradually with less chance of a big crash.",
+            "client_message": "Oh, I see now. So if I, like, want to play it safe, then I shouldn't, uh, go for those high-risk stocks, right?",
+            "field_names_covered": [
+                "owner",
+                "original_value"
+            ]
+        }
+    ]
+}

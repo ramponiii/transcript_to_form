@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's move on to discussing your dependents. Can you tell me the full name of your dependent? Just to confirm, can you hear me okay?",
+            "client_message": "Yeah, I can hear you fine! My dependent's name is Emily Johnson.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! Thanks for that. And when was Emily born? I need the date of birth in DD-MM-YYYY format.",
+            "client_message": "She was born on 15-03-2015. Also, just to let you know, she will be a dependent until she turns 18, so that would be until 15-03-2033.",
+            "field_names_covered": [
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

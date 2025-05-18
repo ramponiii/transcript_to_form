@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to recap, it's important that we understand your current state of health when planning your financial future. Can you tell me a bit about that?",
+            "client_message": "Um, yeah, I guess my health is okay, you know? I mean, I don't have any major issues, but sometimes I, uh, feel a little tired.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "And do you smoke? That can really impact both your health and insurance options.",
+            "client_message": "Well, I smoke, yeah. Kind of a lot, actually, like a pack a day, maybe? I've been doing this since I was, like, 18.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "I see. That makes sense. And what about long-term care? Do you think you might need it down the line?",
+            "client_message": "Honestly, I'm not convinced I need, like, long-term care right now, you know? I just feel like it's way too early to even think about that.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

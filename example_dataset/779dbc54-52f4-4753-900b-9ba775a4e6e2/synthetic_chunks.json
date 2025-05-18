@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your mortgage stuff. Can you tell me who, um, actually, like owns the loan? Who's, you know, the primary person on that?",
+            "client_message": "Oh, right, it’s me, I guess? I mean, I'm the one 'cause it's under my name an’ all that. My job's busy, but yeah, it's mine!",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Okay, great! And like, what kind of loan is it, you know? Is it a mortgage or somethin’ else?",
+            "client_message": "Yeah, it's a mortgage. Like I said, busy with work an’ all, but ya know, it's just a mortgage, not really a car loan or anything, just a house loan I guess!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Gotcha! And, um, what's the monthly payment look like for that? You have, uh, any idea?",
+            "client_message": "Uh, I think it’s around like, uh, 1,200 a month? Maybe a bit more, I forget. Work’s crazy, you know? Plus, there’s, like, the interest too, or whatever!",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

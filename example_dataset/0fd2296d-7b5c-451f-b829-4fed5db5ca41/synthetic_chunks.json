@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current state of health. Have you had any recent check-ups or anything to update us on?",
+            "client_message": "Um, well, I kinda thought it was all good, but, like, I’ve been feeling more tired lately, you know? I guess I should really mention that.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. It’s really important. Can you describe a bit more about what you mean by feeling tired?",
+            "client_message": "Yeah, it’s like, I don’t know, I've just been low on energy for a few weeks, maybe even a month. I thought it was just work stress, but now I’m not so sure.",
+            "field_names_covered": [
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it. Along those lines, do you smoke or have any habits that might affect your health?",
+            "client_message": "Actually, I used to smoke a lot, like a pack a day since I was 18, but I've quit for, like, two years now. So...I guess that’s good news?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

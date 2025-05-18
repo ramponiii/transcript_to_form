@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright! So, to start things off, what specific goals or objectives do you want to tackle today? I know you mentioned some ideas earlier, just want to get a clearer picture.",
+            "client_message": "Uh, yeah! So, I really want to, like, focus on saving for a house and maybe put some cash away for, um, vacations or something? Also, I kinda wanna look at retirement stuff too, just to see where I stand. Hope that makes sense!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

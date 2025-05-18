@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your retirement plans, what do you envision for that time in your life?",
+            "client_message": "Oh, um, yeah, right! So, I've kinda been thinking about retirement, you know? Like, I wanna travel a lot, to places like, um, Italy and, like, maybe Japan or somethin'. And, oh! I’ve got this, uh, savings account, but it’s not like huge or anything—just a couple of thousand, uh, saved up? It’s with that bank, you know, the one on Main Street? Anyway, I wanna make sure I have enough, but I’m also thinking about, like, getting some investments, like maybe a property or something to, um, rent out later? But I'm not really sure, so I guess I need to think about it, right? Also, I have no clue how to, like, plan for all of this! So, yeah, that’s kinda my ramble on the retirement thing.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

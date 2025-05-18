@@ -1,0 +1,7 @@
+{
+    "model": "Employment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
+    "segments": 3,
+    "id": "3df8e948-6c71-4a0a-93a5-e65858449531"
+}

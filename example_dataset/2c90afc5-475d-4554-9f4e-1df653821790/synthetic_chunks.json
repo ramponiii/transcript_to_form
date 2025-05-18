@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can we start with where you're living, like your country?",
+            "client_message": "Uh, yeah, I live in umm, like the UK, I guess, but I don't really keep track of all that you know?",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And are you a tax resident there?",
+            "client_message": "Yeah, I think so, I mean, I pay my taxes but sometimes I'm confused about the whole thing. And my job? It’s like I work at a shop… oh! My employer is, umm, I forgot the name, but I’m like, uh, employed there for about three years or somethin'.",
+            "field_names_covered": [
+                "resident_for_tax",
+                "employment_status",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

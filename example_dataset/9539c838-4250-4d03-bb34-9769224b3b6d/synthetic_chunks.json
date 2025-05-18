@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's start with your current living situation. Can you tell me if you own your home or if you’re renting?",
+            "client_message": "Um, I think I’m renting but, like, I’m not sure how that really fits into your plan, you know?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "That's totally fine. Renting can actually work in your favor. What about your address—can you provide me with the street name and postcode?",
+            "client_message": "Yeah, it’s on Elm Street... but I’m not really convinced that my renting situation is an advantage here, honestly.",
+            "field_names_covered": [
+                "street_name",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. We can certainly work with your current setup. Just for a complete picture, could you share the town or city you live in?",
+            "client_message": "I mean, I live in Springfield, but again, I’m not sure how knowing that helps with any recommendations you might have for me.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        }
+    ]
+}

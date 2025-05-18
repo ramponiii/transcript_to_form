@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so, uh, can you tell me your dependents names or their names? I just need to get that down real quick, okay?",
+            "client_message": "Uh, yeah, I have one, uh, her name is Emily, Emily Johnson, you know? She's my daughter.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great, Emily Johnson, got it. And when's her birthday? We need that for the records. Do you have it?",
+            "client_message": "Oh, wow, um, I think it’s, like, 15-04-2015, yeah. April 15th, two thousand fifteen.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And, heh, just one last thing, um, until when is she, you know, considered a dependent?",
+            "client_message": "Uh, I guess she’ll be a dependent until, uh, she turns 18, so that'd be 15-04-2033, right?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

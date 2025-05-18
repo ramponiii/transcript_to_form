@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's talk about your pension. Can you tell me who the owner of the policy is?",
+            "client_message": "Ah, yeah, that's me, I own it. It’s just that, um, I’ve been thinkin’ a lot about retirement, you know? Like, I really wanna travel, maybe Italy? But also, I need to make sure my pension's solid for that, right?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what type of pension do you currently have?",
+            "client_message": "Right, um, it’s a Defined Contribution plan I think? At least that’s what my friend said. And the provider is some company – I can’t remember their name at the top of my head. Oh! Wait, I think it’s something like Maple Financial? And the value, I... I'm not super sure, maybe around 50 thousand or so? I just want to make sure it lasts, you know?",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

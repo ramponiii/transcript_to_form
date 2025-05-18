@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who owns the classic car you mentioned?",
+            "client_message": "Um, yeah, it's actually mine, I own it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what would you say is the current value of that car?",
+            "client_message": "Uh, I think it's worth around fifteen thousand, give or take?",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and do you remember what you paid for it originally?",
+            "client_message": "Hmm, I bought it for, like, ten thousand, I think.",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s go over the basics first. Can you tell me your full name? Like, your first name, last name, and any middle names ya might have?",
+            "client_message": "Uh, yeah, it's, um, Jason, Jason Lee Roberts. I mean, I just go by Jason, you know?",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, Jason! And what about your date of birth?",
+            "client_message": "I was born on the fifth of March in nineteen eighty. But did you really think that, uh, the retirement plan you suggested is, like, really gonna work for me?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "I think it’s a good starting point, but we can adjust as needed. So, what do you do for work, Jason? That might help, too.",
+            "client_message": "I work in IT, and I’m not sure, I mean, it just feels risky, you know? Like, I dunno if I like the plan. ",
+            "field_names_covered": [
+                "employment"
+            ]
+        }
+    ]
+}

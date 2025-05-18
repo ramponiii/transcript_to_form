@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your current loans. Can you tell me who is the owner of the loan?",
+            "client_message": "Uh, yeah, the owner would be me, actually. It's all under my name.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "I see, and what type of loan are we looking at? Is it a mortgage or perhaps a personal loan?",
+            "client_message": "It's a mortgage, yes. I'm also curious about the monthly cost and the interest rate; I've been following those closely.",
+            "field_names_covered": [
+                "type",
+                "monthly_cost",
+                "interest_rate"
+            ]
+        }
+    ]
+}

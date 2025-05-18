@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me your dependent's name? Like, just the full name, you know?",
+            "client_message": "Yeah, um, my kid's name is Jake Smith. Um, I guess I should tell you he’s, like, my dependent for, you know, tax stuff, right?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what’s his date of birth? Just the day, month, and year like in DD-MM-YYYY format?",
+            "client_message": "Oh! Yeah, I think it’s 15-06-2010, so he’s ten now. Um, I’m not sure about the dependent until thing though... like, how does that work?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

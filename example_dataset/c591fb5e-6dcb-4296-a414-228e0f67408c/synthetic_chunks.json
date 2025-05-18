@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let me just see here. Uhm, you mentioned that your health is, like, not too bad overall, right? But can you tell me if there's, uh, any specific issues or, like, things you might be concerned about?",
+            "client_message": "Ya, I mean, I'm okay, but, um, I've got high blood pressure and, like, I've been tired a lot lately.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it, high blood pressure, noted. Um, what about smoking? Do you, like, smoke or anything?",
+            "client_message": "Oh, uh, yeah, I smoke, like, maybe 10 cigarettes a day. I’ve been, um, smoking since I was, like, 20 or so. It's, uh, kinda hard to quit, you know?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Okay, so you smoke about 10 a day since you were 20. That’s good to know. Now, do you have a will or, like, power of attorney set up?",
+            "client_message": "Um, yeah, I have a will, but I don't, uh, have a power of attorney. My will is at my brother’s place, it's kinda, like, just there, I guess.",
+            "field_names_covered": [
+                "will",
+                "information_about_will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

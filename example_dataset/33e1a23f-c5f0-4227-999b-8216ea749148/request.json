@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "HIGH",
+    "specific_requests": "Generate an exchange where the client rambles a bit while describing their retirement aspirations.",
+    "segments": 2,
+    "id": "33e1a23f-c5f0-4227-999b-8216ea749148"
+}

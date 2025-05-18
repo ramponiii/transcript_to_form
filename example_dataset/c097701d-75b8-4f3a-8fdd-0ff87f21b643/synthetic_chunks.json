@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so lets talk about, uh, the protection policies that might, you know, fit your needs. I see, uh, some options like Life Assurance or Critical Illness Cover. Do you have any preferences?",
+            "client_message": "I dunno, I mean, those sound fine and all, but I just kinda feel like it’s a lotta stuff to think about ya know? Like, how do I know it’s the right choice for me?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's a fair point. It’s important to feel confident. So, um, let’s say we go with something basic like Life Assurance, right? It’s pretty common and provides a safety net for, you know, your family financially. How does that sound?",
+            "client_message": "I guess, but I’ve seen, like, horror stories online about these policies. Like, um, what if I’m paying a lot but don’t get anything out of it? What if I never need it?",
+            "field_names_covered": [
+                "type",
+                "amount_assured"
+            ]
+        },
+        {
+            "advisor_message": "I totally get that skepticism. It’s crucial to consider what, uh, you’re paying versus what you get. Plus, we can always look at a monthly cost that’s, you know, manageable for you. Also, um, do you have a particular provider in mind?",
+            "client_message": "Eh, I dunno, maybe. But honestly, I’m worried about the monthly cost too. I gotta make sure I’m not just throwin' money away ya know?",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

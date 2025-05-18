@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about your full name. I want to make sure I got it right. Like, your first name and last name, and if you have any middle names, you know?",
+            "client_message": "Um, yeah, sure. My name is actually John Doe. No middle names or anything. Just John and Doe.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Right, John Doe. And, uh, do you have any titles or, like, nicknames you prefer? I mean, anything that you go by?",
+            "client_message": "Nah, just John. But some people call me Johnny sometimes, I guess. But just John works for me.",
+            "field_names_covered": [
+                "known_as"
+            ]
+        }
+    ]
+}

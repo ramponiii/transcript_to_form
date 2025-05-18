@@ -1,0 +1,7 @@
+{
+    "model": "Income",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
+    "segments": 2,
+    "id": "60e704ba-e221-4a2e-97d1-ec9062911e81"
+}

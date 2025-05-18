@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can we talk about your income sources? Like, uh, do you have a specific name for the income like, salary or, um, rental income?",
+            "client_message": "Oh, yeah, I mean I have my salary, it's around 4000 every month. It’s, um, gross income though.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, your monthly salary is 4000 gross. Now, do you have any other sources or like notes on this income?",
+            "client_message": "Um, nope, just that. But, I guess, I could send you some proof of my salary? Oh, and it keeps, you know, increasing annually by like 3%?",
+            "field_names_covered": [
+                "notes",
+                "timeframe"
+            ]
+        }
+    ]
+}

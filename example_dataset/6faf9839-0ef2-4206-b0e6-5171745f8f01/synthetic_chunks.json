@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can you tell me about your, like, ownership status of the property? Is it owned or, you know, rented?",
+            "client_message": "Yeah, um, I actually, I rent it, like, I'm not the owner or anything.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it, rented. And what’s your, your town or city name?",
+            "client_message": "It's like, uh, I'm in Manchester, yeah, just Manchester.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, Manchester. And can you give me your postal code?",
+            "client_message": "Oh, yeah, it's, um, M1 2JD, I think. Something like that.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        }
+    ]
+}

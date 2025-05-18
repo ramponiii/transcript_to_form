@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current expenses. Do you have any specific ones that you're thinking about prioritizing for investment?",
+            "client_message": "Yeah, I'm actually really excited about the idea of investing more, especially knowing how much I can grow my savings. Like, maybe I'm thinking my monthly groceries could use a re-evaluation if I can make my money work harder for me.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That sounds great! It’s important to see where you can optimize. How much do you spend on groceries, and how often?",
+            "client_message": "Uh, I think it's around, like, 400 dollars a month? I definitely want to focus on that as a priority, you know? If I could shift some of that towards, uh, investments I could be looking at better growth, right?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

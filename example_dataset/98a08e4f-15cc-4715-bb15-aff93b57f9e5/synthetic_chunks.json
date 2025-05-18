@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about the details for your dependent. Can you please share their full name with me?",
+            "client_message": "Um, yeah, my dependent's name is uh, Emily Johnson. She was born on 15th of March, twenty twenty-one, and, um, she, uh, will be a dependent until, like, 15th March, twenty thirty-nine, I guess.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

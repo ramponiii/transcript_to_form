@@ -1,0 +1,33 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about any ongoing expenses you have, like things that are, uh, really essential for you each month or whatever.",
+            "client_message": "Hmm, yeah, I mean there’s the rent, that’s like a major expense. Um, it’s about uh, twelve hundred bucks a month if I remember right. Just normal stuff, you know?",
+            "field_names_covered": [
+                "owner",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it, twelve hundred for rent, that's definitely a big one. Any other costs you’re, like, keeping track of that are important?",
+            "client_message": "Oh, for sure! There’s my uh, car insurance too. It’s about a hundred and fifty a month—pretty standard I guess? I mean, I need the car for work and stuff.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Nice! And what about any other expenses, like groceries or, you know, fun stuff?",
+            "client_message": "Yeah, groceries are around, uh, four hundred monthly I think? It’s, like, kinda essential. Oh! And just, um, a bit of spending for fun—maybe a couple hundred, you know, I gotta enjoy life a little!",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

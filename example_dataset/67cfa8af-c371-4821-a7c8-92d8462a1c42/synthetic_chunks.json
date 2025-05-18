@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a little about your current state of health, if you'd like. Any major issues or just the usual things?",
+            "client_message": "Um, I mean, I'm okay, but, like, you know, I do have this, uh, my back hurts sometimes, but other than that, I guess, I'm kinda healthy?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "And, uh, do you smoke at all? That might be important for, you know, health insurance things.",
+            "client_message": "Oh yeah, I smoke a bit, like, um, usually half a pack a day, uh, since, let’s see... maybe age 18? It's just part of my routine, right? But, hey, I mean, it’s not gonna be forever, I hope.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

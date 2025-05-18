@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about investment risk, think of it like crossing a busy street. You know there are risks involved, like cars coming at you, but with awareness and care, you can make it safely across.",
+            "client_message": "I get that, but like, how do I know when it's safe to cross? It's kinda hard to tell sometimes.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, and just like checking for traffic, you have to evaluate the market conditions. If it looks calm and the cars are slow, maybe you can cross quicker. If it's chaotic, maybe you should wait a bit.",
+            "client_message": "Yeah, but what if I choose the wrong time? Does that mean I could lose a lot?",
+            "field_names_covered": [
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That’s a good point. Just like in that street analogy, sometimes you have to be cautious and maybe even hold back until the right moment when your personal strategy feels safer.",
+            "client_message": "So, it’s, like, about timing and being cautious? I’m just worried about losing my money if I make a wrong move, you know?",
+            "field_names_covered": [
+                "current_value",
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

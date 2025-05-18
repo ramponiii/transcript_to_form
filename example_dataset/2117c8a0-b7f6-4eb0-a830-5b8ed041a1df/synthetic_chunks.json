@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, regarding your monthly expenses, have you given any more thought to your car insurance? I remember you mentioned it was roughly around $120 a month.",
+            "client_message": "Yeah, um, actually, I think it’s more like, I dunno, $140 or something. I just, I realized I, I kinda overlooked that, you know?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "No problem! It’s good that we clarified that. And what about the ownership of that insurance? Is it in your name or your spouse's?",
+            "client_message": "Oh, it’s mine, definitely mine. My spouse doesn’t drive much, so I handle all the car stuff, right?",
+            "field_names_covered": [
+                "owner"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about the expenses you have? Like, what kind of bills are you dealing with regularly?",
+            "client_message": "Um, yeah, I was, uh, thinking about that, and I, well, um, honestly, I don’t think I need to include the, uh, gym membership anymore. It, it’s really not a priority for me now, you know?",
+            "field_names_covered": [
+                "amount",
+                "priority",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, if we take out the gym membership, are there any other expenses you want to adjust?",
+            "client_message": "Right! Also, um, I guess I should mention, my car insurance is, like, overdue, and it's about a hundred fifty a month, but, um, we can keep that one for now.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

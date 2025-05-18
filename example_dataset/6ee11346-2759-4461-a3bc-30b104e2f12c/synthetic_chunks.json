@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So let's talk about your investments, yeah? I mean uh, do you have like a specific provider or account, maybe? Just trying to get a sense of what you've got.",
+            "client_message": "Uh, yeah, I got this, um, ISA, you know? It's with, um, some bank. Uh, I think it’s, wait, what was it again, uh, let me think...",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great, and uh, what’s, like, the current value of this ISA? That’d really help us in, you know, planning ahead.",
+            "client_message": "Oh! Uh, I think it’s about, um, twenty thousand right now? But, like, it might kinda change soon, I think.",
+            "field_names_covered": [
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

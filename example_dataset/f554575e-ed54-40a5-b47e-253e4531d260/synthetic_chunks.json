@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about what your main objectives are for this session. What do you hope to achieve today?",
+            "client_message": "Uh, yeah, so, I guess like, I'm not really sure, but um, I wanna, like, save for my kids, you know? And maybe think about retirement, but it’s kinda all splotchy in my mind, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense! So saving for your kids and retirement sound important. Can you elaborate a bit more on how you see that working out?",
+            "client_message": "Right, um, saving, yeah, like, I heard about a 529 plan or somethin’ for college? And, uh, I'm also, like, feelin' like I should be doing somethin’ for retirement, but I don’t really know how to start—like, I don't have clear ideas.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "I can help with that. Are there any specific savings plans, or resources you’ve looked into?",
+            "client_message": "Uh, well, not much—I mean, I've, um, seen a few things online? Like, uh, just Googled stuff about, um, retirement accounts and funds but nothing like really clicked, you know?",
+            "field_names_covered": [
+                "objectives",
+                "sources"
+            ]
+        }
+    ]
+}

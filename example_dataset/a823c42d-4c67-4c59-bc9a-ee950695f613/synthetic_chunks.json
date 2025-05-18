@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over the protection policy details. Who is the owner of the policy?",
+            "client_message": "Actually, I think it should be my sister, not me. I mentioned earlier that I’d thought it was in my name, but I’m pretty sure it’s hers.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, that helps. Now, can you remind me the type of policy you have? Is it life assurance or something else?",
+            "client_message": "Oh wait, I mixed that up too. It’s actually Critical Illness Cover, not Life Assurance like I said before.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "Expense",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
+    "segments": 1,
+    "id": "fd978af0-05fa-4972-9b2a-6e59479dad37"
+}

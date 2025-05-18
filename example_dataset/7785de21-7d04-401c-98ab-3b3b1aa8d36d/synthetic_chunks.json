@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your pension policy? Like, the provider or what type it is?",
+            "client_message": "Uh, yeah, I think it's, um, a defined contribution? And the provider, it's, uh, I can’t remember now, maybe like, um, Aviva or something?",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what’s the current value of that pension fund?",
+            "client_message": "Oh right, the value, um... last I checked it was close to, uh, 50 thousand, I think? But it might've gone up? It’s hard to keep track, ya know?",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Do you have any additional notes or details about this pension?",
+            "client_message": "Notes? Uh, I guess, well, there’s a policy number, I wrote it down somewhere, it's like, um, 12345 and, hmmm, I don’t think there’s anything else really. Oh wait, maybe it’s about how I should be reviewing it more regularly?",
+            "field_names_covered": [
+                "policy_number",
+                "notes"
+            ]
+        }
+    ]
+}

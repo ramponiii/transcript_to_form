@@ -1,0 +1,7 @@
+{
+    "model": "Pension",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
+    "segments": 2,
+    "id": "0648ec97-026a-4e16-8d54-a578dbd98472"
+}

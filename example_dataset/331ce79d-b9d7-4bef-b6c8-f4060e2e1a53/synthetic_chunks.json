@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your retirement plans. What are you envisioning for your income during retirement?",
+            "client_message": "Um, yeah, so, I mean, I think I wanna have a bit of a steady, uh, you know, income. Maybe like my, um, salary now, but I guess it's more like, uh, I was thinkin' possibly some rental income? I dunno, maybe like two thousand each month from rental properties or something?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a solid plan! So, you mentioned rental income of about two thousand a month. Do you foresee any other income sources?",
+            "client_message": "Yeah, definitely, I mean, there's, uh, my pension, which I hope will cover, like, another, um, thousand, probably monthly too? And, um, if I can find a part-time job doing something I like, that’d be great too.",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "What about the tax situation? Is that income going to be net or gross?",
+            "client_message": "Oh right, um, I think they said the pension is, like, net income, but the rental stuff, I guess it would be gross, um, yeah, before tax and all that. Just wanna have everything clear before I actually retire, you know?",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your investments. Can you share with me the types of accounts or savings you have?",
+            "client_message": "Uh, yeah, I think I have, like, this investment thing, um... it's an ISA, I think. And there's, like, a bank account too, but I'm not sure which bank, you know? Oh! And, um, the value, it's probably around 5 thousand or maybe more, I dunno. I kinda, like, I just opened it a while ago, maybe last year, or something, and... I don't really have exact notes on it or whatever, but, um, yeah, that’s about it.",
+            "field_names_covered": [
+                "type",
+                "value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your income sources. What do you identify as your primary income right now?",
+            "client_message": "Um, I guess my main source would be my salary from my job at the tech firm. I, uh, receive it monthly.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what would be the amount you’re making from your salary? Is this figure before or after tax?",
+            "client_message": "Oh, right! I, uh, my gross income, it’s about six thousand, um, dollars a month, yeah.",
+            "field_names_covered": [
+                "amount",
+                "net_gross"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "ClientInformation",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the advisor sounds slightly rushed.",
+    "segments": 3,
+    "id": "c6279844-d1fa-46cd-859e-ce1670e14bd6"
+}

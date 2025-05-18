@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s dive into your protection policies. Can you tell me, who's the actual owner of the policy? I need to clear that up. Can you hear me okay?",
+            "client_message": "Yeah, I can hear you. The policy’s owned by me, actually. It’s a life assurance policy I took out last year.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what's the amount assured on that policy?",
+            "client_message": "The amount assured is 200,000 pounds. Oh, and I pay about 50 pounds each month for it. Also, it’s not written in trust.",
+            "field_names_covered": [
+                "amount_assured",
+                "monthly_cost",
+                "in_trust"
+            ]
+        }
+    ]
+}

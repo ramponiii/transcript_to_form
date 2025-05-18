@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your existing life insurance policy. Can you remind me who is the owner of that policy?",
+            "client_message": "Yeah, um, I initially thought it was my wife who's the owner, but actually, I think it's mine. I should double-check that, but I'm pretty sure it's me.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what type of protection policy do you have? Is it life assurance, or something else?",
+            "client_message": "Oh, right! I was thinking it was just a standard life assurance, but now that I think about it, I believe it's critical illness cover instead. I should really confirm that, too.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hey there! So, uh, let’s dive into your health a bit, yeah? Can you tell me how you, like, feel these days? Any major issues or just a general check-in?",
+            "client_message": "Oh, um, I guess I’m okay, mostly. Just, you know, a bit tired often and I think my, um, back has been hurting sometimes.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Got it! That sounds rough. And, uh, do you smoke or anything like that? I mean, if you don’t mind me asking.",
+            "client_message": "Yeah, I smoke, like, a pack a day or so, uh, been doing that since I was, like, 18, I think. It’s not the best habit, huh?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, those habits can be tricky, huh? Now, do you have, like, long-term care needs or anything, or is there, um, a will or power of attorney set up? Just curious.",
+            "client_message": "Nah, no long-term care needed right now, but actually I don’t have a will or power of attorney, either. Just, um, kinda haven’t thought about it much, you know?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

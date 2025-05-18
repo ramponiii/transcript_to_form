@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk a bit about your uh, property ownership status. Are you, you know, owning your house or, um, renting it?",
+            "client_message": "Oh, I'm, like, really excited! I'm totally owning my place now, in, um, London. It feels good, ya know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! And, um, what street name are you on, if you don't mind me asking?",
+            "client_message": "It's, uh, Elm Street, actually! I think, um, electric growth in property values is, like, gonna happen soon, right?",
+            "field_names_covered": [
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "For sure! And, uh, do you happen to have a postcode for, like, your area? It could help with some investment strategies.",
+            "client_message": "Yeah, it's like, um, E7 8HD. I really think, like, if I hold onto my house, it’ll become worth, you know, way more!",
+            "field_names_covered": [
+                "postcode"
+            ]
+        }
+    ]
+}

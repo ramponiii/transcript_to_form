@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your objectives for today. What are the main goals or topics you want to cover in this session?",
+            "client_message": "Uh, I think I wanna start with, um, my savings plans and maybe how to, like, invest better? And also, um, just figuring out my retirement stuff, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so you're looking to, like, improve your savings and think about investing, plus retirement planning. That's a good start. Do you have any specific, um, figures in mind regarding your savings?",
+            "client_message": "Yeah, I guess I'm currently saving around, um, five hundred bucks a month, but I wanna, like, boost that if I can. Also, I’ve got about a thousand in a, um, retirement account, but I’m not sure how to grow it.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. Just to recap, you want to increase your monthly savings, explore investment options and also work on your retirement account. Let’s, like, map out a plan. I suggest we meet again next week to discuss tailored investment strategies and a revised savings plan. How does that sound?",
+            "client_message": "Yeah, that sounds great! I’ll look into it and, um, we can, like, talk more about it next week.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

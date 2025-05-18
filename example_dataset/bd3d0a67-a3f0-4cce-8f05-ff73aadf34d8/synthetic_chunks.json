@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start off by discussing your objectives today. What specific goals or topics do you want to focus on during our session?",
+            "client_message": "Um, right. So, I want to maybe talk about retirement planning and possibly, like, investing in real estate. Those are my main goals.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Retirement planning and real estate investment are great topics. Could you also share your current investment sources or any financial sources you're using?",
+            "client_message": "Uh, well, I have a 401(k), and I've been thinking about investing in a few mutual funds, but, uh, I’m not too sure what else is out there.",
+            "field_names_covered": [
+                "sources"
+            ]
+        }
+    ]
+}

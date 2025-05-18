@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me about any savings you have. Who is the owner of them?",
+            "client_message": "Uh, it's me. I'm the owner of the accounts.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of accounts are we talking about here?",
+            "client_message": "I have like, um, a savings account and an ISA.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And which provider holds these accounts?",
+            "client_message": "They're with, uh, NatWest and also one with, um, Halifax.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "ProtectionPolicy",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client changes their mind about a piece of information.",
+    "segments": 2,
+    "id": "8a397e00-5675-407a-9594-d47e2833ab38"
+}

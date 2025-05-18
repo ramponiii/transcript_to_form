@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, yeah, regarding your pension, you have a, um, Defined Benefit plan, right? That means, like, your payout is kinda based on your salary and how long you've been working.  \nUm, it’s really important, you know, to keep track of this stuff for retirement planning.",
+            "client_message": "Wait, uh, hold on a sec, what exactly does Defined Benefit mean? I, like, kinda get it, but can you explain it more? And also, um, I have a, what’s it called, a policy number for that, right?",
+            "field_names_covered": [
+                "type",
+                "policy_number"
+            ]
+        },
+        {
+            "advisor_message": "Sure! So, basically, a Defined Benefit plan, it guarantees a certain amount of money for you when you retire, like a retirement paycheck, you know? And, uh, your policy number is just a way to, like, identify your pension account with the provider.",
+            "client_message": "Ah, okay, got it! I think mine, um, was through—uh, what’s it called again? Oh yeah, the, um, XYZ Investment Company, right? And I should probally check the, um, value of that as well, huh?",
+            "field_names_covered": [
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

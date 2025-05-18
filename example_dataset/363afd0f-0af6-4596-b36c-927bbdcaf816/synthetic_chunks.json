@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so can you tell me which country you're, um, domiciled in?",
+            "client_message": "Oh, right, I live in the UK, like my whole life, you know?",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Great! And are you, like, a tax resident there too?",
+            "client_message": "Yeah, I'm a tax resident. I mean, I pay my taxes here and all that stuff. Oh, and I'm self-employed, by the way.",
+            "field_names_covered": [
+                "resident_for_tax",
+                "employment_status"
+            ]
+        }
+    ]
+}

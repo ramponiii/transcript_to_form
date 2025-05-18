@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, I just need to confirm a few details with you. Could you tell me your full name as you would like it to appear on the documents?",
+            "client_message": "Sure, it's uh, actually, my name is Jessica Maria Smith, but... I usually just go by Jess.",
+            "field_names_covered": [
+                "first_name",
+                "middle_names",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Jess. And how about your date of birth? You mentioned the 12th of March during the last call, is that still correct?",
+            "client_message": "Actually, I think I made a mistake. It's, um... the 14th of March, not the 12th. Sorry about that!",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about any dependents you might have. Can you share their full name with me?",
+            "client_message": "Sure, my son's name is Alex Johnson.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And when was Alex born?",
+            "client_message": "He was born on 15-03-2015.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

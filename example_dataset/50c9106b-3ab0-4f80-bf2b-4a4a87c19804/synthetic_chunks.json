@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to start off, can you tell me about any savings or investments you might have? Like, you know, the type and maybe who it's with?",
+            "client_message": "Uh, yeah, sure! I have a couple of things, um, one is, like, a Bank Account, I think it’s with, uh, Chase, but I’m not sure of the balance right now, maybe a couple of hundred?",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Alright, cool! And how about, like, any details you wanna share? Like, anything specific about that account?",
+            "client_message": "Um, yeah, I guess I just use it for everyday stuff, you know? Like, groceries and whatnot. Oh, and it’s got no extra fees or something, which is good!",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That’s definitely good to know! Are there any other investments or savings you’re keeping track of?",
+            "client_message": "Oh, um, yeah! I got an ISA too! It’s, um, with some platform, I wanna say it’s, uh, InvestSmart? But it’s not, like, too much in there, maybe a thousand?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

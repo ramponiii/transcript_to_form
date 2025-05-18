@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your monthly expenses. Can you tell me who usually handles that?",
+            "client_message": "Um, I guess it’s mostly me, but, like, sometimes my spouse helps, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what expenses do you have?",
+            "client_message": "So, we, uh, pay for groceries, and then there's, like, the mortgage? Oh, and I think there's car insurance, too.. I mean, there might be more?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Alright, those are important. Can you give me an idea of how much you spend on those each month?",
+            "client_message": "Um, I think groceries are around, like, I dunno, 300 or something? And mortgage... maybe 1200 or so? Car insurance for, like, 150, I think, maybe more?",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

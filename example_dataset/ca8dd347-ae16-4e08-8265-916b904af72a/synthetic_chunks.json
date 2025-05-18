@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about the asset you mentioned earlier, right? It seems like you’ve got a… umm, a kinda fancy collection of classic cars?",
+            "client_message": "Yeah, I do have a few classic cars, like a '67 Mustang and a Beetle. Pretty cool stuff!",
+            "field_names_covered": [
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and, um, can you tell me a bit more about their value? Like, uh, what do you think they’re worth now?",
+            "client_message": "Well, I think the Mustang is around, uh, $30,000 and the Beetle maybe $15,000 or so, not sure exactly though.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Okay, so between, um, $30,000 and $15,000? And do you also know what you originally paid for them? Or inherited them?",
+            "client_message": "I bought the Mustang for like $10,000 and the Beetle was, hmm, I think it was about $5,000. Those were good deals!",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

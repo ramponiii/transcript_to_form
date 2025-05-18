@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so uh, let’s talk about your income sources for retirement. Can you share a bit about that?",
+            "client_message": "Yeah, um, I guess my main source is, like, my pension, right? It, uh, it’s supposed to be around, like, fifteen hundred a month? I mean, that's, that’s before taxes, I think? And then, you know, I also do some rental stuff, but it’s kinda not that consistent, y’know? Like, sometimes I get it weekly, sometimes it can be, uh, like, months in between. So, this one place, it pays around, uh, what, seven hundred, I think, when I get it? Not sure if that’ll last forever though, because, y’know, things change? And I'm planning on, uh, retiring by twenty thirty? Maybe? I dunno, but I hope to have enough to, like, travel and stuff, just enjoy life, you know?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross",
+                "timeframe"
+            ]
+        }
+    ]
+}

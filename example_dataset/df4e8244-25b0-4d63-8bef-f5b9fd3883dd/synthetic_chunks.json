@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your housing situation. What is your current ownership status? Are you renting or do you own your property? Can you hear me okay?",
+            "client_message": "Yeah, I can hear you. So, I actually own my house, um, it's in the town of Brampton, you know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Great! So, you own your house in Brampton. Can you provide me with the street name and maybe the postcode?",
+            "client_message": "Sure, it’s on Maple Street, uh, the postcode is AB12 3CD. I moved in, uh, a couple years ago, like in March 2021.",
+            "field_names_covered": [
+                "street_name",
+                "postcode",
+                "move_in_date"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Absolutely, I can explain that. When we talk about dependents in your financial plan, it usually refers to individuals who rely on you for financial support. This might include children or other family members.",
+            "client_message": "Got it, but could you clarify what you mean by dependents? Like, uh, does that include children and, um, maybe even my elderly parents?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Yes, dependents can indeed include children, but also, it can extend to parents or even siblings if they're financially reliant on you. Just to be clear, when it comes to planning, we’ll consider their names and, if applicable, their date of birth.",
+            "client_message": "Ah, right! So, for instance, if my kid is 10, I should mention their name and birth date too? Also, um, should I include how long they'll be considered my dependent?",
+            "field_names_covered": [
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

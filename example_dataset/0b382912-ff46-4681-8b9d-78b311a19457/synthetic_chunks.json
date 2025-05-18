@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current investments. I'm interested in the types of savings or investment accounts you have. Do you have anything specific in mind?",
+            "client_message": "Yeah, I've got a few things, mostly like a GIA and some ISAs. I'm really excited right now because I feel like there's a lot of potential for growth with these investments!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! How much are those investments currently valued at, and what platforms are holding them for you?",
+            "client_message": "Hmm, I think my GIA is about 25 thousand, and I use, um, a well-known platform for it and the ISAs are, like, I dunno, probably around 15 thousand combined. I'm really optimistic about the changes in the market and what that could mean for my portfolio!",
+            "field_names_covered": [
+                "value",
+                "provider"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your risk tolerance. If we were to consider a situation where interest rates might go up, how would that impact your comfort level with your current loans or investments?",
+            "client_message": "Um, I guess that sounds a bit tricky. I, like, don't really know how much increase is okay? Like, if it goes up by a little, maybe I'm fine, but what about, uh, if it goes up a lot?",
+            "field_names_covered": [
+                "owner",
+                "interest_rate"
+            ]
+        },
+        {
+            "advisor_message": "That's a good point. It's really about how much you can handle. For example, if your mortgage interest increases, would you be able to manage those higher monthly payments?",
+            "client_message": "Yeah, I mean, I pay like about 1,200 a month for my mortgage. If it were to, uh, jump up too much, I might struggle a bit more. It's just hard to say how much is too much, you know?",
+            "field_names_covered": [
+                "monthly_cost",
+                "special_rate"
+            ]
+        }
+    ]
+}

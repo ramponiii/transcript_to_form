@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about any assets you currently own? It might help us get a better picture of your overall financial situation.",
+            "client_message": "Um, yeah. I have a classic car that's worth, I think, around twenty thousand dollars. But, I might, uh, change my mind about the value of that, I’m not really sure now. It was originally bought for about fifteen thousand dollars.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "That's great information. Just to confirm, so the original value was fifteen thousand, and you estimate it at twenty thousand now, right?",
+            "client_message": "Well, actually, I might have overstated the current value... I’m thinking it might be closer to, like, eighteen thousand after all. Yeah, that's um, the current estimate I guess.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        }
+    ]
+}

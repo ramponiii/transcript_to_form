@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me a bit about your pension policy? Like, who’s the provider and, um, maybe the type of it?",
+            "client_message": "Oh, yeah, uh, so, my pension, it's with, um, I think it’s, uh, what’s the name? Oh right! It's from, um, Prudential or something, and it's like, hmm, uh, I think it's a, a Defined Benefit or maybe a Defined Contribution, not really sure. Also, I have a policy number, wait, let me check, uh, it’s something like, um, 1234 or maybe it’s 1234ABCD, uh, and the value? It's like, uh, a few thousand? Like, I dunno, um, I think it’s around 50K, but yeah, totally need to get back to you on that, or, uh, maybe later, I guess. There’s, um, some notes I should really tell you, but they’re kinda jumbled in my head right now.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "policy_number",
+                "notes"
+            ]
+        }
+    ]
+}

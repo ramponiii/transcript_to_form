@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your retirement plans. Who are you thinking about including in your retirement strategy? Do you have any dependents in mind?",
+            "client_message": "Yeah, uh, right, I do have a son. His name is, um, Oliver, yeah, Oliver Green. He’s, uh, fourteen, so he's still kinda young, you know? I guess I want to make sure he's, um, set up well for the future, you know? Like, I want him to be able to go to a good college or something. I just don't really know, uh, how soon I should start saving for all that.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a great plan. It’s important to think about future expenses like college. Do you have a specific date of birth for Oliver? That will help me understand until when he might be considered a dependent.",
+            "client_message": "Oh, right! His birthday is 12-06-2009. And I guess, you know, I'm just thinking until he’s, like, eighteen or so, but I dunno if that will change. It just seems like there's so much to think about, you know?",
+            "field_names_covered": [
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

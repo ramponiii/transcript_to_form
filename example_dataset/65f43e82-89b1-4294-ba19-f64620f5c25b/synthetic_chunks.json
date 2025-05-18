@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great, let's start by discussing your pension policy. Can you tell me who the owner of the policy is?",
+            "client_message": "Sure, the policy is under my name, it's me. I just wanted to make sure we're focused on it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Alright, and which type of pension do you have? Is it a Defined Contribution plan or something else?",
+            "client_message": "Um, it's a Defined Benefit pension. I think it’s provided by my previous employer and the policy number is 12345XYZ. The value of it, well, I'm not exactly sure, maybe around 50,000 pounds?",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "policy_number",
+                "value"
+            ]
+        }
+    ]
+}

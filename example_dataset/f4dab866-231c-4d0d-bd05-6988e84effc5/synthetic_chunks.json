@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's go over your mortgage details again. Who's the owner, and what type of loan are we talking about?",
+            "client_message": "Okay, so uh, I actually, I thought my mortgage was still with Bank of America, but no, I switched to Chase last year. It's, um, a fixed-rate mortgage, I think?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And with Chase, what’s your interest rate and the monthly cost?",
+            "client_message": "Right, uh, the interest rate is like, I wanna say, 3.5%, and my monthly payment is around 1,500. But I might need to double-check that for you, I can send the details later.",
+            "field_names_covered": [
+                "interest_rate",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

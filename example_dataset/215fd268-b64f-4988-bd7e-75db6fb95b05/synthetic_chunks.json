@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to kind of recap what you told me earlier, you mentioned you have a, um, life assurance policy?",
+            "client_message": "Yeah, that's right! It's a life assurance policy that I took out last year with, um, SureLife Insurance.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Oh okay, and, uh, how much are you paying, if I may ask?",
+            "client_message": "I'm paying about fifty, um, dollars a month for it. I think that's pretty reasonable, right?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "And, uh, what amount are you, um, assured for? Like if something happens?",
+            "client_message": "The total payout is like, um, fifty thousand dollars! I feel like that's enough for my family, you know?",
+            "field_names_covered": [
+                "amount_assured"
+            ]
+        }
+    ]
+}

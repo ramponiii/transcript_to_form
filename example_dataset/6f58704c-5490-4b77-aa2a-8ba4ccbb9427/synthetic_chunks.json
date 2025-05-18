@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about dependents today. Do you have anyone in mind, like a child or another relative, that you're claiming?",
+            "client_message": "Yeah, um, I have my daughter, her name's, uh, Jessie. She's like... seven now, I think.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "And when's her birthday? Just so we can get that down.",
+            "client_message": "Oh! It's uh, the fifth of June, 2016. Oh, and I gotta remember, she’s gonna be a dependent until, like, she turns 18, right?",
+            "field_names_covered": [
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

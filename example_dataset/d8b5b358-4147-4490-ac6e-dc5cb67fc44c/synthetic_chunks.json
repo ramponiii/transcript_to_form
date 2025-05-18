@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your job a bit. Can you tell me what you do for a living?",
+            "client_message": "Uh, yeah, I’m kinda, um, working as a marketing manager for this tech company. It’s, like, been a ride, you know?",
+            "field_names_covered": [
+                "occupation",
+                "employer"
+            ]
+        },
+        {
+            "advisor_message": "That's interesting! How long have you been with this company?",
+            "client_message": "Oh, um, I started back in, like, March, uh, 2020. So, that's, wow, three years now? Right? Yeah, March 2020!",
+            "field_names_covered": [
+                "employment_started",
+                "employment_status"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s chat about your goals today. What do you kinda want to achieve or, like, discuss in our session? Any, um, specific objectives on your mind?",
+            "client_message": "Oh, yeah! I really want to, um, make sure I save enough for like retirement, right? And, um, I've also been thinking 'bout maybe investing in something a lil' more, um, risky, ya know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Retirement is super important, and a little risk can be, like, beneficial for growth. What sources or, um, info have you checked out about investments, if any?",
+            "client_message": "I’ve read some articles online, but they’re kinda all over the place! Some say stocks, others talk about, uh, mutual funds or whatever. It’s just a bit confusing, honestly!",
+            "field_names_covered": [
+                "sources"
+            ]
+        }
+    ]
+}

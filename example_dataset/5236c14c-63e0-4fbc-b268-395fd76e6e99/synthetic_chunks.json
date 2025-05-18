@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your dependents. Do you have any children, right? Just want to make sure I have everything here. We need their names and dates of birth, if you have that.",
+            "client_message": "Uh, yeah, I actually have, um, a daughter, her name's Lily, she's, well, she was born on the, um, it’s the 15th of June, 2018. And I think, um, she’ll still be my dependent, you know, for a while.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth",
+                "dependent_until"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Lily, June 15th, 2018. And how long, uh, how long do you think she'll be considered a dependent? You know, into her twenties or what?",
+            "client_message": "Oh, I mean, probably until she, like, graduates college or something. So, uh, I guess around, like, 18 years or so from now? So that would, um, make it, like, 2036, I think?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

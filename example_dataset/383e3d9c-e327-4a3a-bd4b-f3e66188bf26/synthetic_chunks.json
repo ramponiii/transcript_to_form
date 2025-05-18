@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your protection policy. Who's the main owner of it?",
+            "client_message": "Well, that's actually me, I’m the one who owns the policy for myself.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of policy do you have? Like, is it life assurance, or maybe something else?",
+            "client_message": "Uh, yeah, it’s a Life Assurance policy, just to keep things simple. I want to make sure my family is covered, you know?",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Perfect, and can you remind me which company is providing that policy?",
+            "client_message": "Oh, it's with, uh, BetterLife Insurance. They’ve been pretty good so far, you know? Oh, and the monthly cost is around fifty bucks, if that helps!",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

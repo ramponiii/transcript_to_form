@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with some basics. Can you tell me what country you're domiciled in?",
+            "client_message": "Uh, yeah, so I think it's umm... the UK or sumthing like that? I mean, I live here, right?",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. And how about your tax residency? Are you a resident for tax purposes in the UK?",
+            "client_message": "Oh, well, yeah but like, I'm not sure if I ticked all the boxes or umm something like that, I mean, I am mostly here so... I guess so?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, could you share your employment status and what your current occupation is?",
+            "client_message": "Right, um, I work at a, like, uh, grocery store but it’s just part-time, so I'm not, uh, totally employed you know? So maybe, like, I’m part-time employed?",
+            "field_names_covered": [
+                "employment_status",
+                "occupation"
+            ]
+        }
+    ]
+}

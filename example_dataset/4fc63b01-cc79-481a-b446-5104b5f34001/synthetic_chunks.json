@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your income sources. Can you tell me what forms of income you have? We should get a good idea of what’s coming in every month.",
+            "client_message": "Yeah, I've got my salary, right? It's uh, pretty steady. I make like, about 5,000 bucks a month, before taxes, you know?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "net_gross",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So that’s a gross salary of 5,000 monthly. Do you have any other income sources apart from your salary? Maybe, investments or rental income?",
+            "client_message": "Oh, right! I also rent out a small place I own, brings in around 1,500 a month. That one's after taxes, so it's net. It’s been great to have that extra cash flow!",
+            "field_names_covered": [
+                "amount",
+                "name",
+                "net_gross",
+                "frequency"
+            ]
+        }
+    ]
+}

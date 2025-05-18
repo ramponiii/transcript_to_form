@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s wrap things up. Can you tell me about where you're uh, domiciled?",
+            "client_message": "Um, yeah, I guess I live in the, uh, UK now.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Great. And uh, are you a tax resident there?",
+            "client_message": "Oh, right! Yeah, like, I’ve been living here long enough so, uh, definitely a tax resident.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And what’s your current employment status?",
+            "client_message": "Um, I’m employed, right? Working at this, uh, tech company since like, uh, last year or something.",
+            "field_names_covered": [
+                "employment_status",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

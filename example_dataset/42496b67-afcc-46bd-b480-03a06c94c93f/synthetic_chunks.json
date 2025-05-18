@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive into your investments and savings a bit. Can you tell me about the main accounts you have? Like the types or maybe the providers?",
+            "client_message": "Um, right. I’ve got a, uh, few things, actually. A couple ISAs and then, uh, some sort of bank account, I think? But, yeah, the ISAs are with this... I forget the name, it's, uh, you know, pretty popular—I think it starts with a 'N' or somethin'.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it, ISAs are always a good way to save. How much do you think those are worth right now?",
+            "client_message": "Hmm, worth? Uhh, if I had to guess, maybe around, like, ten or twelve thousand? But honestly, I should really check that again 'cause it kinda fluctuates, you know? And the bank account, it's just, like, not much, a couple hundred, I guess?",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's discuss your protection policies. Can you tell me a bit about who's covered by them? Like, who's the owner of the policy?",
+            "client_message": "Um, yeah, that's me. I own them, and I'm really uhm, excited about how much they could grow!",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! And do you know what type of protection policy you've got? Like is it Life Assurance or maybe Critical Illness Cover?",
+            "client_message": "Oh right, it's a Life Assurance policy. I'm really hoping it helps a lot in the future, you know? I mean, the potential growth is just awesome!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! And have you checked on your monthly cost or how much you could get finally?",
+            "client_message": "Yeah, I pay like, around 50 bucks a month, and the amount assured is like, 100 thousand. It's good, right? I just think it could really grow a lot!",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate a formal and polite exchange.",
+    "segments": 2,
+    "id": "ab7268b7-4d0c-4d14-a76f-f25cb43d717c"
+}

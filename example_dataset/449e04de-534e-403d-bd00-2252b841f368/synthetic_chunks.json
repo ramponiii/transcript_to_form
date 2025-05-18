@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, in looking at your overall, like, health situation, can you tell me how you feel, like, currently? Any concerns?",
+            "client_message": "Oh, yeah! I mean, I'm feeling pretty good, honestly. Just, um, I do smoke sometimes, like a few, uh, cigarettes a day, but that’s kinda it for now!",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day"
+            ]
+        },
+        {
+            "advisor_message": "Okay, and how long have you been, um, smoking?",
+            "client_message": "I started when I was, like, age 20, so, uh, it's been a while now. But, um, you know, I'm thinking of investin' more, and, like, it’s exciting to see what growth I can have!",
+            "field_names_covered": [
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "That's interesting! So, you mentioned wanting to invest. Do you have, um, any long-term care needs we should consider?",
+            "client_message": "Not right now, but I might need some in the future, ya know? And, I also don't have a will yet, which I should really think about. But, investments have me super excited!",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "will"
+            ]
+        }
+    ]
+}

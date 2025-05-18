@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, uh, let's talk about your income sources, like, your, uh, salary or maybe other stuff you have, um, w-what do you call it? Oh yeah, any rental income, or maybe pensions, right?",
+            "client_message": "Um, yeah, I think I get salary, and there's also this like, rental thing I do but... what's a pension though? Like is that something I should have?",
+            "field_names_covered": [
+                "name",
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Sure, a pension is basically, um, money you get when you retire, like, ah, from your job or, um, a plan you pay into for, um, the future kinda thing. So, do you have one of those?",
+            "client_message": "Oh, I don’t think so. Just my salary and the rental income, um, but isn’t it like really important to have one? Like, um, how much is it?",
+            "field_names_covered": [
+                "net_gross",
+                "frequency",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, it's, like, super important for retirement, uh, and the amount can vary. It depends on how much, um, your employer contributes, or, like, how much you save for it, right? So, what's your monthly income from that rental?",
+            "client_message": "Okay, it's like around a thousand a month, I think? But, um, I’m still figuring out if it’s gross or net, 'cause I get confused, like what does that mean?",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

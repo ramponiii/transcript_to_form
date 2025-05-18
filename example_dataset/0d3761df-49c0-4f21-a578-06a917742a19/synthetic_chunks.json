@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me a bit about your current health status and if there are any health concerns we should discuss?",
+            "client_message": "Uh, well, my health, it's okay, I guess? I mean, I'm a smoker, have been for, like, ages. Since I was, um, I think it was, like, 18 or so? I smoke, um, around a pack a day—so, maybe 20, yeah. Oh, and I don’t have a will or anything, don't even have power of attorney, no plans to do that yet. But later I might need long-term care, like if things get worse you know? So, um, I guess just trying to figure it out.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since",
+                "will",
+                "power_of_attorney",
+                "long_term_care_needed"
+            ]
+        }
+    ]
+}

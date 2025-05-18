@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "You can think of investing like sailing a boat. Sometimes the waters are calm, and you can just cruise along. Other times, you might hit a storm, which represents risk. It's about how much you're willing to weather those storms.",
+            "client_message": "Hmm, so like, um, are you saying there are always storms? That sounds kinda scary...",
+            "field_names_covered": [
+                "type",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, but remember that with the right guidance and preparation, you can navigate through those storms safely. It's not just about avoiding them; it's about how to handle them when they come.",
+            "client_message": "Oh, got it. But, um, do we know when these storms might hit? Like, a timeline or something?",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Well, we can’t predict exactly, but we can assess the waters based on market trends and historical data. Think of it as learning the weather patterns for your sailing.",
+            "client_message": "Right, so we should, like, plan for bad weather but not freak out about it? That makes more sense. Thanks!",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

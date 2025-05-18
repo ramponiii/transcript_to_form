@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about where you live. Do you own your property, or is it rented? And what’s the postcode?",
+            "client_message": "Oh, yeah, um, I actually own my house, it's in like *the* 90210 area! It's super cool with all the potential for investment, right?",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! What’s the address, like the street name and maybe your town or city?",
+            "client_message": "Sure! It's on Maple Street, and I live in Beverly Hills! I mean, I can totally see my investment growing here, it’s just, wow!",
+            "field_names_covered": [
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Beverly Hills is a fantastic area for investment! And do you have any specific date when you moved in?",
+            "client_message": "Oh, I moved in back in, uh, July 2020. I’ve seen, like, so much growth since then!",
+            "field_names_covered": [
+                "move_in_date"
+            ]
+        }
+    ]
+}

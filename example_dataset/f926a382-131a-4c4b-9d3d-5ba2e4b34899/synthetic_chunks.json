@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "When we think about insurance, it’s like having an umbrella. You carry it to protect yourself from unexpected rain, even if the sun is shining. That's how risk management works.",
+            "client_message": "I see your point about the umbrella, but I guess I’m confused about how it really relates to my policy. What kind of rain are we expecting here?",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! So, in your case, your policy is like an umbrella that protects your loved ones financially if something were to happen to you. The type of policy you have really matters, as it defines how that protection is structured.",
+            "client_message": "Right, so it’s more about securing things for the future? But I’m still not sure how the policy details fit in. What type actually helps the most?",
+            "field_names_covered": [
+                "owner",
+                "provider",
+                "amount_assured"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Different types of policies, like life assurance or income protection, can be tailored to fit your needs. Think of them as different styles of umbrellas—some are wide and cover more, while others are more compact but offer the essential coverage.",
+            "client_message": "Got it. So, it's about what I really need, but I just want to clarify how much it costs each month and if I'm getting enough coverage for my family.",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured",
+                "in_trust"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you confirm where you're currently domiciled? I mean, the country you live in?",
+            "client_message": "Yeah, um, I thought it was the UK, but, ya know, I actually moved back to Canada a few months ago. So, that’s where I’m now.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And are you a tax resident there in Canada?",
+            "client_message": "Oh, right. Uh, I wasn’t really sure, but yeah, I think I’m a tax resident there now since I’ve been living there for a while.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about different types of investments, like ISAs or GIAs, it’s important to understand how each one can affect your savings and taxes.",
+            "client_message": "Um, could you explain what ISA means? I kinda get it but not really. I’m not sure how it’s different from like a regular bank account.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! An ISA, or Individual Savings Account, allows you to save money without paying tax on the interest earned. It’s great for maximizing your savings.",
+            "client_message": "Oh okay, that makes sense. And what about GIAs, what’s that about? Is it something that also gives tax benefits?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Good question! A GIA, or General Investment Account, doesn’t have the same tax advantages as an ISA, but it offers more flexibility in terms of the types of investments you can hold.",
+            "client_message": "Right, so like I could use that for more riskier investments or... something?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

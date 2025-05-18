@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about what you’re hoping to achieve today. Do you have any specific goals in mind?",
+            "client_message": "Yeah, umm, I was thinking about... maybe, I mean, like saving for, ya know, uh, a house, or maybe a car? But also, I kinda wanna, you know, invest something, like flashy stuff, if that makes sense?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, saving for a house and a car, and possibly investing. That’s a lot to cover. What kind of timeline are you looking at for these goals?",
+            "client_message": "Oh, uh, timeline? Well, I guess, umm, I dunno, maybe in a few years? But it’s all kinda fuzzy right now, ya know? Just want to make sure I am, like, planning for it, but also not rushing things, right?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

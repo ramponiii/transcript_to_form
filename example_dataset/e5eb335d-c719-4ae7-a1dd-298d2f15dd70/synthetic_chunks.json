@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive a bit into your job situation. Can you tell me where you work and what you do?",
+            "client_message": "Yeah, I work at uh, a tech startup, right? Uh, I'm like a software developer. We do a lot of web stuff, you know?",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and is it—so, is that, like, pretty stable? I mean, you’re happy there?",
+            "client_message": "Yeah, yeah, for the most part! I mean, it gets super busy sometimes but I’d say it's fine, like solid pay, you know? And there’s—oh, I think I also have some life insurance through my job, right?",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "monthly_cost",
+                "amount_assured",
+                "assured_until"
+            ]
+        }
+    ]
+}

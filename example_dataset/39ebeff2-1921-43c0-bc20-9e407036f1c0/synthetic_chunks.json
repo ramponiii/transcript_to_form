@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with your insurance policies. Can you tell me who is the owner of your main policy, please?",
+            "client_message": "Uh, right, so I think it's, um, my husband? Or maybe, wait, no, it's me actually, my name's on it.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what type of protection policy do you have? That could be something like life assurance or income protection.",
+            "client_message": "Um, it's like a, uh, life thing? I mean, it says Life Assurance somewhere, but I also think there’s, um, something about Critical Illness in there too, not too sure.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "No worries, that makes sense. How much are you paying on a monthly basis for this policy?",
+            "client_message": "Oh, the monthly cost? Uh, I think it’s, like, you know, around a hundred, maybe? Or a bit less, hard to keep track, honestly, and then there’s this, uh, coverage amount—like, two hundred thousand or something?",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

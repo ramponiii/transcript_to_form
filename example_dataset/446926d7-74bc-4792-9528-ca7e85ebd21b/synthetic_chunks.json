@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your ownership status, uh, are you, like, owning or renting the property?",
+            "client_message": "Uh, I'm a bit confused, like, what do you mean by ownership status? I mean, I live in a rented apartment, so I'm not sure if that, like, counts or something.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Right, so owning means, um, you have the title, and renting means you just pay for using it. Now, can you give me your, uh, postcode?",
+            "client_message": "Oh! Sure, uh, I think it's 12345, but my street name is, um, Maple Avenue. It’s in, uh, Springfield.",
+            "field_names_covered": [
+                "postcode",
+                "street_name",
+                "town_city"
+            ]
+        }
+    ]
+}

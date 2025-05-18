@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let me recap what you told me about your expenses. You said your, um, mortgage payment is about, like, fifteen hundred dollars a month?",
+            "client_message": "Yeah, that's right! It's, like, fifteen hundred and some change but, yeah, fifteens a good round number.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, you mentioned the mortgage is, like, essential for you, right? So, um, it's super important to keep paying that, yeah?",
+            "client_message": "Totally! It’s pretty much, like, number one priority for me. I can’t miss that, you know?",
+            "field_names_covered": [
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "And, uh, just to clarify, this mortgage expense is just ongoing, right? No, um, specific timeframe you're looking at?",
+            "client_message": "Yeah, it's just, like, forever. Unless I pay it off early or something, but not planning on that anytime soon.",
+            "field_names_covered": [
+                "timeframe"
+            ]
+        }
+    ]
+}

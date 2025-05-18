@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive into your investment goals. What are you hoping to achieve in terms of growth? Any specific targets in mind?",
+            "client_message": "Oh yeah, totally! I'm super excited about the possib— I mean, potential for growth! Like, I was reading about how the markets have been doing and it sounds promising.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! What areas are you particularly interested in? Are you thinking about stocks, bonds, or maybe something else?",
+            "client_message": "Um, I think stocks, for sure. I feel like— I mean, I’ve heard they’re really good for growth. Like, long term, I want to see some serious returns!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Long-term investments in stocks can indeed be a solid strategy. Do you have an idea of how much you’d like to invest?",
+            "client_message": "Yeah, I’m thinking around, uh, maybe 10k to start with, just to test the waters and see how things go, you know? It’s exciting!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

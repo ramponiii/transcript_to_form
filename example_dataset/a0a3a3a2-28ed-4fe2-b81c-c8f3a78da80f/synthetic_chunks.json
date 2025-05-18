@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, tell me, how's your health lately? Like, anything notable, uh, going on?",
+            "client_message": "Well, um, I'm okay, I guess. Just the usual stuff, ya know? But hey, I smoke a bit, like, maybe a pack a day? Kinda bad, I know.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day"
+            ]
+        },
+        {
+            "advisor_message": "Oh wow, a pack a day? That's, uh, quite a bit. How long have you been smokin'?",
+            "client_message": "Yeah, it's been, um, since I was 18. So like, uh, a long time, right?",
+            "field_names_covered": [
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Gotcha, and, um, anything about long-term care? Need that or anything?",
+            "client_message": "Nah, not really, I think. Just making, uh, good money at work and all, but ya know, maybe should think about a will or somethin'.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "will"
+            ]
+        }
+    ]
+}

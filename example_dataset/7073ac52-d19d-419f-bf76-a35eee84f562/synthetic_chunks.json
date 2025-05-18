@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about your retirement plans, what you're hoping for in those years?",
+            "client_message": "Oh, right, um, you know, retirement! I kinda want to travel, visit places I’ve never been, like maybe Europe, and, uh, spend time with family, not too, like, too high-stress, you know?",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That sounds lovely! Do you have a specific budget or expenses in mind for travel and family activities?",
+            "client_message": "Uh, well, I’m thinking, like, I should probably save, maybe, for a, y'know, a vacation home or something? A bit each month or, like, at least, ‘til I retire, and yeah, I’d want that to be, um, an important part of my expenses.",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

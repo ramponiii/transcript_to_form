@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's chat a bit about your, um, job situation? Like, you know, your income and stuff, it’s kinda important for insurance, right?",
+            "client_message": "Yeah, I, um, work as a software developer, and, like, I think I make decent, I dunno, around five thousand a month? Maybe? Cuz, well, it's, uh, been rough lately, you know?",
+            "field_names_covered": [
+                "amount_assured",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Oh wow, five thousand, that’s, um, pretty good! So, are you, uh, covered for, like, life assurance or anything?",
+            "client_message": "Right, right, I have this, um, critical illness cover, I think that's what it’s called. But, uh, I'm not clear on the details or if it's even enough, you know?",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Mmm, okay, we can check that out together. And, uh, is this policy in trust or something?",
+            "client_message": "Oh, um, not sure about that. I think it's not, but, like, I never really looked into it? So many things, ya know?",
+            "field_names_covered": [
+                "in_trust",
+                "provider"
+            ]
+        }
+    ]
+}

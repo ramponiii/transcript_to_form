@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about your pension plan and what you hope to do in retirement?",
+            "client_message": "Uh, yeah, so like, I have this pension thing, right? It’s a, um, Defined Contribution plan I think? From, uh, this provider called, uh, what was it? Oh yeah, SUMCAP, I think. Anyway, I'm like, hoping to have enough to, you know, travel a lot, maybe live in some, um, sunny places, y'know? The current value, like, I don't really know but I was told it's around, um, I dunno, like twenty-five thousand dollars? But, uh, yeah, got this policy number, it's on a paper somewhere, forget where. Anyway, I just imagine like relaxing and enjoying life, maybe a bit of gardening too. I really want to be stress-free and, um, yeah, just enjoy the little things, y'know?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value",
+                "policy_number",
+                "notes"
+            ]
+        }
+    ]
+}

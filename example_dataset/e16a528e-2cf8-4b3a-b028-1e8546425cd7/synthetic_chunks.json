@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, looking over your current loans, I think it might be beneficial to consider refinancing your mortgage. With the interest rates being at historical lows, you could save a lot.",
+            "client_message": "I dunno, it sounds kinda risky, doesn't it? Like, what if the rates go back up or something?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "interest_rate"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concern! But if we secure a good rate now, you could lock in those savings for a while, maybe even get a special rate that lasts for years.",
+            "client_message": "A special rate, huh? That does sound tempting, I guess. But, like, how much would my monthly payments actually change?",
+            "field_names_covered": [
+                "monthly_cost",
+                "special_rate"
+            ]
+        },
+        {
+            "advisor_message": "Great question! I think, with the current outstanding balance of your loan, your monthly payments could drop by a few hundred dollars. It really depends on the terms we can get you.",
+            "client_message": "Hmm, I mean, dropping a few hundred sounds nice, but I just wanna be sure it’s worth the hassle of changing everything.",
+            "field_names_covered": [
+                "outstanding_value",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

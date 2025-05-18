@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive into your retirement plans. What are you imagining for that time in your life?",
+            "client_message": "Oh, um, yeah. So, like, I’ve been thinking about it a lot, you know? I wanna, like, travel a bit and, um, maybe get a little place by the beach. I dunno, I just feel like, you know, I’ve worked really hard and, like, I wanna enjoy it? But then, there’s also the, uh, expenses. Like, the mortgage or, like, insurance stuff, I guess, um, I mean, that could be, like, monthly, I think? And, um, I want it to be, like, essential, you know, not too much stress on the money side? It’d be cool to plan that out till, like, I don’t know, 2035 or something. I just want it to not be too much hassle!",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority",
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

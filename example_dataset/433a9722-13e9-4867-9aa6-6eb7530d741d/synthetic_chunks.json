@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over everything you’ve shared with me so far. You mentioned that you are currently living in the UK, correct?",
+            "client_message": "Yeah, that's right. I’m domiciled in the UK.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And are you considered a tax resident here as well?",
+            "client_message": "Yeah, I've been a tax resident for a few years now, actually.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that. Now, can you remind me of your current job title and who you’re working for?",
+            "client_message": "Oh, I’m a senior project manager at Tech Solutions, and I've worked there since 2019.",
+            "field_names_covered": [
+                "occupation",
+                "employer",
+                "employment_started"
+            ]
+        }
+    ]
+}

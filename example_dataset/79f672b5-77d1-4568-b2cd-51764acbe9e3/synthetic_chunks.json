@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about how you feel about taking risks with your investments. Like, if the market drops, uh, by let's say 20%, how would that make you feel?",
+            "client_message": "I dunno, I mean, I guess it depends? If I lost money, I’d be kinda worried, but, like, maybe it would bounce back?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "That's totally understandable. What about if you, um, consider investing in something that can fluctuate a lot, like tech stocks? How do you feel about that kinda risk?",
+            "client_message": "Tech stocks? Umm, it sounds a lil risky, like, I’m not sure if I want to lose more than, y’know, what I can afford to lose, but I kinda want growth too.",
+            "field_names_covered": [
+                "dependent_until",
+                "sources"
+            ]
+        }
+    ]
+}

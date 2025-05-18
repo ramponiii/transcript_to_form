@@ -1,0 +1,7 @@
+{
+    "model": "Pension",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client changes their mind about a piece of information.",
+    "segments": 2,
+    "id": "576047c3-a3ab-445a-8451-a2acd8f4d424"
+}

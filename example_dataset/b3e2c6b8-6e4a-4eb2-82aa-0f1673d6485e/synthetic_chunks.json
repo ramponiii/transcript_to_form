@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, tell me about your job situation, right? Like, what do you do for a living?",
+            "client_message": "Um, yeah, right. I work at, uh, this marketing place, you know? It's, like, not super exciting but, I mean, it pays the bills. Been there since, uh, let me see... like, 2019 or something. Oh! And I’m, like, totally employed, you know?",
+            "field_names_covered": [
+                "occupation",
+                "employment_started",
+                "employment_status"
+            ]
+        }
+    ]
+}

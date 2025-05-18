@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, tell me, who, uh, is the owner of your investments? I mean, like, is it just you or...?",
+            "client_message": "Yeah, it's just me, um, I'm the only one who's, like, managing everything for now.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, got it. And, uh, what type of saving or investment do you have? Like, is it an ISA, or...?",
+            "client_message": "Oh, yeah, uh, I have a GIA, um, General Investment Account. It's, uh, a bit of savings I, like, set aside. Just, uh, sitting there.",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

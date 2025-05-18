@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's discuss your income sources. Can you tell me about your salary or other incomes you're receiving?",
+            "client_message": "Um, well I think my salary is, like, uh, around 70 thousand, I could say, and I guess it's, you know, monthly? Maybe?",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so that's a gross amount, right? And any other details you want to mention about this income?",
+            "client_message": "Actually, hold on. I was thinking more about my freelance work. I, um, monthly I get about 2 thousand from that, and, uh, it should be noted it's net income. Not the salary—sorry about that!",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "net_gross",
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s review your current mortgage details. Can you confirm who the owner of the loan is and the type of mortgage you have?",
+            "client_message": "Um, I thought it was my husband who, like, co-signed but now I'm kinda thinking it might just be me. I think I got a fixed-rate mortgage, but I'll double-check that.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And do you remember the provider of your mortgage and any special rates associated with it?",
+            "client_message": "Oh, right... I think it’s with Bank of America. About the special rate, I was, like, sure it was 2.5% fixed until 2030, but yeah, maybe I should look at my paperwork again just to be safe.",
+            "field_names_covered": [
+                "provider",
+                "special_rate"
+            ]
+        }
+    ]
+}

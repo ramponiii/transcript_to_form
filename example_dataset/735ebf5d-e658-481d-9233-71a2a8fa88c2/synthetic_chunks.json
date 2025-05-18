@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to wrap things up, is there any, uh, specific goals you have in mind for your, um, investment strategies moving forward?",
+            "client_message": "Well, I mean, I really just want to, uh, make sure I'm saving enough for, um, my kids' college, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Right, right, so college savings, got it. Any other objectives?",
+            "client_message": "Uh, yeah, I think, maybe like, um, retirement too, 'cause I, you know, want to be comfortable when I, uh, stop working.  And, uh, also, uh, getting a bit of passive income would be nice.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Passive income sounds, uh, interesting! So, we can look into that as well. And just, um, clarify for me: you want to focus on these, uh, both saving for college and, um, retirement?",
+            "client_message": "Yeah, exactly! And, um, I guess just kinda manage everything better, 'cause sometimes it feels a bit, uh, overwhelming.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

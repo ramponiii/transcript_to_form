@@ -1,0 +1,7 @@
+{
+    "model": "Address",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client changes their mind about a piece of information.",
+    "segments": 2,
+    "id": "0d8aad83-82c0-48a7-94e9-ea6423c7346f"
+}

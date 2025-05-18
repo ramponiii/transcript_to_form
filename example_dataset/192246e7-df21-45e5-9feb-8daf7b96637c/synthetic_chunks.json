@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk a bit about your personal details. Can you confirm your first and last name for me?",
+            "client_message": "Sure, it's Alex Johnson, but you can call me Lex.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that, Lex. Do you have a middle name that you’d like to include?",
+            "client_message": "Oh, actually, I do have a middle name, I’m just not sure if I want to add it. It's Michael. Do I need to provide it?",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "It's helpful for some documents, but we can skip it if you prefer. What about your date of birth? Is that something you'd like to share?",
+            "client_message": "Um, I think I had said 15-08-1990 before, but you know what? I might've been wrong. It’s actually 15-08-1992.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like riding a bike downhill, right? The faster you go, the more fun it can be, but the risk of falling off increases. It’s all about finding that sweet spot of speed where you're comfortable.",
+            "client_message": "I kinda get that, but like... what if I wanna go fast and not fall? That’s what I don’t understand.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, so it's about balancing your speed and control. If you go too fast without knowing how to steer properly, you might face risky situations. In investing, that means diversifying your portfolio to manage those risks.",
+            "client_message": "Yeah, but how do I know where to steer? What if I pick the wrong path?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "That’s a valid concern! Just like on a bike, you can look at the path ahead. Doing research on your investments is akin to checking the road conditions before you ride. You also have to be aware of the risks involved at every turn.",
+            "client_message": "Okay, so I get to control the speed and the path, but when should I stop being a dependent? Like, when do I not need to ride with training wheels anymore?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

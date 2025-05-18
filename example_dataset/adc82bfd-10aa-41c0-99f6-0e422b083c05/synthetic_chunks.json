@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so uh, can you tell me, do you own or rent your home? You know, I just need some basic deets here.",
+            "client_message": "Um, yeah, I own my house, it's a little.... um, 3-bedroom, you know, in the suburb area.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it, got it. And, uh, what's the address? Like, street name and, um, maybe the town or city?",
+            "client_message": "Oh, sure! It's on Maple Street, in, uh, Springfield, and the ZIP code is 62704... I think.",
+            "field_names_covered": [
+                "street_name",
+                "town_city",
+                "postcode"
+            ]
+        }
+    ]
+}

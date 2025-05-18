@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hi there, I just wanted to check in on your, uh, current state of health. How are you feeling these days? I understand that’s an important part of this conversation.",
+            "client_message": "Oh, you know, I've been okay, I guess. Just feeling a bit, uh, tired sometimes. Nothing too serious, just normal stuff.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "I see, I see. And, um, do you smoke at all? That could, you know, affect things like long-term care.",
+            "client_message": "Yeah, I do smoke. I mean, it's been like, uh, since I was eighteen, and I probably go through about, like, ten cigarettes a day. Can be, uh, a bit of a hassle sometimes.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

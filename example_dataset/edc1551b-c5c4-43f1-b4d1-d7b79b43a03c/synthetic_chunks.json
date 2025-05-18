@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your property. Can you, like, tell me, do you own, or is it rented?",
+            "client_message": "Um, yeah, I, I own my house. It's, uh, it's in the city, you know, like, near the park. Um, my postal code, I think it's, um, 12345?",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what, uh, what’s the address of your place then? Like, the street name, and any, um, house number or name?",
+            "client_message": "Oh, right! It's, um, 123 Park Lane, yeah. Just, uh, a regular house, nothing special or anything. But it's, um, pretty nice!",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Sounds great! And when did you move in, if you don't mind me askin'? Maybe we should also get the city or town?",
+            "client_message": "Oh yeah, I moved in, like, about two years ago, and I'm in Springfield. It's, uh, really convenient! So, should we, like, set up the next meeting?",
+            "field_names_covered": [
+                "move_in_date",
+                "town_city"
+            ]
+        }
+    ]
+}

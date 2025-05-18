@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's get started with some basics. Can you tell me your name please?",
+            "client_message": "Uh, yeah, so I'm, um, my name's John, John Smith, you know? But, mostly, folks just call me Johnny.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Thanks, Johnny! And just to clarify, do you have a middle name you want to include?",
+            "client_message": "Oh, um, not really. I don’t use a middle name, so just stick with John Smith.",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, when we move forward, I'll just use John Smith for your records. Next, can we go over your date of birth?",
+            "client_message": "Yeah, sure! It's, uh, the 15th of March, nineteen eighty-five. Just, uh, to let you know, yeah?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

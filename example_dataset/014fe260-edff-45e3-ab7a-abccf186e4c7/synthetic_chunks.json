@@ -1,0 +1,31 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can we wrap up the, like, income sources? Just wanna make sure we got everything—like, your main income source is, uh, salary right?",
+            "client_message": "Yeah, I mean, um, it’s salary, but also, I, uh, do some freelancing too, ya know? Uh, it’s not super regular, like, just sometimes a few extra bucks, and I, uh, I think it’s net income, not gross really.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool! So, um, could you tell me, like, how much you, um, make from the salary? Just wanna, you know, make it clearer for the... the report.",
+            "client_message": "Uh, right, so I guess it’s around, um, two thousand a month? Yeah, that’s right, I think ya know, but also the freelancing varies, sometimes around, like, five hundred. Anyway, I, um, think that’s about it), um, right?",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And just to, um, clarify again, the salary is, uh, monthly, and net, yeah?",
+            "client_message": "Yup, exactly, and, um, that’ll be ongoing until, uh, at least next year, I think? Unless, ya know, something changes, like, with work or stuff. Wait, what were we saying?",
+            "field_names_covered": [
+                "frequency",
+                "net_gross",
+                "timeframe"
+            ]
+        }
+    ]
+}

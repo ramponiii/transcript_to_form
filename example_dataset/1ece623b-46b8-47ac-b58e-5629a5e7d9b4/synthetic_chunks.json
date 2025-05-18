@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over your income details. You mentioned having salary from your job, right? Can you tell me how much you earn?",
+            "client_message": "Um, yeah, I-I said it was fifty thousand but, uh, I think it's actually more like, um, 55 or somethin' like that... I-I might've forgotten, you know?",
+            "field_names_covered": [
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Got it, 55 thousand. And is that before taxes or after? You know, gross or net?",
+            "client_message": "Oh, uh, well, I-I probably said net before, but like, it's actually gross, yeah. So, y'know, I-I guess it should be considered that way. Er, I get paid monthly too, just to clarify!",
+            "field_names_covered": [
+                "net_gross",
+                "frequency"
+            ]
+        }
+    ]
+}

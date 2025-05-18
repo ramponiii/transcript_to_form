@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about where you’re living now. Can you tell me about your home situation?",
+            "client_message": "Um, yeah, right! So, I’m like living in this, you know, small — I mean, it’s rented, uh, a rented apartment, just a couple bedrooms, and, uh, I really wanna move somewhere nice when I retire, maybe like near the beach or something. I’ve always, uh, dreamed of having a little house, like a bungalow or somethin’, ya know? And also, it’s, um, in the city, so you know, like, it gets all noisy, and I want, uh, more peace and quiet, I gues — uh, you know what I mean? Oh, and I think the town's name is kinda hard, where I am now, let’s see, it’s, uh, not too far from, like, Richmond I think, yeah, Richmond but it’s rented, I’m, uh, ready to get my own place, well, my own little piece of paradise, haha!",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        }
+    ]
+}

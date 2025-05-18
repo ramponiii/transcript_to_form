@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about risk in investing, think of it like crossing a street. Some streets are busy, and if you step out without looking, you could get hit by a car, right? That's a high-risk situation. On the other hand, there are quieter streets where you can stroll without worries.",
+            "client_message": "Uh, yeah, I get that. But like, how does that relate to my investments? Are they like the busy streets or the quiet ones?",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, that's a great question! In investing, your portfolio can be like those busy streets—if you're in high-risk stocks, there's a greater chance of a big impact, either way. But if you invest in bonds, it's more like the quiet side streets, lower returns, but also lower chances of losing a lot.",
+            "client_message": "Right, but I think I'm still a bit lost. How do I know which investments are the busy streets? I mean, shouldn’t I just avoid those?",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Good point! It's about balancing. Just because a street is busy doesn't mean you should avoid it entirely. You want some risk for potential higher rewards. Think of it like having firm rules for crossing those busy streets—using crosswalks, waiting for the lights—you know? That's diversifying your investments to manage risk.",
+            "client_message": "I guess that makes sense, but it still sounds a bit confusing, like I shouldn't take too many risks but not none at all, right?",
+            "field_names_covered": [
+                "net_gross",
+                "notes"
+            ]
+        }
+    ]
+}

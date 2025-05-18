@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your retirement aspirations. What do you envision for yourself during that time?",
+            "client_message": "Oh, well, um, I've always thought about maybe traveling a lot, you know? Like, visit places I've never been. I mean, there's just so much I wanna see. My friends always tell me to go to Europe, and, uh, my cousin, he went to Italy and said it was amazing. So yeah, travel for sure.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "That sounds wonderful! Do you have any specific destinations in mind?",
+            "client_message": "For sure! I mean, besides Italy, there's like, Japan, and, um, I also really wanna do a road trip across the US. There's this national park, I forgot the name, but, it's supposed to be really pretty, and my parents always took me camping there when I was a kid. Those are the kind of things that make me feel alive, you know?",
+            "field_names_covered": [
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, those experiences can be really fulfilling. Have you thought about how your finances will support such plans?",
+            "client_message": "Yeah, um, I’ve tried to save up some, like, I shouldn’t say much, but I think I’d need, um, maybe around a hundred thousand? That seems like a good start, right? I just want to make sure I can do everything I dream about without worrying too much about money.",
+            "field_names_covered": [
+                "current_value",
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

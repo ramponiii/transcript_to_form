@@ -1,0 +1,7 @@
+{
+    "model": "Employment",
+    "transcript_quality": "MEDIUM",
+    "specific_requests": "Generate an exchange where the client expresses skepticism about the advisor's recommendations.",
+    "segments": 3,
+    "id": "e2b49e90-b9de-4944-b4d5-8ba3b4c57545"
+}

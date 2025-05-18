@@ -1,0 +1,32 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's dive into your income sources. Can you tell me about your main income? Like, what do you got comin' in, maybe a bit about it?",
+            "client_message": "Uh, sure... I guess my main thing is salary, uh, it's like, uh, about two thousand a month. I think that's net, you know, after all the tax stuff.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so you get two thousand a month from your salary, and that's net. Any other income sources, maybe like rental or something?",
+            "client_message": "Yeah, um, I also have this rental income. It's, uh, I think it's like a thousand bucks, it comes every, uh, month too. Oh, and it's gross, like before tax.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Great, so just to sum it up, you've got a monthly salary of two thousand net, and a thousand from rent, gross. What do you think about having me, um, look into ways to maximize that?  We could follow up next week?",
+            "client_message": "That sounds good! Yeah, let’s do that. I, uh, wanna see how I can make more from what I have, for sure!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

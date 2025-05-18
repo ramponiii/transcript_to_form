@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Thank you for sharing your financial information with me. Can you tell me a bit about the recurring expenses that you currently have? It would be helpful to know the owner, the name of the expense, its frequency, and any notable priorities you might have identified.",
+            "client_message": "Sure! One of my main expenses is, uh, the mortgage payment. It’s primarily in my name, and I pay about, hmm, 1,200 dollars monthly. It's definitely essential for me because it’s, like, tied to my home.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "That’s a significant commitment. Besides the mortgage, do you have any other expenses that you think are important to mention? Maybe something with a different frequency or priority?",
+            "client_message": "Yes, there's also the car insurance, which is under my name too. I pay around 150 dollars, and it’s, uh, due quarterly. I guess it’s pretty important as well since I need it for my car.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

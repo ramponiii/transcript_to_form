@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s go over what you currently have in terms of, um, investments? Maybe we can find some things that could work better for you.",
+            "client_message": "Yeah, for sure! I mean, I’ve got this ISA account with, um, a pretty decent provider. Like, the value’s around, eh, eight thousand pounds?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "That's great! An ISA is a good way to save, especially with the tax benefits. Is there anything specific you’re, um, looking to do with that money?",
+            "client_message": "Yeah! I'm really hoping it can, like, grow over time, y'know? I’ve heard there’s potential for like higher returns if I, uh, invest it wisely.",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! We can look into some, uh, options that could maximize that growth for you. Do you have any, like, preferences on what kind of investments you like?",
+            "client_message": "Not really, I just want to make sure it's, um, the right fit. Maybe something more long-term? I think that would be, like, best for me, you know?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hey there! So, let's talk a bit about your loans. Do you happen to know who is the current owner of the mortgage?",
+            "client_message": "Yeah, that's me. I'm the owner of the mortgage. It's actually for my house. But the loan type is a bit more complicated, I guess it's just a standard mortgage. Um, my provider is ABC Bank, and I think the monthly cost is around 1,200 dollars or so. Oh, and the outstanding value? It's about 150,000 right now. I also have a special rate at 3.5% that's fixed until 2025. I'm not sure exactly when the last payment is due, but I think it's sometime in 2031.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost",
+                "outstanding_value",
+                "special_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

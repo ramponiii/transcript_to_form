@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to start off, let's talk about your job. What are you currently doing for work?",
+            "client_message": "Uh, right now I’m working as a, um, project manager or somethin' like that, but it’s kinda stressful, you know? I mean, I deal with so many things every day, it's just... a lot.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense! A lot of responsibility there. How does that impact your overall goals or, you know, what you want to achieve financially?",
+            "client_message": "Well, I’m, like, hoping to, um, buy a house soon but, yeah, it's tough saving up while, you know, juggling everything at work. So, guess that’s kinda my main thing right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Could you tell me about your current ownership status regarding your property? Are you renting or do you own it?",
+            "client_message": "Oh, I actually own it. It’s been my home for a few years now.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Great! And could you please share your full address, including the town or city?",
+            "client_message": "Sure! I'm located at 22 Maple Street, and that's in Springfield. The postcode is 12345.",
+            "field_names_covered": [
+                "town_city",
+                "street_name",
+                "house_name_number",
+                "postcode"
+            ]
+        }
+    ]
+}

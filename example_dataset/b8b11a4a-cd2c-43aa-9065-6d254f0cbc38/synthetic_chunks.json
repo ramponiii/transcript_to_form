@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so uh, can you tell me who's the owner of the policy we're discussing? Like, is it you or someone else?",
+            "client_message": "Uh, yeah, it's me, I own it. I'm like, the policyholder.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Alright, thanks for that! And, um, what's the type of policy we're talking about? Is it, like, Life Assurance or something else?",
+            "client_message": "Yeah, it's Life Assurance, I think. It's for, you know, protecting my family and all.",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        }
+    ]
+}

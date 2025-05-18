@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with your income sources. Can you tell me a bit about where your money comes from?",
+            "client_message": "Um, yeah, I guess I have a salary and, like, some rental income? But I’m just not sure about how much it really adds up, you know?",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, that’s a good start. How much do you make from your salary? And what about the rental income?",
+            "client_message": "My salary is, um, about 50k a year, but the rental income is kinda tricky. It's like 1,200 a month, you know? But I keep hearing mixed things about how much I should rely on that.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and is that rental income gross or net?",
+            "client_message": "Oh, it's gross, I think. Like, I get the full amount but then you have expenses and stuff, right? It just makes me wonder if this is a good strategy or not. I mean, some folks say it's risky.",
+            "field_names_covered": [
+                "net_gross",
+                "notes"
+            ]
+        }
+    ]
+}

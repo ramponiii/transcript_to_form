@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's discuss your assets a bit more. I see you have a classic car listed here. What’s the current value of that?",
+            "client_message": "Uh, yeah, I think it’s around, uh, twenty-five thousand, but, um, I'm not really sure how that, like, uh, fits into my overall portfolio. What do you mean by, like, current value? Is that just what it’s worth now or, uh, how it works?",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Current value refers to the estimated market price you could get if you decided to sell the asset right now. It fluctuates based on demand and condition. How did you come to that value?",
+            "client_message": "Oh, right! I, uh, looked it up online and, uh, checked some, like, listings on, uh, classic car websites. They were all kinda, uh, around that price, I guess. But what about the original value? Do I need that too?",
+            "field_names_covered": [
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Yes, the original value can be useful, especially for calculating gains over time. If you bought it for fifteen thousand, that would mean you have a nice gain. Do you remember what you paid for it?",
+            "client_message": "Hmm, I think it was, like, around fifteen thousand as well, but, uh, it was a while ago. I should, um, find that paperwork. It might have some notes on it, you know what I mean?",
+            "field_names_covered": [
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

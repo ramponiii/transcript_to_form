@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s start with your protection policies. Can you tell me who's the owner of the policy?",
+            "client_message": "Um, yeah, I think it’s me, uh, my name. But wait, it might be my spouse too. Not sure, actually.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "No problem, let’s clarify that later. What type of policy do you have?",
+            "client_message": "Oh right, um, it’s like, uh, some life cover stuff. Critical illness or something? Yeah, that’s it, I guess.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what’s the monthly cost for that policy?",
+            "client_message": "Ah, the cost? Uh, I think it's like around, um, maybe 50 or 60 a month? Or was it 70? Hard to remember, sorry!",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

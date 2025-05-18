@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your objectives for today. I, um, really want to make sure I understand, right? What are the specific goals you're hoping to, you know, achieve during this session?",
+            "client_message": "Well, I kind of want to focus on, you know, saving for my kids' college. And, um, I'd also like to explore some investment options for, like, retirement, I guess.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "I understand, that makes a lot of sense. Saving for college is, um, really important. Right? And, you know, looking into retirement is equally crucial. I’m just, um, trying to get a clear picture of all the things you’re looking at.",
+            "client_message": "Yeah, exactly! And I also, um, wanna make sure I’m not missing any, uh, opportunities, you know? Like, any tax breaks or whatever that could help with my savings plan.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about where you're living right now. Um, do you own your property or is it rented?",
+            "client_message": "Oh, um, I actually own my house! And the, the move-in date was a couple of years ago now, I think it was in 2021. I've been looking at how, like, the investments can grow with that.",
+            "field_names_covered": [
+                "ownership_status",
+                "move_in_date"
+            ]
+        },
+        {
+            "advisor_message": "That’s great to hear! Owning can really provide a solid base for investments. What about the address? Could you share that with me?",
+            "client_message": "Yeah, sure! I’m in, uh, Springfield. The house number is 123, on Maple Street. The postal code is 12345. I've been thinking, if property values keep going up, my investment will really pay off!",
+            "field_names_covered": [
+                "town_city",
+                "house_name_number",
+                "street_name",
+                "postcode"
+            ]
+        }
+    ]
+}

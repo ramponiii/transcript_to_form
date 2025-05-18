@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "When we talk about risk, think of it like crossing a street. There are different levels of risk depending on how busy the street is, right? If it’s a quiet residential road, you might cross it without much thought. But if it’s a busy highway, you’re going to be more careful and look both ways.",
+            "client_message": "I get that, but it’s kind of hard for me to picture how that relates to investing. Is crossing a street really that similar?",
+            "field_names_covered": [
+                "risk"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Now, imagine if you decide to run across that busy highway without checking. That’s a high-risk move. In investing, high-risk investments can lead to big gains but also big losses. You want to be cautious, just like you wouldn’t sprint across without looking.",
+            "client_message": "Okay, so you mean some investments could be sure things while others might be super risky? It sounds... kinda stressful.",
+            "field_names_covered": [
+                "risk"
+            ]
+        },
+        {
+            "advisor_message": "Yes, that’s a great way to put it. It’s all about balancing your investments, just like knowing when to wait for a break in traffic.",
+            "client_message": "Got it! So, I guess I just need to figure out which ‘streets’ I’m comfortable crossing and which ones I should avoid for now?",
+            "field_names_covered": [
+                "risk"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s say, um, you have an expense like a monthly mortgage payment, right? I mean, that's, uh, one of the key things to, like, consider in your financial plan. Let’s say it’s, uh, $1,500 a month, and, you know, you'll— you’ll probably have that expense for quite a while, like, until maybe 2035 or something. It’s definitely essential, ya know?",
+            "client_message": "Oh, yeah! I totally get that. My mortgage is like, um, around $1,500 too, and it’s a monthly thing. I mean, it’s not like I can just skip it, right? Gotta make those payments every month!",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority",
+                "timeframe"
+            ]
+        }
+    ]
+}

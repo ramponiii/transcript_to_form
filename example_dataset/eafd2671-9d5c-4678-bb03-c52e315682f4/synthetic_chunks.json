@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your investments, right? Can you tell me, um, what kind of accounts or savings you currently have? Like, maybe a bank account or somethin' else?",
+            "client_message": "Oh, yeah! I got a few things. I have a savings account with, uh, Bank of Tomorrow, I think it’s, um, around five thousand in there. And, um, I also have an ISA, I think it’s under my name, like, for the tax perks, you know?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Sounds good! So, um, can you share what the ISA is worth now?",
+            "client_message": "Ah, sure! The ISA it’s, uh, about seven thousand right now, and, um, I might need to double check on the provider but it’s, like, with the Future Investment Co. I think that’s it.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let's start with some basic info. Can you please tell me your full name? Like, your first name and last name, and if you have any middle names?",
+            "client_message": "Um, yeah, sure. I'm, uh, John, and last name is Smith, but, uh, I actually, like, I don't really use a middle name, so just, um, John Smith is good.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Great, thanks John! And, uh, do you have any title you go by, like Mr. or anything?",
+            "client_message": "Actually, you know, I was Mr., but, uh, I think I wanna just go with, like, just John now, so no title, just that, yeah.",
+            "field_names_covered": [
+                "title",
+                "known_as"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, about the mortgage payment, can you confirm if it's still under your name or if it's joint?",
+            "client_message": "Um, I think it was just under mine, but actually, I might need to check with my spouse. We were talking about it last week.",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That's totally fine! Just let me know what you find. Now, regarding the amount, was it around 1,500 dollars per month?",
+            "client_message": "Wait, no, I just remembered, it’s actually 1,300 dollars a month, not 1,500 like I said before.",
+            "field_names_covered": [
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And how often do you make that payment? Is it monthly, or something different?",
+            "client_message": "Yeah, it's monthly for sure, I just checked my budget again!",
+            "field_names_covered": [
+                "frequency"
+            ]
+        }
+    ]
+}

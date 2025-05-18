@@ -1,0 +1,7 @@
+{
+    "model": "HealthDetails",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange with a clear next step agreed upon at the end.",
+    "segments": 3,
+    "id": "fa565507-6418-4e4e-bd7a-8ce0444f18d3"
+}

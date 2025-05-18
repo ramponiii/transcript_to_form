@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over your income sources. You mentioned you have a primary job, right? Just to clarify, what do you call that income? Like, is it your salary or something else?",
+            "client_message": "Yeah, it's my salary, I guess. I mean, I work full-time, so, yeah, salary is fine.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, salary. And could you remind me of the amount you receive?",
+            "client_message": "Um, it's around three thousand dollars, I think. A bit more maybe... like, thirty-two hundred? Something like that.",
+            "field_names_covered": [
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Okay, so that's thirty-two hundred gross. Now, how often do you get paid? Is it monthly?",
+            "client_message": "Yes, exactly! Monthly, uh, every month, I get my paycheck. It’s, um, gross income before taxes, of course.",
+            "field_names_covered": [
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

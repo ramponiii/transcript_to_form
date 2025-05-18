@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I just want to confirm your main objectives here. You mentioned wanting to, uh, get a better handle on your investments, right? Maybe, like, planning for retirement and... um, also saving for your kids' education, is that correct?",
+            "client_message": "Yeah, yeah, totally! I want to make sure I’ve got some solid plans for retirement, but also like, the kids are gonna need college funds. It’s, um, kinda important, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And it sounds like you’re also looking at, um, diversifying your portfolio? Maybe exploring some options that could help with that?",
+            "client_message": "Oh, for sure! I think i should look into more diverse investments, like some stocks or bonds, but I just don’t know where to start, honestly.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, I'd be happy to help with that. And, uh, just to double check, you’re worried about how to balance these goals, right? Like, not just investments but also the kids' future?",
+            "client_message": "Definitely! Balancing all of that is tough. I want to save enough without, um, struggling too much now. That's my main goal, believe me.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

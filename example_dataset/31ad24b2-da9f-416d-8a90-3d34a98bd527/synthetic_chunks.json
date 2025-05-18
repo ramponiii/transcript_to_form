@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hey there! So, let's start with the basics, right? Can I get your first and last name, just to kick things off?",
+            "client_message": "Uh, yeah, sure! My name's, uh, Alex Johnson. Just Alex for short, you know?",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Awesome, Alex! Do you have any middle names or, uh, just the one?",
+            "client_message": "Uh, no middle names for me, just the Alex Johnson. Simple, right?",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Haha, totally! And while we're at it, do you wanna share your birthday or anything like that? Like, just so I can get to know you a bit better!",
+            "client_message": "Yeah, for sure! I was born on the 15th of March, 1990. Does that help?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

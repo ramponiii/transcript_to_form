@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "It's great to hear about your retirement plans. What do you envision for your lifestyle once you retire?",
+            "client_message": "Well, you know, I’ve been thinking about it a lot lately. I want to travel, maybe go to Europe, especially France or Italy, like I've always dreamed about since I was a kid. And, um, I also want to spend more time with my family. My grandkids are growing up so fast and I don't want to miss out on anything, you know? I just want to enjoy every moment!",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "That sounds like a wonderful plan! Do you have a specific age in mind for when you'd like to retire?",
+            "client_message": "Right, so I’m thinking maybe around 65, give or take a year. But of course, I don't want to just stop working. I might want to do some consulting or volunteer work. Like, I don't want to be sitting around doing nothing! Just trying to keep busy while still enjoying life, you know?",
+            "field_names_covered": [
+                "date_of_birth",
+                "marital_status"
+            ]
+        }
+    ]
+}

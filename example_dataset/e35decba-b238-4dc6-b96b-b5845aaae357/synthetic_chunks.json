@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like, um, sailing a boat, right? You can have a big ship, but if there’s a storm, you know, you gotta be ready for it. Like, the more you invest, the more wind you get in your sails, which can be good, but also risky if, um, the weather turns bad. You follow?",
+            "client_message": "Kinda, but... I guess I'm confused, like, how do I know if I’m sailing into a storm or not? I mean, I just have this ISA, and it’s worth like £5,000 now, but I don’t really get what that means for risks and stuff.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "value"
+            ]
+        }
+    ]
+}

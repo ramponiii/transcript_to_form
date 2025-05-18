@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me about any current loans or mortgages you may have?",
+            "client_message": "Uh, yeah, I have, um, like a mortgage? I think? Uh, it's with, uh, Wells Fargo, I guess, I mean, they give me a good rate or something.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "What about the details? Like, the monthly payment and outstanding balance?",
+            "client_message": "Uh, yeah, so my monthly cost is, uh, like around 1,200 or so? And, um, the, like, total left, uh, I think it's about, uh, 150,000? Or maybe 160? I dunno for sure.",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value"
+            ]
+        },
+        {
+            "advisor_message": "And what's the interest rate and when is your final payment due?",
+            "client_message": "Oh, the interest rate? It's, uh, I think it’s 3 point 5? Maybe? And, um, the final payment? It's like, um, in 2035? I think? Like a long time, you know?",
+            "field_names_covered": [
+                "interest_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

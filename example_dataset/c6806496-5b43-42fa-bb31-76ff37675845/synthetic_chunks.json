@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great, let’s start with your pension details. Can you tell me who the provider is and maybe the type of pension you have?",
+            "client_message": "Uh, yeah, I think it’s with, um, some company—but it might be like a Defined Contribution or something? Oh, and the provider, wait, I keep mixing it up... It’s like, hmm, something about a Standard, uh, Pension plan? I’m, I really don’t remember the exact name...",
+            "field_names_covered": [
+                "provider",
+                "type"
+            ]
+        }
+    ]
+}

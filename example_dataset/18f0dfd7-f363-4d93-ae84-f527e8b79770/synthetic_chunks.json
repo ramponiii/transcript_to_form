@@ -1,0 +1,31 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like, uh, sailing a boat, you know? You gotta adjust your sails based on the winds. The more risks you take, the more, uh, wind you get, which can be good or bad, right?",
+            "client_message": "Sailing, um, sounds cool, but I don’t really get how it, um, relates to my house or— is it like the risk of, um, losing money while owning property? Like, how does that work?",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! Like if you own a house in, let’s say, a nice area, it might really appreciate, becoming, you know, more valuable. But if, uh, you're in a bad spot or **stuff** happens—a storm, like, or something—you might lose value. It's, um, all about the location and timing!",
+            "client_message": "Oh, I see! But, um, my place is in, uh, kind of a, you know, meh area, so what if it, uh, doesn’t grow much? Like, does that mean I have to, uh, worry? Like my, um, postcode is kinda iffy?",
+            "field_names_covered": [
+                "move_in_date",
+                "house_name_number",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Right, right! It’s kind of like, um, a rollercoaster, you know? You can go up, and sometimes down, depending on the, um, market. But if you hold on tight and stay invested for, like, a longer time, usually things, like, stabilize!",
+            "client_message": "Okay, got it. So, um, should I just, like, hold onto my place even if it's not, uh, doing much? I just, care about, um, protecting my investment, you know?",
+            "field_names_covered": [
+                "county",
+                "country",
+                "address_line_3"
+            ]
+        }
+    ]
+}

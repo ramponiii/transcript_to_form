@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risk like, uh, crossing a busy street. You know, it's kinda like if you look both ways, ya minimize the risk. But if you just run out, you're, like, taking a big chance, right?",
+            "client_message": "Uh, I guess? But, I mean, like, isn’t crossing the street, um, different than, you know, investing? I’m kinda confused, like, how does that relate to, uh, what I should do with my, um, finances?",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority",
+                "timeframe",
+                "notes",
+                "sources"
+            ]
+        }
+    ]
+}

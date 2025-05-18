@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk more 'bout your mortgage. You know, like what type it is, right?",
+            "client_message": "Uh, yeah, but I'm kinda confused 'bout what you mean by 'mortgage' exactly. Is that, like, just a loan for buying a house?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! It's a loan for buyin' property, usually a house or somethin'. You make monthly payments, and that's called your, uh, monthly cost.",
+            "client_message": "Okay, got it. But what’s this 'monthly cost' you're mentionin'? Like, is it just the amount I pay each month? Or is there more to it?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Right, it’s the amount you pay every month. Often, includes interest and a bit for the principal too. Oh, and don’t forget about any, like, fees from your provider!",
+            "client_message": "Ohhh, so the provider is like the bank or whatever? I thought it was just the amount I owe?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

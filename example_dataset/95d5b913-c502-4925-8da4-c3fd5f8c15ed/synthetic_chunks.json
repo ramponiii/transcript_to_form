@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, could you tell me about your current living situation? Are you renting or do you own your home?",
+            "client_message": "Uh, right now I’m actually, um, renting this flat? It's kinda small but it works for me, yeah. I live in, well, it's in Manchester, you know?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Manchester! And, um, do you know your postcode? That could help me out with the records.",
+            "client_message": "Yeah, it’s, uh, M1 2JW, I think? And it's, like, just off the main street. So, I’ve been here about, um, two years now, give or take?",
+            "field_names_covered": [
+                "postcode",
+                "move_in_date"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me which country you're, um, like, living in right now?",
+            "client_message": "Oh, yeah, I live in, um, the UK.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Okay, also, are you, um, you know, a tax resident in the UK?",
+            "client_message": "Yeah, I'm a tax resident here, definitely.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, uh, what's your job or like your occupation?",
+            "client_message": "I work as a, um, software engineer.",
+            "field_names_covered": [
+                "occupation"
+            ]
+        }
+    ]
+}

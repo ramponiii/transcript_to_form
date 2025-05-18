@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, can we talk about your dependent? What's their full name?",
+            "client_message": "Uh, I think it's like, um, Jamie Smith? Yeah, that's it.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And when were they born? Can you give me the date of birth?",
+            "client_message": "Umm, I gotta check, it's uh, 15-04-2018, I think.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Got it. Until when is Jamie considered a dependent?",
+            "client_message": "Oh, um, uh, I dunno, maybe until they turn 18? So, like, 15-04-2036?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

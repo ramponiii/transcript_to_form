@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s dive into your investment options. I think there are some great opportunities for growth right now.",
+            "client_message": "Oh wow, I’m super excited about that! Like, I really wanna see my money grow, you know?",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, and with the right strategy, you could see some significant returns. What are your thoughts on risk?",
+            "client_message": "Um, I’m a bit, like, cautious? But if the potential for growth is, ya know, high, I might be willing to take some risks!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "marital_status"
+            ]
+        },
+        {
+            "advisor_message": "That's a smart approach. Balancing risk and growth is key. Do you have any specific goals in mind?",
+            "client_message": "Yeah, I’m looking to, like, maybe save for a house, or, um, something like a vacation, right? I really wanna make my money work for me!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "email_address"
+            ]
+        }
+    ]
+}

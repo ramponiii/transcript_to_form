@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like, um, like sailing, right? You gotta, uh, know how to adjust your sails according to the wind. The wind is like the market and, uh, sometimes it blows hard, sometimes, it’s a gentle breeze. If you don’t adjust, you might, um, end up in trouble or, you know, go off course.",
+            "client_message": "Uh, wait, I’m not sure I get it. So like, if the market’s, uh, blowing hard, that means the, um, risk is higher? But, like, how do I know, um, when to adjust?",
+            "field_names_covered": [
+                "country_domiciled",
+                "resident_for_tax",
+                "national_insurance_number",
+                "employment_status",
+                "desired_retirement_age",
+                "occupation",
+                "employer",
+                "employment_started",
+                "highest_rate_of_tax_paid",
+                "notes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, can you tell me, uh, what type of pension you have? Like is it a, um, Defined Contribution or something else?",
+            "client_message": "Oh yeah, it’s like a Defined Benefit pension, I think. Um, I don't remember the exact details, but that’s what it is.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And who's the provider for, you know, your pension? Like which institution?",
+            "client_message": "Uh, it’s with, um, British Pension Fund or something like that. I’m not super sure, I can check my documents though.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Okay, cool. So let’s do this, can you find out the policy number and the value too? Maybe we can reconvene next week?",
+            "client_message": "Yeah, yeah, I can do that! I’ll look it up and uh, we can chat next week for sure.",
+            "field_names_covered": [
+                "policy_number",
+                "value"
+            ]
+        }
+    ]
+}

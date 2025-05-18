@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Great, let's talk about your current residence. Can you tell me the town or city you're in?",
+            "client_message": "Uh, yeah, I, um, live in, like, Springfield or something, you know? And, um, we've been here for, like, a couple years now, I think.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "And what about your ownership status? Is it owned or rented?",
+            "client_message": "Oh, right, we, um, we rent this place, uh, the postcode, it's, um, 62704, yeah, that sounds right. And, uh, the street name's Maple, but I, um, can't remember the house number.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "street_name"
+            ]
+        }
+    ]
+}

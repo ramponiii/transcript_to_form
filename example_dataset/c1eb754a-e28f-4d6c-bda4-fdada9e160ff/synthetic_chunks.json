@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you remind me about your mortgage payment? How much are you currently paying each month?",
+            "client_message": "Sure, it's actually, um, I think it's around twelve hundred dollars each month.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for that! And just to clarify, is this payment something you consider essential?",
+            "client_message": "You know, I used to think it was essential, but now I'm, like, realizing it's not as critical since my income's changed. So, I guess it's more important than discretionary now.",
+            "field_names_covered": [
+                "priority"
+            ]
+        }
+    ]
+}

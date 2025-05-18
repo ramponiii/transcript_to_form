@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s get started. Can you tell me about your ownership status? Do you own or rent your property?",
+            "client_message": "Oh, um, I actually, I rent it, you know? Uh, it's in, uh, Bristol, and I, I’ve been living here for like, uh, three years now.",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city",
+                "move_in_date"
+            ]
+        },
+        {
+            "advisor_message": "Great, thanks for that! Can you please give me your full address? Like, um, the house name or number and street name?",
+            "client_message": "Sure! It’s, uh, 12 Maple Street, and, um, I’m not sure about, like, the postcode but, uh, it’s somewhere in the—oh, I think it’s BS1, or something like that. I live, like, just near the park.",
+            "field_names_covered": [
+                "house_name_number",
+                "street_name",
+                "postcode"
+            ]
+        }
+    ]
+}

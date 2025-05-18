@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, let’s talk pensions, yeah? Do you have a certain uh, pension policy you own?",
+            "client_message": "Hmm, yeah, I mean I got one from my previous job. But, um, I can't like, remember the policy number right now, it was ages ago.",
+            "field_names_covered": [
+                "owner",
+                "policy_number"
+            ]
+        },
+        {
+            "advisor_message": "No worries! And so what's the type of pension do you think it is? Like, is it a Defined Contribution or something else?",
+            "client_message": "Oh, um, it’s a Defined Contribution, I think? It was just a company one, y'know?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And do you even know who it’s with, like the provider?",
+            "client_message": "Yeah, I think it’s with, um, Highland Financial? Something like that! But honestly, I have no clue about the value or anything. Just forgot to check.",
+            "field_names_covered": [
+                "provider",
+                "value"
+            ]
+        }
+    ]
+}

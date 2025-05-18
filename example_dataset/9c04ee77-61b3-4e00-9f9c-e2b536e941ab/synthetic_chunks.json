@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let’s talk about your loans. I, uh, I understand you mentioned you have a mortgage? Right? What’s the monthly cost on that?",
+            "client_message": "Yeah, I mean, I think it's around like, um, 1,200 dollars a month or something like that. And, uh, the provider’s, like, ABC Bank or, um, something similar.",
+            "field_names_covered": [
+                "monthly_cost",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it, 1200 a month and ABC Bank, right? I understand that's a big commitment. How about the outstanding value? Like, what do you still owe?",
+            "client_message": "Um, I think it’s still, like, around 150 thousand? But, uh, I’m not really sure about the interest rate, I guess it’s, like, 3.5 percent maybe?",
+            "field_names_covered": [
+                "outstanding_value",
+                "interest_rate"
+            ]
+        }
+    ]
+}

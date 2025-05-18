@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to wrap up, can you tell me where you're, um, domiciled? Like, which country are you in?",
+            "client_message": "Uh, yeah, I'm in, um, the UK. So, that's, uh, my, like, domicile or whatever.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Right, and, uh, are you a tax resident, like, in the UK?",
+            "client_message": "I think so? Well, I mean, I pay taxes here, right? So, uh, I guess that makes me, like, a tax resident?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what do you do for work? Like, your occupation?",
+            "client_message": "I'm, um, a manager at this, uh, retail place. Well, uh, sort of... what was the question again? Oh, yeah! My job title!",
+            "field_names_covered": [
+                "occupation",
+                "employment_status"
+            ]
+        }
+    ]
+}

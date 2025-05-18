@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about any loans or mortgages you currently have. Could you tell me what types you’re working with and who the provider is?",
+            "client_message": "Sure, I have a mortgage with Bank of America. It's a standard home loan, and, um, I think that's the only one I have right now.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. What about the monthly cost? How much are you paying each month for your mortgage?",
+            "client_message": "I pay around, um, 1,200 bucks every month for it. It's, like, my biggest expense.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, just to clarify, what's the current outstanding balance on the mortgage? Any special rates or final payment dates we should note?",
+            "client_message": "The outstanding balance is about 180,000. Oh, and I have, like, a fixed interest rate of 3.5% until twenty-two thirty. I believe my final payment's gonna be in, um, 2050.",
+            "field_names_covered": [
+                "outstanding_value",
+                "special_rate",
+                "final_payment"
+            ]
+        }
+    ]
+}

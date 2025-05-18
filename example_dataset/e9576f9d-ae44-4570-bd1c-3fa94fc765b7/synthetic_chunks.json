@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s start by discussing your objectives, right? What are you hoping to, uh, achieve during our, um, session today?",
+            "client_message": "I, um, really want to, like, save for a house, ya know? I mean, that's, uh, my main goal, but I also want to maybe, uh, invest in stocks or something, like, in the future or...",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Great! Okay, so saving for a house and, um, possibly investing later. Uh, can you tell me, do you have any specific timelines in mind for these goals?",
+            "client_message": "I think, like, I wanna buy a house in the next, um, 3 to 5 years, but I’m not really sure about the investing part, like, maybe after that?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let’s talk about your address. Just to clarify, um, what’s the postal code or ZIP code for your place? I understand that helps us, right?",
+            "client_message": "Uh, yeah, it’s, um, 12345. But, um, I don’t own the place, I’m renting it, you know? Like, just to be clear.",
+            "field_names_covered": [
+                "postcode",
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "I see, so you're renting. That’s good to know. And can you tell me the street name of your rental? Right? Just so we have that down.",
+            "client_message": "Oh, um, sure! It’s, uh, Maple Street. And, um, I’ve been living there since, like, uh, last year in June.",
+            "field_names_covered": [
+                "street_name",
+                "move_in_date"
+            ]
+        }
+    ]
+}

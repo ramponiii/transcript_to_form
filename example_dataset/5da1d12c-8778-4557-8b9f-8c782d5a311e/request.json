@@ -1,0 +1,7 @@
+{
+    "model": "LoanOrMortgage",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
+    "segments": 2,
+    "id": "5da1d12c-8778-4557-8b9f-8c782d5a311e"
+}

@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so to start off, you mentioned that you have an investment bond with a value of, uh, about fifteen thousand pounds, right?",
+            "client_message": "Yeah, that's right! It's a bond I got a while back. Um, I think it's through, uh, Royal Bank or something?",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "value",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and you said it's with Royal Bank. Also, you mentioned that this investment bond is, um, supposed to mature in a few years?",
+            "client_message": "Yeah, that's right! I should get my, um, returns by then, I hope!",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Sounds good! So to recap, your investment bond is with Royal Bank, it's, uh, valued at around fifteen thousand pounds, and you’re expecting your returns in a few years. Did I miss anything?",
+            "client_message": "No, that covers it! Oh, and I've also been thinking about maybe putting some more into a, um, ISA later on.",
+            "field_names_covered": [
+                "type",
+                "notes"
+            ]
+        }
+    ]
+}

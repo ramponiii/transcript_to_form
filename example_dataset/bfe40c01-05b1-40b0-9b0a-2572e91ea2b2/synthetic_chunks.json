@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s recap what you mentioned earlier about your goals. You’re primarily looking to save for retirement, correct? And you've also expressed interest in possibly making investments to grow your savings?",
+            "client_message": "Yeah, exactly! I want to make sure I can retire comfortably, and, um, I’ve been thinking about how to invest some of my, uh, cash savings on the side.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Great! It sounds like you have a clear idea of what you want to achieve. Besides retirement, are there any other financial goals you’re aiming for?",
+            "client_message": "Well, uh, I guess I’d like to save for my kids' college funds too. It's just, um, it's been on my mind a lot lately.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, to summarize, your main objectives are preparing for retirement, growing your savings through investments, and setting aside funds for your kids' education. That’s a solid foundation to work from. Is there anything else you want to add?",
+            "client_message": "No, that’s pretty much it! Those are my top priorities, I think. Just wanna make sure I’m heading in the right direction.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

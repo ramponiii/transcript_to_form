@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s discuss some of your assets today. Could you share with me what you currently own? Any specific items you want to mention?",
+            "client_message": "Um, yeah, I, uh, I own some stuff. There's like, uh, this classic car from, uh, like the 70s, and it's, well, kinda valued at, I think, around twenty thousand, maybe? I bought it, uh, for about fifteen thousand a while ago. And, um, it’s in good shape. Also, I have some like, ah, jewelry but I'm not sure on the value right now. Just, yeah, some family pieces. Not much else, really.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "current_value",
+                "original_value",
+                "notes"
+            ]
+        }
+    ]
+}

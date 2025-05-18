@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, I just wanted to, y'know, touch on where you're, um, domiciled for tax purposes. Can you, like, share that info with me?",
+            "client_message": "Oh, yeah, um, I live, like, in the UK right now.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Great! And are you, eh, a resident for tax there? I mean, like, do you pay taxes there?",
+            "client_message": "Yeah, so, um, I'm definitely a tax resident here in the UK, um, for sure.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your investments. Do you have any particular accounts or accounts that you're currently actively using? Maybe something like an ISA or a bank account?",
+            "client_message": "Yeah, I've got a couple of things. There's an ISA that I've had for years. I think I should probably check on its performance soon.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, it's good to review those! Who's the provider for your ISA?",
+            "client_message": "It's with Nationwide, I believe. They've been solid so far but you know, I just wanna make sure I'm not missing out on better options.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Sure thing. And what's the current value of that ISA, if you don’t mind me asking?",
+            "client_message": "I think it's around twelve thousand, give or take. I also had some notes about the fees they charge—honestly, they could be lower!",
+            "field_names_covered": [
+                "value",
+                "notes"
+            ]
+        }
+    ]
+}

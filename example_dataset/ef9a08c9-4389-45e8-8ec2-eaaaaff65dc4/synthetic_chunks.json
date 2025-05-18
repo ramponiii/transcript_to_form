@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current mortgage situation. I see you have a few loans with different providers. Can you tell me who's the owner for each of these loans?",
+            "client_message": "Um, yeah, I guess I own them all but, uh, I'm not sure if that's what you mean. Like, do you mean who they're with or... wait, what do you mean by that?",
+            "field_names_covered": [
+                "owner",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "I just want to make sure we have all the details. When you mention owning them, are you referring to the mortgages or any personal loans as well?",
+            "client_message": "Right, it's mostly the mortgages. I think I have a personal loan too? But I'm not clear on, like, what that really means for my overall financial stuff.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "No worries! A mortgage is just a loan secured by real estate, and personal loans are usually unsecured. They can affect how much you pay monthly, which leads to understanding your financial state better. About your monthly costs, can you remind me how much you're paying for the mortgage?",
+            "client_message": "Uh, I think it’s about 1,200 a month...at least I think that’s right, yeah. I mean, they just take it out automatically, so sometimes it's hard to remember the exact number.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

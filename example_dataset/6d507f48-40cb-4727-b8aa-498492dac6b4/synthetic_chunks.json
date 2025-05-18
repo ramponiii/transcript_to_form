@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s chat about your pension. Can you tell me who the owner of the policy is? Just want to make sure we have everything right. Uh, can you hear me okay?",
+            "client_message": "Yeah, I can hear you! So, the owner is actually me. I set it up about ten years ago, but I can't remember the exact details right now.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And do you recall what type of pension it is? Like, is it a Defined Contribution or a Defined Benefit plan?",
+            "client_message": "Um, I think it's a Defined Contribution plan. The provider is, uh, I believe it's called Future Investments. I should check my papers for the policy number and value, though.",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        }
+    ]
+}

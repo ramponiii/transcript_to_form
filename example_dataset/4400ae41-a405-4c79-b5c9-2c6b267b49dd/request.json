@@ -1,0 +1,7 @@
+{
+    "model": "Employment",
+    "transcript_quality": "LOW",
+    "specific_requests": "Generate an exchange where the client changes their mind about a piece of information.",
+    "segments": 2,
+    "id": "4400ae41-a405-4c79-b5c9-2c6b267b49dd"
+}

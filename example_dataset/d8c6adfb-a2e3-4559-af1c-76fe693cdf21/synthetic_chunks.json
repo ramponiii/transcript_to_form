@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, tell me about where you live? Like the country you, um, call home?",
+            "client_message": "Oh, I'm in, uh, the UK. I’ve been livin’ here all my life, it’s great!",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "And, um, how about taxes? You know, are you a tax resident here?",
+            "client_message": "Yeah, definitely, I’m a tax resident here. It’s kinda a mess but, ya know, it is what it is.",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what do ya do for a living?",
+            "client_message": "I work as a software developer, and I’m super excited about investing, like, I really think there’s gonna be some huge growth! My friends are saying the market is really hot right now.",
+            "field_names_covered": [
+                "occupation",
+                "employment_status"
+            ]
+        }
+    ]
+}

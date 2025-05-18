@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let’s talk about your dependents. Do you have anyone in mind that you want to add? Just their name would be helpful for now.",
+            "client_message": "Yeah, I’ve got a son. His name is Jake, and he was born on the 15th of March, 2018. So, I guess I should mention him as my dependent, right?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! That sounds perfect. Just to clarify, how long will Jake be considered a dependent? Do you know if it’s until he turns 18 or maybe a bit longer?",
+            "client_message": "Um, I’m not totally sure. I think it might be until he’s 21, but I’ll have to check that. Can I just say 21 for now?",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

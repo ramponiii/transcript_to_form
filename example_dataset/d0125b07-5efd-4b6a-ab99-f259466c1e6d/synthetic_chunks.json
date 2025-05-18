@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's, like talk about your policy, right? Who exactly is the owner of the policy? I, I understand that's important for us to note here.",
+            "client_message": "Oh, yeah, um, I believe it's my partner, Jane Doe. She, uh, holds the policy.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, and about the type of protection you're looking at, what type of, um, policy is this, you know? Like, is it life assurance or something else?",
+            "client_message": "Uh, it’s a, like a critical illness cover I think, I'm not totally sure, but it’s supposed to help if, you know, something happens, in a way?",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

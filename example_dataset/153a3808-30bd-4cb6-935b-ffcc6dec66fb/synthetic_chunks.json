@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to recap, you mentioned somethin' about, uh, owning a classic car, right? Can you, like, tell me more about that?",
+            "client_message": "Yeah, it's a, uh, 1967 Ford Mustang, you know? I bought it, uh, a few years ago for around fifteen thousand dollars.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Got it, a Mustang. So, what do you think its current value is, uh, now?",
+            "client_message": "I think it's worth, like, maybe twenty-five thousand, but you know how things go, it could be more or less, depends.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Sure, that makes sense. And any, um, additional notes about the car? Like, any special features or, um, condition?",
+            "client_message": "Yeah, I mean, it’s in pretty good shape, and I’ve, like, kept all the receipts and stuff for the repairs. It’s really a labor of love for me, you know?",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

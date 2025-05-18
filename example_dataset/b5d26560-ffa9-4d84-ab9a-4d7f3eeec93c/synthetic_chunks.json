@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your health. How would you describe your current state of health? Any underlying issues we should be aware of?",
+            "client_message": "Well, I would say I'm generally okay, not much going on. But I do smoke, like, about ten cigarettes a day. I've been smoking since I was 18. So that's, um, something to note I guess.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. Smoking can have quite an impact, as you know. Do you think you might need any long-term care in the future for health reasons?",
+            "client_message": "Yeah, maybe. I've been thinking, with my smoking and all, I could need some help later on. I don't have a plan in place yet though. Maybe we should look into it.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation"
+            ]
+        }
+    ]
+}

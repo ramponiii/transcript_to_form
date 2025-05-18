@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, before we wrap up, can you tell me your dependent's full name?",
+            "client_message": "Uh, yeah, it's Sophie Johnson, but, um, we usually just call her Soph.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And when was she born?",
+            "client_message": "She was born on 15-08-2015, so, uh, she's eight now, I think.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        },
+        {
+            "advisor_message": "Perfect! And just to confirm, how long will she be considered a dependent?",
+            "client_message": "Oh, right, um, that's till 2026 for us, so, you know, just until she's 18, I guess...",
+            "field_names_covered": [
+                "dependent_until"
+            ]
+        }
+    ]
+}

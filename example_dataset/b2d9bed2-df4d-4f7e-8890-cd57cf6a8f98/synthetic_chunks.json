@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your current ownership status of your property? Is it owned, rented, or something else?",
+            "client_message": "Oh, um, it's rented right now.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what town are you living in currently?",
+            "client_message": "I'm in Bristol, yeah, that's where I am now.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        }
+    ]
+}

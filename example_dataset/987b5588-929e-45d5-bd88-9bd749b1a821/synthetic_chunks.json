@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like, uh, you know, sailing a boat. You gotta adjust your sails based on the wind, right? The more risk you're willing to take, it’s like sailing out into deeper waters, where the winds are stronger, but, um, also there's a chance of capsizing if you don’t know what you’re doing.",
+            "client_message": "I’m not, uh, really getting it though. Like, if I wanna go deeper, does that mean I’ll maybe lose more or?",
+            "field_names_covered": [
+                "risk"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! If you go deeper, uh, sure, you could find bigger fish, which means higher rewards but also more waves, uh, more uncertainty. It’s about finding the balance you can handle, you know?",
+            "client_message": "So you're saying I need to like, find a way to not get knocked over? Like maybe stay in the shallows if I'm not comfy?",
+            "field_names_covered": [
+                "risk"
+            ]
+        }
+    ]
+}

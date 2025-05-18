@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of risks likeywhen you're crossing a street, right? You gotta look both ways. If you don't, well, you might get hit by a car. That's kinda like investing, there's always some sorta risk involved with not bein' careful. You know what I mean?",
+            "client_message": "Um, yeah, I think so, but like, what do you mean by lookin' both ways? I don’t really get how that connects to my money and stuff you know?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "long_term_care_needed",
+                "will"
+            ]
+        }
+    ]
+}

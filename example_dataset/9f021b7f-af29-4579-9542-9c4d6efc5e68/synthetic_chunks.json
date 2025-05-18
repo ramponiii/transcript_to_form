@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's discuss your income sources. Can you tell me the name of your primary income source and the amount you receive?",
+            "client_message": "Sure, I was thinking of mentioning my salary, which is around $5,000 a month. But actually, I should probably include the rental income as well, it's about $1,200 monthly too.",
+            "field_names_covered": [
+                "name",
+                "amount"
+            ]
+        },
+        {
+            "advisor_message": "Got it. So we will include both your salary and rental income. Regarding the rental income, do you know if it's net or gross?",
+            "client_message": "Ah, right! The salary is gross, so I guess I need to mention that the rental income is net. Just to clarify, I'm going to be receiving that for the next few years, maybe until 2027.",
+            "field_names_covered": [
+                "net_gross",
+                "frequency",
+                "timeframe"
+            ]
+        }
+    ]
+}

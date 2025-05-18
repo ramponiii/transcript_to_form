@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about any protection policies you might have. Do you have something like life assurance or maybe critical illness cover? Just curious about what you've got out there.",
+            "client_message": "Yeah, I actually have a life assurance policy. It's with a company called Silver Shield. I think I pay like, um, 50 bucks a month for it.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "That's great! And what amount does that policy cover you for? Like, what's the sum assured?",
+            "client_message": "Oh, it's set at about 100,000 dollars, and I believe it goes until I turn 65. I should probably check if it’s written in trust too, not sure about that.",
+            "field_names_covered": [
+                "amount_assured",
+                "assured_until",
+                "in_trust"
+            ]
+        }
+    ]
+}

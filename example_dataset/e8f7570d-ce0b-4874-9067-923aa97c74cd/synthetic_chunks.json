@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let’s discuss your current investments. Can you provide me with the type of investment you own, and perhaps the current value too?",
+            "client_message": "Sure, I have, um, an ISA with a provider called BankPlus, and the value is about twenty thousand pounds, I think.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for sharing that. Do you have any notes or specific details about this ISA that you think would be important for us to consider?",
+            "client_message": "Yeah, um, it has, like, a really good interest rate, and I've been putting money into it regularly, but that's about it really.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

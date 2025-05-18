@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's think about an asset like a classic car. If someone were to purchase a vintage Mustang for, say, $30,000, it could be worth significantly more after a few years depending on its condition and market demand. This is just a hypothetical, but it helps illustrate how asset values can fluctuate over time.",
+            "client_message": "Right, so you're saying, like, if I bought a classic car for a certain price, the value could increase? That makes sense!",
+            "field_names_covered": [
+                "description",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! And if you take care of it, keep it in good condition, you could see its value rise. If that Rolex watch you own was originally bought for $5,000, it might be worth $8,000 now, don't you think?",
+            "client_message": "Oh, definitely! I think my Rolex is a great example. I originally bought it for $5,000, and I believe its current value is around $7,000 to $8,000. It's really nice to know it’s appreciated like that!",
+            "field_names_covered": [
+                "owner",
+                "original_value",
+                "current_value"
+            ]
+        }
+    ]
+}

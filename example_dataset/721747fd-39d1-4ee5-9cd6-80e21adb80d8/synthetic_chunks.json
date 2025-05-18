@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk a bit about risk tehlur—sorry, risk tolerance, um... can you give me an idea of how you feel about uh, maybe investing in something more aggressive? Like, uh, stocks?",
+            "client_message": "I dunno, I-I guess, like, stocks seem risky, r-right? Maybe I mean, I just kinda wanna know if, um, it's worth the chance, if that makes sense?",
+            "field_names_covered": [
+                "risk tolerance"
+            ]
+        },
+        {
+            "advisor_message": "I totally get that. What if I say, um, a scenario where you could potentially earn more over time but also face some losses? How does that sound?",
+            "client_message": "Um, I guess it sounds okay, but, like, I’m not sure if I can handle losing money, ya know?",
+            "field_names_covered": [
+                "risk tolerance"
+            ]
+        },
+        {
+            "advisor_message": "Yeah, it’s definitely a tough thing to think about. Let’s say, um, you had a portion of your savings, would you consider putting that into something like bonds, which are, like, safer but won't grow as much?",
+            "client_message": "Hmm, maybe? I just, I feel kinda unsure about where to put, like, my money and what’s safer, you know?",
+            "field_names_covered": [
+                "risk tolerance"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let's go over your property details. You mentioned that you own your house, right? What's the street name?",
+            "client_message": "Um, yeah, I own it. It's, uh, 22 Maple Avenue and, uh, the postcode is B1 2AB.",
+            "field_names_covered": [
+                "ownership_status",
+                "house_name_number",
+                "street_name",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "Got it, 22 Maple Avenue, B1 2AB. And can you tell me the town or city you're in?",
+            "client_message": "Oh yeah, it's Birmingham, and, uh, I live in the West Midlands, too. There’s a nice park around the corner.",
+            "field_names_covered": [
+                "town_city",
+                "county"
+            ]
+        },
+        {
+            "advisor_message": "Birmingham, nice choice! So, just to recap, you own a house at 22 Maple Avenue in Birmingham, postcode B1 2AB. Do you have a move-in date perhaps?",
+            "client_message": "Yeah, I moved in like, um, three years ago, it was in June 2020.",
+            "field_names_covered": [
+                "move_in_date"
+            ]
+        }
+    ]
+}

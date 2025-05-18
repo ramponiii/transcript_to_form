@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, you can think of risk like, uh, crossing a busy street. Sometimes you look both ways, and, uh, sometimes it might feel safe, but there's still a chance, right?",
+            "client_message": "I kinda get that, but, like, what do you mean by chance? Like how often should I look?",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! In investing, it’s similar. You need to assess your surroundings and, uh, make informed choices based on how much risk you can handle.",
+            "client_message": "But how do I know how much risk is okay for me? It’s a little confusing...",
+            "field_names_covered": [
+                "state_of_health_explanation",
+                "long_term_care_needed"
+            ]
+        },
+        {
+            "advisor_message": "Well, it depends on your, um, health and your overall goals. Think about, um, your long-term care needs like a safety net that gives you more comfort when, uh, jumping into risky investments.",
+            "client_message": "Right, but what if I jump and then, like, land in a bad situation? That’s what worries me.",
+            "field_names_covered": [
+                "long_term_care_explanation",
+                "will"
+            ]
+        }
+    ]
+}

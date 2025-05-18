@@ -1,0 +1,33 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's recap your expenses. You're saying the biggest one is your mortgage payment, right? That comes out to about 1,200 dollars a month, correct?",
+            "client_message": "Yeah, that sounds right. It's, um, 1,200 for the mortgage every month.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "And you mentioned, uh, car insurance too. How much do you pay for that?",
+            "client_message": "Um, it's around, like, 150 dollars monthly for the car insurance, I think. It’s kinda important for us since we use the car a lot.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Got it. So, you have your mortgage and car insurance, both monthly. Any other expenses you want to highlight, maybe something discretionary?",
+            "client_message": "Uh, yeah, we have groceries too—like, that's essential. We spend about, um, 400 dollars a month on that. We just need to eat, you know?",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

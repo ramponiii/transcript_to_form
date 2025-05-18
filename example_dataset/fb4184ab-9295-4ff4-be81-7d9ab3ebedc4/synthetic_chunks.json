@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, I think looking into your pension options, especially your Defined Contribution scheme, could be really beneficial. Have you thought about that?",
+            "client_message": "Yeah, I guess, but I'm not so sure about this Defined Contribution thing. I mean, aren't there any risks involved?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "There are definitely some risks, but it's also tied to market performance. The potential for growth can be higher compared to traditional options.",
+            "client_message": "Right, but still, how do I know it's the right move? I just don’t want to lose what I've built up so far, you know?",
+            "field_names_covered": [
+                "type",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, it’s important to consider that. Your pension’s current value, for example, can really impact your decisions. Would you like to see a breakdown of your current policy?",
+            "client_message": "Yeah, I'd like that. But can you show me my policy number too? I feel like I don’t have all the details on me right now.",
+            "field_names_covered": [
+                "policy_number",
+                "value"
+            ]
+        }
+    ]
+}

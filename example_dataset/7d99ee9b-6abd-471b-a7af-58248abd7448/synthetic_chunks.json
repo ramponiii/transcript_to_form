@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about risk tolerance, right? Like, if you had a choice between, you know, a really safe investment or one that could, like, potentially give you more returns but with a risk, what do you think?",
+            "client_message": "Um, I guess I’d be okay with some risk, but, like, I’m not really sure, you know? I mean, what if it goes bad?",
+            "field_names_covered": [
+                "none"
+            ]
+        },
+        {
+            "advisor_message": "Right, totally get that. How about this, if I said, imagine you could lose, like, 20% of your investment but maybe gain 50% in the long run, would that be something you’d consider?",
+            "client_message": "Uh, I dunno... 20% sounds like a lot, but, like, if the gain is, you know, really good then maybe? I just don’t want to end up losing my savings!",
+            "field_names_covered": [
+                "none"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, I understand. It’s a big decision. Let's say you had a budget for this, like, a certain amount set aside—would you feel more comfortable risking just a part of that?",
+            "client_message": "Yeah, maybe, like, if it’s just part of it, I could do that? But, honestly, it kinda makes me anxious thinking about it!",
+            "field_names_covered": [
+                "none"
+            ]
+        }
+    ]
+}

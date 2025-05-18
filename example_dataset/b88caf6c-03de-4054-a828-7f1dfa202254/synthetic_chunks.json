@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing like this, um, like, jumping into, like, a swimming pool. Sometimes, the water's warm and sometimes it's cold, right? That, uh, depends on the season, y'know? The risk is like, if you jump in when it’s cold, you might get shocked, but if you prepare for it, it's all good!",
+            "client_message": "Uh, I see what you're saying, but, um, I don't really get, like, how that maps to my, uh, property? Like, I own, uh, my house in, um, Springfield, on Maple Street, but, uh, does that mean I’m, like, safe to invest?",
+            "field_names_covered": [
+                "ownership_status",
+                "town_city",
+                "street_name"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let me just summarize the key things you've shared with me. Your first name is uh, what was it again?",
+            "client_message": "It's John, but uh, I go by Johnny actually.",
+            "field_names_covered": [
+                "first_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Right, Johnny, thanks! And your last name is, umm, can you remind me?",
+            "client_message": "It's, uh, Smith. Johnny Smith, that’s me!",
+            "field_names_covered": [
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Johnny Smith. And do you have, like, any middle names or anything? I remember you mentioning somethin' about that earlier.",
+            "client_message": "Yeah, I got a couple—it's Michael and James, but nobody really uses them.",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        }
+    ]
+}

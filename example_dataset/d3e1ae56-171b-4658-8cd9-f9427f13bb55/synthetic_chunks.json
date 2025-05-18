@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can we go over your income details? Like, who owns the income and what do we call the source?",
+            "client_message": "Uhm, I guess it's me that owns it, right? The income's mostly from my salary, and it's around thir- thirty-five thousand a year. I get it, like, every month. But that's gross, not net or whatever. And I think I'll keep gettin' it until I retire, which is, um, in twenty thirty or something like that. Yeah, that's it.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "net_gross",
+                "timeframe"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your current state of health. How are you feeling these days?",
+            "client_message": "Uh, well, I'm, you know, pretty okay I guess. So, like, I don’t smoke or anything, but I mean, my knees kinda hurt sometimes, especially when I go for long walks, you know? But overall, I’m just, yeah, I’m getting by really.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker"
+            ]
+        },
+        {
+            "advisor_message": "And that’s good to hear! Do you think you’ll need any long-term care in the future?",
+            "client_message": "Oh, uh, I dunno... It’s hard to say. Sometimes I feel like I might, especially with my health, you know? Like, I should really think about a will too, right? I haven’t got one yet, but I plan to eventually, I swear! Just got so much thinking to do about retirement and all that.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "will"
+            ]
+        }
+    ]
+}

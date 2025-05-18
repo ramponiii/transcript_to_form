@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to summarize what we've discussed, you mentioned that the policy is in your name, correct? It’s a life assurance policy you have?",
+            "client_message": "Yeah, that's right, it's a life assurance policy, and it’s just under my name.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "And if I remember correctly, the monthly premium for this policy is around fifty pounds?",
+            "client_message": "Yes, exactly, it’s fifty pounds a month.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "Great! And it covers you until the year 2040, is that correct?",
+            "client_message": "Yeah, it runs until the end of 2040.",
+            "field_names_covered": [
+                "assured_until"
+            ]
+        }
+    ]
+}

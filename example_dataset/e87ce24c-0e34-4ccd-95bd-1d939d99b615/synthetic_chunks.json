@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's move on to your investments. Can you tell me about any savings or investments you might own? Like what type they are and maybe who the provider is? Just to get a clearer picture. Uh... can you hear me okay?",
+            "client_message": "Yeah, I can hear you! Um, I have a couple of investments. One is an ISA with HSBC, and it's worth around five thousand dollars. The other one is just a regular savings account with Barclays, but I don't really keep much in there.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "provider",
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Gotcha, thanks for sharing that. Are there any notes or details about these that you think are important for me to know?",
+            "client_message": "Right! So, um, the ISA is tax-free, which is great, and I plan to add more to it soon. Oh, and the savings account, well, it usually doesn’t earn much interest, so I don't focus on it.",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

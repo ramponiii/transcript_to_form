@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, what are some of the specific goals you have in mind for our session today? Anything in particular you wanna focus on?",
+            "client_message": "Uh, well, I was thinking, like, maybe... um, I wanted to talk about investing for my retirement, but I've kinda... changed my mind about that now. I'm not sure if that's what I really need to do right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! So, if retirement investing is off the table, are there any other areas you’re considering instead?",
+            "client_message": "Yeah, I think, um, I might be more interested in, like, saving for a house or something. I just feel like... I need to prioritize that over retirement stuff right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

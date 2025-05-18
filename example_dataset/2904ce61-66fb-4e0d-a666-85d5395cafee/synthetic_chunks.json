@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's go over some health details if that's okay with you. Can you tell me about your current state of health?",
+            "client_message": "Um, yeah. So, I'm not really, like, super healthy but I think I'm okay? I have, um, some managing stuff, like hypertension sometimes, right?",
+            "field_names_covered": [
+                "current_state_of_health",
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "I see. And how about smoking? Do you smoke, or have you ever?",
+            "client_message": "Oh, yeah! I smoke, uh, like, about ten, maybe more? I started when I was, like, sixteen, I guess? It’s been a while now, I think it was...”",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Got it. That sounds important. And do you need long-term care or have a will in place?",
+            "client_message": "Well, um, I don’t think so but, uh, I don't have a will... Wait, should I? My mom's, she kinda does stuff like that but not me, not yet, I guess?",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "will",
+                "information_about_will"
+            ]
+        }
+    ]
+}

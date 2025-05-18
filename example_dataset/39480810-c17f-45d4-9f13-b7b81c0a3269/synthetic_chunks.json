@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to recap what you've shared, you're currently renting your property, correct? And the address is on Maple Street, right?",
+            "client_message": "Yeah, that's right. I'm renting it, and it's definitely on Maple Street.",
+            "field_names_covered": [
+                "ownership_status",
+                "street_name"
+            ]
+        },
+        {
+            "advisor_message": "Great! And can you remind me which city you're in?",
+            "client_message": "Oh, it's in Springfield, but yeah, I'm not too sure about the postcode at the moment.",
+            "field_names_covered": [
+                "town_city",
+                "postcode"
+            ]
+        },
+        {
+            "advisor_message": "No problem at all! And when did you move in? That'll help us to get the full picture.",
+            "client_message": "I moved in like, uh, last June, but I can't remember the exact date. Just after the summer started, I think.",
+            "field_names_covered": [
+                "move_in_date"
+            ]
+        }
+    ]
+}

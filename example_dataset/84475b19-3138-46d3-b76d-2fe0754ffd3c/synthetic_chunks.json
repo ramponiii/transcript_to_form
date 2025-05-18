@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let’s start by discussing your objectives for today. What specific goals do you have in mind? Just making sure we’re on the same page, can you hear me okay?",
+            "client_message": "Yeah, I can hear you... it’s a bit fuzzy, but, um, I guess I want to talk about saving for retirement, maybe investing some but, like, not too much risk involved, you know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it, retirement savings are definitely important. Do you have any particular figures in mind, or is it more about general strategies?",
+            "client_message": "Um, I was thinking maybe like… I dunno, starting with at least a thousand dollars? Just to see how it goes, and yeah, definitely not too risky.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Understood, starting with a thousand is reasonable. We can look into some low-risk investments for you as well. Now, are there any other objectives you want to cover today?",
+            "client_message": "Um, not really, just... maybe, like, how to manage that risk part? You know? I just really want to make sure I don’t lose money if possible.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

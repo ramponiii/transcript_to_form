@@ -1,0 +1,33 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, when we think about your expenses, I wanna make sure we cover everything, y'know? Can you tell me about, um, any regular payments you have?",
+            "client_message": "Oh, for sure! I'm really excited about the, um, investments. I think they can grow a lot! But like, for expenses, I do have these monthly payments. Uh, my mortgage is about, like, 1200 bucks every month.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency"
+            ]
+        },
+        {
+            "advisor_message": "Great! A mortgage payment is, uh, definitely a major component. Do y'know if you have any other expenses that are, say, more discretionary or, um, need much less priority?",
+            "client_message": "Yeah, I have those too! Like, um, my car insurance, which is, like, not as important as the mortgage. It’s around 150 bucks a month. Kinda a necessity, but if I had to, I could skip it for, uh, a bit.",
+            "field_names_covered": [
+                "owner",
+                "name",
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, are there any additional notes or, like, specific timeframes on these expenses you wanna mention?",
+            "client_message": "Not really, I mean, these are ongoing expenses, no end date or anything. Just, you know, I feel like investing will really help me out in the long run, especially with, um, the potential growth!",
+            "field_names_covered": [
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

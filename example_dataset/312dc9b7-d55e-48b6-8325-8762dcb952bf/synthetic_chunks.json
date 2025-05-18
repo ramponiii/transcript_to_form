@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let's go over your pension details. You mentioned you own a pension right? What type is it? Like, Defined Benefit or something else?",
+            "client_message": "Yeah, um, it's a Defined Contribution plan, I think?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it, okay. And who’s the provider of this pension?",
+            "client_message": "Ah, it's with North Trust or somethin'. I don't remember exactly, I just know it’s them.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "No problem! And what’s the current value of your pension? Any idea? If you know the policy number that would help too.",
+            "client_message": "Uh, I think it’s around ten thousand or so, maybe? And the policy number, I dunno, like it’s got letters and numbers, kinda mixed up.",
+            "field_names_covered": [
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

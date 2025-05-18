@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who's the owner of this loan?",
+            "client_message": "Um, it’s, uh, me, I think. Yeah, it’s me. Uh, my name's Alex.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, Alex! And, uh, what type of loan do you have?",
+            "client_message": "I have a mortgage. Like, you know, for my house.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what's the, um, monthly cost you're payin' for it?",
+            "client_message": "Oh, it’s like, I dunno, maybe 1200 bucks a month or somethin'.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

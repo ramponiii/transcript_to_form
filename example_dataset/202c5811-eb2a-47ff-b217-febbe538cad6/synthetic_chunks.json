@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me a bit more about any assets you have? Like, uh, maybe some investments or things that could grow in value?",
+            "client_message": "Oh, for sure! I've got this classic car I've been really excited about, it was worth like 10 grand when I bought it.",
+            "field_names_covered": [
+                "owner",
+                "description",
+                "original_value"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! Classic cars can really appreciated in value. Do you have an idea of what it's worth now?",
+            "client_message": "Yeah, I think it’s around 15 thousand now! It's really cool, I love it. Like, I can't wait to see how much more it could be worth in the future!",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "Wow, that's a good increase! Any other investments or assets you're looking into?",
+            "client_message": "Not right now, but I'm hoping to find some art pieces or maybe jewelry that could grow too. It's really exciting!",
+            "field_names_covered": [
+                "notes"
+            ]
+        }
+    ]
+}

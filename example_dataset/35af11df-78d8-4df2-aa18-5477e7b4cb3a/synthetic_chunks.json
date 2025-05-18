@@ -1,0 +1,23 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me about your income sources? Specifically, I'm looking for details like what the income is, how often you receive it, and the amounts involved.",
+            "client_message": "Sure, um, I have a salary from work, I think it’s around, like, 5,500 a month. Also, there's rental income, um, but I, uh, need to check the exact figure on that. I believe it's, uh, net income but I'm not, um, one hundred percent sure about that right now.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "That's great information. So, just to clarify, your salary is 5,500 monthly and you have rental income—are there any other sources you're considering?",
+            "client_message": "Oh, yes!  I think there might be a couple other things, like maybe some dividends from stocks, um, but I'm not really keeping track like I should. Also, the rental income, I think it, uh, comes in quarterly, but, like I said, I need to check. Not sure how long it's gonna last, maybe, until 2035?",
+            "field_names_covered": [
+                "sources",
+                "notes",
+                "timeframe"
+            ]
+        }
+    ]
+}

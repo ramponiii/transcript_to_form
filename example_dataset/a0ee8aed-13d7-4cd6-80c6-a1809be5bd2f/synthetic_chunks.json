@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your retirement goals. What are you envisioning for that time in your life?",
+            "client_message": "So, I wanna, like, travel a lot, you know? I’ve been thinking about, uh, visiting places I’ve never been to, like, maybe Italy or Japan or something. But also, um, I wanna have, like, some savings set aside just in case. You know, be smart about it, right?",
+            "field_names_covered": [
+                "owner",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "That sounds exciting! Have you thought about what type of savings or investments you’d want to have for that?",
+            "client_message": "Yeah, I think, uh, maybe something like an ISA or a, um, maybe just a regular bank account, like, you know, one with good interest, but I guess, it’s hard to choose sometimes. I just want to be comfortable, but also I don’t want too many risks, y’know?",
+            "field_names_covered": [
+                "type",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, comfort is key! And do you have a current value in mind for your savings?",
+            "client_message": "Well, I haven’t really calculated it exactly, but I’d say I’d like to aim for, um, around a hundred thousand? That should be enough for, you know, peace of mind and some good trips and stuff. But, y’know, I might have to re-evaluate that later on.",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, what are some specific goals you're looking to achieve today? I want to make sure we cover everything that's important to you.",
+            "client_message": "Yeah, um, I'm really wanting to talk about, like, my retirement plans, and maybe, uh, figure out how to save better for my kids' college too. Those are kinda my main things right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

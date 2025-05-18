@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so can you confirm your ownership status of the property? Are you renting or do you own it?",
+            "client_message": "Uh, I think, uh, I said I owned it, but, I actually rent it, yeah. I rent it from someone.",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it, renting. And can you tell me the postal code for your address?",
+            "client_message": "Oh right, uh, it’s actually, um, 12345, I think. Wait, no, sorry, it's 54321, I mixed that up.",
+            "field_names_covered": [
+                "postcode"
+            ]
+        }
+    ]
+}

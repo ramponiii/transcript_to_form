@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Can you tell me which country you're currently domiciled in?",
+            "client_message": "Yeah, uh, I live in the UK, but, um, I moved here about five years ago from Canada. So, I guess I'm, like, primarily based in the UK now.",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And are you a tax resident in the UK?",
+            "client_message": "Oh, right, uh, yeah, I am. I mean, I think I am, yes. Also, my job? I'm sort of like a digital marketing manager, and I work for this company called Bright Media. But, uh, my National Insurance number, it’s, um, I really can’t remember it right now. I probably should know it though!",
+            "field_names_covered": [
+                "resident_for_tax",
+                "occupation",
+                "employer",
+                "national_insurance_number"
+            ]
+        }
+    ]
+}

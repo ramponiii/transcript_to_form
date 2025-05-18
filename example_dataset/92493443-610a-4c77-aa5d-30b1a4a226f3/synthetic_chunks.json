@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to summarize, the life assurance policy we discussed is designed to provide financial security for your family in case of any unforeseen events.",
+            "client_message": "Wait, you mentioned 'life assurance'? Can you explain what that really means? Like, is it different from regular insurance?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Definitely! Life assurance is actually a type of life insurance that pays out a sum assured when the policyholder passes away, or sometimes even if they reach a certain age as part of whole life coverage.",
+            "client_message": "Oh, okay, that makes more sense. And what about the monthly cost? How does that work? Is it high?",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        },
+        {
+            "advisor_message": "The monthly cost can vary, but typically it's based on age, health, and the amount assured.",
+            "client_message": "Got it, so it's like a personalized rate? Also, is there an option to write this in trust or something? I heard that term mentioned too.",
+            "field_names_covered": [
+                "in_trust"
+            ]
+        }
+    ]
+}

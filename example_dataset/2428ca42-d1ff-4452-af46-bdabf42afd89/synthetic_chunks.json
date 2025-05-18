@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start by talking about your protection policies. Do you have an existing provider for life assurance?",
+            "client_message": "Um, yeah, I thought I was with, uh, Sun Life but I guess it’s actually Aviva, right? Yeah, Aviva.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Great, and what type of protection policy do you currently have with Aviva?",
+            "client_message": "I think it’s like uh, Critical Illness Cover but wait, you know what? I might have also like a Family Income Benefit policy too, I'm not sure.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "No problem at all! That’s good to know. Can you tell me about how much you’re paying for it monthly?",
+            "client_message": "Right, um, I was saying forty-five pounds, or, um, maybe it’s like fifty? Actually, I need to check my statements, just be sure.",
+            "field_names_covered": [
+                "monthly_cost"
+            ]
+        }
+    ]
+}

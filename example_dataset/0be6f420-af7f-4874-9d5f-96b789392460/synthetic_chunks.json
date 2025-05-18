@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's take a closer look at your pension options. I recommend considering a Defined Contribution plan as it offers more flexibility for our retirement plans.",
+            "client_message": "Yeah, but I'm not sure if that really suits my needs. I've heard mixed things about Defined Contributions in the past.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. The key point is that with a Defined Contribution plan, you have control over the investments, which can potentially increase your retirement savings.",
+            "client_message": "Right, but what about the risk involved? I mean, if the market dips, could that affect my pension?",
+            "field_names_covered": [
+                "type",
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely, there is some risk, but diversifying your investments can help mitigate that. Plus, I can help guide you through the options available.",
+            "client_message": "Okay, well... I guess I need to think more about how that works. What about my current provider? Is that still relevant?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

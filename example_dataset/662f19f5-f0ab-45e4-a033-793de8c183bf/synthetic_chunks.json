@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's talk about your property ownership status, you know, like whether you own or rent it and stuff like that. Um, could you share your postcode as well?",
+            "client_message": "Oh, yeah, I, uh, I actually own my house. It's at, um, 123 Maple St, in, uh, Springfield. The postcode is, um, 12345.",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "house_name_number",
+                "street_name",
+                "town_city"
+            ]
+        },
+        {
+            "advisor_message": "Great! And just to, um, confirm, what would you say is the move-in date? Also, if there's anything else about the address, like the county or country?",
+            "client_message": "I moved in, uh, back in, like, June of 2020. The county is, um, Greene County, and it's, uh, still in the United States. Nothing more to add on the address, really.",
+            "field_names_covered": [
+                "move_in_date",
+                "county",
+                "country"
+            ]
+        }
+    ]
+}

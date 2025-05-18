@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's start with your retirement dreams. What age are you hoping to retire at?",
+            "client_message": "Um, well, I guess I’ve been thinkin’ about it a lot, and I’d really like to retire, uh, maybe around 65 or so? But, you know, it kinda depends on... how things go with my job and stuff, right?",
+            "field_names_covered": [
+                "desired_retirement_age"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. And what about your current employment status?",
+            "client_message": "Oh! Right, so, currently, I’m, like, working full-time at, uh, this tech company, you know? But I mean, I’ve been thinking what if I could just, like, do something part-time or maybe even freelance after retiring? It just feels like—ugh, I just want a bit more, you know, freedom?",
+            "field_names_covered": [
+                "employment_status",
+                "occupation"
+            ]
+        }
+    ]
+}

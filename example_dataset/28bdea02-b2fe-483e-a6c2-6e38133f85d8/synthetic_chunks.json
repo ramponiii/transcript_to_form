@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your life assurance, it's um, like the funds that'll pay out when, you know, you pass away, right? It’s kinda like a safety net for your family.",
+            "client_message": "Okay, but, uh, can you explain what, like, life assurance and the terms actually mean? I’m not sure I totally get that stuff.",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Sure! Life assurance helps take care of your, um, loved ones financially after you're gone, and the amount assured is, like, the money your family would get. Also, you pay a monthly cost for it—think of it as saving for that future payout.",
+            "client_message": "Oh, got it! So the monthly cost is, like, what I pay to keep it active? And the amount is what they’d get when, uh, something happens to me?",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

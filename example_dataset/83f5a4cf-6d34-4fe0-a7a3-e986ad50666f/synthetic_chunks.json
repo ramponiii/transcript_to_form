@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your pension details. Do you know who, um, the provider is for your plan?",
+            "client_message": "Yeah, it's with, uh, Future Investments. I can't believe how much it might grow, like, over time!",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "And what type of pension are we lookin' at? Is it, um, more like a Defined Contribution or maybe a State Pension?",
+            "client_message": "Oh, it's a Defined Contribution pension. I've read that it could really, you know, build up some nice savings!",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, what's the current value of your pension? Just trying to get a full picture here.",
+            "client_message": "It's around, uh, fifteen thousand right now, but I’m super excited to see if it, like, grows even more soon!",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

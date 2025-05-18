@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s talk about your dependents, if you have any. Can you tell me, like, what’s the name of your dependent?",
+            "client_message": "Yeah, um, I have a son, his name is, uh, Mark. But his full name is Mark James.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Mark James. And, uh, when was he, like, born?",
+            "client_message": "He was born on, um, 10-05-2015. So, yeah, he’s, like, 8 now.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

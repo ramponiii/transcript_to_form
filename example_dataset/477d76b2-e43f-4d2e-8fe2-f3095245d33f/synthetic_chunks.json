@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, as we discussed previously, it's important to consider how dependencies could affect your financial planning. Do you have any dependents you’d like to mention?",
+            "client_message": "Um, yeah, I mean, I've got a cousin, but I'm not really sure if she counts as a dependent or not. I mean, she lives with me, but it just feels... like a stretch, ya know?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "That makes sense. If she's living with you and you're supporting her, we might want to note her name and look into that further. What's her full name?",
+            "client_message": "Her name's Lily, but, honestly, I'm still skeptical about whether I should be including her in this at all. Like, does it really help my situation?",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Including her could provide some tax benefits, but I get your concerns. Now, do you know her date of birth? It might help to clarify her dependent status.",
+            "client_message": "Yeah, uh, I think she was born on 15-03-2000... but, again, I'm just curious if that even matters. I mean, she's technically an adult now.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

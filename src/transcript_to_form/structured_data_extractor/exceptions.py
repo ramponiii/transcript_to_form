@@ -1,0 +1,2 @@
+class FieldNotExtractedError(Exception):
+    pass

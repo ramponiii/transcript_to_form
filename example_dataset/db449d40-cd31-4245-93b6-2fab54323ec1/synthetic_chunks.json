@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "To start, could you please let me know who the primary owner of the pension policy is?",
+            "client_message": "Certainly, the owner of the policy is my late father.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Thank you for that information. What type of pension are we discussing here? Is it a Defined Contribution or perhaps a State Pension?",
+            "client_message": "It's actually a Defined Benefit pension plan.",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Understood. Lastly, could you share the name of the provider and any additional details you have, like the current value or policy number?",
+            "client_message": "The provider is XYZ Financial, and the current value stands at around 150,000 pounds. The policy number is 123456789.",
+            "field_names_covered": [
+                "provider",
+                "value",
+                "policy_number"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your protection policies. Who’s, like, the owner of the policy? Is it just you, or is it someone else?",
+            "client_message": "Oh right! It’s, uh, me who owns the policy. I got it for myself just in case, you know. You never know what might happen, right?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And, um, what kind of protection policy is it? Like, is it life assurance or maybe something else? And who’s the provider?",
+            "client_message": "Yeah, it's a Life Assurance policy, and it's with Sunshine Insurance. I pay like, uh, fifty bucks a month for it. It also gives me a benefit of, um, a hundred grand if anything goes wrong. So, yeah, that’s all sorted!",
+            "field_names_covered": [
+                "type",
+                "provider",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

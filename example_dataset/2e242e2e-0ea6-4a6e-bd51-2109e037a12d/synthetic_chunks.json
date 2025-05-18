@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s get into your loans. Can you tell me who, um, is the one responsible for your current mortgage or loans? Just, like, the owner's name?",
+            "client_message": "Oh, uh, yeah, the owner's me, it's, uh, Matt. I got that mortgage last year, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great, Matt. And what type of, uh, loan are we talking about here? Like is it, um, a mortgage or maybe something else?",
+            "client_message": "It’s a mortgage, yeah. And I’m, uh, paying about 1,200 a month for it, you know?",
+            "field_names_covered": [
+                "type",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

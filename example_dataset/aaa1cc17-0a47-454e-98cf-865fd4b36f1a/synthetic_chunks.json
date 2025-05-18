@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's dive into your assets a bit. Do you own anything interesting that might be appreciating in value?",
+            "client_message": "Oh, absolutely! I've got this amazing art collection. I started it years ago and it's, like, really grown in value.",
+            "field_names_covered": [
+                "owner",
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "That sounds intriguing! Can you tell me more about its current market value?",
+            "client_message": "Sure! I think its current value is—uh, around 150,000 dollars, which is like, wow, way more than what I paid for.",
+            "field_names_covered": [
+                "current_value"
+            ]
+        },
+        {
+            "advisor_message": "That's fantastic! And do you know the original value when you got it?",
+            "client_message": "Yeah, it was about 60,000 dollars back then, so it's done really well!",
+            "field_names_covered": [
+                "original_value"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's start with your name. What's your first and last, you know, name?",
+            "client_message": "It's Jason Parker.",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Alright, Jason. Do you have any middle names to add or just sticking with that?",
+            "client_message": "Nah, just Jason Parker, no middle names.",
+            "field_names_covered": [
+                "middle_names"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Mind if I ask how you like to be addressed, like any nicknames or anything?",
+            "client_message": "Just call me Jay, that’s what my friends say.",
+            "field_names_covered": [
+                "known_as"
+            ]
+        }
+    ]
+}

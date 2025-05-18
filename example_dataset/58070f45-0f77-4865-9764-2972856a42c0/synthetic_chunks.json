@@ -1,0 +1,29 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your income sources and how they can contribute to your overall investment strategy. Do you have any current forms of income you’d like to discuss?",
+            "client_message": "Yeah, I mean, I get a salary of like, uh, 4,500 a month, right? And that’s, like, net after taxes. I’m really excited about what I can do with that!",
+            "field_names_covered": [
+                "amount",
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "That’s a solid monthly income! Are there any other sources of income coming in? Maybe something like rental or side businesses?",
+            "client_message": "Oh! I also have some rental income, uh, from a property I got. It’s about a thousand dollars, like, every month! I’m lookin' forward to, you know, investing that as well!",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "Great! So, you’ve got salary and rental income that you can potentially grow through investments. Do you have any personal goals regarding how you want to see this money work for you?",
+            "client_message": "Absolutely! I’m hoping to, ya know, grow this to, like, maybe retire early or something. I mean, I think I can manage it until 2035, right?",
+            "field_names_covered": [
+                "timeframe",
+                "notes"
+            ]
+        }
+    ]
+}

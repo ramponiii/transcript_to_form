@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your pension. Can you tell me who the owner of that pension policy is?",
+            "client_message": "Yeah, it’s actually me, but I have some confusion about the type of pension. Is it a D-C or somethin’?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Alright, it's important to clarify that. Do you happen to know the provider for the pension or maybe the policy number?",
+            "client_message": "Oh, right! The provider is XYZ Pension Fund and the policy number is 123456. The value, I think, is around 50,000 pounds, but I'm not really sure. Could you check that for me?",
+            "field_names_covered": [
+                "provider",
+                "policy_number",
+                "value"
+            ]
+        }
+    ]
+}

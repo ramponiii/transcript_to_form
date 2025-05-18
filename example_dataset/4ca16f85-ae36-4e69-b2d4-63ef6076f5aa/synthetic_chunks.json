@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, to start off, could you share with me some of your main objectives or goals that you’d like to chat about today? It’ll help us focus on what’s most important to you.",
+            "client_message": "Yeah, um, I’d really like to, you know, look into saving for my kids’ college and maybe also think about retirement planning. Just kinda wanna make sure we're on the right track, ya know?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it! College savings and retirement are both super important. Do you have any specific amounts you’re aiming for, or are there any other topics you wanna add to that list?",
+            "client_message": "Right, um, we were thinkin’ about saving, like, maybe around 50K for each kid for college? And, for retirement, I’m not totally sure yet but I'd say at least, uh, like 1 million or more would be good.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

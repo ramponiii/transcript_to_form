@@ -1,0 +1,21 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, can you tell me who the policy owner is? Like, uh, is it you or someone else?",
+            "client_message": "Yeah, um, it's me. I'm the owner of the policy, you know, for life cover and all that.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great! And, um, what about the provider? Who's, uh, providing this, you know, policy? Oh, and what's the monthly cost?",
+            "client_message": "Uh, it's with Acme Insurance, I think. I pay like, uh, 50 bucks a month for it, and it gives me a, um, payout of 100,000 dollars, I guess. And yeah, it's just basic life assurance. Uh, what do we do next?",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

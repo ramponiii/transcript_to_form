@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let's go over your protection policy details. Can you remind me who the owner of the policy is?",
+            "client_message": "Uh, yeah, that's me. I’m the one who took it out, I think it's called Life Assurance or something?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now about the provider and the monthly cost, do you recall which company it's with?",
+            "client_message": "Yeah, it's with, um, Great Life Insurance, I pay like about sixty bucks a month for it, I think?",
+            "field_names_covered": [
+                "provider",
+                "monthly_cost"
+            ]
+        }
+    ]
+}

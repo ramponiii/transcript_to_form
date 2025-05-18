@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, could you tell me about your current health, like, how are you feeling these days?",
+            "client_message": "Well, I guess I'm okay but, y'know, mostly I just get tired a lot. Not great, uh, but not terrible either.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Got it, and uh, are you, like, smoking at all?",
+            "client_message": "Yeah, I smoke, um, about ten cigarettes, I think, like every day for, like, uh, five years.",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Okay. And, do you have a will or any, like, power of attorney stuff set up?",
+            "client_message": "Um, I don’t think I got a will yet and, uh, no power of attorney either.",
+            "field_names_covered": [
+                "will",
+                "power_of_attorney"
+            ]
+        }
+    ]
+}

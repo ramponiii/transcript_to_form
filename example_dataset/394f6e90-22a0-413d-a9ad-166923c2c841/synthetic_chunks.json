@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Okay, so let’s just wrap up your investments. Do you own any savings or investment accounts?",
+            "client_message": "Uh, yeah, I guess I have a couple. Mostly just, well, a bank account and a... uh, an ISA, I think?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Right, a bank account and an ISA. What about the value of those, do you have a ballpark figure?",
+            "client_message": "Yeah, the bank account has, like, 5 thousand? And the ISA? Um, maybe around 10 thousand? Something like that, I’m not too sure.",
+            "field_names_covered": [
+                "value"
+            ]
+        },
+        {
+            "advisor_message": "Got it, so roughly 5 thousand in the bank and 10 in the ISA. Where's the ISA provider, do you know?",
+            "client_message": "Uh, it’s with, um, Skye Bank, I think? Yeah, Skye Bank. But I don’t really know much more about it.",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

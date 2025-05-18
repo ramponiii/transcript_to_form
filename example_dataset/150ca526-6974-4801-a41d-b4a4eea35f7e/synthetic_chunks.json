@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, think of investing as sailing a boat on the ocean. The waters can be calm or stormy, and the risks are like the waves. Some investors prefer to sail in the shallow waters where it's safer, while others like to navigate through rougher seas to potentially reach their destination faster.",
+            "client_message": "I see what you mean, but I'm not really sure how that applies to my mortgage or loans. Like, am I supposed to choose safer options or go for more risky ones?",
+            "field_names_covered": [
+                "type",
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! In terms of loans, when you choose a type of loan, like a fixed-rate mortgage, it's like picking a sturdy boat made for rough seas. It may cost more upfront, but it keeps you stable through the financial storms. On the other hand, adjustable-rate mortgages can be like smaller boats—more speed but also more chance of tipping over if the market gets rough.",
+            "client_message": "Okay, that helps a bit, but I still feel like I miss some key points. What about the monthly payments and interest rates? Are those like the gas I need to keep sailing?",
+            "field_names_covered": [
+                "monthly_cost",
+                "interest_rate"
+            ]
+        },
+        {
+            "advisor_message": "That's a great analogy! Yes, your monthly payments are like the fuel for your boat. If you run out, you're not going anywhere! And the interest rate is the current that pushes you along—higher rates can be like strong currents that slow you down, whereas lower rates make it easier to navigate.",
+            "client_message": "Got it! So, if I have a special low rate now, I should take advantage of that, right? But what if I want to switch boats later?",
+            "field_names_covered": [
+                "special_rate",
+                "provider"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to wrap things up here, do you own any particular type of investments? Like, uh, an ISA or, uh, maybe a property?",
+            "client_message": "Um, yeah, I got a, a property, it's, uh, worth about 250 thousand, I think? And, um, let me see, yeah, it's with Acme Bank.",
+            "field_names_covered": [
+                "owner",
+                "type",
+                "value",
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "Right, got it. And, uh, what about the notes? You got any additional details on that?",
+            "client_message": "Oh, uh, notes? Yeah, I mean, uh, it’s rented out, so that’s, like, good income, you know?",
+            "field_names_covered": [
+                "notes"
+            ]
+        },
+        {
+            "advisor_message": "Okay, that's helpful. And just to clarify, so your, um, property is, uh, with Acme, right?",
+            "client_message": "Yes, yes! And, um, we can, you know, talk more about investments later, okay?",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Hey there! So let's dive into your pension a bit. Can you tell me whose name is on the policy?",
+            "client_message": "Sure! It's actually my name, Chris Johnson. But uh, I think it's been under my dad's name for a while too.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, Chris! What kind of pension are we lookin' at here? Is it a SIPP or maybe a state pension?",
+            "client_message": "Yeah, it’s a Defined Benefit type. And, um, I have the policy number around somewhere... let me check!",
+            "field_names_covered": [
+                "type",
+                "policy_number"
+            ]
+        },
+        {
+            "advisor_message": "No worries! And what about the value? Any idea how much it’s worth these days?",
+            "client_message": "I believe it's roughly around fifteen thousand dollars, but I need to confirm that with a statement. Oh, and the provider is called Pension Solutions Inc.",
+            "field_names_covered": [
+                "value",
+                "provider"
+            ]
+        }
+    ]
+}

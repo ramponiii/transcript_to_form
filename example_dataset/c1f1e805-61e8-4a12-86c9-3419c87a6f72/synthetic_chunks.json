@@ -1,0 +1,24 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your current state of health. For example, if someone is a smoker, that can really impact their overall health. Have you thought about your health condition lately?",
+            "client_message": "Yeah, I mean, I've been feeling fine overall, but I do smoke, like, a pack a day. I started when I was 18, so it's been a while now. I know it's not great for me, but I haven't really considered it much until now.",
+            "field_names_covered": [
+                "current_state_of_health",
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. Smoking can lead to various health issues over time. Also, thinking about long-term care, it's worth considering if you might need support in the future. Have you thought about that at all?",
+            "client_message": "Um, not really, I guess. I mean, I don’t think I need long-term care now. But ya know, it's smart to plan ahead, but I'm just not sure. I don't have a will or anything either.",
+            "field_names_covered": [
+                "long_term_care_needed",
+                "long_term_care_explanation",
+                "will",
+                "information_about_will"
+            ]
+        }
+    ]
+}

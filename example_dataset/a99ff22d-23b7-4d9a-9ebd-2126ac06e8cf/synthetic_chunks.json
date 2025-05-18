@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your pension policy. Can you remind me who it's with? I mean, the provider, right?",
+            "client_message": "Uh, yeah, it’s with, um, Fidelity, I think? Yeah, Fidelity Investments. Pretty sure that's it.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "And what type of pension do you have? Is it, like, a defined contribution or something else?",
+            "client_message": "Oh, it’s a defined contribution plan, I believe. Yeah, I just started that job, so still figuring it all out. The company's matching contributions too, which is cool!",
+            "field_names_covered": [
+                "type"
+            ]
+        }
+    ]
+}

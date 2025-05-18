@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Could you please provide the full name of your dependent?",
+            "client_message": "Uh, yeah, so I think it's like, um, Sarah, um, Smith? Or is it Johnson? I always mix those up. But yeah, uh, she was born, I think, in July, like, the 15th or something. But, um, I'm not totally sure about the year, actually.",
+            "field_names_covered": [
+                "name",
+                "date_of_birth"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Thank you for joining me today. Before we get started, could you please confirm your full name for our records? It helps us to ensure accuracy in managing your information.",
+            "client_message": "Of course! My name is Sarah Jane Thompson. But I usually go by Sarah, so you can just call me that.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "known_as"
+            ]
+        },
+        {
+            "advisor_message": "Great, thank you, Sarah. And what about your date of birth? This will help us in verifying your identity and providing tailored advice.",
+            "client_message": "Sure! I was born on the 15th of July, 1985, so that's 15-07-1985. Anything else you need from me?",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

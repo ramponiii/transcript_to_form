@@ -1,0 +1,28 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s talk about your loans. Who's the owner of the mortgage? Just wanna make sure we got the right info, it’s important.",
+            "client_message": "Oh right, it’s me actually, uh, just me. I also got a personal loan with a different provider too, I think. Wait, who do I have that with again?",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Great! And about those loans, what type are we looking at? Like, what kinds of loans do you have?",
+            "client_message": "Um, yeah, so I have a mortgage and, uh, the personal loan, forgot the exact names—but it’s like a credit card thing too, I think?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it! Now, I need some more details like your monthly costs and any outstanding values if you have those handy, maybe your interest rates too?",
+            "client_message": "Sure, um, for my mortgage, I pay around 1,200 a month I guess—oh wait, and the personal loan, that one’s like 300, I think. The mortgage interest rate, um, is like 3.5% I believe…mm, yeah, that sounds right. Also, I need to check when’s my last payment due, I’m not too sure.",
+            "field_names_covered": [
+                "monthly_cost",
+                "outstanding_value",
+                "interest_rate"
+            ]
+        }
+    ]
+}

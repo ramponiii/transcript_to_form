@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, tell me, what do you do for work, uh, currently?",
+            "client_message": "Oh, um, right! I work at, um, this place, uh, called, sort of like, Tech Solutions, you know? It's, it's a tech company, and I'm, uh, like a project manager there.",
+            "field_names_covered": [
+                "occupation",
+                "employer"
+            ]
+        },
+        {
+            "advisor_message": "Okay, project manager—sounds interesting! How long have ya been there?",
+            "client_message": "It's been, like, um, since, uh, two thousand, eh, let me think—uh, yeah, it's, uh, been around three years now, I guess?",
+            "field_names_covered": [
+                "employment_started"
+            ]
+        },
+        {
+            "advisor_message": "Ah, three years! Nice. And, um, what about your employment status? Are you, like, full-time or something else?",
+            "client_message": "Oh! Yeah, uh, I'm full-time for sure—like, I work pretty much every day, you know? But, uh, sometimes it feels more like, um, fifty hours a week, sometimes, ya know what I mean?",
+            "field_names_covered": [
+                "employment_status"
+            ]
+        }
+    ]
+}

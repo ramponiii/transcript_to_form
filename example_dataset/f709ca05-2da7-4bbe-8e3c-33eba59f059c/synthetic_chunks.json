@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s jump right in. What are some of your main objectives today? Anything specific you wanna tackle or discuss?",
+            "client_message": "Um, yeah, I guess, I really wanna talk about saving for my kid’s college, and maybe some other like, investment stuff. I dunno, just some goals I have in mind.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Gotcha! College savings is a big one, for sure. Are there any other topics or goals you’ve been thinking about?",
+            "client_message": "Oh, right! I also, like, want to make sure I’m saving enough for retirement. I’ve heard that’s super important, right?",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! Retirement is key. So, just to recap, we’re looking at college savings and retirement planning today, right?",
+            "client_message": "Yup, exactly! I just wanna make sure I’m doing everything right. Thanks!",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

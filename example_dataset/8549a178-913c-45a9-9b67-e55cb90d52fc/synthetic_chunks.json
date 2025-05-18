@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let's talk about your current state of health, if that's okay. You feeling good?",
+            "client_message": "Well, I mean, I guess I'm okay. Just, like, uh, you know, I have a, um, a bit of high blood pressure. Not much else, I think.",
+            "field_names_covered": [
+                "current_state_of_health"
+            ]
+        },
+        {
+            "advisor_message": "Got it, that's good to know. And any, like, additional details or explanations about your health?",
+            "client_message": "Uh, yeah, my doc says it's, like, under control for now. I take meds for it, um, maybe since last year or so. But yeah, that's about it.",
+            "field_names_covered": [
+                "state_of_health_explanation"
+            ]
+        },
+        {
+            "advisor_message": "Thanks for sharing that. So, about smoking, are you a smoker at all?",
+            "client_message": "Oh, yeah, I smoke, like, um, a pack a day for, oh, geez, I think it's been, like, 15 years now? Gonna try to quit soon, but it's tough, ya know?",
+            "field_names_covered": [
+                "smoker",
+                "cigarettes_per_day",
+                "smoker_since"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Let's talk about your protection policies today. Can you tell me who the main owner of the policy is?",
+            "client_message": "Uh, yeah, that would be me, I mean, I’m the one, like, who's covered, right? But honestly, I was, like, thinking more about my retirement plans, you know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Great! And what type of protection policy do you have in place for yourselves?",
+            "client_message": "Right, so, um, I think it’s—oh, what was it again? Ah, yes, Life Assurance, that's it. But, honestly, I was thinking, like, I still need to figure how much I want for retirement. It feels so far away yet, kinda urgent, you know?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Do you have any specific amounts or costs associated with your policy or retirement plans?",
+            "client_message": "Um, yes, actually, I pay like, uh, 200 bucks a month for it. And, you know, I figured out that I want to have enough saved up, maybe like, uh, I don’t know, like 500,000 pounds or something, just to be comfortable, but it just feels like so much sometimes!",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}

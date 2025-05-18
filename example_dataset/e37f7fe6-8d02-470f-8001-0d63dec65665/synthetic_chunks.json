@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, when we talk about your income, it's essential to clarify whether it's net or gross. Gross income is basically your total earnings before any deductions like taxes, whereas net income is what you actually take home after those deductions.",
+            "client_message": "Okay, so uh, just to be clear, net means like after tax, right?",
+            "field_names_covered": [
+                "net_gross"
+            ]
+        },
+        {
+            "advisor_message": "Exactly! And most people tend to focus on net income since that's what you can actually use for your expenses and savings. Did you want to go over your income sources to see which one is net and which is gross?",
+            "client_message": "Yeah, I have a salary and some rental income too, but I’m not sure about the details. Like, should I be looking at them differently?",
+            "field_names_covered": [
+                "name",
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Yes, we can definitely break that down. Your salary, for instance, is usually gross, and then the rental income can vary depending on the lease agreement. Do you know the specifics of your rental income?",
+            "client_message": "Um, for the rental, I think it’s gross, but I only get it once a month, like looking at it now, I'm not sure if I need to track it differently or something.",
+            "field_names_covered": [
+                "amount",
+                "frequency"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Sure, I understand you’re curious about your income sources. Can you tell me who owns the income?",
+            "client_message": "Yeah, it's me, but I also have some rental income coming in from a property I own.",
+            "field_names_covered": [
+                "owner",
+                "sources"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And what descriptive name would you like to give your rental income?",
+            "client_message": "I usually just call it Rental Income, and it's about 1200 dollars a month, net.",
+            "field_names_covered": [
+                "name",
+                "amount",
+                "frequency",
+                "net_gross"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's go over your property details again. What's your current ownership status? Is it owned or rented?",
+            "client_message": "Uh yeah, I thought it was rented, but actually I just, uh, bought it last, um, year. But, like, I'm not sure what to put down for it. Maybe owned?",
+            "field_names_covered": [
+                "ownership_status"
+            ]
+        },
+        {
+            "advisor_message": "Got it! And what's the town or city name for the address?",
+            "client_message": "Right, uh it's in Springfield, but wait, I should mention, like, I don't know if I even remember the street name. It's been a while, uh, since I moved in.",
+            "field_names_covered": [
+                "town_city"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, let's talk about your dependent. I understand, you might have, uh, a name that you want to provide, right?",
+            "client_message": "Yeah, um, their name is, um, Alex, I think, uh, that's it, yeah. Don't really have, um, their full name right now.",
+            "field_names_covered": [
+                "name"
+            ]
+        },
+        {
+            "advisor_message": "I see, uh, and when was Alex born? Right? Just so I can, uh, get the date of birth down, I, uh, need that info.",
+            "client_message": "Oh, uh, right! Um, I think it was, uh, 15-05-2018 or something like that. Not totally sure, but, you know, that’s what I got, haha.",
+            "field_names_covered": [
+                "date_of_birth"
+            ]
+        }
+    ]
+}

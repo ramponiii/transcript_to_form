@@ -1,0 +1,20 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, let's talk about your expenses. Can you tell me who typically pays for, um, the groceries? Like, is it you or someone else?",
+            "client_message": "Um, yeah, that’s me. I normally, uh, pay for the groceries but, like, my spouse sometimes helps with it too, ya know?",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Got it, thanks! And how much do you spend on groceries each month, if you, uh, have an average in mind?",
+            "client_message": "Uh, I think it’s around three hundred bucks. It kinda, like, changes but you know, roughly that amount. Also, I gotta say it’s, um, essential for us.",
+            "field_names_covered": [
+                "amount",
+                "frequency",
+                "priority"
+            ]
+        }
+    ]
+}

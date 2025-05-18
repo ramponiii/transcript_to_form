@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your retirement goals. What do you envision for that time in your life?",
+            "client_message": "Um, retirement, right? So, I kinda imagine like, sitting on a beach or somethin? You know, with my fam, maybe travel a bit, uh, possibly like some cruises or, um, I dunno, just relaxing. I mean, I wanna enjoy life more, and I've never, like, had much time for that. But also, I’m worried about the money part, like how much I need to save? Like, do I have enough for comfy living or whatev?",
+            "field_names_covered": [
+                "objectives",
+                "sources"
+            ]
+        }
+    ]
+}

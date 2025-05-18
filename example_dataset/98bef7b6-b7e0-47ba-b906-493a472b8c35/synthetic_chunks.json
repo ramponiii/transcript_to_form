@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your financial objectives. I really think focusing on sustainable investments could benefit you in the long run.",
+            "client_message": "I dunno, like, I’m not sure that’s a good idea. I mean, some of these companies, they don’t even seem legit sometimes.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "I understand your concerns. But investing in companies that focus on sustainable growth can actually provide solid returns, especially with the growing demand for eco-friendly products.",
+            "client_message": "Yeah, but I’ve seen some reports that say it’s kinda risky, you know? Like, not all green companies are reliable.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "It's true some investments carry risks, but diversifying your portfolio could help mitigate those. Maybe we can discuss some options that balance sustainability and security.",
+            "client_message": "I just... I need to think about it more. I just feel like there’s more to consider and I’m not convinced yet.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

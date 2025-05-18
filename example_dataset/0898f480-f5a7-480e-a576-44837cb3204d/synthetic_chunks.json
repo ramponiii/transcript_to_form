@@ -1,0 +1,19 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk abt your savings, right? Just give me a bit of info, like, uh, who actually owns the account? You? Or is it joint?",
+            "client_message": "Oh yeah, it’s just me, um, I’ve got this ISA, like a savings account type thing. Yeah, my name's on it and all that.",
+            "field_names_covered": [
+                "owner",
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Got it, cool! And, um, what’s the, like, value right now? You got a ballpark figure?",
+            "client_message": "Uh, yeah, it’s around, let’s see... it’s like, uh, 12,000 pounds maybe? I think...",
+            "field_names_covered": [
+                "value"
+            ]
+        }
+    ]
+}

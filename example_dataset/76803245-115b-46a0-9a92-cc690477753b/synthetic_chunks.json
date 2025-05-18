@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let’s get to know you a bit better! Can you tell me your full name, including any middle names you might have?",
+            "client_message": "Yeah, sure! My name's Alex, Alex Johnson. I don’t really have any middle names, just Alex Johnson, that's it.",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "middle_names"
+            ]
+        }
+    ]
+}

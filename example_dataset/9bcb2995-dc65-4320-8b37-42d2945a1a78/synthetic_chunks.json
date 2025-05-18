@@ -1,0 +1,12 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, um, can we, like, talk about your expenses for a bit? Maybe, um, start with who usually pays for those things, like, are they yours or maybe your spouse, or—",
+            "client_message": "Yeah, I actually cover most of the, uh, expenses. Like, we have some shared stuff too but I, uh, mostly take care of what we spend. We do have, you know, mortgage payments and things like that.",
+            "field_names_covered": [
+                "owner",
+                "name"
+            ]
+        }
+    ]
+}

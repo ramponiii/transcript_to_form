@@ -1,0 +1,25 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, hey there! Let’s chat about your insurance policies. Do you know who is the actual, like, owner of the policy?",
+            "client_message": "Um, yeah, I think it’s me, right? Just my name on all the papers.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Cool, cool! And what type of protection are we lookin’ at? Like, is it Life Assurance or maybe Critical Illness Cover?",
+            "client_message": "Oh right, it’s a Life Assurance thing, I remember that. Pretty important stuff, I guess?",
+            "field_names_covered": [
+                "type"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! So, who’s the provider? Which company is giving you this coverage?",
+            "client_message": "Oh, let me see... I think it’s, like, some big insurance company, um, Allianz or something like that. Can’t remember, haha!",
+            "field_names_covered": [
+                "provider"
+            ]
+        }
+    ]
+}

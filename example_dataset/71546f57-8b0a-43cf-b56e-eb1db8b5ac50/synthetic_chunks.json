@@ -1,0 +1,13 @@
+{
+    "segments": [
+        {
+            "advisor_message": "Alright, so let’s talk about your dependents. Could you tell me their names and birthdays, please? If there's anyone who's still a dependent, uh, for how long do you think they'll be under that category?",
+            "client_message": "Oh, yeah! My daughter's name is Lily, and she's, uh, born on 12-05-2018. I mean, I guess she'll be considered a dependent until she's 18, so around 12-05-2036 unless she, like, does something that makes it different?",
+            "field_names_covered": [
+                "name",
+                "date_of_birth",
+                "dependent_until"
+            ]
+        }
+    ]
+}

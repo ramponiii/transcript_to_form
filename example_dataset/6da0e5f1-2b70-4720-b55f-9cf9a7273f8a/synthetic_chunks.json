@@ -1,0 +1,18 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, let's talk about your investment goals today. What are you hoping to achieve with your investments?",
+            "client_message": "I mean, I'm really excited about uh, the potential for growth, y'know? Like, I've been reading a lot and I think the market has some amazing opportunities right now.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! Are there specific areas or types of investments you're interested in?",
+            "client_message": "Yeah, totally! I'm looking at, um, tech stocks and some green energy options too. I really believe they can grow a lot in the next few years.",
+            "field_names_covered": [
+                "objectives"
+            ]
+        }
+    ]
+}

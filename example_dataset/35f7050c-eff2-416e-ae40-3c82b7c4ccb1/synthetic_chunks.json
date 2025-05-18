@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, how long have you been living in the UK? That helps us understand your tax situation better.",
+            "client_message": "Oh, I've been here for, like, two years now, and I'm super excited about the investment opportunities!",
+            "field_names_covered": [
+                "country_domiciled"
+            ]
+        },
+        {
+            "advisor_message": "That's great to hear! Are you considered a tax resident here, then?",
+            "client_message": "Yeah, I'm a tax resident. I really want to make the most of this even with the tax implications, you know?",
+            "field_names_covered": [
+                "resident_for_tax"
+            ]
+        },
+        {
+            "advisor_message": "Absolutely! And what about your job? What's your current employment status?",
+            "client_message": "I'm actually self-employed, but I'm really looking forward to investing and seeing some significant growth! It's such a thrilling time!",
+            "field_names_covered": [
+                "employment_status",
+                "occupation"
+            ]
+        }
+    ]
+}

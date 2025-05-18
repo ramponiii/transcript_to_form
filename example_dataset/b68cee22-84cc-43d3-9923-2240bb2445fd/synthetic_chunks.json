@@ -1,0 +1,26 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, just to wrap up, can you tell me who's the, um, owner of that asset we talked about?",
+            "client_message": "Uh, yeah, it's actually, um, my uncle's, well, I guess it's mine now since he, uh, passed away last year.",
+            "field_names_covered": [
+                "owner"
+            ]
+        },
+        {
+            "advisor_message": "Right, uh, got it. And what about, uh, the description of the asset? What exactly is it?",
+            "client_message": "It's, um, a classic car, you know, like one of those old, um, Mustangs or whatever, very cool!",
+            "field_names_covered": [
+                "description"
+            ]
+        },
+        {
+            "advisor_message": "Oh, that sounds great! And, uh, do you have any idea of, um, its current value?",
+            "client_message": "Uh, yeah, I think it's worth, like, around fifteen thousand, maybe? Not sure. Oh and, um, it was, like, originally ten, I think?",
+            "field_names_covered": [
+                "current_value",
+                "original_value"
+            ]
+        }
+    ]
+}

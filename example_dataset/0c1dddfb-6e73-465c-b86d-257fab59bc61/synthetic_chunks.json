@@ -1,0 +1,15 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, uh, let’s say, hypothetically, you own a house on, uh, Maple Street, right? Like, uh, number 45. This affects, y’know, your financial planning a lot because owning or renting has different implications for, um, your investments. What's your status on that? You, uh, own your house or you renting it?",
+            "client_message": "Oh, um, yeah, I actually rented my place. It's, uh, it’s in a town called Springsville. Uh, my postcode is, let’s see, it’s 12345. But, uh, yeah, we live in, um, a rented flat there, not sure if that matters or, uh, what else you need, haha!",
+            "field_names_covered": [
+                "ownership_status",
+                "postcode",
+                "town_city",
+                "house_name_number",
+                "street_name"
+            ]
+        }
+    ]
+}

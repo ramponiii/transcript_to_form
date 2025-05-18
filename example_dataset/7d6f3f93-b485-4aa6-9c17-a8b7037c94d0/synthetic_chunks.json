@@ -1,0 +1,30 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, as we discussed the different investment options earlier, I really believe that we could see some substantial growth in your portfolio if we choose the right mix of assets.",
+            "client_message": "Oh, totally! I mean, having the chance to grow my investments sounds really exciting! It’s like, I just want to make sure we’re picking the best opportunities, you know?",
+            "field_names_covered": [
+                "first_name",
+                "last_name"
+            ]
+        },
+        {
+            "advisor_message": "Exactly, and based on your risk tolerance, we can target some high-growth sectors. How do you feel about technology or green energy stocks?",
+            "client_message": "Yeah, tech sounds great! I actually read that green energy is gonna boom too. Like, I really want to be part of that and see my investments rise!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "nationality"
+            ]
+        },
+        {
+            "advisor_message": "That’s a solid perspective! It's fascinating how these sectors are evolving, and it's a good time to get involved. Let’s map out a strategy to help make that growth a reality.",
+            "client_message": "Right! I’m so pumped about that. Thanks for helping me figure this out. It feels great to have a plan!",
+            "field_names_covered": [
+                "first_name",
+                "last_name",
+                "marital_status"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "segments": [
+        {
+            "advisor_message": "So, just to confirm, you mentioned that um, the policy is with uh, Aviva, right?",
+            "client_message": "Yeah, that's right, um, I've got that policy with Aviva.",
+            "field_names_covered": [
+                "provider"
+            ]
+        },
+        {
+            "advisor_message": "And about the type, I see it's uh, Life Assurance?",
+            "client_message": "Uh, yeah, it’s a Life Assurance policy, um, for my family just in case, you know...",
+            "field_names_covered": [
+                "type",
+                "objectives"
+            ]
+        },
+        {
+            "advisor_message": "Got it. And, the um, monthly cost it's around, uh, forty-five pounds?",
+            "client_message": "Yeah, yeah, it’s like forty-five a month, I think. And, uh, the amount assured is maybe a hundred thousand or something, I guess.",
+            "field_names_covered": [
+                "monthly_cost",
+                "amount_assured"
+            ]
+        }
+    ]
+}
