@@ -13,7 +13,7 @@ improvements
 ## Getting Started
 First, install uv [instructions can be found here](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
-Then 
+Then create a .env file using the .env.example template. You should only need to fill in the openai api key.
 
 ```
 uv sync # creates venv, installing the dependencies you will need to play around with the code
