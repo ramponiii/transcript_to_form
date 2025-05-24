@@ -1,0 +1,299 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "David",
+                "middle_names": [
+                    "James"
+                ],
+                "last_name": "Nolan",
+                "known_as": "Dave",
+                "pronouns": "he/him",
+                "date_of_birth": "14-08-1980",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "212-555-0198",
+                "mobile_phone": "917-555-0161",
+                "email_address": "david.nolan@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 12 34 56 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Engineer",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-06-2018",
+                    "highest_rate_of_tax_paid": "24%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good with minor allergies.",
+                "state_of_health_explanation": "David manages his allergies with seasonal medication.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No indications or family history requiring long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2018, located with his lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "His sister, Emily Nolan, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "BN1 4AA",
+            "house_name_number": "12A",
+            "street_name": "Elm Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Brighton",
+            "county": "East Sussex",
+            "country": "United Kingdom",
+            "move_in_date": "2015-06-12",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "17B",
+            "street_name": "Maple Avenue",
+            "address_line_3": "West Side Complex",
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2020-03-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "James Nolan",
+            "date_of_birth": "15-05-2010",
+            "dependent_until": "15-05-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "David Nolan",
+            "name": "Salary from TechCorp",
+            "amount": 85000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "David Nolan",
+            "name": "Freelance Consulting",
+            "amount": 1500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "David Nolan",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "David Nolan",
+                "name": "Personal Loan Repayment",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2027"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "David Nolan",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "David Nolan",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "David Nolan",
+                "name": "Car Maintenance and Fuel",
+                "amount": 150.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "David Nolan",
+                "name": "Fitness Club Membership",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "David Nolan",
+                "name": "Streaming Service Subscription",
+                "amount": 12.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "David Nolan",
+                "name": "Annual Tech Conference Tickets",
+                "amount": 350.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Client",
+                "name": "Continued Education Courses",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Spouse",
+                "name": "Professional Membership Fees",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "ongoing"
+            },
+            {
+                "owner": "Client",
+                "name": "Office Supplies",
+                "amount": 200.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "David Nolan",
+                "name": "Fitness Club Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "David Nolan",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC-457892"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "David Nolan",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "David Nolan",
+            "description": "Classic Car Collection",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        },
+        {
+            "owner": "David Nolan",
+            "description": "Contemporary Art Collection",
+            "current_value": 180000.0,
+            "original_value": 150000.0
+        },
+        {
+            "owner": "David Nolan",
+            "description": "Rare Coin Collection",
+            "current_value": 95000.0,
+            "original_value": 60000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "David Nolan",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1250.75,
+            "outstanding_value": 200000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2043-06-15"
+        },
+        {
+            "owner": "David Nolan",
+            "type": "Car Finance",
+            "provider": "AutoLoan Services",
+            "monthly_cost": 350.95,
+            "outstanding_value": 15000.0,
+            "interest_rate": 4.2,
+            "special_rate": "3.5% fixed until 2025",
+            "final_payment": "2028-11-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "David Nolan",
+            "type": "Life Assurance",
+            "provider": "ABC Life Insurance",
+            "monthly_cost": 45.5,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in the event of an untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

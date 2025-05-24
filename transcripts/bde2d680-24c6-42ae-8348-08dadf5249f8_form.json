@@ -1,0 +1,292 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Daniel",
+                "middle_names": [],
+                "last_name": "Weaver",
+                "known_as": null,
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Liverpool, UK",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "0151 555 1234",
+                "mobile_phone": "07985 123456",
+                "email_address": "daniel.weaver@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Engineer",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "AB234567D",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Financial Consultant",
+                    "employer": null,
+                    "employment_started": "01-06-2015",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with manageable cholesterol levels",
+                "state_of_health_explanation": "Daniel monitors his cholesterol through diet and regular exercise.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current or anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2021 and stored with his lawyer, Sarah Johnson.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Held by his sister, Laura Weaver."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "10011",
+            "house_name_number": "45B",
+            "street_name": "Parker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "New York",
+            "county": "New York County",
+            "country": "USA",
+            "move_in_date": "2018-05-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "94103",
+            "house_name_number": "234",
+            "street_name": "Mission Street",
+            "address_line_3": "Suite 5C",
+            "address_line_4": null,
+            "town_city": "San Francisco",
+            "county": "San Francisco County",
+            "country": "USA",
+            "move_in_date": "2016-10-10",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Weaver",
+            "date_of_birth": "15-04-2010",
+            "dependent_until": "15-04-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Weaver",
+            "name": "Software Engineer Salary",
+            "amount": 95000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Maintenance and Fuel",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Insurance",
+                "amount": 600.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Continuing Professional Education",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Networking Events",
+                "amount": 800.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Streaming Service Subscriptions",
+                "amount": 27.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Gym Membership",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Annual Travel Insurance",
+                "amount": 120.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2030"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 125000.0,
+            "policy_number": "DC2023-4578"
+        },
+        {
+            "owner": "Daniel Weaver",
+            "type": "State Pension",
+            "provider": "Department for Work and Pensions",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Daniel Weaver",
+            "type": "GIA",
+            "provider": "Charles Schwab",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Weaver",
+            "description": "Art Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        },
+        {
+            "owner": "Daniel Weaver",
+            "description": "Classic Car",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Daniel Weaver",
+            "description": "Rare Book Collection",
+            "current_value": 15000.0,
+            "original_value": 10000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "Mortgage",
+            "provider": "ABC Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-06-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "Life Assurance",
+            "provider": "Sunrise Life Insurance",
+            "monthly_cost": 75.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "Retirement",
+            "objectives": "To provide financial security for family in case of untimely death"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Melissa",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Tran",
+                "known_as": "Melissa",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "San Francisco, California, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "415-555-0178",
+                "mobile_phone": "415-555-0199",
+                "email_address": "melissa.tran@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "01-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good",
+                "state_of_health_explanation": "Regular exercise and balanced diet, occasional migraines",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No long-term care anticipated",
+                "will": true,
+                "information_about_will": "Will is located with attorney, created in 2020",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Brother, Kevin Tran"
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "94103",
+            "house_name_number": "23B",
+            "street_name": "Market Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "San Francisco",
+            "county": "San Francisco County",
+            "country": "United States",
+            "move_in_date": "2022-05-10",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ethan Tran",
+            "date_of_birth": "15-07-2012",
+            "dependent_until": "15-07-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Melissa Tran",
+            "name": "Salary",
+            "amount": 85000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Melissa Tran",
+            "name": "Freelance Design Work",
+            "amount": 12000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "until end of 2024"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2030"
+            },
+            {
+                "owner": "Melissa Tran",
+                "name": "Car Loan Repayment",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until 2026"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Melissa Tran",
+                "name": "Car Maintenance",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Business Coaching Program",
+                "amount": 2500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Melissa Tran",
+                "name": "Industry Conference Attendance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "2024-2026"
+            },
+            {
+                "owner": "Melissa Tran",
+                "name": "Software Subscription",
+                "amount": 500.0,
+                "frequency": "Quarterly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Melissa Tran",
+                "name": "Charity Donation",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Melissa Tran",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 125000.0,
+            "policy_number": "DC-FID-453627"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Melissa Tran",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Melissa Tran",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 30000.0
+        },
+        {
+            "owner": "Melissa Tran",
+            "type": "Property",
+            "provider": null,
+            "value": 250000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Melissa Tran",
+            "description": "Art Collection",
+            "current_value": 85000.0,
+            "original_value": 60000.0
+        },
+        {
+            "owner": "Melissa Tran",
+            "description": "Antique Jewellery Collection",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Melissa Tran",
+            "description": "Classic Car",
+            "current_value": 70000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Melissa Tran",
+            "type": "Mortgage",
+            "provider": "Community Trust Bank",
+            "monthly_cost": 1800.0,
+            "outstanding_value": 320000.0,
+            "interest_rate": 3.8,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Melissa Tran",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of unforeseen events"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

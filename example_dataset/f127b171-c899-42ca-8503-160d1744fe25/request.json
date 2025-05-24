@@ -1,7 +1,0 @@
-{
-    "model": "ProtectionPolicy",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
-    "segments": 3,
-    "id": "f127b171-c899-42ca-8503-160d1744fe25"
-}

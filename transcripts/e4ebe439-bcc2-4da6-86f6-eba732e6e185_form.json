@@ -1,0 +1,321 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jamie",
+                "middle_names": [],
+                "last_name": "Winthrop",
+                "known_as": "Jamie",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Seattle, WA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "206-555-0123",
+                "mobile_phone": "206-555-0456",
+                "email_address": "jamie.winthrop@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-04-2018",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with no major concerns.",
+                "state_of_health_explanation": "Exercises regularly and maintains a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current conditions that require long-term care.",
+                "will": false,
+                "information_about_will": "Planning to create a will within the next year.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": "No power of attorney assigned yet, but considering options."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "12",
+            "street_name": "Park Lane",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-03-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "W1J 7NT",
+            "house_name_number": "45",
+            "street_name": "Piccadilly",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-06-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Charlie Winthrop",
+            "date_of_birth": "15-05-2015",
+            "dependent_until": "15-05-2033"
+        },
+        {
+            "name": "Ava Winthrop",
+            "date_of_birth": "22-11-2018",
+            "dependent_until": "22-11-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jamie Winthrop",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "name": "Freelance Consulting",
+            "amount": 3000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Monthly Rent",
+                "amount": 2000.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Home Insurance Premium",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Car Insurance",
+                "amount": 115.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Fuel Costs",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Travel Fund",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Dining Out",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Fitness Classes",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Annual Professional Development Subscription",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until 2030"
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Monthly Networking Events",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Concert Tickets",
+                "amount": 350.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "Next Month"
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Art Supplies",
+                "amount": 75.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "This Weekend"
+            },
+            {
+                "owner": "Jamie Winthrop",
+                "name": "Weekend Getaway",
+                "amount": 500.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "Next Weekend"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jamie Winthrop",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 15000.0
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Property",
+            "provider": "Real Estate Holdings LLC",
+            "value": 350000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jamie Winthrop",
+            "description": "Art Collection",
+            "current_value": 50000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "description": "Vintage Wine Collection",
+            "current_value": 15000.0,
+            "original_value": 8000.0
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "description": "Classic Car",
+            "current_value": 65000.0,
+            "original_value": 40000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Mortgage",
+            "provider": "Lloyds Bank",
+            "monthly_cost": 1200.5,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-06-30"
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Car Finance",
+            "provider": "Ford Credit",
+            "monthly_cost": 350.75,
+            "outstanding_value": 15000.0,
+            "interest_rate": 4.0,
+            "special_rate": "None",
+            "final_payment": "2025-11-15"
+        },
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Personal Loan",
+            "provider": "Barclays",
+            "monthly_cost": 200.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 5.0,
+            "special_rate": "3.5% discount rate until 2024",
+            "final_payment": "2028-09-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jamie Winthrop",
+            "type": "Life Assurance",
+            "provider": "Sun Life Insurance",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-10-15",
+            "objectives": "Ensure financial security for family in the event of untimely demise."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,7 +1,0 @@
-{
-    "model": "Expense",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an interaction where the advisor probes the client's risk tolerance using different scenarios, and the client expresses some uncertainty.",
-    "segments": 3,
-    "id": "fc094dcf-ee1f-4dc3-8e20-d66593437f42"
-}

@@ -1,0 +1,292 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Marcus",
+                "middle_names": [
+                    "Anthony"
+                ],
+                "last_name": "Lee",
+                "known_as": "Marc",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Manchester, UK",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "0161 555 1234",
+                "mobile_phone": "07700 900123",
+                "email_address": "marcus.lee@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "BrightFuture Corp",
+                    "employment_started": "15-06-2015",
+                    "highest_rate_of_tax_paid": "40%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "AB987654D",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Creative Consultant",
+                    "employer": null,
+                    "employment_started": "01-03-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, with regular check-ups.",
+                "state_of_health_explanation": "Marcus maintains an active lifestyle and follows a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No anticipated need for long-term care at the moment.",
+                "will": true,
+                "information_about_will": "Created in 2020, located with his lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "His sister, Amy Lee, holds his power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "NW1 6XE",
+            "house_name_number": "22B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "E1 7AA",
+            "house_name_number": "Flat 4, 12",
+            "street_name": "Whitechapel High Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2020-03-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Lee",
+            "date_of_birth": "15-04-2012",
+            "dependent_until": "15-04-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Marcus Lee",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Marcus Lee",
+            "name": "Rental Income",
+            "amount": 1500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Until 2030"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Marcus Lee",
+                "name": "Homeowners Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Car Maintenance and Repairs",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Fitness Club Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Business Conference Travel",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "2023-2026"
+            },
+            {
+                "owner": "Marcus Lee",
+                "name": "Professional Certification Renewal",
+                "amount": 350.0,
+                "frequency": "Every three years",
+                "priority": "Essential",
+                "timeframe": "2024-2033"
+            },
+            {
+                "owner": "Marcus Lee",
+                "name": "Online Course Subscription",
+                "amount": 200.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "2023-2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Marcus Lee",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "until December 2025"
+            },
+            {
+                "owner": "Marcus Lee",
+                "name": "Online Course Subscription",
+                "amount": 120.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Marcus Lee",
+                "name": "Charity Donations",
+                "amount": 75.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Marcus Lee",
+            "type": "Defined Contribution",
+            "provider": "Vanguard",
+            "value": 125000.0,
+            "policy_number": "VAN345678"
+        },
+        {
+            "owner": "Marcus Lee",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Marcus Lee",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Marcus Lee",
+            "description": "Art Collection",
+            "current_value": 35000.0,
+            "original_value": 20000.0
+        },
+        {
+            "owner": "Marcus Lee",
+            "description": "Vintage Guitar Collection",
+            "current_value": 15000.0,
+            "original_value": 8000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Marcus Lee",
+            "type": "Mortgage",
+            "provider": "Green Valley Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-09-01"
+        },
+        {
+            "owner": "Marcus Lee",
+            "type": "Car Finance",
+            "provider": "RapidAuto Finance",
+            "monthly_cost": 400.0,
+            "outstanding_value": 18000.0,
+            "interest_rate": 5.0,
+            "special_rate": "None",
+            "final_payment": "2028-05-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Marcus Lee",
+            "type": "Life Assurance",
+            "provider": "Guardian Life Insurance",
+            "monthly_cost": 45.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

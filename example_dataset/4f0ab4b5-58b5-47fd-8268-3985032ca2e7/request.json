@@ -1,7 +1,0 @@
-{
-    "model": "ProtectionPolicy",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
-    "segments": 3,
-    "id": "4f0ab4b5-58b5-47fd-8268-3985032ca2e7"
-}

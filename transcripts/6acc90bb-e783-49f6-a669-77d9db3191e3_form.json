@@ -1,0 +1,291 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Jessica",
+                "middle_names": [],
+                "last_name": "Turner",
+                "known_as": "Jess",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1986",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "555-0147",
+                "mobile_phone": "555-9876",
+                "email_address": "jessica.turner@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Specialist",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-06-2015",
+                    "highest_rate_of_tax_paid": "24%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good health with a balanced lifestyle; exercises regularly and maintains a nutritious diet.",
+                "state_of_health_explanation": "Jessica visits a physician annually for check-ups and engages in activities to maintain wellness, such as yoga and running.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current health issues that would indicate a need for long-term care in the foreseeable future.",
+                "will": true,
+                "information_about_will": "Created in 2021; stored with family attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Michael Turner, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "NW5 1TL",
+            "house_name_number": "42",
+            "street_name": "Maple Avenue",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-05-18",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ella Turner",
+            "date_of_birth": "15-06-2014",
+            "dependent_until": "15-06-2032"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jessica Turner",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Jessica Turner",
+            "name": "Freelance Consulting",
+            "amount": 2000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Jessica Turner",
+                "name": "Car Loan Repayment",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Car Insurance",
+                "amount": 650.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Jessica Turner",
+                "name": "Fuel Costs",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Gym Membership",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jessica Turner",
+                "name": "Online Course Subscription",
+                "amount": 120.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Professional Certification Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Occasional Dining Out",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jessica Turner",
+                "name": "Art Supplies for Hobby Projects",
+                "amount": 75.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jessica Turner",
+                "name": "Gym Membership",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jessica Turner",
+            "type": "Defined Contribution",
+            "provider": "Aviva",
+            "value": 75000.0,
+            "policy_number": "AV123456789"
+        },
+        {
+            "owner": "Jessica Turner",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Hargreaves Lansdown",
+            "value": 50000.0,
+            "policy_number": "HL987654321"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jessica Turner",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jessica Turner",
+            "description": "Art Collection - Contemporary Paintings",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jessica Turner",
+            "type": "Mortgage",
+            "provider": "Sunny Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2045-05-31"
+        },
+        {
+            "owner": "Jessica Turner",
+            "type": "Car Finance",
+            "provider": "AutoLend Co.",
+            "monthly_cost": 400.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 5.0,
+            "special_rate": "4.2% promotional rate for first 24 months",
+            "final_payment": "2027-04-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jessica Turner",
+            "type": "Life Assurance",
+            "provider": "Sun Life Financial",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial security for dependents in case of untimely death."
+        },
+        {
+            "owner": "Jessica Turner",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 120.0,
+            "amount_assured": 3000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "To ensure continuous income flow in case of illness or disability preventing work."
+        },
+        {
+            "owner": "Jessica Turner",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 50.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2040-12-31",
+            "objectives": "To cover medical expenses and personal costs in the event of serious illness diagnosis."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

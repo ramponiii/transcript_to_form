@@ -1,0 +1,244 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr.",
+                "first_name": "Michael",
+                "middle_names": [],
+                "last_name": "Green",
+                "known_as": "Michael",
+                "pronouns": "he/him",
+                "date_of_birth": "12-03-1990",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "212-555-0135",
+                "mobile_phone": "917-555-0198",
+                "email_address": "michael.green@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "USA",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "987-65-4321",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Inc.",
+                    "employment_started": "15-04-2020",
+                    "highest_rate_of_tax_paid": "22%"
+                },
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "AB123456C",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "10-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy but experiencing occasional stress-related fatigue.",
+                "state_of_health_explanation": "Works in a high-pressure job, leading to sporadic episodes of fatigue and mild anxiety.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": false,
+                "information_about_will": null,
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "101",
+            "street_name": "Oakwood Drive",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-05-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Michael Green",
+            "name": "Freelance Graphic Design",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Michael Green",
+                "name": "Student Loan Payment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Michael Green",
+                "name": "Rent Payment",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Michael Green",
+                "name": "Annual Car Maintenance",
+                "amount": 750.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Michael Green",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Michael Green",
+                "name": "Continuing Education Conference",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Michael Green",
+                "name": "Charity Donations",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Michael Green",
+            "type": "Defined Contribution",
+            "provider": "ABC Pension Fund",
+            "value": 150000.0,
+            "policy_number": "DC123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Michael Green",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Michael Green",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Michael Green",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 8000.0
+        },
+        {
+            "owner": "Michael Green",
+            "description": "Classic Car Collection",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Michael Green",
+            "description": "Vintage Watch Collection",
+            "current_value": 20000.0,
+            "original_value": 12000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Michael Green",
+            "type": "Mortgage",
+            "provider": "National Home Loans",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 150000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2043-05-31"
+        },
+        {
+            "owner": "Michael Green",
+            "type": "Car Finance",
+            "provider": "Auto Credit Ltd.",
+            "monthly_cost": 350.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 5.5,
+            "special_rate": null,
+            "final_payment": "2028-11-15"
+        },
+        {
+            "owner": "Michael Green",
+            "type": "Credit Card",
+            "provider": "Green Bank",
+            "monthly_cost": 200.0,
+            "outstanding_value": 5000.0,
+            "interest_rate": 18.5,
+            "special_rate": "0% interest on balance transfers until 2024",
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Michael Green",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 85.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of unexpected events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

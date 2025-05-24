@@ -1,0 +1,304 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "James",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Underwood",
+                "known_as": null,
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "London, United Kingdom",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": null,
+                "mobile_phone": "07123 456789",
+                "email_address": "james.underwood@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Engineer",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "AB987654D",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "10-11-2016",
+                    "highest_rate_of_tax_paid": "25%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally in good health with a history of seasonal allergies.",
+                "state_of_health_explanation": "Engages in regular exercise and follows a balanced diet. Allergies managed with medication.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Currently independent with no anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Will is stored at the family lawyer's office, created in 2020.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Power of attorney granted to his spouse, Emily Underwood."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "EC1A 1BB",
+            "house_name_number": "22",
+            "street_name": "Farringdon Road",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": null,
+            "country": "United Kingdom",
+            "move_in_date": "2018-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "W1D 3QT",
+            "house_name_number": "34B",
+            "street_name": "Soho Square",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": null,
+            "country": "United Kingdom",
+            "move_in_date": "2020-03-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Olivia Underwood",
+            "date_of_birth": "15-06-2015",
+            "dependent_until": "15-06-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "James Underwood",
+            "name": "Freelance Consulting",
+            "amount": 5000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "James Underwood",
+                "name": "Mortgage Repayment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Car Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2026"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "James Underwood",
+                "name": "Monthly Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "James Underwood",
+                "name": "Car Maintenance",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2032"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Car Insurance",
+                "amount": 550.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until 2030"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "James Underwood",
+                "name": "Online Courses Subscription",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Travel Fund Contribution",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until every November"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Fitness Club Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "James Underwood",
+                "name": "Office Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Professional Development Workshop",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "Next two years"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "James Underwood",
+                "name": "Comic Book Subscription Service",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Underwood",
+                "name": "Online Learning Platform Subscription",
+                "amount": 19.99,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until course completion"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "James Underwood",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 15000.0,
+            "policy_number": "DC-478239"
+        },
+        {
+            "owner": "James Underwood",
+            "type": "Defined Benefit",
+            "provider": "Royal London",
+            "value": 42000.0,
+            "policy_number": "DB-562891"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "James Underwood",
+            "type": "Stocks & Shares ISA",
+            "provider": "Vanguard",
+            "value": 12500.75
+        },
+        {
+            "owner": "James Underwood",
+            "type": "General Investment Account",
+            "provider": "Fidelity Investments",
+            "value": 8930.45
+        },
+        {
+            "owner": "James Underwood",
+            "type": "Cryptocurrency Portfolio",
+            "provider": "Coinbase",
+            "value": 6520.3
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "James Underwood",
+            "description": "Art Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        },
+        {
+            "owner": "James Underwood",
+            "description": "Classic Car",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "James Underwood",
+            "type": "Mortgage",
+            "provider": "GreenFields Bank",
+            "monthly_cost": 950.0,
+            "outstanding_value": 185000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "James Underwood",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of premature death."
+        },
+        {
+            "owner": "James Underwood",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 125.5,
+            "amount_assured": 30000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Ensure continuous income in case of illness or disability."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

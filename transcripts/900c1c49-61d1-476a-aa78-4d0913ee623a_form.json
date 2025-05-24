@@ -1,0 +1,305 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr.",
+                "first_name": "Alex",
+                "middle_names": [],
+                "last_name": "Taylor",
+                "known_as": "Alex",
+                "pronouns": "they/them",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Toronto, Canada",
+                "nationality": "Canadian",
+                "gender": "Non-binary",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "416-555-0198",
+                "mobile_phone": "647-555-0123",
+                "email_address": "alex.taylor@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Developer",
+                    "employer": "Tech Innovations Ltd.",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ654321D",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-03-2019",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with some minor issues",
+                "state_of_health_explanation": "Occasional migraines, otherwise in good health",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care",
+                "will": true,
+                "information_about_will": "Located with attorney, last updated in 2022",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Granted to spouse, Jamie Taylor"
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "22B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2021-05-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "EH3 9EP",
+            "house_name_number": "15",
+            "street_name": "Princes Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Edinburgh",
+            "county": "City of Edinburgh",
+            "country": "United Kingdom",
+            "move_in_date": "2018-04-10",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Jamie Taylor",
+            "date_of_birth": "14-04-2012",
+            "dependent_until": "14-04-2030"
+        },
+        {
+            "name": "Sam Taylor",
+            "date_of_birth": "22-11-2015",
+            "dependent_until": "22-11-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Alex Taylor",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Alex Taylor",
+            "name": "Freelance Consulting",
+            "amount": 2000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Alex Taylor",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Alex Taylor",
+                "name": "Car Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Alex Taylor",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Alex Taylor",
+                "name": "Home Maintenance",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Alex Taylor",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Alex Taylor",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Alex Taylor",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Client",
+                "name": "Conference Registration",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Spouse",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Alex Taylor",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC123456789"
+        },
+        {
+            "owner": "Alex Taylor",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Alex Taylor",
+            "type": "Investment Bond",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Alex Taylor",
+            "type": "ISA",
+            "provider": "Fidelity",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Alex Taylor",
+            "description": "Classic Car - 1965 Ford Mustang",
+            "current_value": 55000.0,
+            "original_value": 50000.0
+        },
+        {
+            "owner": "Alex Taylor",
+            "description": "Abstract Art Collection",
+            "current_value": 120000.0,
+            "original_value": 95000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Alex Taylor",
+            "type": "Mortgage",
+            "provider": "Northern Bank",
+            "monthly_cost": 1300.75,
+            "outstanding_value": 275000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-05-30"
+        },
+        {
+            "owner": "Alex Taylor",
+            "type": "Car Finance",
+            "provider": "AutoLoans Ltd",
+            "monthly_cost": 450.5,
+            "outstanding_value": 25000.0,
+            "interest_rate": 5.2,
+            "special_rate": "4.5% promotional rate for the first two years",
+            "final_payment": "2028-11-15"
+        },
+        {
+            "owner": "Alex Taylor",
+            "type": "Personal Loan",
+            "provider": "GreenFinance Corp",
+            "monthly_cost": 250.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 7.5,
+            "special_rate": "6.8% fixed for the first year",
+            "final_payment": "2027-03-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Alex Taylor",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 75.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To ensure family security and provide financial stability in case of unforeseen events."
+        },
+        {
+            "owner": "Alex Taylor",
+            "type": "Critical Illness Cover",
+            "provider": "Prudential Insurance",
+            "monthly_cost": 45.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2035-06-30",
+            "objectives": "To cover medical expenses and support living costs during serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

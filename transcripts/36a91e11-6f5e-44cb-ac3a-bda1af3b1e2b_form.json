@@ -1,0 +1,305 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Jane"
+                ],
+                "last_name": "Harmon",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "12-08-1985",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "617-555-0134",
+                "mobile_phone": "617-555-0075",
+                "email_address": "emily.harmon@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, with mild seasonal allergies.",
+                "state_of_health_explanation": "Emily maintains a healthy lifestyle with regular exercise and a balanced diet, which contributes to her overall well-being.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current conditions indicating a need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored with her attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, James Harmon, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "90210",
+            "house_name_number": "123",
+            "street_name": "Elm Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Beverly Hills",
+            "county": "Los Angeles County",
+            "country": "United States",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "10001",
+            "house_name_number": "45B",
+            "street_name": "Broadway",
+            "address_line_3": "Apt 5A",
+            "address_line_4": null,
+            "town_city": "New York",
+            "county": "New York County",
+            "country": "United States",
+            "move_in_date": "2018-09-12",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "James Harmon",
+            "date_of_birth": "15-05-2012",
+            "dependent_until": "15-05-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Harmon",
+            "name": "Freelance Photography",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        },
+        {
+            "owner": "Emily Harmon",
+            "name": "Online Art Sales",
+            "amount": 1200.0,
+            "frequency": "Quarterly",
+            "net_gross": "Gross",
+            "timeframe": "Until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Rent Payment",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Home Insurance",
+                "amount": 400.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until Dec 2025"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Yoga Classes Subscription",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Streaming Service Subscription",
+                "amount": 15.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Conference Attendance Fee",
+                "amount": 800.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Professional Development Course",
+                "amount": 1200.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "Completion by 2025"
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Industry Magazine Subscription",
+                "amount": 150.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Harmon",
+                "name": "Monthly Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Harmon",
+                "name": "Art Supplies for Painting Class",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "for 2 years"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Harmon",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 85000.0,
+            "policy_number": "DC8723456921"
+        },
+        {
+            "owner": "Emily Harmon",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Vanguard",
+            "value": 92000.0,
+            "policy_number": "SIPP4678239185"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Harmon",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 35000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Harmon",
+            "description": "Rare Art Collection",
+            "current_value": 55000.0,
+            "original_value": 45000.0
+        },
+        {
+            "owner": "Emily Harmon",
+            "description": "Vintage Jewellery Collection",
+            "current_value": 30000.0,
+            "original_value": 25000.0
+        },
+        {
+            "owner": "Emily Harmon",
+            "description": "Classic Car - 1967 Ford Mustang",
+            "current_value": 75000.0,
+            "original_value": 60000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Harmon",
+            "type": "Mortgage",
+            "provider": "Greenfield National Bank",
+            "monthly_cost": 1250.75,
+            "outstanding_value": 215000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2030",
+            "final_payment": "2045-06-30"
+        },
+        {
+            "owner": "Emily Harmon",
+            "type": "Car Finance",
+            "provider": "AutoDrive Loans",
+            "monthly_cost": 300.5,
+            "outstanding_value": 12000.0,
+            "interest_rate": 4.2,
+            "special_rate": "None",
+            "final_payment": "2027-08-15"
+        },
+        {
+            "owner": "Emily Harmon",
+            "type": "Credit Card",
+            "provider": "CityWide Credit",
+            "monthly_cost": 150.0,
+            "outstanding_value": 5000.0,
+            "interest_rate": 19.99,
+            "special_rate": "0% on purchases for 12 months",
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Harmon",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.75,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To secure financial stability for her family in the event of unforeseen circumstances."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

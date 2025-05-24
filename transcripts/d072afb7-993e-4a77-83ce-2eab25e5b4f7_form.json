@@ -1,0 +1,289 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Rachel",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Thompson",
+                "known_as": "Rachel",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "617-555-0134",
+                "mobile_phone": "617-555-5678",
+                "email_address": "rachel.thompson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "SF987654D",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Consultant",
+                    "employer": null,
+                    "employment_started": "01-07-2018",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health with some minor seasonal allergies.",
+                "state_of_health_explanation": "Rachel maintains a healthy lifestyle, regularly exercises, and eats a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Rachel leads an active lifestyle and does not currently anticipate needing long-term care.",
+                "will": true,
+                "information_about_will": "Will was created in 2022 and is stored with her attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Emily Thompson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "34B",
+            "street_name": "Abbey Road",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-05-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ella Thompson",
+            "date_of_birth": "15-06-2015",
+            "dependent_until": "15-06-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Rachel Thompson",
+            "name": "Freelance Graphic Design",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Rachel Thompson",
+            "name": "Online Course Sales",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Monthly Rent",
+                "amount": 2500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Rachel Thompson",
+                "name": "Home Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until 2030"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Car Insurance",
+                "amount": 600.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Rachel Thompson",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Yoga Classes",
+                "amount": 95.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Rachel Thompson",
+                "name": "Weekly Grocery Shopping",
+                "amount": 150.0,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Rachel Thompson",
+                "name": "Subscription to Art Supplies Box",
+                "amount": 25.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Until December 2024"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Professional Development Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Rachel Thompson",
+                "name": "Charity Donations",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Rachel Thompson",
+                "name": "Gym Membership",
+                "amount": 65.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Rachel Thompson",
+            "type": "Defined Contribution",
+            "provider": "ABC Pension Fund",
+            "value": 150000.0,
+            "policy_number": "RA123456PT"
+        },
+        {
+            "owner": "Rachel Thompson",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "XYZ Wealth Management",
+            "value": 125000.0,
+            "policy_number": "RT987654SIPP"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Rachel Thompson",
+            "type": "ISA",
+            "provider": "Nationwide",
+            "value": 24500.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Rachel Thompson",
+            "description": "Vintage Art Collection",
+            "current_value": 150000.0,
+            "original_value": 95000.0
+        },
+        {
+            "owner": "Rachel Thompson",
+            "description": "Classic Car",
+            "current_value": 80000.0,
+            "original_value": 65000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Rachel Thompson",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1250.0,
+            "outstanding_value": 210000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-06-30"
+        },
+        {
+            "owner": "Rachel Thompson",
+            "type": "Car Finance",
+            "provider": "Green Auto Loans",
+            "monthly_cost": 350.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 4.5,
+            "special_rate": "No special rate",
+            "final_payment": "2025-09-15"
+        },
+        {
+            "owner": "Rachel Thompson",
+            "type": "Personal Loan",
+            "provider": "City Credit Union",
+            "monthly_cost": 200.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 6.0,
+            "special_rate": "5% promotional rate until 2024",
+            "final_payment": "2026-03-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Rachel Thompson",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 100.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-07-15",
+            "objectives": "Provide financial security to family in case of unforeseen events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

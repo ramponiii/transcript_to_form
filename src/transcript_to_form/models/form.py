@@ -1,21 +1,20 @@
+from pathlib import Path
+
 from pydantic import BaseModel, Field
 
 from .client import Client
-from .form_sections.address import Addresses
-from .form_sections.dependents import Dependents
+from .form_sections.address import Address
+from .form_sections.dependent import Dependent
 from .form_sections.expenses import Expenses
-from .form_sections.incomes import Incomes
-from .form_sections.loan_and_mortgages import LoansAndMortgages
+from .form_sections.income import Income
+from .form_sections.loan_or_mortgage import LoanOrMortgage
 from .form_sections.objectives import Objectives
-from .form_sections.other_assets import OtherAssets
-from .form_sections.pensions import Pensions
-from .form_sections.protection_policies import ProtectionPolicies
-from .form_sections.saving_and_investments import (
-    SavingsAndInvestments,
-)
+from .form_sections.other_asset import OtherAsset
+from .form_sections.pension import Pension
+from .form_sections.protection_policy import ProtectionPolicy
+from .form_sections.saving_or_investment import SavingOrInvestment
 
 
-# note: a loan may appear as both an 'expense' and under 'loans and mortgages' currently.
 class Form(BaseModel):
     """Represents the complete financial data form for a client session."""
 
@@ -24,13 +23,24 @@ class Form(BaseModel):
         description="A list of clients associated with this form and associated information.",
     )
 
-    addresses: Addresses
-    dependents: Dependents
-    incomes: Incomes
-    expenses: Expenses
-    pensions: Pensions
-    savings_and_investments: SavingsAndInvestments
-    other_assets: OtherAssets
-    loans_and_mortgages: LoansAndMortgages
-    protection_policies: ProtectionPolicies
-    objectives: Objectives
+    addresses: list[Address] | None
+    dependents: list[Dependent] | None
+    incomes: list[Income] | None
+    expenses: Expenses | None
+    pensions: list[Pension] | None
+    savings_and_investments: list[SavingOrInvestment] | None
+    other_assets: list[OtherAsset] | None
+    loans_and_mortgages: list[LoanOrMortgage] | None
+    protection_policies: list[ProtectionPolicy] | None
+    objectives: Objectives | None
+
+    def save(self, path: Path | str):
+        with open(path, "w") as file:
+            file.write(self.model_dump_json(indent=4))
+
+    @classmethod
+    def load(cls, path: Path | str) -> "Form":
+        filepath = Path(path)
+        with open(filepath, "r", encoding="utf-8") as file:
+            json_data = file.read()
+        return cls.model_validate_json(json_data)

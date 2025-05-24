@@ -1,0 +1,307 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr.",
+                "first_name": "Marcus",
+                "middle_names": [],
+                "last_name": "Greene",
+                "known_as": "Marcus",
+                "pronouns": "he/him",
+                "date_of_birth": "05-04-1985",
+                "place_of_birth": "San Francisco, CA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "415-555-0123",
+                "mobile_phone": "415-555-4567",
+                "email_address": "marcus.greene@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ654321D",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-06-2018",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with minor issues",
+                "state_of_health_explanation": "Occasional migraines, managed with medication",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": true,
+                "information_about_will": "Created in 2021, held at lawyer's office",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Brother, James Greene"
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "02139",
+            "house_name_number": "12",
+            "street_name": "Green Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Cambridge",
+            "county": "Middlesex",
+            "country": "USA",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Dependent",
+            "date_of_birth": "02-05-2010",
+            "dependent_until": "02-05-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Marcus Greene",
+            "name": "Freelance Graphic Design",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Car Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until August 2027"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Rent Payment",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Property Maintenance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Car Insurance",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Car Maintenance",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Monthly Streaming Subscriptions",
+                "amount": 45.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Yearly Gym Membership",
+                "amount": 299.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "2023-2033"
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Dining Out",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Professional Conference Travel Costs",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Software Licensing Fees",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Client Entertainment Expenses",
+                "amount": 500.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Marcus Greene",
+                "name": "Charity Donations",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Greene",
+                "name": "Fitness Classes",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "until June 2024"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Marcus Greene",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 125000.0,
+            "policy_number": "DC-987654321"
+        },
+        {
+            "owner": "Marcus Greene",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Hargreaves Lansdown",
+            "value": 95000.0,
+            "policy_number": "SIPP-123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Marcus Greene",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Marcus Greene",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 22500.0
+        },
+        {
+            "owner": "Marcus Greene",
+            "type": "Property",
+            "provider": null,
+            "value": 350000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Marcus Greene",
+            "description": "Vintage Watch Collection",
+            "current_value": 15000.0,
+            "original_value": 10000.0
+        },
+        {
+            "owner": "Marcus Greene",
+            "description": "Limited Edition Art Prints",
+            "current_value": 12000.0,
+            "original_value": 8000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Marcus Greene",
+            "type": "Mortgage",
+            "provider": "Sunrise Bank",
+            "monthly_cost": 1250.0,
+            "outstanding_value": 200000.0,
+            "interest_rate": 4.5,
+            "special_rate": "3.2% fixed until 2028",
+            "final_payment": "2043-12-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Marcus Greene",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.99,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of untimely death."
+        },
+        {
+            "owner": "Marcus Greene",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 39.75,
+            "amount_assured": 1500.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Ensure continuous income in case of disability or inability to work."
+        },
+        {
+            "owner": "Marcus Greene",
+            "type": "Critical Illness Cover",
+            "provider": "Vitality Health",
+            "monthly_cost": 58.5,
+            "amount_assured": 100000.0,
+            "in_trust": null,
+            "assured_until": "2035-06-01",
+            "objectives": "Cover medical expenses and support recovery from serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

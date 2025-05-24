@@ -1,2 +1,2 @@
-class ChromaDbNotRunningError(Exception):
+class NoModelExtractedError(Exception):
     pass

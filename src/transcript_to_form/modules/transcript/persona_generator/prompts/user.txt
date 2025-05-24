@@ -1,0 +1,8 @@
+Create two distinct, non-eccentric personas: one financial advisor and one of their client.
+
+For each persona, provide:
+
+- Name: A suitable first and last name.
+- Personality Description: A concise, vivid summary of their personality, focusing on their general demeanor, communication style, and approach to financial matters. This should not include factual background, only character traits.
+
+The personas should be suitable for generating realistic financial planning conversation transcripts.

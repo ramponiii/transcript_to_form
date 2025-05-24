@@ -1,7 +1,0 @@
-{
-    "model": "Address",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
-    "segments": 3,
-    "id": "3a629be1-dfae-4314-82ab-b7d4ec36ffd7"
-}

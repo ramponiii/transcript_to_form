@@ -1,7 +1,0 @@
-{
-    "model": "Address",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
-    "segments": 3,
-    "id": "a419adca-b6eb-45a1-9e2b-c31e3cfc2963"
-}

@@ -1,0 +1,288 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms.",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Lawson",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "12-08-1985",
+                "place_of_birth": "Chicago, Illinois, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "312-555-0178",
+                "mobile_phone": "312-555-0199",
+                "email_address": "emily.lawson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 12 34 56 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Specialist",
+                    "employer": "Bright Ideas Ltd",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with a focus on maintaining fitness.",
+                "state_of_health_explanation": "Regularly engages in physical activities such as yoga and running, with a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care; maintains a healthy lifestyle.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored with her attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Sarah Lawson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-05-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "90210",
+            "house_name_number": "1212",
+            "street_name": "Sunset Boulevard",
+            "address_line_3": "Suite 5A",
+            "address_line_4": null,
+            "town_city": "Beverly Hills",
+            "county": "Los Angeles",
+            "country": "United States",
+            "move_in_date": "2020-11-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophie Lawson",
+            "date_of_birth": "15-04-2015",
+            "dependent_until": "15-04-2033"
+        },
+        {
+            "name": "Ethan Lawson",
+            "date_of_birth": "22-11-2017",
+            "dependent_until": "22-11-2035"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Lawson",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Emily Lawson",
+            "name": "Freelance Writing",
+            "amount": 2000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Lawson",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Emily Lawson",
+                "name": "Car Loan Repayment",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Lawson",
+                "name": "Mortgage Payment",
+                "amount": 2200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Lawson",
+                "name": "Car Lease Payments",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Yoga Classes",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "until end of the year"
+            },
+            {
+                "owner": "Emily",
+                "name": "Concert Tickets",
+                "amount": 200.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "December 2023"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Lawson",
+                "name": "Professional Development Course",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "2024"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Lawson",
+                "name": "Streaming Services Subscription",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Lawson",
+                "name": "Yoga Class Membership",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Lawson",
+                "name": "Weekend Getaways",
+                "amount": 150.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Lawson",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 75000.0,
+            "policy_number": "DC4567890"
+        },
+        {
+            "owner": "Emily Lawson",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Vanguard",
+            "value": 64000.0,
+            "policy_number": "SIPP123456"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Lawson",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Emily Lawson",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Lawson",
+            "description": "Vintage Art Collection",
+            "current_value": 150000.0,
+            "original_value": 45000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Lawson",
+            "type": "Mortgage",
+            "provider": "Wells Fargo",
+            "monthly_cost": 1350.75,
+            "outstanding_value": 245000.0,
+            "interest_rate": 4.25,
+            "special_rate": "3.75% fixed until 2027",
+            "final_payment": "2045-06-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Lawson",
+            "type": "Life Assurance",
+            "provider": "Sun Life Financial",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2055-12-31",
+            "objectives": "Provide financial security for family in case of unforeseen events"
+        },
+        {
+            "owner": "Emily Lawson",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 45.0,
+            "amount_assured": 3000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Maintain income in case of illness or injury preventing work"
+        },
+        {
+            "owner": "Emily Lawson",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 60.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2035-06-01",
+            "objectives": "Cover medical expenses and provide financial aid during serious health conditions"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

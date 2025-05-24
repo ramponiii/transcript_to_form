@@ -1,7 +1,0 @@
-{
-    "model": "HealthDetails",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
-    "segments": 3,
-    "id": "ed061819-d690-40a4-ac3d-02b47fcaae15"
-}

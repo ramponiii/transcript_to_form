@@ -1,0 +1,239 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Ethan",
+                "middle_names": [
+                    "James"
+                ],
+                "last_name": "Larson",
+                "known_as": "Ethan",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "San Francisco, CA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "415-555-0199",
+                "mobile_phone": "415-555-0123",
+                "email_address": "ethan.larson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Director",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health with minor seasonal allergies",
+                "state_of_health_explanation": "Exercises regularly and eats a balanced diet. Manages allergies with over-the-counter medication.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No anticipated need for long-term care in the near future.",
+                "will": true,
+                "information_about_will": "Created in 2022, kept at home in a safe.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Sister, Emma Larson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "94103",
+            "house_name_number": "52B",
+            "street_name": "Market Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "San Francisco",
+            "county": "San Francisco County",
+            "country": "USA",
+            "move_in_date": "2022-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Larson",
+            "date_of_birth": "15-06-2010",
+            "dependent_until": "15-06-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Ethan Larson",
+            "name": "Freelance Photography",
+            "amount": 7500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Ethan Larson",
+            "name": "Rental Income from Apartment",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Rent Payment",
+                "amount": 1800.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Car Insurance Premium",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Ethan Larson",
+                "name": "Annual Car Maintenance",
+                "amount": 450.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2028"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Gym Membership",
+                "amount": 55.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Office Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Concert Tickets",
+                "amount": 250.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Ethan Larson",
+                "name": "Art Supplies",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Defined Contribution",
+            "provider": "Nest Pensions",
+            "value": 120000.0,
+            "policy_number": "DC-PL-79345"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Stocks and Shares ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Ethan Larson",
+            "type": "Cryptocurrency Portfolio",
+            "provider": "Coinbase",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Ethan Larson",
+            "description": "Vintage Comic Book Collection",
+            "current_value": 15000.0,
+            "original_value": 5000.0
+        },
+        {
+            "owner": "Ethan Larson",
+            "description": "Antique Furniture Set",
+            "current_value": 12000.0,
+            "original_value": 8000.0
+        },
+        {
+            "owner": "Ethan Larson",
+            "description": "Rare Stamp Collection",
+            "current_value": 7000.0,
+            "original_value": 3000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Mortgage",
+            "provider": "Sunshine Home Loans",
+            "monthly_cost": 1500.75,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2038-06-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 75.5,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial security for family in case of sudden demise."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Evelyn",
+                "middle_names": [
+                    "Grace"
+                ],
+                "last_name": "Harper",
+                "known_as": "Evelyn",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Austin, Texas",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "555-0123",
+                "mobile_phone": "555-0456",
+                "email_address": "evelyn.harper@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 12 34 56 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Creative Agency",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "987-65-4320",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "10-06-2015",
+                    "highest_rate_of_tax_paid": "22%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good with occasional stress-related migraines.",
+                "state_of_health_explanation": "Regular exercise and a balanced diet contribute to her overall well-being, but work stress can occasionally trigger migraines.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": true,
+                "information_about_will": "Will was created in 2021 and is stored with her attorney, James Mitchell.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Anna Harper, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "15",
+            "street_name": "Queen's Gardens",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "E14 5AB",
+            "house_name_number": "Flat 21",
+            "street_name": "Canary Wharf",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-04-23",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "James Harper",
+            "date_of_birth": "15-04-2010",
+            "dependent_until": "15-04-2028"
+        },
+        {
+            "name": "Sophia Harper",
+            "date_of_birth": "22-07-2015",
+            "dependent_until": "22-07-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Evelyn Harper",
+            "name": "Freelance Graphic Design Income",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Student Loan",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Monthly Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Car Maintenance",
+                "amount": 600.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Yoga Classes",
+                "amount": 80.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Streaming Subscriptions",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Cooking Classes",
+                "amount": 150.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "One year"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Office Supplies and Materials",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Business Travel Expenses",
+                "amount": 500.0,
+                "frequency": "Quarterly",
+                "priority": "Essential",
+                "timeframe": "Until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Guitar Lessons",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 75000.0,
+            "policy_number": "FIDEL12345678"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Evelyn Harper",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 10000.0
+        },
+        {
+            "owner": "Evelyn Harper",
+            "description": "Antique Jewellery",
+            "current_value": 7500.0,
+            "original_value": 5000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Mortgage",
+            "provider": "Sunrise Lending Group",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "Fixed 2.8% until 2028",
+            "final_payment": "2048-07-01"
+        },
+        {
+            "owner": "Evelyn Harper",
+            "type": "Car Finance",
+            "provider": "Green Wheels Finance",
+            "monthly_cost": 300.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.6,
+            "special_rate": "Introductory 4.5% for the first year",
+            "final_payment": "2026-12-15"
+        },
+        {
+            "owner": "Evelyn Harper",
+            "type": "Personal Loan",
+            "provider": "Liberty Bank",
+            "monthly_cost": 450.0,
+            "outstanding_value": 10000.0,
+            "interest_rate": 7.2,
+            "special_rate": null,
+            "final_payment": "2025-03-10"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Life Assurance",
+            "provider": "Sun Life Insurance",
+            "monthly_cost": 45.5,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2050-12-31",
+            "objectives": "To secure financial protection for loved ones in case of unforeseen circumstances."
+        },
+        {
+            "owner": "Evelyn Harper",
+            "type": "Critical Illness Cover",
+            "provider": "Aviva",
+            "monthly_cost": 30.0,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "2045-06-15",
+            "objectives": "To cover medical expenses and provide financial stability in the event of a critical illness diagnosis."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

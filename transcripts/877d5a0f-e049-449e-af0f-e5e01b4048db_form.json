@@ -1,0 +1,297 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Daniel",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Hayes",
+                "known_as": "Danny",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Chicago, Illinois",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "312-555-0198",
+                "mobile_phone": "773-555-0123",
+                "email_address": "danny.hayes85@gmail.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Developer",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with no chronic conditions.",
+                "state_of_health_explanation": "Maintains an active lifestyle and follows a balanced diet.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current or anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Will is located at his lawyer's office, created in 2020.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Sister, Emily Hayes, granted power of attorney in 2020."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "90210",
+            "house_name_number": "15B",
+            "street_name": "Sunset Boulevard",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Beverly Hills",
+            "county": "Los Angeles",
+            "country": "United States",
+            "move_in_date": "2022-03-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ella Hayes",
+            "date_of_birth": "15-04-2015",
+            "dependent_until": "15-04-2033"
+        },
+        {
+            "name": "Liam Hayes",
+            "date_of_birth": "21-08-2018",
+            "dependent_until": "21-08-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Hayes",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Car Loan Repayment",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Home Maintenance",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Car Insurance",
+                "amount": 900.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Streaming Subscriptions",
+                "amount": 30.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Gadget Upgrades",
+                "amount": 150.0,
+                "frequency": "Every Three Months",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Professional Certification Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Client's Business",
+                "name": "Industry Conference Attendance",
+                "amount": 800.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "Next Quarter"
+            },
+            {
+                "owner": "Daniel Hayes",
+                "name": "Online Marketing Tools Subscription",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Hayes",
+                "name": "Charitable Donations",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Hayes",
+            "type": "Defined Contribution",
+            "provider": "Future Funds Ltd.",
+            "value": 45000.0,
+            "policy_number": "DC-1029384756"
+        },
+        {
+            "owner": "Daniel Hayes",
+            "type": "State Pension",
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Hayes",
+            "type": "ISA",
+            "provider": "Fidelity",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Hayes",
+            "description": "Vintage Guitar Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        },
+        {
+            "owner": "Daniel Hayes",
+            "description": "Contemporary Art Collection",
+            "current_value": 35000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Daniel Hayes",
+            "description": "Classic Car Collection",
+            "current_value": 55000.0,
+            "original_value": 45000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Hayes",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.9% fixed until 2030",
+            "final_payment": "2045-05-01"
+        },
+        {
+            "owner": "Daniel Hayes",
+            "type": "Car Finance",
+            "provider": "AutoLoan Corp",
+            "monthly_cost": 320.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 4.5,
+            "special_rate": "3.0% promotional for the first year",
+            "final_payment": "2027-08-15"
+        },
+        {
+            "owner": "Daniel Hayes",
+            "type": "Personal Loan",
+            "provider": "Unity Financial Services",
+            "monthly_cost": 210.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 5.6,
+            "special_rate": "5.0% fixed until 2025",
+            "final_payment": "2028-12-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Hayes",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 45.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2035-05-15",
+            "objectives": "Provide financial security to family in case of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

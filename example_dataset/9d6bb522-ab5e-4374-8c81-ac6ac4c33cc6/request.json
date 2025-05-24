@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange where the client expresses skepticism about the advisor's recommendations.",
-    "segments": 2,
-    "id": "9d6bb522-ab5e-4374-8c81-ac6ac4c33cc6"
-}

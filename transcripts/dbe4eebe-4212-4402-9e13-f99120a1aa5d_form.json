@@ -1,0 +1,220 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jamie",
+                "middle_names": [
+                    "Thomas"
+                ],
+                "last_name": "Richardson",
+                "known_as": "Jamie",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Sydney, Australia",
+                "nationality": "Australian",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "02-9876-5432",
+                "mobile_phone": "0412-345-678",
+                "email_address": "jamie.richardson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Futures Media",
+                    "employment_started": "01-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "15-09-2015",
+                    "highest_rate_of_tax_paid": "24%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy but has mild asthma.",
+                "state_of_health_explanation": "The asthma is well-managed with medication and occasional use of an inhaler.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 20",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current indications for long-term care; actively maintaining a healthy lifestyle.",
+                "will": true,
+                "information_about_will": "Will is kept at home, created in 2022 with a solicitor's assistance.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Jamie Richardson",
+            "name": "Freelance Writing Income",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Monthly Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Monthly Car Lease Payment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Streaming Services Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Richardson",
+                "name": "Monthly Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Richardson",
+                "name": "Weekend Getaways",
+                "amount": 200.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Professional Development Workshop",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "Q2 2024"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jamie Richardson",
+                "name": "Home Maintenance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jamie Richardson",
+            "type": "Defined Benefit",
+            "provider": "Fidelity Investments",
+            "value": 250000.0,
+            "policy_number": "DB123456789"
+        },
+        {
+            "owner": "Jamie Richardson",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Vanguard",
+            "value": 180000.0,
+            "policy_number": "SIPP987654321"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jamie Richardson",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Jamie Richardson",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jamie Richardson",
+            "description": "Classic Car",
+            "current_value": 25000.0,
+            "original_value": 20000.0
+        }
+    ],
+    "loans_and_mortgages": [],
+    "protection_policies": [
+        {
+            "owner": "Jamie Richardson",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.99,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2043-12-31",
+            "objectives": "To provide financial security for family in case of unexpected death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

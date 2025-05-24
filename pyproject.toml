@@ -1,25 +1,18 @@
 [project]
 name = "transcript-to-form"
 version = "0.1.0"
-description = "Transcript -> Form"
+description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "jonah ramponi", email = "jonahramponi@gmail.com" }
+    { name = "jramponi", email = "jonah.ramponi@smartr.ai" }
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "openai>=1.78.1",
+    "openai>=1.81.0",
     "pydantic-settings>=2.9.1",
     "pydantic>=2.11.4",
-    "chromadb>=1.0.9",
     "loguru>=0.7.3",
-    "chromadb-client>=1.0.9",
-    "scipy>=1.15.3",
-    "rich>=14.0.0",
-    "typer>=0.15.4",
-    "questionary>=2.1.0",
 ]
-
 
 [project.scripts]
 transcript-to-form = "transcript_to_form:main"
@@ -27,10 +20,3 @@ transcript-to-form = "transcript_to_form:main"
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
-
-[dependency-groups]
-dev = [
-    "pytest-asyncio>=0.26.0",
-    "pytest>=8.3.5",
-    "matplotlib>=3.10.3",
-]

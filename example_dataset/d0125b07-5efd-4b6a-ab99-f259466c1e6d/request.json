@@ -1,7 +1,0 @@
-{
-    "model": "ProtectionPolicy",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the advisor uses active listening cues (e.g., 'I understand,' 'Right') frequently.",
-    "segments": 2,
-    "id": "d0125b07-5efd-4b6a-ab99-f259466c1e6d"
-}

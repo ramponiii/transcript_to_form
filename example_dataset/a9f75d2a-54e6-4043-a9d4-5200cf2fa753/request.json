@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
-    "segments": 3,
-    "id": "a9f75d2a-54e6-4043-a9d4-5200cf2fa753"
-}

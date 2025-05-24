@@ -1,7 +1,0 @@
-{
-    "model": "Address",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate a very short and to-the-point exchange focused on a single piece of information.",
-    "segments": 3,
-    "id": "cf8a62ef-7026-4a04-af12-6fe3faa9ebb6"
-}

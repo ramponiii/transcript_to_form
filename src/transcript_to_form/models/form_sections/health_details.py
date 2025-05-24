@@ -48,7 +48,3 @@ class HealthDetails(BaseModel):
         default=None,
         description="Details of the person(s) holding the power of attorney.",
     )
-    sources: list[str] = Field(
-        default_factory=list,
-        description="A list of the source Chunk ID's which contained the information you used to generate the content",
-    )

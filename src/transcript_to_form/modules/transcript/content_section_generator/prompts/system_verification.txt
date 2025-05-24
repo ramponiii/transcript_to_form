@@ -1,0 +1,7 @@
+You will be given a transcript, and a pydantic model.
+
+You will assess if all of the information in the pydantic model is contained within the transcript. 
+
+You should have some leniancy, for instance, if a name is missing that is totally fine. You should really focus on if there are any facts missing.
+
+The field 'owner' may be omitted, as it is obvious from the transcript who the client is.
