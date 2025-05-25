@@ -19,3 +19,7 @@ class SavingOrInvestment(BaseModel):
     value: float | None = Field(
         default=None, description="The current value of the saving or investment."
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["savings", "investment accounts"]

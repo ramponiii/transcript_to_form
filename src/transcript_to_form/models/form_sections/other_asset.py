@@ -19,3 +19,7 @@ class OtherAsset(BaseModel):
         default=None,
         description="The original purchase value or inherited value of the asset, if known.",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["assets", "properties"]

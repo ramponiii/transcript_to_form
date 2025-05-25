@@ -1,0 +1,196 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Marcus",
+                "middle_names": [],
+                "last_name": "Reid",
+                "known_as": "Marcus",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Los Angeles, California",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "310-555-0123",
+                "mobile_phone": "310-555-0456",
+                "email_address": "marcus.reid@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Tech Innovations Ltd.",
+                    "employment_started": "Not specified",
+                    "highest_rate_of_tax_paid": "Not specified"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Marcus Reid",
+            "name": "Project Manager at Tech Innovations Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Housing Expense",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Fuel costs",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Grocery Bills",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Marcus Reid",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Savings Account",
+            "provider": "Major UK Bank",
+            "value": null
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Investment portfolio",
+            "provider": "Well-known financial institution",
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Marcus Reid",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Mortgage",
+            "provider": "Barclays",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2040-05-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 85.5,
+            "amount_assured": 150000.0,
+            "in_trust": true,
+            "assured_until": "2043-05-15",
+            "objectives": "Provide financial security for family in case of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

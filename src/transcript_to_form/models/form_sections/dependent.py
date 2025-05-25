@@ -15,3 +15,7 @@ class Dependent(BaseModel):
         default=None,
         description="The date until which the individual is considered a dependent (DD-MM-YYYY format), if applicable.",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["children or dependents"]

@@ -1,0 +1,299 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Linda",
+                "middle_names": [
+                    "Yun"
+                ],
+                "last_name": "Chen",
+                "known_as": "Linda",
+                "pronouns": "she/her",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Shanghai, China",
+                "nationality": "Chinese",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Married",
+                "home_phone": "0208XXXXXXX",
+                "mobile_phone": "0800XXXXXXX",
+                "email_address": "linda.chen@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Innovate Solutions Ltd.",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, with minor seasonal allergies",
+                "state_of_health_explanation": "Manageable through over-the-counter medication and regular check-ups show good health",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 25",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Linda Yun Chen",
+            "name": "Project Manager salary at Innovate Solutions Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Housing Expense",
+                "amount": 1800.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Streaming Services",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Groceries",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Stable"
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Conference Registration Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Conference Registration Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda",
+                "name": "Professional Membership Dues",
+                "amount": 350.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Linda",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Spouse",
+                "name": "Property Tax",
+                "amount": 450.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Streaming Services",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda",
+                "name": "Grocery Shopping",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Linda Yun Chen",
+                "name": "Conference Registration Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Linda Yun Chen",
+            "type": "Defined Contribution",
+            "provider": "Innovate Pensions",
+            "value": 150000.0,
+            "policy_number": "DC123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Linda Yun Chen",
+            "type": null,
+            "provider": null,
+            "value": null
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "ISA",
+            "provider": "Innovate Banking",
+            "value": 10000.0
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "ISA",
+            "provider": "Innovate Banking",
+            "value": 10000.0
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "ISA",
+            "provider": "Innovate Banking",
+            "value": 10000.0
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "Investment Bond",
+            "provider": "Premier Investments",
+            "value": 20000.0
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "Investment Bond",
+            "provider": "Premier Investments",
+            "value": 20000.0
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "type": "Investment Bond",
+            "provider": "Premier Investments",
+            "value": 20000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Linda Yun Chen",
+            "description": "Classic Car, Owned by client, market value unknown.",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Linda Yun Chen",
+            "description": "Art Collection",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Linda Yun Chen",
+            "type": "Mortgage",
+            "provider": "Global Bank",
+            "monthly_cost": 1450.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Linda Yun Chen",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": "Specific objectives for future planning."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

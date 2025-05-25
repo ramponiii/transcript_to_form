@@ -1,0 +1,309 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jack",
+                "middle_names": [],
+                "last_name": "Malone",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Project Manager",
+                    "employer": "GreenTech Innovations Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "EC1A 1BB",
+            "house_name_number": "42B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "UK",
+            "move_in_date": "2020-05-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Dependent",
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jack Alexander Malone",
+            "name": "Employment income at GreenTech Innovations Ltd.",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jack Alexander Malone",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Rent Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Property Taxes",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jack Alexander Malone",
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jack Alexander Malone",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jack Alexander Malone",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": "CLIENT",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Savings Account",
+            "provider": "GreenTech Innovations Ltd.",
+            "value": 10000.0
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Investment Bond",
+            "provider": "Premier Investments",
+            "value": 50000.0
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "ISA",
+            "provider": "SunTrust Bank",
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jack Alexander Malone",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "description": "Art Collection",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Mortgage",
+            "provider": "Green Bank",
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": "3% fixed until 2030",
+            "final_payment": null
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Car Loan",
+            "provider": null,
+            "monthly_cost": 300.0,
+            "outstanding_value": 10000.0,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Life Assurance",
+            "provider": "LifeSecure",
+            "monthly_cost": 120.0,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2040",
+            "objectives": "Family financial security"
+        },
+        {
+            "owner": "Jack Alexander Malone",
+            "type": "Income Protection Policy",
+            "provider": "SecureGuard",
+            "monthly_cost": 80.0,
+            "amount_assured": 50000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Maintaining living standards"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

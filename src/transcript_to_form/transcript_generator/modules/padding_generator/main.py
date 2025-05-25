@@ -1,7 +1,7 @@
 import random
 
 from transcript_to_form.base_structured_extractor import StructuredExtractor
-from transcript_to_form.modules.transcript.models import Conversation
+from transcript_to_form.transcript_generator.modules.models import Conversation
 
 from .padding_topics import PADDING_CONVERSATIONAL_TOPICS
 from .prompts import SYSTEM, USER

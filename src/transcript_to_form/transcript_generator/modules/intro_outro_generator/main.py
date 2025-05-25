@@ -1,5 +1,5 @@
 from transcript_to_form.base_structured_extractor import StructuredExtractor
-from transcript_to_form.modules.transcript.models import Conversation
+from transcript_to_form.transcript_generator.modules.models import Conversation
 
 from .prompts import SYSTEM, USER_INTRO, USER_OUTRO
 

@@ -37,3 +37,10 @@ class Employment(BaseModel):
         default=None,
         description="The highest marginal rate of income tax paid by the individual.",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return [
+            "client employment",
+            "client's job",
+        ]

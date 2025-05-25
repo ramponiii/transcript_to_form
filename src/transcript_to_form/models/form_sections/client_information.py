@@ -35,3 +35,10 @@ class ClientInformation(BaseModel):
         None, description="The person's mobile phone number."
     )
     email_address: str | None = Field(None, description="The person's email address.")
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return [
+            "client information (name, gender etc)",
+            "client phone number and email",
+        ]

@@ -36,3 +36,7 @@ class LoanOrMortgage(BaseModel):
         default=None,
         description="The date of the final scheduled payment or loan end date (e.g., YYYY-MM-DD).",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["mortgage", "client loans"]

@@ -1,0 +1,186 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Marcus",
+                "middle_names": [
+                    "Andrew"
+                ],
+                "last_name": "Bennett",
+                "known_as": "Marcus",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Chicago, Illinois",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "312-555-0147",
+                "mobile_phone": "312-555-0198",
+                "email_address": "marcus.bennett@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Marcus Andrew Bennett",
+            "name": "Freelance Graphic Designer Income",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Marcus Andrew Bennett",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Marcus Andrew Bennett",
+                "name": "Freelance Graphic Designer Expenses",
+                "amount": null,
+                "frequency": "Ongoing",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [],
+    "savings_and_investments": [
+        {
+            "owner": "Marcus Andrew Bennett",
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Marcus Andrew Bennett",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Marcus Andrew Bennett",
+            "description": "Photography and home improvement projects",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Marcus Andrew Bennett",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "3% fixed until 2026",
+            "final_payment": "2035-06-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Marcus Andrew Bennett",
+            "type": "Life Insurance",
+            "provider": "Guardian Life",
+            "monthly_cost": 75.25,
+            "amount_assured": 500000.0,
+            "in_trust": false,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for his children in case of premature death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

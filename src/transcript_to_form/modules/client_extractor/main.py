@@ -11,6 +11,7 @@ from transcript_to_form.modules.client_identifier.models import (
     ClientShortProfile,
     ClientShortProfiles,
 )
+from transcript_to_form.retrieval import TranscriptPineconeClient
 
 from .prompts import SYSTEM, USER
 
@@ -18,12 +19,14 @@ from .prompts import SYSTEM, USER
 class ClientExtractor(StructuredExtractor):
     """Given a transcript, produce a list of client names, and short descriptions, present in the text."""
 
-    async def run(self, transcript: str, profiles: ClientShortProfiles) -> list[Client]:
+    async def run(
+        self, retriever: TranscriptPineconeClient, profiles: ClientShortProfiles
+    ) -> list[Client]:
         clients: list[Client] = []
         async with asyncio.TaskGroup() as tg:
             profile_tasks = [
                 tg.create_task(
-                    self._extract_client_data_for_profile(profile, transcript)
+                    self._extract_client_data_for_profile(profile, retriever)
                 )
                 for profile in profiles.profiles
             ]
@@ -33,20 +36,47 @@ class ClientExtractor(StructuredExtractor):
         return clients
 
     async def _extract_client_data_for_profile(
-        self, profile: ClientShortProfile, transcript: str
+        self, profile: ClientShortProfile, retriever: TranscriptPineconeClient
     ) -> Client:
-        POPULATED_USER_PROMPT = USER.format(
-            transcript=transcript, client_information=str(profile)
+        health_details_transcript_subset = retriever.query(
+            HealthDetails.get_retrieval_queries()
         )
+        employment_transcript_subset = retriever.query(
+            Employment.get_retrieval_queries()
+        )
+        ci_transcript_subset = retriever.query(
+            ClientInformation.get_retrieval_queries()
+        )
+
         async with asyncio.TaskGroup() as tg:
             health_details_task = tg.create_task(
-                self.extract(SYSTEM, POPULATED_USER_PROMPT, HealthDetails)
+                self.extract(
+                    SYSTEM,
+                    USER.format(
+                        transcript=health_details_transcript_subset,
+                        client_information=str(profile),
+                    ),
+                    HealthDetails,
+                )
             )
             employments_task = tg.create_task(
-                self.extract(SYSTEM, POPULATED_USER_PROMPT, Employment)
+                self.extract(
+                    SYSTEM,
+                    USER.format(
+                        transcript=employment_transcript_subset,
+                        client_information=str(profile),
+                    ),
+                    Employment,
+                )
             )
             client_info_task = tg.create_task(
-                self.extract(SYSTEM, POPULATED_USER_PROMPT, ClientInformation)
+                self.extract(
+                    SYSTEM,
+                    USER.format(
+                        transcript=ci_transcript_subset, client_information=str(profile)
+                    ),
+                    ClientInformation,
+                )
             )
         return Client(
             health_details=health_details_task.result(),

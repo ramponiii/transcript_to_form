@@ -1,6 +1,6 @@
-from pathlib import Path
+from pydantic import Field
 
-from pydantic import BaseModel, Field
+from transcript_to_form.base_models import SavableBaseModel
 
 from .client import Client
 from .form_sections.address import Address
@@ -15,7 +15,7 @@ from .form_sections.protection_policy import ProtectionPolicy
 from .form_sections.saving_or_investment import SavingOrInvestment
 
 
-class Form(BaseModel):
+class Form(SavableBaseModel):
     """Represents the complete financial data form for a client session."""
 
     clients: list[Client] = Field(
@@ -33,14 +33,3 @@ class Form(BaseModel):
     loans_and_mortgages: list[LoanOrMortgage] | None
     protection_policies: list[ProtectionPolicy] | None
     objectives: Objectives | None
-
-    def save(self, path: Path | str):
-        with open(path, "w") as file:
-            file.write(self.model_dump_json(indent=4))
-
-    @classmethod
-    def load(cls, path: Path | str) -> "Form":
-        filepath = Path(path)
-        with open(filepath, "r", encoding="utf-8") as file:
-            json_data = file.read()
-        return cls.model_validate_json(json_data)

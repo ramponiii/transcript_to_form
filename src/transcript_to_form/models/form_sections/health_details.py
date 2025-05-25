@@ -48,3 +48,7 @@ class HealthDetails(BaseModel):
         default=None,
         description="Details of the person(s) holding the power of attorney.",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["health details of the client"]

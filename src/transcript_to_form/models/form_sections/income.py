@@ -24,3 +24,11 @@ class Income(BaseModel):
         default=None,
         description="Specifies the period the income relates to, if not ongoing (e.g., 'until 2030').",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return [
+            "How much do you earn",
+            "What is your salary",
+            "How much do you make from that",
+        ]

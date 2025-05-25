@@ -31,3 +31,7 @@ class Address(BaseModel):
         None,
         description="Previous | Current, depending on if it is a previous or current address",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["previous address of the client", "current address of the client"]

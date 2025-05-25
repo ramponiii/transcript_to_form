@@ -16,6 +16,10 @@ class ClientShortProfile(BaseModel):
     def __str__(self) -> str:
         return f"Name: {self.name} (alias: {self.alias})\nDesc: {self.description}\nIdentified Employments{', '.join(self.employments)}"
 
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["client employments and description"]
+
 
 class ClientShortProfiles(BaseModel):
     profiles: list[ClientShortProfile] = Field(

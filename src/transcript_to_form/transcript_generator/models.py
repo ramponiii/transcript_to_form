@@ -51,4 +51,4 @@ class ModelWithDesiredCount(BaseModel):
 class TranscriptGenerationConfig(BaseModel):
     persona_description: str | None = None
     models: list[ModelWithDesiredCount]
-    id: str = "unnamed"
+    id: str = "no-id"

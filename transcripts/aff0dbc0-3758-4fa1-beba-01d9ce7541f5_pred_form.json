@@ -1,0 +1,453 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Martin",
+                "middle_names": [],
+                "last_name": "Applegate",
+                "known_as": "Martin",
+                "pronouns": "he/him",
+                "date_of_birth": "15-03-1985",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "617-555-0123",
+                "mobile_phone": "617-555-0456",
+                "email_address": "martin.applegate@email.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Overall good; has mild hypertension managed with medication.",
+                "state_of_health_explanation": "Keeps an eye on blood pressure regularly.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need and no anticipated need in the near future.",
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2015-06-01",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Emily",
+            "date_of_birth": "15-07-2015",
+            "dependent_until": "15-07-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Martin Henry Applegate",
+            "name": "Consulting Income",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "name": "Royalty Payments",
+            "amount": 1200.0,
+            "frequency": "Quarterly",
+            "net_gross": "Gross",
+            "timeframe": "until 2028"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Mortgage Payment",
+                "amount": 2200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Property Taxes",
+                "amount": 5500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Mortgage Payment with GreenLeaf Bank",
+                "amount": 1250.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until May 2045"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Car Finance with AutoLend Inc.",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until November 15, 2027"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Personal Loan with Union Credit Bank",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until September 10, 2026"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Student Loan",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Car Loan",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": 2200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Property Tax Payment",
+                "amount": 5500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Car Insurance",
+                "amount": 720.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Fuel costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Mortgage Payment",
+                "amount": 2200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Property Taxes",
+                "amount": 5500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Family Gym Membership",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Car Insurance",
+                "amount": 720.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Monthly Gym Membership",
+                "amount": 55.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Continuing Education",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Professional Networking Events",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "through 2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Consulting Income",
+                "amount": 4500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin",
+                "name": "Royalty Payments",
+                "amount": 1200.0,
+                "frequency": "Quarterly",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": "Martin",
+                "name": "Continuing Education",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Networking Events",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "through 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Mortgage Payment",
+                "amount": 2200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Property Taxes",
+                "amount": 5500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin",
+                "name": "Gym Membership",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Car Insurance",
+                "amount": 720.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Continuing Education",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Martin Henry Applegate",
+                "name": "Networking Events",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "through 2025"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "FIDL-UK-0034567"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 12000.0
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Property",
+            "provider": null,
+            "value": 350000.0
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "General Investment Account",
+            "provider": "Fidelity",
+            "value": 9800.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Martin Henry Applegate",
+            "description": "Classic cars owned by Martin",
+            "current_value": 50000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "description": "Art Collection",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Mortgage",
+            "provider": "GreenLeaf Bank",
+            "monthly_cost": 1250.75,
+            "outstanding_value": 185000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-05-30"
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Car Finance",
+            "provider": "AutoLend Inc.",
+            "monthly_cost": 350.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.2,
+            "special_rate": null,
+            "final_payment": "2027-11-15"
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Personal Loan",
+            "provider": "Union Credit Bank",
+            "monthly_cost": 500.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 4.8,
+            "special_rate": "3% until 2025",
+            "final_payment": "2026-09-10"
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Student Loan",
+            "provider": null,
+            "monthly_cost": 350.0,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": "2030-12-31"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 45.0,
+            "amount_assured": 100000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To ensure family financial security in case of untimely death or critical illness."
+        },
+        {
+            "owner": "Martin Henry Applegate",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 30.0,
+            "amount_assured": 3000.0,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "Safeguard income and lifestyle during illness or disability."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

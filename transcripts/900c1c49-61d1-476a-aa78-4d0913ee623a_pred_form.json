@@ -1,0 +1,393 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Alex",
+                "middle_names": [],
+                "last_name": "Taylor",
+                "known_as": "Alex",
+                "pronouns": "they/them",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Toronto, Canada",
+                "nationality": "Canadian",
+                "gender": "non-binary",
+                "legal_sex": "male",
+                "marital_status": "married",
+                "home_phone": "416-555-0198",
+                "mobile_phone": "647-555-0123",
+                "email_address": "alex.taylor@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Developer",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, with occasional migraines.",
+                "state_of_health_explanation": "Minor issues mainly relate to migraines.",
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Currently no need for long-term care services.",
+                "will": true,
+                "information_about_will": "Located with attorney, last updated in 2022.",
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Alex",
+            "name": "Income from Employment",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Alex",
+                "name": "Mortgage Payment with Northern Bank",
+                "amount": 1300.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "Alex",
+                "name": "Car Loan with AutoLoans Ltd",
+                "amount": 450.5,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "Alex",
+                "name": "Personal Loan with GreenFinance Corp",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until March 20, 2027"
+            },
+            {
+                "owner": "Alex",
+                "name": "Student Loan Payments",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Alex",
+                "name": "Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Alex",
+                "name": "Home Maintenance",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Alex",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Alex",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": null,
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Home Maintenance",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Spouse",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Alex",
+                "name": "Conference Registrations",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Priority",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Alex",
+                "name": "Conference Registrations",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "client",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Home Maintenance",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Spouse",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Alex",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Alex",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Alex",
+            "type": "Defined Contribution",
+            "provider": "Tech Innovations Ltd Pension Scheme",
+            "value": 75000.0,
+            "policy_number": "TI123456"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Alex",
+            "type": "Investment Bond",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Alex",
+            "type": "ISA",
+            "provider": "Fidelity",
+            "value": 15000.0
+        },
+        {
+            "owner": "Alex",
+            "type": "Defined Contribution Plan",
+            "provider": "Fidelity Investments",
+            "value": 150000.0
+        },
+        {
+            "owner": "Alex",
+            "type": "Art Collection",
+            "provider": null,
+            "value": 120000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "CLIENT, the software developer at Tech Innovations Ltd.",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "CLIENT, the software developer at Tech Innovations Ltd",
+            "description": "Non-standard assets like art collection or classic car.",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Alex",
+            "type": "Mortgage",
+            "provider": "Northern Bank",
+            "monthly_cost": 1300.75,
+            "outstanding_value": 275000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-05-30"
+        },
+        {
+            "owner": "Alex",
+            "type": "Car Finance",
+            "provider": "AutoLoans Ltd",
+            "monthly_cost": 450.5,
+            "outstanding_value": 25000.0,
+            "interest_rate": 5.2,
+            "special_rate": "4.5% promotional rate for the first two years",
+            "final_payment": null
+        },
+        {
+            "owner": "Alex",
+            "type": "Personal Loan",
+            "provider": "GreenFinance Corp",
+            "monthly_cost": 250.0,
+            "outstanding_value": null,
+            "interest_rate": 7.5,
+            "special_rate": "6.8% fixed for the first year",
+            "final_payment": "2027-03-20"
+        },
+        {
+            "owner": "Alex",
+            "type": "Student loan",
+            "provider": null,
+            "monthly_cost": 350.0,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": "2028-12-31"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Alex",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 75.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Ensure family security and provide financial stability in case of unforeseen events."
+        },
+        {
+            "owner": "Alex",
+            "type": "Critical Illness Cover",
+            "provider": "Prudential Insurance",
+            "monthly_cost": 45.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2035-06-30",
+            "objectives": "Cover medical expenses and support living costs"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

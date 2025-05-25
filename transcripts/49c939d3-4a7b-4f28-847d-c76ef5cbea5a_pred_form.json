@@ -1,0 +1,248 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Melissa",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Tran",
+                "known_as": "Melissa",
+                "pronouns": null,
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "San Francisco, California",
+                "nationality": "American",
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": "Single",
+                "home_phone": "415-555-0178",
+                "mobile_phone": "415-555-0199",
+                "email_address": "melissa.tran@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "01-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Quite good, focuses on regular exercise and maintains a balanced diet, although experiences occasional migraines.",
+                "state_of_health_explanation": "Generally in good health with no current conditions indicating a need for long-term care.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No anticipated need for long-term care as of now.",
+                "will": true,
+                "information_about_will": "Created in 2020 and stored with her attorney for safekeeping.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Kevin Tran."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Melissa Anne Tran",
+            "name": "Salary from Tech Solutions Ltd.",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Car insurance",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Melissa Anne Tran",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": [
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Charity Donation",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Car Maintenance",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Business Coaching Program",
+                "amount": 2500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Industry Conferences",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "from 2024 to 2026"
+            },
+            {
+                "owner": "Melissa Anne Tran",
+                "name": "Software Subscriptions",
+                "amount": 500.0,
+                "frequency": "Quarterly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Melissa Anne Tran",
+            "type": "ISA",
+            "provider": "major bank",
+            "value": 20000.0
+        },
+        {
+            "owner": "Melissa Anne Tran",
+            "type": "Investment",
+            "provider": "Tech Solutions Ltd.",
+            "value": 5000.0
+        },
+        {
+            "owner": "Melissa Anne Tran",
+            "type": "Property",
+            "provider": null,
+            "value": 150000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Melissa Anne Tran",
+            "description": "A non-standard asset owned by the client",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Melissa Anne Tran",
+            "type": "Life Insurance",
+            "provider": "SafeLife Insurances",
+            "monthly_cost": 35.0,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of premature death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "James",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Underwood",
+                "known_as": "James",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "London",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": null,
+                "mobile_phone": "07123 456789",
+                "email_address": "james.underwood@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "self-employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-11-2016",
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally in good health, with a history of seasonal allergies managed by medication.",
+                "state_of_health_explanation": "Engages in regular exercise and follows a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Feels independent and does not anticipate needing long-term care anytime soon.",
+                "will": true,
+                "information_about_will": "Created in 2020 and stored at family lawyer's office.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Granted to spouse, Emily Underwood."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        },
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        },
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "James Alexander Underwood",
+            "name": "Freelance Graphic Designer - Self-Employed",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Client",
+                "name": "Housing Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": "client",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Mortgage Repayment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Car Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2026"
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Comic Book Subscription",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Online Learning Platform",
+                "amount": 19.99,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Car Maintenance",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2032"
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Car Insurance",
+                "amount": 550.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Office Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Alexander Underwood",
+                "name": "Professional Development Workshop",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "for the next two years"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [],
+    "loans_and_mortgages": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "James Alexander Underwood",
+            "type": "Life Assurance",
+            "provider": "Peace of Mind Insurance",
+            "monthly_cost": 55.0,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2048-11-11",
+            "objectives": "Provide financial security for beneficiaries in case of unexpected death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

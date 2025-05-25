@@ -13,7 +13,7 @@ from transcript_to_form.evaluator.llm_judge.models import (
 )
 
 
-class StatsGenerator:
+class LLMJudgeStatsEvaluator:
     def __init__(self, evaluation: LLMEvaluation):
         self.evaluation = evaluation
 

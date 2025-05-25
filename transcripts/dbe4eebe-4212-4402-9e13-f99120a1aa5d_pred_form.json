@@ -1,0 +1,194 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Jamie",
+                "middle_names": [],
+                "last_name": "Richardson",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": "US",
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": "US",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Employed and Self-employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager and Freelance Graphic Designer",
+                    "employer": "Bright Futures Media",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jamie Thomas Richardson",
+            "name": "Marketing Manager at Bright Futures Media",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        },
+        {
+            "owner": "Jamie Thomas Richardson",
+            "name": "Freelance Graphic Designer",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jamie Thomas Richardson",
+                "name": "Loan Repayment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jamie Thomas Richardson",
+                "name": "Motoring Expense",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": "Jamie Thomas Richardson",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Client",
+                "name": "Misc Expense Model",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jamie Thomas Richardson",
+            "type": "Defined Contribution",
+            "provider": "Sunrise Retirement Funds",
+            "value": 25000.0,
+            "policy_number": "SRF123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jamie Thomas Richardson",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jamie Thomas Richardson",
+            "type": "Mortgage",
+            "provider": "BrightBank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2032-08-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jamie Thomas Richardson",
+            "type": "Life Assurance",
+            "provider": "Future Security Insurance",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2050-01-01",
+            "objectives": "Provide financial security for family in case of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

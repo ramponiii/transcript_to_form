@@ -2,13 +2,15 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
+from transcript_to_form.base_models import SavableBaseModel
+
 
 class DialoguePair(BaseModel):
     advisor_message: str
     client_message: str
 
     def __str__(self) -> str:
-        return f"Advisor: {self.advisor_message}\n\nClient: {self.client_message}"
+        return f"ADVISOR: {self.advisor_message}\n\nCLIENT: {self.client_message}"
 
 
 class FieldValuePair(BaseModel):
@@ -16,15 +18,11 @@ class FieldValuePair(BaseModel):
     value: str
 
 
-class Conversation(BaseModel):
+class Conversation(SavableBaseModel):
     conversation: list[DialoguePair]
 
     def __str__(self) -> str:
         return "\n\n".join([str(d) for d in self.conversation])
-
-    def save(self, path: Path | str):
-        with open(path, "w", encoding="utf-8") as file:
-            file.write(self.model_dump_json(indent=4))
 
 
 class ConversationWithFields(Conversation):

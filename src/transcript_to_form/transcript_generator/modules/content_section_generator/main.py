@@ -5,11 +5,11 @@ from pydantic import BaseModel
 
 from transcript_to_form import logger
 from transcript_to_form.base_structured_extractor import StructuredExtractor
-from transcript_to_form.modules.transcript.content_section_generator.advisor_message_beginnings import (
+from transcript_to_form.transcript_generator.modules.models import Conversation
+
+from .advisor_message_beginnings import (
     ADVISOR_MESSAGE_BEGINNINGS,
 )
-from transcript_to_form.modules.transcript.models import Conversation
-
 from .models import Verification, VerificationWithReasoning
 from .prompts import (
     SYSTEM,

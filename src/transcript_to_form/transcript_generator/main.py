@@ -28,30 +28,35 @@ from transcript_to_form.models.client import Client
 from transcript_to_form.models.form import Form
 from transcript_to_form.models.form_sections.expenses import Expenses
 from transcript_to_form.models.form_sections.objectives import Objectives
-from transcript_to_form.modules.transcript.content_section_generator import (
+from transcript_to_form.transcript_generator.modules.content_section_generator import (
     ContentSectionGenerator,
 )
-from transcript_to_form.modules.transcript.intro_outro_generator import (
+from transcript_to_form.transcript_generator.modules.intro_outro_generator import (
     IntroGenerator,
     OutroGenerator,
 )
-from transcript_to_form.modules.transcript.models import (
+from transcript_to_form.transcript_generator.modules.models import (
     Conversation,
     ConversationWithFields,
 )
-from transcript_to_form.modules.transcript.padding_generator import PaddingGenerator
-from transcript_to_form.modules.transcript.persona_generator import PersonaGenerator
+from transcript_to_form.transcript_generator.modules.padding_generator import (
+    PaddingGenerator,
+)
+from transcript_to_form.transcript_generator.modules.persona_generator import (
+    PersonaGenerator,
+)
 
 from .models import MODEL_TYPES, TranscriptGenerationConfig
+from .settings import OPENAI_MODEL
 
 
 class TranscriptGenerator:
     def __init__(self, llm_client: AsyncClient):
-        self._padding_generator = PaddingGenerator(llm_client, "gpt-4o")
-        self._persona_generator = PersonaGenerator(llm_client, "gpt-4o")
-        self._intro_generator = IntroGenerator(llm_client, "gpt-4o")
-        self._outro_generator = OutroGenerator(llm_client, "gpt-4o")
-        self._content_generator = ContentSectionGenerator(llm_client, "gpt-4o")
+        self._padding_generator = PaddingGenerator(llm_client, OPENAI_MODEL)
+        self._persona_generator = PersonaGenerator(llm_client, OPENAI_MODEL)
+        self._intro_generator = IntroGenerator(llm_client, OPENAI_MODEL)
+        self._outro_generator = OutroGenerator(llm_client, OPENAI_MODEL)
+        self._content_generator = ContentSectionGenerator(llm_client, OPENAI_MODEL)
 
     async def generate(
         self, config: TranscriptGenerationConfig, save_dir: str = "transcripts"

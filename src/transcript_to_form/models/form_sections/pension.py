@@ -23,3 +23,7 @@ class Pension(BaseModel):
     policy_number: str | None = Field(
         default=None, description="The policy or account number for the pension."
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["client pensions"]

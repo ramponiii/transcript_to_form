@@ -1,0 +1,435 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "James",
+                "middle_names": [],
+                "last_name": "Carter",
+                "known_as": "Jim",
+                "pronouns": "he/him",
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": "United Kingdom",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "312-555-0143",
+                "mobile_phone": "773-555-0198",
+                "email_address": "jcarter80@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "employed full-time",
+                    "desired_retirement_age": null,
+                    "occupation": "Senior Software Engineer",
+                    "employer": "Tech Solutions Ltd",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, with minor issues such as back pain from old sports injuries.",
+                "state_of_health_explanation": "Client has some back pain from past sports injuries.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Client does not need it currently but is considering options for the future.",
+                "will": true,
+                "information_about_will": "Created in 2022 and kept safe with the attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Client's brother, Michael, holds power of attorney for both medical and financial matters."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "James Edward Carter",
+            "name": "Income from employment at Tech Solutions Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "James Edward Carter",
+                "name": "Mortgage Loan Repayment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Student Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "James Edward Carter",
+                "name": "Monthly Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "James",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "James Edward Carter",
+                "name": "Monthly Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Streaming Subscriptions",
+                "amount": 35.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Charitable Contributions",
+                "amount": 100.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Professional Development Course",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Industry Conference Attendance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Networking Event Tickets",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until 2024"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "James Edward Carter",
+                "name": "Professional Development Course",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Industry Conference Attendance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Networking Event Tickets",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until 2024"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "James Edward Carter",
+                "name": "Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Streaming Subscriptions",
+                "amount": 35.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Charitable Contributions",
+                "amount": 100.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "James",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Groceries",
+                "amount": 150.0,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Professional Development Course",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Industry Conference Attendance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Edward Carter",
+                "name": "Networking Event Tickets",
+                "amount": 750.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until 2024"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "James Edward Carter",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": "Defined Contribution",
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": null,
+            "provider": "Tech Solutions Pension Scheme",
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "James Edward Carter",
+            "type": "Investment Bond",
+            "provider": "Fidelity Investments",
+            "value": 150000.0
+        },
+        {
+            "owner": "James Edward Carter",
+            "type": "Stocks and Shares ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "James Edward Carter",
+            "type": "Pension Plan",
+            "provider": "Fidelity Investments",
+            "value": 125000.75
+        },
+        {
+            "owner": "James Edward Carter",
+            "type": "Art Collection",
+            "provider": null,
+            "value": 75000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "James Edward Carter",
+            "description": "Art Collection",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "James Edward Carter",
+            "description": "Classic Car, appreciated as a collectible.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "James Edward Carter",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 75.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Financial security for family"
+        },
+        {
+            "owner": "James Edward Carter",
+            "type": "Critical Illness Cover",
+            "provider": "AIG Insurance",
+            "monthly_cost": 60.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Cover medical expenses or lifestyle changes if diagnosed with something serious."
+        },
+        {
+            "owner": "James Edward Carter",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 55.0,
+            "amount_assured": 50000.0,
+            "in_trust": false,
+            "assured_until": "2035-12-31",
+            "objectives": "Income assurance in case of long-term illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,370 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Emma",
+                "middle_names": [],
+                "last_name": "Larson",
+                "known_as": "Emma",
+                "pronouns": "she/her",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Bristol, UK",
+                "nationality": "British",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "+44 117 123 4567",
+                "mobile_phone": "+44 7777 123456",
+                "email_address": "emma.larson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "In good overall health; exercises regularly and maintains a balanced diet with mild allergies during spring.",
+                "state_of_health_explanation": null,
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "NW1 5DB",
+            "house_name_number": "12B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": null,
+            "country": "UK",
+            "move_in_date": "June 15, 2019",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Larson",
+            "date_of_birth": "05-12-2017",
+            "dependent_until": "12-05-2035"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emma",
+            "name": "Net Salary from main employment",
+            "amount": 5800.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emma",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Emma",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emma",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2035"
+            },
+            {
+                "owner": "Emma",
+                "name": "Home Insurance",
+                "amount": 90.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emma",
+                "name": "Car Maintenance and Insurance",
+                "amount": 130.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Fuel Costs",
+                "amount": 100.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": null,
+                "name": "Morning Routine",
+                "amount": null,
+                "frequency": "Daily",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Emma",
+                "name": "Home Insurance",
+                "amount": 90.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Streaming Subscriptions",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Café Visits",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Pottery Classes",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Car Maintenance and Insurance",
+                "amount": 130.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Fuel Costs",
+                "amount": 100.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Netflix Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Continuing Education",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2027"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": null,
+                "name": "Continuing Education",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Until 2027"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emma",
+                "name": "Streaming Subscription",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Café Visits",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma",
+                "name": "Pottery Classes",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emma",
+                "name": "Netflix Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emma",
+            "type": "Defined Contribution",
+            "provider": "Vanguard",
+            "value": 150000.0,
+            "policy_number": "VDG1234567A"
+        },
+        {
+            "owner": "Emma",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emma",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 35000.0
+        },
+        {
+            "owner": "Emma",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 22000.0
+        },
+        {
+            "owner": "Emma",
+            "type": "General Investment Account",
+            "provider": "Charles Schwab",
+            "value": 18500.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emma",
+            "description": "Antique Furniture Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        },
+        {
+            "owner": "Emma",
+            "description": "Emerald Jewelry Set",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emma",
+            "type": "Mortgage",
+            "provider": "Blue Ridge Mortgages",
+            "monthly_cost": 1450.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2045-06-30"
+        },
+        {
+            "owner": "Emma",
+            "type": "Student Loan",
+            "provider": null,
+            "monthly_cost": 500.0,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": "2030"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emma",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 85.5,
+            "amount_assured": 250000.0,
+            "in_trust": null,
+            "assured_until": "2055-12-31",
+            "objectives": "Ensure family's financial security if something unexpected happens."
+        },
+        {
+            "owner": "Emma",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 45.0,
+            "amount_assured": 3000.0,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "Ensure a steady income if unable to work due to illness or disability."
+        },
+        {
+            "owner": "Emma",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 65.75,
+            "amount_assured": 150000.0,
+            "in_trust": null,
+            "assured_until": "2045-05-15",
+            "objectives": "Ensure coverage for medical expenses and recovery time in case of a major illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

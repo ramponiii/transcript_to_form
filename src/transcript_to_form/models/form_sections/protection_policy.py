@@ -33,3 +33,7 @@ class ProtectionPolicy(BaseModel):
         default=None,
         description="The purpose or objective that this protection policy is intended to meet.",
     )
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["protection policies"]

@@ -30,25 +30,49 @@ class Expense(BaseModel):
 class LoanRepayment(Expense):
     """Loan Repayment"""
 
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["loan repayments"]
+
 
 class HousingExpense(Expense):
     """Housing Expense"""
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["housing expenses"]
 
 
 class MotoringExpense(Expense):
     """Motoring Expense"""
 
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["motoring expenses", "car bills"]
+
 
 class PersonalExpense(Expense):
     """Personal Expense"""
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["personal expenses"]
 
 
 class ProfessionalExpense(Expense):
     """Professional Expense"""
 
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["professional expenses"]
+
 
 class MiscExpense(Expense):
     """Misc Expense"""
+
+    @classmethod
+    def get_retrieval_queries(cls):
+        return ["expenses"]
 
 
 class Expenses(BaseModel):

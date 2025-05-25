@@ -4,9 +4,11 @@ from typing import Type
 
 from transcript_to_form import logger
 from transcript_to_form.base_structured_extractor import StructuredExtractor, T
+from transcript_to_form.exceptions import ModelMissingRetrievalQueriesError
 from transcript_to_form.modules.client_identifier.models import (
     ClientShortProfiles,
 )
+from transcript_to_form.retrieval import TranscriptPineconeClient
 
 from .model_extractor_prompts import SYSTEM_EXTRACT, USER_EXTRACT
 from .models import ExtractionPreview, VerifiedExtraction
@@ -19,16 +21,30 @@ from .verification_prompts import SYSTEM_VERIFICATION, USER_VERIFICATION
 
 
 class GeneralSectionExtractor(StructuredExtractor):
-    """Given a transcript, produce a list of client names, and short descriptions, present in the text."""
+    """Given a retriever, produce a list of client names, and short descriptions, present in the text."""
 
     async def run(
-        self, transcript: str, profiles: ClientShortProfiles, model: Type[T]
+        self,
+        retriever: TranscriptPineconeClient,
+        profiles: ClientShortProfiles,
+        model: Type[T],
     ) -> list[T]:
         profiles_str = str(profiles)
+
+        if not hasattr(model, "get_retrieval_queries") and callable(
+            getattr(model, "get_retrieval_queries")
+        ):
+            raise ModelMissingRetrievalQueriesError(
+                f"Model with name `{model.__name__} does not have get_retrieval_queries method"
+            )
+
+        queries: list[str] = model.get_retrieval_queries()  # type: ignore
+        relevant_transcript = retriever.query(queries)
+
         summary = await self.extract(
             SYSTEM_SUMMARY,
             USER_SUMMARY.format(
-                transcript=transcript,
+                transcript=relevant_transcript,
                 client_information=str(profiles),
                 model=json.dumps(model().model_json_schema()),
                 model_name=model.__name__,
@@ -40,12 +56,12 @@ class GeneralSectionExtractor(StructuredExtractor):
             return []
 
         models = await self._produce_models_from_summary(
-            transcript, profiles_str, model, summary
+            relevant_transcript, profiles_str, model, summary
         )
 
         # now , verification, if we have models to verify. Should this content be somewhere else? Is any of it un-substantiated?
         if len(models) > 0:
-            models = await self._check_extraction(models, transcript)
+            models = await self._check_extraction(models, relevant_transcript)
 
         return models
 

@@ -1,0 +1,345 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Brian",
+                "middle_names": [],
+                "last_name": "Foster",
+                "known_as": "Brian",
+                "pronouns": "he/him",
+                "date_of_birth": "15-05-1980",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": null,
+                "home_phone": "212-555-0345",
+                "mobile_phone": "917-555-7890",
+                "email_address": "brian.foster@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Employed and Self-Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "GreenTech Solutions Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": "20% and 40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, with some mild seasonal allergies.",
+                "state_of_health_explanation": "No other health concerns; maintains a healthy lifestyle with exercise and a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Does not anticipate needing assistance; stays active and independent.",
+                "will": true,
+                "information_about_will": "Updated in 2022 and kept at lawyer's office.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "His wife, Lisa."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "A1 2BC",
+            "house_name_number": "23",
+            "street_name": "Maple Avenue",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Springfield",
+            "county": "Green County",
+            "country": "United Kingdom",
+            "move_in_date": "2020-05-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Brian Foster",
+            "name": "Employment at GreenTech Solutions Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Brian Foster",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "Brian",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Brian",
+                "name": "Mortgage Payment",
+                "amount": 1200.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "client",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Brian Foster",
+                "name": "Car Maintenance",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Brian Foster",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2045"
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Streaming Subscriptions",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Family Vacation Budget",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "for the next ten years"
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Car Maintenance",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Gym Membership",
+                "amount": 45.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Business Conferences",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": null,
+                "name": "Professional Conference Fees",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Brian Foster",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Streaming Subscriptions",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Family Vacation",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2033"
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Car Maintenance",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Gym Membership",
+                "amount": 45.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Brian Foster",
+                "name": "Business Conferences",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Brian Foster",
+            "type": "Defined Contribution",
+            "provider": "GreenTech Solutions Pension Scheme",
+            "value": 45000.0,
+            "policy_number": "GTPL12345"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Brian Foster",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Brian Foster",
+            "type": "Property",
+            "provider": "Real Estate Holdings",
+            "value": 350000.0
+        },
+        {
+            "owner": "Brian Foster",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 18000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Brian Foster",
+            "description": "A collection of vintage watches owned by CLIENT.",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "CLIENT",
+            "description": "An art collection consisting of various pieces owned by CLIENT.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Brian Foster",
+            "type": "Mortgage",
+            "provider": "Sunrise Bank",
+            "monthly_cost": 1200.75,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-12-31"
+        },
+        {
+            "owner": "Brian Foster",
+            "type": "Student Loan",
+            "provider": null,
+            "monthly_cost": 450.0,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": "2028-12-31"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Brian Foster",
+            "type": "Life Assurance",
+            "provider": "ABC Life Insurance",
+            "monthly_cost": 120.5,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045",
+            "objectives": "Ensure family financial security if anything happens unexpectedly."
+        },
+        {
+            "owner": "Brian Foster",
+            "type": "Income Protection",
+            "provider": "SecureFuture Insurance",
+            "monthly_cost": 85.75,
+            "amount_assured": 3000.0,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": "Provides a monthly income stream if unable to work due to illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

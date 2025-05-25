@@ -1,0 +1,227 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Daniel",
+                "middle_names": [],
+                "last_name": "Foster",
+                "known_as": "Danny",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Project Manager",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "40506",
+            "house_name_number": "12B",
+            "street_name": "Oakwood Avenue",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Lexington",
+            "county": "Fayette",
+            "country": "USA",
+            "move_in_date": "2019-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Daniel Brian Foster",
+            "name": "Project Manager at Tech Innovations Ltd",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Danny",
+                "name": "Loan Repayment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Brian Foster",
+                "name": "Mortgage Payment",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Brian Foster",
+                "name": "Danny's Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Danny",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually or Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Brian Foster",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Monthly or Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Brian Foster",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Brian Foster",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [],
+    "other_assets": [
+        {
+            "owner": "Danny",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Danny",
+            "description": "Various assets (not specified)",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Danny",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Brian Foster",
+            "type": "Mortgage",
+            "provider": "Williams Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "3% fixed until 2025",
+            "final_payment": "2035-12-01"
+        },
+        {
+            "owner": "Daniel Brian Foster",
+            "type": "Car Finance",
+            "provider": "ABC Credit Co.",
+            "monthly_cost": 300.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 5.0,
+            "special_rate": null,
+            "final_payment": "2027-05-23"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Brian Foster",
+            "type": "Life Insurance",
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "Retirement planning"
+        },
+        {
+            "owner": "Daniel Brian Foster",
+            "type": "Income Protection",
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "Income protection during the working years."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}
