@@ -1,7 +1,7 @@
 ## Getting Started
 First, install uv [instructions can be found here](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
-Then 
+Then you will need a pinecone api key, I made a free account [here](https://app.pinecone.io/organizations/-/keys)
 
 ```
 uv sync # creates venv, installing the dependencies you will need to play around with the code
@@ -9,10 +9,40 @@ uv sync # creates venv, installing the dependencies you will need to play around
 # Test inference on a transcript by using
 uv run python -m scripts.run_extractor
 
-# Create an example dataset using
-uv run python -m scripts.generate_transcript
-
 ```
+
+# High Level Description of my work
+All of my work heavily uses pydantic, and openai structured outputs. I had never used openai structured outputs before, we don't use it at work, so thought it was a good chance to have a play with it. And I'm impressed. 
+
+I also took the chance to try out pinecone, though am not overly impressed at their async support. Earlier editions of this take home used chroma.
+
+## Synthetic Transcripts
+- I wanted these to be controllabe, so introduced a TranscriptConfig model which I'd like to be more customizable.
+
+The steps are:
+1. Generate personas for the financial and advisor if not given, using an LLM with a high temperature.
+2. Generate a list of desired things we want to extract, these are populated pydantic models, and should be able to be provided in the config in the long run (though right now an LLM Generates them)
+3. Use the passed in config and the desired model to generate the `form section` parts of the dialogue - these are the parts of the dialogue which should contain the answers. This is checked using a second llm call, which verifies that all of the expected information is discussed in the transcript.
+4. Generate padding, using a range of seed topics, to pad the length of the conversation while not introducing new information (* can't confirm it doesn't introduce new info...)
+5. Generate a long intro and outro, again to pad the conversation.
+
+## Extraction
+1. First, extract the name and basic info around the clients. This is useful at all stages of extraction to give some context on the conversation.
+2. Now, extract client specific objects, while in parallel extracting all of the other sections.
+3. For each section...
+3a. use the retrieval queries for the model instance to query a pinecone VDB, retrieving back N chunks, and then expanding to get the prior K and following K chunks from it, so that each retrieved chunk is contextualized. 
+3b. On the retrieved content, identify how many different model instances we need to extract (e.g. multiple incomes) - I call these model summaries
+3c. Run extraction for the desired model summaries, producing the final desired pydantic models.
+3d. run the checker, which verifies the extract content looks reasonable and does not belong in a different section.
+
+Extraction also has a failure mechanism, whereby if openai fails to return a model object, I append to the system prompt and try again. In practice I have never seen it fail, so this work was overkill.
+
+I spent some time trying to condense the transcript, which I think I would want to spend more time on if I had more time. Probably something akin to fact extraction.
+
+## Evaluation
+I use two types of evaluation
+- Simple evaluation, using basic stats around how often fields are filled, which gives me a quick over view of how things are doing (spoiler: they are not doing well)
+- LLM as a judge - I struggled to write manual code quickly to compare the fields using their actual datatypes, instead I was lazy and use an LLM to compare the results. This code is poorly written and not very well thought out. 
 
 ## Big Picture Problems
 - I've tried to modularize the code, the advantage of that being that it gives me control and the ability to fine tune different parts of the system. However, I've not got far enough in to really feel the advantage of that. I'd like to be able to run my analysis, identify the troublesome area, write some failing tests, and improve, but this has not been possible in the time. 
