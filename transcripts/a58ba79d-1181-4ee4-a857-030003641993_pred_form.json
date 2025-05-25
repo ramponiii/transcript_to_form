@@ -1,0 +1,317 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Claire",
+                "middle_names": [],
+                "last_name": "Thompson",
+                "known_as": null,
+                "pronouns": null,
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "London",
+                "nationality": "British",
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": "Single",
+                "home_phone": "020 7946 0958",
+                "mobile_phone": "078 9456 1234",
+                "email_address": "claire.thompson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 12 34 56 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Brightwave Media Ltd.",
+                    "employment_started": "01-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally quite healthy with mild seasonal allergies.",
+                "state_of_health_explanation": "Sticks to regular exercise and a balanced diet; no significant ongoing health conditions.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Claire",
+            "name": "Income from Brightwave Media Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Claire",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Claire",
+                "name": "Rent payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Home Insurance",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until lease renewal"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Car Insurance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Claire",
+                "name": "Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Home Insurance",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until lease renewal"
+            },
+            {
+                "owner": "Client",
+                "name": "Subscription Box",
+                "amount": 25.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "until December 2024"
+            },
+            {
+                "owner": "Claire",
+                "name": "Art Class Materials",
+                "amount": 50.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until end of 2023"
+            },
+            {
+                "owner": "Claire",
+                "name": "Car Insurance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Yoga Classes",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Streaming Service",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Professional Development Course",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "2023"
+            },
+            {
+                "owner": "Claire",
+                "name": "Networking Event Fees",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": null,
+                "name": "Professional Development Course",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "2023"
+            },
+            {
+                "owner": null,
+                "name": "Networking Event Fees",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Claire",
+                "name": "Home Insurance",
+                "amount": null,
+                "frequency": "Ongoing",
+                "priority": "Essential",
+                "timeframe": "Until lease renewal"
+            },
+            {
+                "owner": "Claire",
+                "name": "Weekly Subscription Box",
+                "amount": 25.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "until December 2024"
+            },
+            {
+                "owner": "Claire",
+                "name": "Art Class Materials",
+                "amount": 50.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until end of 2023"
+            },
+            {
+                "owner": "Claire",
+                "name": "Car Insurance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Yoga Classes",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Streaming Service",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire",
+                "name": "Professional Development Course",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "2023"
+            },
+            {
+                "owner": "Claire",
+                "name": "Networking Event Fees",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Claire",
+            "type": "Defined Contribution",
+            "provider": "Brightwave Media Pension Scheme",
+            "value": 150000.0,
+            "policy_number": "BW123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Claire",
+            "type": "ISA",
+            "provider": "Barclays",
+            "value": 10000.0
+        },
+        {
+            "owner": "Claire",
+            "type": "GIA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Claire",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Claire",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Claire",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 75.5,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of unexpected events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

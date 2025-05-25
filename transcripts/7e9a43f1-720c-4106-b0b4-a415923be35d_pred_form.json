@@ -1,0 +1,215 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Ethan",
+                "middle_names": [
+                    "James"
+                ],
+                "last_name": "Larson",
+                "known_as": "Ethan",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "San Francisco, California",
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": "Single",
+                "home_phone": "415-555-0199",
+                "mobile_phone": "415-555-0123",
+                "email_address": "ethan.larson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Director",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "NG1 4FQ",
+            "house_name_number": "15",
+            "street_name": "Maple Avenue",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Nottingham",
+            "county": "Nottinghamshire",
+            "country": "United Kingdom",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Ethan Larson",
+            "name": "Marketing Director Salary",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Car Maintenance and Repairs",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Marketing budget adjustment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Ethan Larson",
+                "name": "Investment strategy review",
+                "amount": null,
+                "frequency": null,
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Ethan Larson",
+                "name": "Office rent",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Ethan Larson",
+                "name": "Subscription services",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Ethan Larson",
+                "name": "Groceries",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Defined Contribution",
+            "provider": "Creative Solutions Pension Scheme",
+            "value": 150000.0,
+            "policy_number": "CS123456"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Ethan Larson",
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Ethan Larson",
+            "description": "A classic car owned by Ethan Larson with details on current and original values.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Ethan Larson",
+            "type": "Mortgage",
+            "provider": "National Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-08-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

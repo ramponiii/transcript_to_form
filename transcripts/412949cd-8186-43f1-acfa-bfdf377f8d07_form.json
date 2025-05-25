@@ -1,0 +1,248 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Jane"
+                ],
+                "last_name": "Hartman",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "15-05-1990",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "212-555-0198",
+                "mobile_phone": "917-555-0143",
+                "email_address": "emily.hartman@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd",
+                    "employment_started": "15-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good health, with a focus on maintaining fitness and wellness.",
+                "state_of_health_explanation": "Emily exercises regularly and follows a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Currently independent with no anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2022, located with her attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Lisa Hartman, holds the power of attorney for health and financial matters."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "22B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2019-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Aiden Hartman",
+            "date_of_birth": "15-06-2015",
+            "dependent_until": "15-06-2033"
+        },
+        {
+            "name": "Liam Hartman",
+            "date_of_birth": "22-11-2018",
+            "dependent_until": "22-11-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Hartman",
+            "name": "Consulting Income",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Hartman",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Emily Hartman",
+                "name": "Car Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Hartman",
+                "name": "Monthly Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Hartman",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Hartman",
+                "name": "Car Maintenance",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Hartman",
+                "name": "Yoga Classes",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Hartman",
+                "name": "Professional Association Membership",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Hartman",
+                "name": "Conference Attendance Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "for professional development"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Streaming Service Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Hartman",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 85000.0,
+            "policy_number": "F123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Hartman",
+            "type": "ISA",
+            "provider": "Hargreaves Lansdown",
+            "value": 15000.0
+        },
+        {
+            "owner": "Emily Hartman",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Hartman",
+            "description": "Antique Furniture Collection",
+            "current_value": 12000.0,
+            "original_value": 8000.0
+        },
+        {
+            "owner": "Emily Hartman",
+            "description": "Fine Art Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Hartman",
+            "type": "Mortgage",
+            "provider": "Green Bank",
+            "monthly_cost": 1200.75,
+            "outstanding_value": 240000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-08-15"
+        },
+        {
+            "owner": "Emily Hartman",
+            "type": "Personal Loan",
+            "provider": "Blue Finance",
+            "monthly_cost": 350.5,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.0,
+            "special_rate": null,
+            "final_payment": "2027-03-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Hartman",
+            "type": "Life Assurance",
+            "provider": "BrightLife Insurance",
+            "monthly_cost": 45.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "Retirement",
+            "objectives": "To provide financial security to beneficiaries in case of unexpected death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

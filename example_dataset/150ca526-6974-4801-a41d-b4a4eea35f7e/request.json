@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "HIGH",
-    "specific_requests": "Generate an exchange where the advisor uses analogies to explain risk, and the client expresses some confusion.",
-    "segments": 3,
-    "id": "150ca526-6974-4801-a41d-b4a4eea35f7e"
-}

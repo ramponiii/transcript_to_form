@@ -1,0 +1,194 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Emily",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Patterson",
+                "known_as": "Emily",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager",
+                    "employer": "Innovate Marketing Ltd",
+                    "employment_started": "12-04-2018",
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Emily Anne Patterson",
+            "name": "Salary",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Anne Patterson",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Anne Patterson",
+                "name": "Motoring Expense",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Anne Patterson",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Anne Patterson",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Anne Patterson",
+                "name": "Misc Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Anne Patterson",
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Anne Patterson",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Anne Patterson",
+            "type": "Mortgage",
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Anne Patterson",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

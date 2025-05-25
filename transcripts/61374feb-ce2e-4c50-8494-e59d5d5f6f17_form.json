@@ -1,0 +1,305 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Mia",
+                "middle_names": [],
+                "last_name": "Thompson",
+                "known_as": "Mia",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1987",
+                "place_of_birth": "Boston, MA, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "617-555-0123",
+                "mobile_phone": "617-555-0456",
+                "email_address": "mia.thompson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Marketing Manager",
+                    "employer": "Brightwave Communications",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ987654B",
+                    "employment_status": "Self-Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "01-03-2020",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, attends regular check-ups.",
+                "state_of_health_explanation": "No major health concerns, maintains a balanced diet and exercises regularly.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No immediate or anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored with her lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Alex Thompson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2020-05-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ella Thompson",
+            "date_of_birth": "15-08-2010",
+            "dependent_until": "15-08-2028"
+        },
+        {
+            "name": "Max Thompson",
+            "date_of_birth": "22-09-2012",
+            "dependent_until": "22-09-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Mia Thompson",
+            "name": "Salary at Tech Innovations",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Current employment"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2027"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Personal Loan Repayment",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Mortgage Payment",
+                "amount": 1800.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Car Lease Payment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Fuel Costs",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Yoga Class Subscription",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Weekend Getaway Fund",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Professional Development Workshops",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Industry Conference Attendance",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Next 5 years"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Networking Event Sponsorship",
+                "amount": 800.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Next 3 years"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Mia Thompson",
+                "name": "Annual Subscription",
+                "amount": 120.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "Until 2025"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Birthday Gifts for Friends",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Mia Thompson",
+                "name": "Monthly Streaming Services",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Mia Thompson",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 45000.0,
+            "policy_number": "FTX-789123456"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Mia Thompson",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Mia Thompson",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 12000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Mia Thompson",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 10000.0
+        },
+        {
+            "owner": "Mia Thompson",
+            "description": "Vintage Jewellery Collection",
+            "current_value": 8500.0,
+            "original_value": 6000.0
+        },
+        {
+            "owner": "Mia Thompson",
+            "description": "Classic Car",
+            "current_value": 25000.0,
+            "original_value": 20000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Mia Thompson",
+            "type": "Mortgage",
+            "provider": "Sunrise Financial Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.8,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Mia Thompson",
+            "type": "Life Assurance",
+            "provider": "SunLife",
+            "monthly_cost": 45.0,
+            "amount_assured": 150000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of unforeseen events."
+        },
+        {
+            "owner": "Mia Thompson",
+            "type": "Critical Illness Cover",
+            "provider": "Vitality",
+            "monthly_cost": 60.0,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Ensure financial stability in case of serious health issues."
+        },
+        {
+            "owner": "Mia Thompson",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 30.0,
+            "amount_assured": 50000.0,
+            "in_trust": null,
+            "assured_until": "2035-06-15",
+            "objectives": "Maintain income stream during periods of inability to work due to illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

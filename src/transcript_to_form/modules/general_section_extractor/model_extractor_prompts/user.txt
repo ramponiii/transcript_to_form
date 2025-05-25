@@ -1,0 +1,14 @@
+### Transcript
+{transcript}
+
+### Clients Present
+{client_information}
+
+### All Relevant Items Present in the Transcript
+{all_items}
+
+### The **ONLY** one I care about is
+The name of the model being populated is "{model_name}"
+
+{item_to_extract}
+

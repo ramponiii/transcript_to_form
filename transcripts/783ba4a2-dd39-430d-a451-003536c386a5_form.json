@@ -1,0 +1,308 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Grace"
+                ],
+                "last_name": "Rivers",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "14-03-1985",
+                "place_of_birth": "Sydney, Australia",
+                "nationality": "Australian",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "0298765432",
+                "mobile_phone": "0412345678",
+                "email_address": "emily.rivers@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Graphic Designer",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ654321A",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Freelance Writer",
+                    "employer": null,
+                    "employment_started": "01-03-2021",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, no major issues reported.",
+                "state_of_health_explanation": "Emily occasionally experiences seasonal allergies but manages them effectively with over-the-counter medication.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need or expectation for long-term care.",
+                "will": false,
+                "information_about_will": "Emily is considering creating a will in the near future.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": "Emily has not yet appointed a power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "E1 6AN",
+            "house_name_number": "Flat 5, 12",
+            "street_name": "Rosewood Avenue",
+            "address_line_3": "Shoreditch",
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Lucas Rivers",
+            "date_of_birth": "15-08-2010",
+            "dependent_until": "15-08-2028"
+        },
+        {
+            "name": "Sophia Rivers",
+            "date_of_birth": "22-11-2015",
+            "dependent_until": "22-11-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Rivers",
+            "name": "Freelance Graphic Design Income",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Emily Rivers",
+            "name": "Online Course Revenue",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Until December 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Car Loan Repayment",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Utilities",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Car Loan Payment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2027"
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Car Insurance",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Monthly Yoga Classes",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Art Supplies",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Weekend Getaways",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "2023-2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Professional Development Courses",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Rivers",
+                "name": "Meditation Retreat 2023",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "April 2023"
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Art Supplies",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Rivers",
+                "name": "Photography Workshop",
+                "amount": 400.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "September 2023"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Rivers",
+            "type": "Defined Contribution",
+            "provider": "Fidelity International",
+            "value": 125000.0,
+            "policy_number": "EMR12345678"
+        },
+        {
+            "owner": "Emily Rivers",
+            "type": "SIPP",
+            "provider": "Vanguard",
+            "value": 98000.0,
+            "policy_number": "VNG87654321"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Rivers",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Emily Rivers",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 25000.0
+        },
+        {
+            "owner": "Emily Rivers",
+            "type": "GIA",
+            "provider": "Hargreaves Lansdown",
+            "value": 12000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Rivers",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        },
+        {
+            "owner": "Emily Rivers",
+            "description": "Vintage Jewellery Collection",
+            "current_value": 8000.0,
+            "original_value": 5000.0
+        },
+        {
+            "owner": "Emily Rivers",
+            "description": "Classic Car",
+            "current_value": 25000.0,
+            "original_value": 20000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Rivers",
+            "type": "Mortgage",
+            "provider": "GreenBank Financial",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2026",
+            "final_payment": "2045-09-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Rivers",
+            "type": "Term Life Insurance",
+            "provider": "Guardian Life",
+            "monthly_cost": 45.75,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-05-15",
+            "objectives": "Provide financial security for her family in case of unforeseen events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

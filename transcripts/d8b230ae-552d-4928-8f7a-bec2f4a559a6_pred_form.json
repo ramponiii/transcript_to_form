@@ -1,0 +1,218 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "David",
+                "middle_names": [],
+                "last_name": "Chen",
+                "known_as": "David",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Data Analyst",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "David James Chen",
+            "name": "Salary from Tech Solutions Ltd.",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "David James Chen",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "David",
+                "name": "Rent",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "David",
+                "name": "Home Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "David",
+                "name": "Property Maintenance",
+                "amount": null,
+                "frequency": "Occasional",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "David James Chen",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": "Client",
+                "name": "Professional expenses",
+                "amount": null,
+                "frequency": null,
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "David James Chen",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "David James Chen",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "David James Chen",
+            "type": "Mortgage",
+            "provider": "National Bank",
+            "monthly_cost": 1250.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2040-12-31"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

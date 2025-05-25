@@ -1,7 +1,0 @@
-{
-    "model": "ProtectionPolicy",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
-    "segments": 2,
-    "id": "858ee67a-b11f-4a2c-b740-a1d8e61910fc"
-}

@@ -7,11 +7,11 @@ class ClientInformation(BaseModel):
     title: str | None = Field(
         None, description="The person's title (e.g., Mr, Ms, Dr)."
     )
-    first_name: str = Field(..., description="The person's first name.")
-    middle_names: list[str] | None = Field(
+    first_name: str | None = Field(None, description="The person's first name.")
+    middle_names: list[str] = Field(
         default_factory=list, description="A list of the person's middle names."
     )
-    last_name: str = Field(..., description="The person's last name.")
+    last_name: str | None = Field(None, description="The person's last name.")
     known_as: str | None = Field(
         None, description="The name the person is commonly known as."
     )
@@ -36,7 +36,9 @@ class ClientInformation(BaseModel):
     )
     email_address: str | None = Field(None, description="The person's email address.")
 
-    sources: list[str] = Field(
-        default_factory=list,
-        description="A list of the source Chunk ID's which contained the information you used to generate the content",
-    )
+    @classmethod
+    def get_retrieval_queries(cls):
+        return [
+            "client information (name, gender etc)",
+            "client phone number and email",
+        ]

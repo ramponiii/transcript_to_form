@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
-    "segments": 1,
-    "id": "e61199cb-742b-4dd7-ac9c-eae962fed32e"
-}

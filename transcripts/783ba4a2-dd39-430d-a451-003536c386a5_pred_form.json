@@ -1,0 +1,241 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Emily",
+                "middle_names": [],
+                "last_name": "Rivers",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Graphic Designer",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Grace Rivers",
+            "name": "Salary as a Graphic Designer",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": null,
+                "name": "Loan Repayment Plan",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Housing Expense Example 2",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Car Insurance",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Grace Rivers",
+                "name": "Graphic Design Expenses",
+                "amount": null,
+                "frequency": "Ongoing",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": null,
+                "name": "Professional Expense Report",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Grace Rivers",
+            "type": "Savings Account",
+            "provider": null,
+            "value": null
+        },
+        {
+            "owner": "Emily Grace Rivers",
+            "type": "Investment Holding",
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Grace Rivers",
+            "description": "Classic Car, possibly a collectible vehicle.",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Emily Grace Rivers",
+            "description": "A non-standard asset owned by Emily Grace Rivers, likely valuable artwork.",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Emily Grace Rivers",
+            "description": "Jewellery, consisting of high-value personal ornaments.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Grace Rivers",
+            "type": "Personal Loan",
+            "provider": "Global Bank",
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": "Fixed rate",
+            "final_payment": null
+        },
+        {
+            "owner": "Emily Grace Rivers",
+            "type": "Mortgage",
+            "provider": "Home Loans Inc.",
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": "Variable interest",
+            "final_payment": null
+        },
+        {
+            "owner": "Emily Grace Rivers",
+            "type": "Car Finance",
+            "provider": "AutoLend",
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

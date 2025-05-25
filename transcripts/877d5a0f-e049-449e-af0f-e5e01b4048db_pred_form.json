@@ -1,0 +1,457 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Daniel",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Hayes",
+                "known_as": "Danny",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Chicago",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "312-555-0198",
+                "mobile_phone": "773-555-0123",
+                "email_address": "danny.hayes85@gmail.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Developer",
+                    "employer": "Tech Solutions Ltd",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with an active lifestyle and balanced diet.",
+                "state_of_health_explanation": null,
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": true,
+                "information_about_will": "Created in 2020 with lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Sister, Emily."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "name": "Software Developer at Tech Solutions Ltd",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until May 1, 2045"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Personal Loan",
+                "amount": 210.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until December 30, 2028"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Student Loan",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Car Loan",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Home Maintenance",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Mortgage",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until May 1, 2045"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Car insurance",
+                "amount": 900.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Fuel expenses",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Home Maintenance",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Charitable Donations",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Car Insurance",
+                "amount": 900.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Fuel",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Streaming Subscriptions",
+                "amount": 30.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Gadget Upgrades",
+                "amount": 150.0,
+                "frequency": "Every three months",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Professional Certification Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Industry Conference",
+                "amount": 800.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "Next quarter"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Online Marketing Tools",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Certification Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Industry Conference",
+                "amount": 800.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "Next quarter"
+            },
+            {
+                "owner": null,
+                "name": "Online Marketing Tools Subscription",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Home Maintenance",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Charitable Donations",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Car Insurance",
+                "amount": 900.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Fuel",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Streaming Services",
+                "amount": 30.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Gadget Upgrades",
+                "amount": 150.0,
+                "frequency": "Every three months",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Certification Course",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Industry Conference",
+                "amount": 800.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "Next quarter"
+            },
+            {
+                "owner": "Daniel Alexander Hayes",
+                "name": "Online Marketing Tools",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "ISA",
+            "provider": "Fidelity",
+            "value": 15000.0
+        },
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Defined Contribution Pension",
+            "provider": "Future Funds Ltd",
+            "value": 45000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "description": "A collection of vintage guitars owned by Daniel Alexander Hayes.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.9% fixed until 2030",
+            "final_payment": "2045-05-01"
+        },
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Car Finance",
+            "provider": "AutoLoan Corp",
+            "monthly_cost": 320.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 4.5,
+            "special_rate": "3.0% promotional rate for the first year",
+            "final_payment": null
+        },
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Personal Loan",
+            "provider": "Unity Financial Services",
+            "monthly_cost": 210.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 5.6,
+            "special_rate": "5.0% fixed until 2025",
+            "final_payment": "2028-12-30"
+        },
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Student Loan",
+            "provider": null,
+            "monthly_cost": 350.0,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": "2030"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Alexander Hayes",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 45.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2035-05-15",
+            "objectives": "Ensure family security and accessible benefits"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

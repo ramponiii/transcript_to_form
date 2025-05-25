@@ -1,0 +1,194 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Tom",
+                "middle_names": [],
+                "last_name": null,
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": "United Kingdom",
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "United States",
+                    "national_insurance_number": null,
+                    "employment_status": "self-employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Software Engineer and Freelance Writer",
+                    "employer": "Tech Innovations Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Tom",
+            "name": "Software Engineering Job",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        },
+        {
+            "owner": "Tom",
+            "name": "Freelance Writing",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Tom",
+                "name": "Loan payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Credit Card Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "CLIENT",
+                "name": "Business Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [],
+        "motoring_expenses": [
+            {
+                "owner": "Tom",
+                "name": "Motoring Expense",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Charity Donation",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "until 2035"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [],
+    "other_assets": [
+        {
+            "owner": "Tom",
+            "description": "Art Collection",
+            "current_value": 50000.0,
+            "original_value": 30000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Tom",
+            "type": "Mortgage",
+            "provider": "Barclays UK",
+            "monthly_cost": 1350.75,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.2,
+            "special_rate": "2.1% fixed until 2028",
+            "final_payment": "2040-05-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

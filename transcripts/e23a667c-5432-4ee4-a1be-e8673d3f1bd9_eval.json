@@ -1,0 +1,1447 @@
+{
+    "llm_eval": {
+        "employments": {
+            "section_name": "Employment Details",
+            "field_evaluations": [
+                {
+                    "field_name": "country_domiciled",
+                    "category": "partial_match",
+                    "reasoning": "The country is represented as 'United Kingdom' in the true form and 'UK' in the predicted form. The difference is in naming convention but refers to the same entity.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "resident_for_tax",
+                    "category": "identical",
+                    "reasoning": "Both true and predicted forms have 'Yes' for this field, indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "national_insurance_number",
+                    "category": "identical",
+                    "reasoning": "Both forms contain the same National Insurance Number 'QQ123456C', indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "employment_status",
+                    "category": "identical",
+                    "reasoning": "Both indicate 'Employed', thus showing an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "desired_retirement_age",
+                    "category": "identical",
+                    "reasoning": "The desired retirement age is '65' in both forms, thus matching identically.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "occupation",
+                    "category": "identical",
+                    "reasoning": "Both true and predicted forms list 'Project Manager' as the occupation, indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "employer",
+                    "category": "identical",
+                    "reasoning": "'Innovate Solutions Ltd.' appears in both forms as the employer, resulting in an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "employment_started",
+                    "category": "identical",
+                    "reasoning": "Both true and predicted forms state the employment started on '15-03-2015', indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "highest_rate_of_tax_paid",
+                    "category": "identical",
+                    "reasoning": "The tax rate is '20%' in both true and predicted forms, making it an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "health_details": {
+            "section_name": "health_details",
+            "field_evaluations": [
+                {
+                    "field_name": "current_state_of_health",
+                    "category": "partial_match",
+                    "reasoning": "The predicted value is similar but missing a period at the end which is present in the true value.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "state_of_health_explanation",
+                    "category": "partial_match",
+                    "reasoning": "The information is rephrased, leading to content differences despite conveying a similar meaning.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "smoker",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted values reflect the same boolean value.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "cigarettes_per_day",
+                    "category": "identical",
+                    "reasoning": "The numerical value matches exactly between true and predicted data.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "smoker_since",
+                    "category": "identical",
+                    "reasoning": "The text field content is exactly the same in both forms.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "long_term_care_needed",
+                    "category": "identical",
+                    "reasoning": "Both forms reflect the same boolean data.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "long_term_care_explanation",
+                    "category": "identical",
+                    "reasoning": "Both values are null, ie., not provided in either form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "will",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "True form indicates a will is present, whereas predicted form has it as null.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "information_about_will",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "Details about will are present in the true form but missing in the predicted form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "power_of_attorney",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "True form indicates no power of attorney, while predicted form has null value.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "details_of_individual_with_power_of_attorney",
+                    "category": "identical",
+                    "reasoning": "Both values are null, indicating no details available.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "client_info": {
+            "section_name": "Client Information",
+            "field_evaluations": [
+                {
+                    "field_name": "title",
+                    "category": "incorrect",
+                    "reasoning": "The predicted title 'ClientInformation' does not match the true title 'Ms'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "first_name",
+                    "category": "identical",
+                    "reasoning": "The first name 'Linda' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "middle_names",
+                    "category": "identical",
+                    "reasoning": "The middle name 'Yun' is present in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "last_name",
+                    "category": "identical",
+                    "reasoning": "The last name 'Chen' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "known_as",
+                    "category": "identical",
+                    "reasoning": "The known_as 'Linda' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "pronouns",
+                    "category": "identical",
+                    "reasoning": "The pronouns 'she/her' match in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "date_of_birth",
+                    "category": "identical",
+                    "reasoning": "The date of birth '15-06-1985' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "place_of_birth",
+                    "category": "identical",
+                    "reasoning": "The place of birth 'Shanghai, China' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "nationality",
+                    "category": "identical",
+                    "reasoning": "The nationality 'Chinese' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "gender",
+                    "category": "identical",
+                    "reasoning": "The gender 'Female' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "legal_sex",
+                    "category": "identical",
+                    "reasoning": "The legal sex 'Female' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "marital_status",
+                    "category": "identical",
+                    "reasoning": "The marital status 'Married' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "home_phone",
+                    "category": "incorrect",
+                    "reasoning": "The home phone in predicted form '0208XXXXXXX' is redacted and does not match '0208-123-4567'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "mobile_phone",
+                    "category": "incorrect",
+                    "reasoning": "The mobile phone in predicted form '0800XXXXXXX' is redacted and does not match '07700-900800'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "email_address",
+                    "category": "identical",
+                    "reasoning": "The email address 'linda.chen@example.com' matches in both true and predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "incomes": {
+            "section_name": "Incomes",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted owner 'Linda Yun Chen' partially matches the true owner 'Linda Chen' but includes a middle name, potentially enhancing specificity but deviating from the source data.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "partial_match",
+                    "reasoning": "The predicted name 'Project Manager salary at Innovate Solutions Ltd.' provides more context but changes the specific field 'Salary' found in the true data.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount",
+                    "category": "only_in_true_form",
+                    "reasoning": "An amount of 75000.0 is specified in the true form but is absent (null) in the predicted value.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "only_in_true_form",
+                    "reasoning": "The frequency 'Annually' is present in the true value but missing in the predicted form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "net_gross",
+                    "category": "only_in_true_form",
+                    "reasoning": "The net/gross label 'Gross' is provided in the true form but missing in the predicted form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "identical",
+                    "reasoning": "Both true and predicted values have the field 'timeframe' as null, which matches.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "pensions": {
+            "section_name": "Pensions",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted value 'Linda Yun Chen' is a partial match with the true value 'Linda Chen' as it contains an additional middle name.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "type",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted values for 'type' are 'Defined Contribution', which are identical.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "provider",
+                    "category": "incorrect",
+                    "reasoning": "The true provider is 'Fidelity Investments', whereas the predicted provider is 'Innovate Pensions', which is incorrect.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "value",
+                    "category": "incorrect",
+                    "reasoning": "The predicted pension value is 150000.0, while the true value is 250000.0, which is incorrect.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "policy_number",
+                    "category": "incorrect",
+                    "reasoning": "The predicted policy number 'DC123456789' does not match the true policy number 'LC-PEN-2023-4567'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "savings_and_investments": {
+            "section_name": "savings_and_investments",
+            "field_evaluations": [
+                {
+                    "field_name": "ISA_Vanguard",
+                    "category": "only_in_true_form",
+                    "reasoning": "The ISA account with provider 'Vanguard' is present in the true form but not found in the predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Property",
+                    "category": "only_in_true_form",
+                    "reasoning": "The property investment is present in the true form but not found in the predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "GIA_Fidelity",
+                    "category": "only_in_true_form",
+                    "reasoning": "The GIA account with provider 'Fidelity' is present in the true form but not found in the predicted values.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "ISA_InnovateBanking",
+                    "category": "only_in_predicted_form",
+                    "reasoning": "Three ISA accounts with provider 'Innovate Banking' and a value of 10000.0 are present in the predicted form but not in the true form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "InvestmentBond_PremierInvestments",
+                    "category": "only_in_predicted_form",
+                    "reasoning": "Three Investment Bond accounts with provider 'Premier Investments' and a value of 20000.0 are present in the predicted form but not in the true form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "addresses": {
+            "section_name": "Comparison of Various Fields",
+            "field_evaluations": [
+                {
+                    "field_name": "Clients - Client Information - Title",
+                    "category": "incorrect",
+                    "reasoning": "The predicted value is 'ClientInformation', which seems to be a placeholder or misparsed input instead of the correct title 'Ms'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Clients - Client Information - Home Phone",
+                    "category": "incorrect",
+                    "reasoning": "The predicted value contains masked digits '0208XXXXXXX', whereas the true value is complete '0208-123-4567'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Clients - Client Information - Mobile Phone",
+                    "category": "incorrect",
+                    "reasoning": "The predicted value contains masked digits '0800XXXXXXX', whereas the true value is complete '07700-900800'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Dependents",
+                    "category": "only_in_true_form",
+                    "reasoning": "The predicted form lacks entries that are present in the true form, such as dependents' details.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Income",
+                    "category": "misplaced_value",
+                    "reasoning": "Actual salary details are misrepresented or incomplete in the predicted value. The name includes occupation and employer info, which isn't aligned with the true structure.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "Clients - Employments"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Housing Expenses - Mortgage Payment",
+                    "category": "misplaced_value",
+                    "reasoning": "This entry is wrongly categorized under 'Personal Expenses' in the predicted form but is correctly under 'Housing Expenses' in true form.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "Expenses - Housing Expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Savings and Investments",
+                    "category": "partial_match",
+                    "reasoning": "There are discrepancies in the fields such as provider and values, and extra entries in the predicted form that do not exactly match the true form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Loans and Mortgages",
+                    "category": "partial_match",
+                    "reasoning": "Some values like monthly cost and provider differ between the forms, but there are overlaps in other data points.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "Protection Policies",
+                    "category": "partial_match",
+                    "reasoning": "The predicted form has incomplete entries with null values, whereas the true form contains full details.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "dependents": {
+            "section_name": "dependents",
+            "field_evaluations": [
+                {
+                    "field_name": "name",
+                    "category": "only_in_true_form",
+                    "reasoning": "The dependent 'Oliver Chen' is present in the true form but missing from the predicted form, indicating an omission.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "date_of_birth",
+                    "category": "only_in_true_form",
+                    "reasoning": "The dependent's date of birth is present in the true form but missing from the predicted form, indicating an omission.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "dependent_until",
+                    "category": "only_in_true_form",
+                    "reasoning": "The dependent_until date is present in the true form but missing from the predicted form, indicating an omission.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "housing_expenses": {
+            "section_name": "housing_expenses",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "misplaced_value",
+                    "reasoning": "The predicted owner 'Linda Yun Chen' is a close variant of the true owner 'Linda Chen'. However, no exact match for either of the true values is found based on the owner field.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "motoring_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "personal_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "name",
+                    "category": "misplaced_value",
+                    "reasoning": "The predicted name 'Housing Expense' does not directly correspond to the names 'Mortgage Payment' or 'Property Tax' but overlaps significantly as a substitute or partial reference.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "personal_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "amount",
+                    "category": "only_in_predicted_form",
+                    "reasoning": "The amount of 1800.0 in the predicted does not match any specific amount in the true values. It is a new value likely representing an aggregate.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "The frequency 'Monthly' matches that of one of the true entries (Mortgage Payment).",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "The priority 'Essential' matches that of the true entry for Mortgage Payment.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "The predicted timeframe is null, while the true entries both have specific timeframes.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "misc_expenses": {
+            "section_name": "expenses",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "contradictory",
+                    "reasoning": "The owner 'Linda Chen' in the true form doesn't match 'Linda' or 'Linda Yun Chen' (name variations) in any predicted value.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "name",
+                    "category": "identical",
+                    "reasoning": "The name 'Streaming Services' is correctly predicted in one instance, although other names do not match specifically.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "amount",
+                    "category": "identical",
+                    "reasoning": "The amount '15.99' matches exactly in both true and predicted forms for 'Streaming Services'.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "Frequency 'Monthly' is identical between true and predicted values for 'Streaming Services'.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "The priority 'Discretionary' is consistent in both true and predicted for 'Streaming Services'.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses > misc_expenses"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The timeframe is 'Ongoing' in the true form but missing in the predicted form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "personal_expenses": {
+            "section_name": "Personal Expenses",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted value 'Linda Yun Chen' is a partial match to the true value 'Linda Chen'. Missing middle name in true form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "misplaced_value",
+                    "reasoning": "Predicted contains 'Grocery Shopping', 'Mortgage Payment', 'Streaming Services', 'Car Insurance', but only 'Grocery Shopping' is correct. Others are misplaced.",
+                    "predicted_value_found_elsewhere_in_true": [
+                        {
+                            "found_in_section": "expenses.housing_expenses (Mortgage Payment)"
+                        },
+                        {
+                            "found_in_section": "expenses.misc_expenses (Streaming Services and Car Insurance)"
+                        }
+                    ],
+                    "true_value_found_elsewhere_in_predicted": [
+                        {
+                            "found_in_section": "expenses.misc_expenses (Grocery Shopping)"
+                        }
+                    ]
+                },
+                {
+                    "field_name": "amount",
+                    "category": "identical",
+                    "reasoning": "Amount matches with 'Groceries' entry at 500.0 in the predicted form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "Frequency matches as 'Monthly'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "Priority matches as 'Essential'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "True value is null, but predicted timeframe is 'Stable'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "professional_expenses": {
+            "section_name": "Professional Expenses",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted value 'Linda Yun Chen' matches 'Linda Chen' but contains extra middle name. This could cause a partial match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted forms have the same value for 'name', confirming an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount",
+                    "category": "identical",
+                    "reasoning": "Both the predicted and true forms have an identical amount value of 1200.0 for the expense 'Conference Registration Fees'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted forms have the same frequency value 'Annually'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted forms have the 'priority' value as 'Important'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "contradictory",
+                    "reasoning": "The predicted form has 'timeframe' as null while the true form specifies 'Ongoing', indicating a mismatch between the two.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted value 'Linda' partially matches 'Linda Chen' signifying an incomplete extraction.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "identical",
+                    "reasoning": "Both the true and predicted forms have the same field for 'Professional Membership Dues'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount",
+                    "category": "identical",
+                    "reasoning": "Both forms show an identical amount of 350.0.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "The frequency is 'Annually' in both the true and predicted forms.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "The predicted and true forms both list 'Essential' for priority.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "The true form lists 'Ongoing' for 'timeframe' while the predicted form leaves it null, showing an incomplete prediction.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "motoring_expenses": {
+            "section_name": "motoring_expenses",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The true form lists the owner's name as 'Linda Chen', while the predicted form lists 'Linda Yun Chen'. The names are similar, but not identical, indicating a partial match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "identical",
+                    "reasoning": "The 'name' field is identical in both the true and predicted forms, as they both list 'Car Insurance'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount",
+                    "category": "identical",
+                    "reasoning": "The 'amount' field is identical in both forms, with a value of 1200.0.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "identical",
+                    "reasoning": "The 'frequency' field in both the true and predicted forms is 'Annually', indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "identical",
+                    "reasoning": "The 'priority' field is listed as 'Essential' in both the true and predicted forms, indicating an identical match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "predicted_empty_true_value_present",
+                    "reasoning": "The true form lists 'Ongoing' for the 'timeframe', while the predicted form has no value (null). This indicates that the true value is not captured in the prediction.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "loan_repayments": {
+            "section_name": "Loan Repayments",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies an owner for the loan but the predicted form has no value for 'owner'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "name",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies a name for the loan but the predicted form has no value for 'name'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies an amount for the loan but the predicted form has no value for 'amount'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "frequency",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies a frequency for the loan but the predicted form has no value for 'frequency'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "priority",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies a priority for the loan but the predicted form has no value for 'priority'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "timeframe",
+                    "category": "true_empty_predicted_value_present",
+                    "reasoning": "The true form specifies a timeframe for the loan but the predicted form has no value for 'timeframe'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "loans_and_mortgages": {
+            "section_name": "loans_and_mortgages",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "incorrect",
+                    "reasoning": "The predicted form lists the owner as 'Linda Yun Chen' instead of the correct 'Linda Chen'. This misrepresentation affects direct matching.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "type",
+                    "category": "identical",
+                    "reasoning": "Both forms correctly identified the type as 'Mortgage'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "provider",
+                    "category": "incorrect",
+                    "reasoning": "The provider in the predicted form is 'Global Bank' instead of the true 'Sunshine Bank'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "monthly_cost",
+                    "category": "incorrect",
+                    "reasoning": "The monthly cost is listed as 1450.0 in the predicted form, whereas it should be 1500.0 according to the true form.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "outstanding_value",
+                    "category": "identical",
+                    "reasoning": "The outstanding value is correctly matched as 250000.0 across both forms.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "interest_rate",
+                    "category": "incorrect",
+                    "reasoning": "The interest rate is predicted as 3.75, while the true value is 3.5.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "special_rate",
+                    "category": "incorrect",
+                    "reasoning": "The predicted special rate is '2.5% fixed until 2030', whereas the true variant ends in 2029.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "final_payment",
+                    "category": "incorrect",
+                    "reasoning": "The date for the final payment is mismatched. Predicted as '2045-06-15' instead of the correct '2045-06-30'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "other_assets": {
+            "section_name": "other_assets",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The true owner is 'Linda Chen', whereas the predicted owner is 'Linda Yun Chen'. There is a slight variation in the name due to an additional middle name.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "description",
+                    "category": "partial_match",
+                    "reasoning": "The true description is 'Art Collection'. The predicted description mentions both 'Classic Car, Owned by client, market value unknown.' and 'Art Collection'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "current_value",
+                    "category": "only_in_true_form",
+                    "reasoning": "The true current value is 75000.0, but the predicted current value is null (only true value is present).",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "original_value",
+                    "category": "only_in_true_form",
+                    "reasoning": "The true original value is 50000.0, but the predicted original value is null (only true value is present).",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        },
+        "protection_policies": {
+            "section_name": "protection_policies",
+            "field_evaluations": [
+                {
+                    "field_name": "owner",
+                    "category": "partial_match",
+                    "reasoning": "The predicted form listed 'Linda Yun Chen' whereas the true form has 'Linda Chen'. Middle name inclusion is a partial match.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "type",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null while the true form has specific types such as 'Life Assurance'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "provider",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null while the true form specifies providers like 'Sunlife Insurance'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "monthly_cost",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null whereas the true form lists specific monthly costs for each policy.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "amount_assured",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null while the true form provides specific amounts assured.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "in_trust",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null whereas the true form specifies if the policy is in trust.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "assured_until",
+                    "category": "only_in_true_form",
+                    "reasoning": "Predicted value is null, while the true form includes specific assured until dates like '2050-12-31'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                },
+                {
+                    "field_name": "objectives",
+                    "category": "incorrect",
+                    "reasoning": "The true form outlines specific objectives related to each policy, whereas the predicted form has a generic 'Specific objectives for future planning'.",
+                    "predicted_value_found_elsewhere_in_true": null,
+                    "true_value_found_elsewhere_in_predicted": null
+                }
+            ]
+        }
+    },
+    "stats_eval": {
+        "same_n_clients": true,
+        "employments": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 100.0,
+            "percentage_difference": 0.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "health_details": {
+            "true_form_filled_fields_percentage": 81.82,
+            "predicted_form_filled_fields_percentage": 54.55,
+            "percentage_difference": -27.27,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "client_info": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 100.0,
+            "percentage_difference": 0.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "incomes": {
+            "true_form_filled_fields_percentage": 83.33,
+            "predicted_form_filled_fields_percentage": 33.33,
+            "percentage_difference": -50.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "pensions": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 100.0,
+            "percentage_difference": 0.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "savings_and_investments": {
+            "true_form_filled_fields_percentage": 91.67,
+            "predicted_form_filled_fields_percentage": 89.29,
+            "percentage_difference": -2.38,
+            "true_form_total_models": 3,
+            "pred_form_total_models": 7
+        },
+        "addresses": {
+            "true_form_filled_fields_percentage": 0.0,
+            "predicted_form_filled_fields_percentage": 0.0,
+            "percentage_difference": 0.0,
+            "true_form_total_models": 0,
+            "pred_form_total_models": 0
+        },
+        "dependents": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 0.0,
+            "percentage_difference": -100.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 0
+        },
+        "housing_expenses": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 83.33,
+            "percentage_difference": -16.67,
+            "true_form_total_models": 2,
+            "pred_form_total_models": 1
+        },
+        "misc_expenses": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 91.67,
+            "percentage_difference": -8.33,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 6
+        },
+        "personal_expenses": {
+            "true_form_filled_fields_percentage": 83.33,
+            "predicted_form_filled_fields_percentage": 90.0,
+            "percentage_difference": 6.67,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 5
+        },
+        "professional_expenses": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 83.33,
+            "percentage_difference": -16.67,
+            "true_form_total_models": 2,
+            "pred_form_total_models": 2
+        },
+        "motoring_expenses": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 83.33,
+            "percentage_difference": -16.67,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 1
+        },
+        "loan_repayments": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 0.0,
+            "percentage_difference": -100.0,
+            "true_form_total_models": 2,
+            "pred_form_total_models": 1
+        },
+        "loans_and_mortgages": {
+            "true_form_filled_fields_percentage": 93.75,
+            "predicted_form_filled_fields_percentage": 100.0,
+            "percentage_difference": 6.25,
+            "true_form_total_models": 2,
+            "pred_form_total_models": 1
+        },
+        "other_assets": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 50.0,
+            "percentage_difference": -50.0,
+            "true_form_total_models": 1,
+            "pred_form_total_models": 2
+        },
+        "protection_policies": {
+            "true_form_filled_fields_percentage": 100.0,
+            "predicted_form_filled_fields_percentage": 25.0,
+            "percentage_difference": -75.0,
+            "true_form_total_models": 3,
+            "pred_form_total_models": 1
+        }
+    },
+    "llm_stats_eval": {
+        "overall": {
+            "total_fields": 125,
+            "overall_category_distribution": {
+                "partial_match": 12.8,
+                "identical": 40.8,
+                "predicted_empty_true_value_present": 4.8,
+                "incorrect": 12.8,
+                "only_in_true_form": 14.399999999999999,
+                "only_in_predicted_form": 2.4,
+                "misplaced_value": 4.0,
+                "contradictory": 1.6,
+                "true_empty_predicted_value_present": 6.4
+            }
+        },
+        "section_stats": {
+            "employments": {
+                "num_fields": 9,
+                "accuracy_score": 88.88888888888889,
+                "category_distribution": {
+                    "partial_match": 11.11111111111111,
+                    "identical": 88.88888888888889
+                },
+                "most_problematic_fields": [],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "health_details": {
+                "num_fields": 11,
+                "accuracy_score": 54.54545454545454,
+                "category_distribution": {
+                    "partial_match": 18.181818181818183,
+                    "identical": 54.54545454545454,
+                    "predicted_empty_true_value_present": 27.27272727272727
+                },
+                "most_problematic_fields": [
+                    "will",
+                    "power_of_attorney",
+                    "information_about_will"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "client_info": {
+                "num_fields": 15,
+                "accuracy_score": 80.0,
+                "category_distribution": {
+                    "incorrect": 20.0,
+                    "identical": 80.0
+                },
+                "most_problematic_fields": [
+                    "title",
+                    "home_phone",
+                    "mobile_phone"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "incomes": {
+                "num_fields": 6,
+                "accuracy_score": 16.666666666666664,
+                "category_distribution": {
+                    "partial_match": 33.33333333333333,
+                    "only_in_true_form": 50.0,
+                    "identical": 16.666666666666664
+                },
+                "most_problematic_fields": [],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "pensions": {
+                "num_fields": 5,
+                "accuracy_score": 20.0,
+                "category_distribution": {
+                    "partial_match": 20.0,
+                    "identical": 20.0,
+                    "incorrect": 60.0
+                },
+                "most_problematic_fields": [
+                    "value",
+                    "policy_number",
+                    "provider"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "savings_and_investments": {
+                "num_fields": 5,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "only_in_true_form": 60.0,
+                    "only_in_predicted_form": 40.0
+                },
+                "most_problematic_fields": [],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "addresses": {
+                "num_fields": 9,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "incorrect": 33.33333333333333,
+                    "only_in_true_form": 11.11111111111111,
+                    "misplaced_value": 22.22222222222222,
+                    "partial_match": 33.33333333333333
+                },
+                "most_problematic_fields": [
+                    "Clients - Client Information - Title",
+                    "Income",
+                    "Clients - Client Information - Mobile Phone",
+                    "Housing Expenses - Mortgage Payment",
+                    "Clients - Client Information - Home Phone"
+                ],
+                "misplaced_predicted_count": 2,
+                "misplaced_true_count": 0
+            },
+            "dependents": {
+                "num_fields": 3,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "only_in_true_form": 100.0
+                },
+                "most_problematic_fields": [],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "housing_expenses": {
+                "num_fields": 6,
+                "accuracy_score": 33.33333333333333,
+                "category_distribution": {
+                    "misplaced_value": 33.33333333333333,
+                    "only_in_predicted_form": 16.666666666666664,
+                    "identical": 33.33333333333333,
+                    "predicted_empty_true_value_present": 16.666666666666664
+                },
+                "most_problematic_fields": [
+                    "timeframe",
+                    "name",
+                    "owner"
+                ],
+                "misplaced_predicted_count": 2,
+                "misplaced_true_count": 2
+            },
+            "misc_expenses": {
+                "num_fields": 6,
+                "accuracy_score": 66.66666666666666,
+                "category_distribution": {
+                    "contradictory": 16.666666666666664,
+                    "identical": 66.66666666666666,
+                    "true_empty_predicted_value_present": 16.666666666666664
+                },
+                "most_problematic_fields": [
+                    "timeframe",
+                    "owner"
+                ],
+                "misplaced_predicted_count": 5,
+                "misplaced_true_count": 5
+            },
+            "personal_expenses": {
+                "num_fields": 6,
+                "accuracy_score": 50.0,
+                "category_distribution": {
+                    "partial_match": 16.666666666666664,
+                    "misplaced_value": 16.666666666666664,
+                    "identical": 50.0,
+                    "true_empty_predicted_value_present": 16.666666666666664
+                },
+                "most_problematic_fields": [
+                    "timeframe",
+                    "name"
+                ],
+                "misplaced_predicted_count": 1,
+                "misplaced_true_count": 1
+            },
+            "professional_expenses": {
+                "num_fields": 12,
+                "accuracy_score": 66.66666666666666,
+                "category_distribution": {
+                    "partial_match": 16.666666666666664,
+                    "identical": 66.66666666666666,
+                    "contradictory": 8.333333333333332,
+                    "predicted_empty_true_value_present": 8.333333333333332
+                },
+                "most_problematic_fields": [
+                    "timeframe"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "motoring_expenses": {
+                "num_fields": 6,
+                "accuracy_score": 66.66666666666666,
+                "category_distribution": {
+                    "partial_match": 16.666666666666664,
+                    "identical": 66.66666666666666,
+                    "predicted_empty_true_value_present": 16.666666666666664
+                },
+                "most_problematic_fields": [
+                    "timeframe"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "loan_repayments": {
+                "num_fields": 6,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "true_empty_predicted_value_present": 100.0
+                },
+                "most_problematic_fields": [
+                    "timeframe",
+                    "owner",
+                    "frequency",
+                    "priority",
+                    "name",
+                    "amount"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "loans_and_mortgages": {
+                "num_fields": 8,
+                "accuracy_score": 25.0,
+                "category_distribution": {
+                    "incorrect": 75.0,
+                    "identical": 25.0
+                },
+                "most_problematic_fields": [
+                    "provider",
+                    "final_payment",
+                    "interest_rate",
+                    "owner",
+                    "special_rate",
+                    "monthly_cost"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "other_assets": {
+                "num_fields": 4,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "partial_match": 50.0,
+                    "only_in_true_form": 50.0
+                },
+                "most_problematic_fields": [],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            },
+            "protection_policies": {
+                "num_fields": 8,
+                "accuracy_score": 0.0,
+                "category_distribution": {
+                    "partial_match": 12.5,
+                    "only_in_true_form": 75.0,
+                    "incorrect": 12.5
+                },
+                "most_problematic_fields": [
+                    "objectives"
+                ],
+                "misplaced_predicted_count": 0,
+                "misplaced_true_count": 0
+            }
+        },
+        "misplacement_matrix": {
+            "cross_section_misplacements": {
+                "addresses": {
+                    "Clients - Employments": 1,
+                    "Expenses - Housing Expenses": 1
+                },
+                "housing_expenses": {
+                    "motoring_expenses": 1,
+                    "personal_expenses": 2,
+                    "misc_expenses": 1
+                },
+                "misc_expenses": {
+                    "expenses > misc_expenses": 10
+                },
+                "personal_expenses": {
+                    "expenses.housing_expenses (Mortgage Payment)": 1,
+                    "expenses.misc_expenses (Streaming Services and Car Insurance)": 1,
+                    "expenses.misc_expenses (Grocery Shopping)": 1
+                }
+            }
+        }
+    }
+}

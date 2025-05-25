@@ -1,0 +1,13 @@
+Full True Form:
+{true_form_json}
+
+---
+Full Predicted Form:
+{predicted_form_json}
+
+---
+Evaluate the comparison for the following fields:
+
+True Value: {true_value}
+Predicted Value: {predicted_value}
+---

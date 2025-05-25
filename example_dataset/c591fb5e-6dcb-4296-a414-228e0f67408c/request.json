@@ -1,7 +1,0 @@
-{
-    "model": "HealthDetails",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the advisor summarizes information provided by the client.",
-    "segments": 3,
-    "id": "c591fb5e-6dcb-4296-a414-228e0f67408c"
-}

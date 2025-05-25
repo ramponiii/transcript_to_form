@@ -1,0 +1,242 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "David",
+                "middle_names": [
+                    "James"
+                ],
+                "last_name": "Chen",
+                "known_as": "David",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "San Francisco, CA, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "415-555-0123",
+                "mobile_phone": "415-555-6789",
+                "email_address": "david.chen@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Data Analyst",
+                    "employer": "Tech Solutions Ltd",
+                    "employment_started": "01-09-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with mild hypertension.",
+                "state_of_health_explanation": "David maintains a healthy lifestyle but manages mild hypertension with medication.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care.",
+                "will": true,
+                "information_about_will": "Will created in 2020, stored with personal lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Assigned to his spouse, Emily Chen."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2015-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "E14 5HP",
+            "house_name_number": "17",
+            "street_name": "Canary Wharf",
+            "address_line_3": "Apartment 32B",
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2020-09-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Emily Chen",
+            "date_of_birth": "15-06-2012",
+            "dependent_until": "15-06-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "David Chen",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "David Chen",
+            "name": "Rental Income",
+            "amount": 2500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "David Chen",
+                "name": "Student Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until December 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "David Chen",
+                "name": "Mortgage Payment",
+                "amount": 2500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2040"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "David Chen",
+                "name": "Car Insurance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Renewal in January each year"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "David",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "David",
+                "name": "Streaming Subscriptions",
+                "amount": 20.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "David Chen",
+                "name": "Office Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "David Chen",
+                "name": "Charitable Donation to Wildlife Conservation",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "David Chen",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 75000.0,
+            "policy_number": "DC12345XYZ"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "David Chen",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "David Chen",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 18000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "David Chen",
+            "description": "Art Collection",
+            "current_value": 235000.0,
+            "original_value": 150000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "David Chen",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1450.75,
+            "outstanding_value": 230000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "David Chen",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 85.75,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of unforeseen events."
+        },
+        {
+            "owner": "David Chen",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 60.5,
+            "amount_assured": 3500.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Ensure continuation of income in the event of illness or accident."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

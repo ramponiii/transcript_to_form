@@ -1,112 +1,134 @@
-## Goals
-Create an LLM-based pipeline to extract the client’s answers to the questions from the 
-transcript of the fact-finding call and automatically complete CIF.
- 
-The objectives of the tasks are: 
-1.  Create an LLM-based solution to extract structured data from call transcript (LLM and 
-other related costs can be reimbursed) 
-2.  Evaluate the performance of the proposed solution (hint: use synthetic data for 
-performance evaluation) 
-3.  Suggest or implement improvements to the initial solution and evaluate metrics 
-improvements
-
 ## Getting Started
 First, install uv [instructions can be found here](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
 
-Then create a .env file using the .env.example template. You should only need to fill in the openai api key.
+Then you will need a pinecone api key, I made a free account [here](https://app.pinecone.io/organizations/-/keys)
 
 ```
 uv sync # creates venv, installing the dependencies you will need to play around with the code
 
-# In a separate terminal, spin up the vector db, by running
-uv run chroma run --path ./chroma_db
-
 # Test inference on a transcript by using
-uv run python -m transcript_to_form -o my_output_directory
+uv run python -m scripts.run_extractor
 
-# Create an example dataset using
-uv run python scripts/create_dataset.py
-
-# Run very basic eval on example dataset using
-# this is very slow as the example set has around 3k chunks, and these all need to be ingested to the VDB (and currently embeddings are being run locally).
-uv run python scripts/run_evaluation.py
-
-# Run the (very) minimal tests on client identifier by using
-uv run pytest
 ```
 
-## About My Approach
-I want to build something which works robustly. I don't want to have to worry about context limits, or producing very long output forms. I want to decompose the problem into small steps, each of which I have lots of control over. In this way, I can build something which I can improve more easily over time, observe better, and (attempt!) to optimize for performance.
+# High Level Description of my work
+All of my work heavily uses pydantic, and openai structured outputs. I had never used openai structured outputs before, we don't use it at work, so thought it was a good chance to have a play with it. And I'm impressed. 
 
-I have built something which I evaluate into distinct parts. I evaluate retrieval, and I evaluate the writing of structured outputs. Creating separation between these two allows the LLM to do less in any one call - and allows me to understand where the weaknessess of the approach lie.
+I also took the chance to try out pinecone, though am not overly impressed at their async support. Earlier editions of this take home used chroma.
 
-### Client Identification
-I first produce a **Client Identification** object. This could have been done by extracting client names from the transcript with regex. However, I want my approach to work with different speech-to-text systems. I do not want to tie myself to the exact format of transcript given. 
+## Synthetic Transcripts
+- I wanted these to be controllabe, so introduced a TranscriptConfig model which I'd like to be more customizable.
 
-This object contains aliases of the client to ensure that I can provide context to allow the model / retrieval system to know that when I want information about a name (e.g. 'James'), this is synonymous with the name used in transcript (e.g. 'CLIENT1'). This also contains a short description string, allowing me to provide the LLM with more context on the situation (as I opt not to process the transcript all at once)
+The steps are:
+1. Generate personas for the financial and advisor if not given, using an LLM with a high temperature.
+2. Generate a list of desired things we want to extract, these are populated pydantic models, and should be able to be provided in the config in the long run (though right now an LLM Generates them)
+3. Use the passed in config and the desired model to generate the `form section` parts of the dialogue - these are the parts of the dialogue which should contain the answers. This is checked using a second llm call, which verifies that all of the expected information is discussed in the transcript.
+4. Generate padding, using a range of seed topics, to pad the length of the conversation while not introducing new information (* can't confirm it doesn't introduce new info...)
+5. Generate a long intro and outro, again to pad the conversation.
 
-### Pre-Processing
-I chunk my transcript using some naive logic. Intuitively, I expect conversations between a financial advisor and client/s to be of the question, answer style. Thus initially, my chunks are formed simply by concatenating transcript messages, starting with an advisor message, with at least one client message, until the next advisor message is found. 
+## Extraction
+1. First, extract the name and basic info around the clients. This is useful at all stages of extraction to give some context on the conversation.
+2. Now, extract client specific objects, while in parallel extracting all of the other sections.
+3. For each section...
+3a. use the retrieval queries for the model instance to query a pinecone VDB, retrieving back N chunks, and then expanding to get the prior K and following K chunks from it, so that each retrieved chunk is contextualized. 
+3b. On the retrieved content, identify how many different model instances we need to extract (e.g. multiple incomes) - I call these model summaries
+3c. Run extraction for the desired model summaries, producing the final desired pydantic models.
+3d. run the checker, which verifies the extract content looks reasonable and does not belong in a different section.
 
-``` Example
-(advisor, client1, advisor, client1, client2, advisor, ...) 
+Extraction also has a failure mechanism, whereby if openai fails to return a model object, I append to the system prompt and try again. In practice I have never seen it fail, so this work was overkill.
 
-# I'd extract the chunks --->
+I spent some time trying to condense the transcript, which I think I would want to spend more time on if I had more time. Probably something akin to fact extraction.
 
-(advisor, client1) , (advisor, client1, client2), (advisor, ...)
+## Evaluation
+I use two types of evaluation
+- Simple evaluation, using basic stats around how often fields are filled, which gives me a quick over view of how things are doing (spoiler: they are not doing well)
+- LLM as a judge - I struggled to write manual code quickly to compare the fields using their actual datatypes, instead I was lazy and use an LLM to compare the results. This code is poorly written and not very well thought out. 
+
+## Big Picture Problems
+- I've tried to modularize the code, the advantage of that being that it gives me control and the ability to fine tune different parts of the system. However, I've not got far enough in to really feel the advantage of that. I'd like to be able to run my analysis, identify the troublesome area, write some failing tests, and improve, but this has not been possible in the time. 
+
+- Lack of testing around the evaluation code is very poor work. This should be my ground truth, however there could well be some foo bar like mistakes in there. In hindsight, I think I should have gone for TDD, and tried to write expected forms frmo the two synthetic transcripts you gave me to begin with. Getting good performance on even those two would indicate it at least partially does its' job.
+
+### Extraction Quality Analysis 
+I ran an evaluation on 42 synthetic transcripts. I'm still working out the best metrics to use, but here’s what I’m currently tracking:
+
+- Filled Proportions – Percentage of fields filled in the true vs predicted forms.
+
+- Most Common Field Failures – Which field names fail most frequently.
+
+- Misplacement Trends – Which sections often contain info that belongs elsewhere.
+
+- Accuracy by Section – Identical + partial matches as a measure of section-level quality.
+
+- Misplacements by Section – How often info ends up in the wrong plac
+---
+### Basic Stats Eval 
+Some sections are clearly missing a lot of information. For example, Dependents has a 95% fill rate in the true forms, but only 14% in predictions — something is clearly going wrong there.
+
+Similarly, Other Assets, Addresses, Pensions, and Health Details all have true-form fill rates over 90%, but predicted values are below 40%. I haven’t looked into these deeply yet, but I expect these failures are due to some obvious issue in retrieval, parsing, or synthetic data setup.
+
+### LLM as a judge 
+
+Performance varies a lot by section:
+
+- Best performing: Client Info (51% identical matches), followed by Employments (48%).
+
+- Worst performing: Dependents (6%), Other Assets (14%), Pensions (19%).
+
+Interestingly, the poorly performing sections also show low misplacement rates, which suggests they’re not being extracted at all — likely a retrieval failure.
+
+Some sections, especially the expenses categories (e.g. misc, personal), are frequently misplaced. This makes sense in hindsight. I tried to extract each expense type independently, but probably should have just pulled all expenses and then categorized them after.
+
+I had implemented a checker to reduce this duplication, but it hasn’t helped much. There’s still frequent duplication and overlap between sections. This could be a result of poor synthetic transcript generation, which doesn’t enforce enough structure.
+
+**Overall Results**
+
+- Identical matches: 31%
+
+- Partial matches: 10%
+
+- Fields only in true form: 32% ← biggest problem category
+
+- Incorrect fields: 8.7%
+
+- Contradictions (true vs pred): 2% ← surprisingly low (good sign)
+
+A lot of the "only in true" errors seem to come from isolated failures on specific forms. For instance, when Addresses fails, it tends to fail completely, which causes large gaps. This is likely a result of weak or missing retrieval logic.
+
+Another issue is the extractor occasionally outputs empty objects — I haven’t looked closely into this yet. Could also be due to me relaxing validation constraints in the synthetic transcript generator (e.g., removing checks for client info, employments, etc.) just to get the pipeline running.
+
+That decision — removing tests because they were failing — is not best practice... but I did it to save time. 
+
+#### Common Field Failures
 ```
+# most common fields which were wrong
+('name', 116), ('timeframe', 107), ('amount', 102), ('owner', 89), ('frequency', 59),
+```
+- name and owner are probably fixable by passing in the client’s name during extraction.
 
-This is not robust as I don't control how much text is being embedded. The chunks could thus become large, and lose semantic meaning. See the Future Ideas section below for how I would improve this.
+- timeframe and frequency are typically properties of objects like Expense or Income. These fields are often null or partially filled — which skews things.
 
-I append to each chunk an ID. This ID allows me to provide (naive) sourcing. In the pydantic models I ask the llm to produce, a sourcing field is added, so that I can quickly see what content the llm chose to identify that it used to write some content. This is not perfect, but I found it useful for debugging.
+The extractor tends to pull either too many objects, or objects with only one field (like name) populated.
 
-When a chunk is retrieved, I added a system to expand from this chunk to capture the surrounding conversation. This was not optimized in any way. This allows me to ensure enough context is gathered around the retrieved point for it to be fully understood.
+This is probably an issue with the retrieval pipeline or summary logic. I might need to break object extraction into one call per expected object.
 
-### Structured Generation
-For this I simply used the openai structured responses endpoint. I have not used this before, but thought it was pretty neat, and well suited for this task. 
+### Proposed Improvements 
+1. When generating synthetic transcripts, I should better ensure they are not contradictory. For instance right now, a loan might come through in the expenses sections or in the 'mortgages and loans' section. Because these are not aware of each other, right now, transcripts may populate both, and the expected form will be wrong. And thus I may be evaluating against incorrect 'true' forms (which is likely to be the case). To resolve this, I'd take another think about how I could go about seeding the generation.
 
-### Evaluation of my Approach
-In hindsight, I'd like to have done things differently. I think that's the nice thing about building things quickly: you get an idea for a problem, try it out, and have a better idea for the next iteration.
+2. Retrieval needs to be properly evaluated and tested, I suspect this is a cause of many failures, though not confirmed.
 
-To evaluate my approach, I've placed emphasis on evaluating retrieval (which is in my opinion, the critical part of the approach I chose). If I can't retrieve the correct chunks, it all falls apart. My retrieval evaluation indicated that some sections of the form are far more sensitive (using my current implementation) to retrieval than others. 
+3. I would rework extraction of expenses, instead of extracting each type of expense id extract a list of expenses and categorize them. This is because my analysis suggests these fields are often misplaced.
 
-For instance, information around the basic client information, shower really poor retrieval results. It suggests either I've not put enough care into my synthetic data generation (very likely), but also that my retrieval system is not as well suited for these sections.
+4. I'd pass in the name of the client to each extraction call, as right now it won't have the context that 'CLIENT' has a real name, and thus evaluation is failing (and it looks silly). This would be a simple fix. This is because of the analysis around the fields with the most failures.
 
-With more time, I'd specifically add:
-- needle in the haystack type tests, where we have lots of irrelevant content
-- LLM as a judge to actually assert that the content we want to find is the content retrieved
-- more variation in the way transcripts were written
-- add 'wishy washy' content, which answers no question, and just pads the vector database to make retrieval harder
-- confusion matrices to see which sections are getting retrieved in place of one another
+5. I'd improve the transcript quality by re-writing them using a re-writer, to basically make the convo more natural. I'd probably also re-introduce the transcript quality parameter to the prompt that I had implemented before. This is just a general comment, not inspired by the analysis.
 
-### General Comments
-1. I do not want to try and generate long transcripts. This sounds like a hard thing to do well.
-2. I want to build a system which I can control
-3. I want my system to easily work with different types of form
-4. I want my system to be explainable
-5. I want to be able to provide sources for any written LLM text
+6. The results show that a number of sections are performing abysmally. There is probably a foo bar mistake somewhere in my code, or thinking. I should find and fix this.
 
-### Costs
-- Costs around $0.10 to produce 500 examples for evaluation
-- Costs around $0.05 to fill the form for the first example transcript
+7. I should generate more transcripts with whole sections missing. These are interesting test case which I set myself up to do, then didn't take advantage of.
 
-### Assumptions 
-- I assume that conversations between advisors and clients are naturally parsable into chunks. This is a big assumption. The quality of my retrieval system will be heavily dependent on the quality of the chunking, I chose something very simple here, but this would require a lot more thought to get it production ready.
+8. LLM as a judge is probably a bold choice here. However, I had a bit of a headache trying to write code to do manual comparisons of the fields. I opted for a hybrid approach: LLM as a judge and some baseline stats. The key thing missing in this work is evaluation and fine-tuning of the evaluator (!) This is a **major** flaw.
 
-- I assume that the transcript may not necessarily contain answers to fill all of the fields.
-- I assume that I want this process to be cheap to run, and set myself the limit of $0.05 per transcript.
-- I assume that the user cares deeply about being able to see why given text was written. Thus, I get the LLM to (lazily) provide sources for each written field in the form.
+9. The transcripts are too LLM like. I thought about much higher temperature, and previously had implemented a `Clarity` argument which I used to try and produce more diverse transcripts (i.e. some where the information was more obscure). I would do this if I were working on this more. 
 
-### Approximate Time Spend
-~3hrs friday, bulk of the logic around client identification and building of pydantic model objects
-~6hrs saturday, got the system running end to end + added costing
-~4hrs sunday, built evaluation suite + cleaning code
-
-# Ideas Board
-- lots of code cleaning is needed. Things got a bit rushed towards the end!
-- unit tests...
-- The retrieval setup I have used is very lazy. Something more like [Anthropic's contextual retriever](https://www.anthropic.com/news/contextual-retrieval) would suit this problem nicely in my opinion. It's extremely lazy to use the chroma built in embedder, performance would be much better using an api for the embeddings (done this way out of laziness).
-- My cost counting is pretty lazy. I'd like to add traces to the code. I'd like to better understand how long the different parts of the process take to optimize them. 
-- Better analysis could involve looking to see how recall is affected by transcript quality. I'd like to introduce more cases where fields are missing, allowing for better analysis to ensure the model does not hallucinate details.
-- Retrieval could look to first produce summaries of the chunks. You could then finetune an embedding model on these produced summaries, to give you more control of the system.
-- 
+10. Most important comes last. The UX is the most important part of the problem here. As a user, I want to trust the system, and to get trust I need more than just filled fields. I want to know why they were filled, and using what part of the trancsript. I think providing sources is a relatively easy problem here, and the cherry on the cake would be sourcing back to audio segments that the user could hear if they clicked on a filled element (to hear the actual transcript which the model cited as being used to generate the field). That IMO is killer UX which would make for a really cool demo. I'd like to have a go at building that into this system, but maybe for another day. 

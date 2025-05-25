@@ -1,2 +1,6 @@
-class ChromaDbNotRunningError(Exception):
+class NoModelExtractedError(Exception):
+    pass
+
+
+class ModelMissingRetrievalQueriesError(Exception):
     pass

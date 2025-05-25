@@ -1,0 +1,317 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Marcus",
+                "middle_names": [
+                    "Andrew",
+                    "James"
+                ],
+                "last_name": "Reid",
+                "known_as": "Marcus",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "Los Angeles, California",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "310-555-0123",
+                "mobile_phone": "310-555-0456",
+                "email_address": "marcus.reid@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 123456 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": "15-03-2020",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "123-45-6789",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "10-06-2018",
+                    "highest_rate_of_tax_paid": "24%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, with a focus on maintaining fitness and eating well.",
+                "state_of_health_explanation": "No major health concerns, engages in regular physical activity.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care anticipated.",
+                "will": true,
+                "information_about_will": "Will is stored at home, last updated in 2022.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Brother, Andrew Reid, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "NW1 6XE",
+            "house_name_number": "15A",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": null,
+            "country": "United Kingdom",
+            "move_in_date": "2022-05-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW3 4SR",
+            "house_name_number": "Flat 10",
+            "street_name": "Kings Road",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Chelsea",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2018-03-10",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ella Reid",
+            "date_of_birth": "15-06-2010",
+            "dependent_until": "15-06-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Marcus Reid",
+            "name": "Salary",
+            "amount": 65000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Marcus Reid",
+            "name": "Rental Income",
+            "amount": 1500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Car Loan Repayment",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2026"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Monthly Rent Payment",
+                "amount": 1800.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Home Insurance",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Auto Insurance",
+                "amount": 600.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Streaming Services Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Conference Registration and Travel",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Marcus Reid",
+                "name": "Charity Donation",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Marcus Reid",
+                "name": "Streaming Subscriptions",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 120000.0,
+            "policy_number": "DC-FID-456789"
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Marcus Reid",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 52000.0
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 35000.0
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Property",
+            "provider": null,
+            "value": 250000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Marcus Reid",
+            "description": "Vintage Guitar Collection",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        },
+        {
+            "owner": "Marcus Reid",
+            "description": "Contemporary Art Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Mortgage",
+            "provider": "National Home Loans",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2043-05-01"
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Car Finance",
+            "provider": "Speedy Auto Loans",
+            "monthly_cost": 300.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 6.0,
+            "special_rate": "5.0% fixed until 2025",
+            "final_payment": "2028-11-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Marcus Reid",
+            "type": "Life Assurance",
+            "provider": "SunLife",
+            "monthly_cost": 75.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of unexpected events."
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 55.75,
+            "amount_assured": 3500.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Maintain lifestyle and cover expenses in case of illness or injury leading to inability to work."
+        },
+        {
+            "owner": "Marcus Reid",
+            "type": "Critical Illness Cover",
+            "provider": "Aviva",
+            "monthly_cost": 68.25,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "2035-11-30",
+            "objectives": "Provide a lump sum to cover medical expenses or loss of income if diagnosed with a serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

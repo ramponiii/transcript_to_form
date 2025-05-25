@@ -1,0 +1,237 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Reed",
+                "known_as": "Emily",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": "AB1 2CD",
+            "house_name_number": "123",
+            "street_name": "Elm Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Springfield",
+            "county": null,
+            "country": "USA",
+            "move_in_date": "2022-04-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Anne Reed",
+            "name": "Employment Income",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily",
+                "name": "Loan Repayment for Mortgage",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2030"
+            },
+            {
+                "owner": "Emily",
+                "name": "Car Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until car is paid off"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Emily's House Mortgage",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Annual Property Taxes",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Monthly HOA Fees",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Fuel",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": null,
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Art Supplies",
+                "amount": null,
+                "frequency": "Irregular",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Miscellaneous Travel Cost",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Anne Reed",
+                "name": "Art Supplies",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Anne Reed",
+                "name": "Garden Maintenance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Anne Reed",
+            "type": "Defined Contribution",
+            "provider": "Creative Solutions Ltd. Pension Scheme",
+            "value": 150000.0,
+            "policy_number": "CSLP-123456"
+        }
+    ],
+    "savings_and_investments": [],
+    "other_assets": [
+        {
+            "owner": "Emily Anne Reed",
+            "description": "An art collection owned by Emily, likely part of her interests.",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Anne Reed",
+            "type": "Mortgage",
+            "provider": "Green Bank",
+            "monthly_cost": 1500.75,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-06-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Anne Reed",
+            "type": "Life Assurance",
+            "provider": "Creative Insure",
+            "monthly_cost": 45.99,
+            "amount_assured": 150000.0,
+            "in_trust": true,
+            "assured_until": "Retirement",
+            "objectives": "Provide financial security to family in case of unexpected death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

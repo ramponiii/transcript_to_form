@@ -1,7 +1,0 @@
-{
-    "model": "HealthDetails",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the client provides information in a disorganized manner.",
-    "segments": 3,
-    "id": "a10107f5-6ba5-4d96-98b2-dc233631fa4d"
-}

@@ -1,0 +1,284 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "James",
+                "middle_names": [],
+                "last_name": "Parker",
+                "known_as": "James",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "London, UK",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "02071234567",
+                "mobile_phone": "07912345678",
+                "email_address": "james.parker@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "BrightStar Media Ltd.",
+                    "employment_started": "15-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Freelance Writer",
+                    "employer": null,
+                    "employment_started": "01-01-2016",
+                    "highest_rate_of_tax_paid": "24%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good",
+                "state_of_health_explanation": "Overall healthy, with regular exercise and balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need or foreseeable requirement for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2022, stored at home and with attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Granted to his sister, Sarah Parker, in 2022."
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": "Emma Parker",
+            "date_of_birth": "15-08-2015",
+            "dependent_until": "15-08-2036"
+        },
+        {
+            "name": "Liam Parker",
+            "date_of_birth": "09-03-2012",
+            "dependent_until": "09-03-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "James Parker",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "James Parker",
+            "name": "Freelance Consulting",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "James Parker",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Car Loan Repayment",
+                "amount": 280.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Mortgage Payment",
+                "amount": 1800.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Property Taxes",
+                "amount": 2400.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Car Insurance",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Fitness Club Membership",
+                "amount": 45.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Professional Certification Course",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Next 3 years"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Industry Conference Attendance",
+                "amount": 950.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "2024"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Online Skill Development Subscription",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Annual Family Vacation",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "Every summer until 2030"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Home Office Supplies",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "James Parker",
+                "name": "Tech Gadgets and Upgrades",
+                "amount": 250.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "James Parker",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "FID12345678"
+        },
+        {
+            "owner": "James Parker",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "James Parker",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "James Parker",
+            "type": "Property",
+            "provider": null,
+            "value": 300000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "James Parker",
+            "description": "Art Collection",
+            "current_value": 50000.0,
+            "original_value": 30000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "James Parker",
+            "type": "Mortgage",
+            "provider": "GreenHome Loans Inc.",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2030",
+            "final_payment": "2045-08-15"
+        },
+        {
+            "owner": "James Parker",
+            "type": "Car Finance",
+            "provider": "AutoLoan Solutions",
+            "monthly_cost": 350.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 4.5,
+            "special_rate": "3.9% fixed for the first 3 years",
+            "final_payment": "2027-05-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "James Parker",
+            "type": "Life Assurance",
+            "provider": "ABC Life Insurance",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial security for family in case of untimely death or serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

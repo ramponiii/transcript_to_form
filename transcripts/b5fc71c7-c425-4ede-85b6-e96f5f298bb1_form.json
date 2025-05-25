@@ -1,0 +1,274 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emma",
+                "middle_names": [
+                    "Louise"
+                ],
+                "last_name": "Larson",
+                "known_as": "Emma",
+                "pronouns": "she/her",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Bristol, UK",
+                "nationality": "British",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "+44 117 123 4567",
+                "mobile_phone": "+44 7777 123456",
+                "email_address": "emma.larson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd",
+                    "employment_started": "15-04-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health, minor seasonal allergies",
+                "state_of_health_explanation": "Emma maintains a healthy lifestyle with regular exercise and a balanced diet, but experiences mild allergies during spring.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": true,
+                "information_about_will": "Created in 2020, stored with her lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Daniel Larson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "NW1 5DB",
+            "house_name_number": "12B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2019-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Larson",
+            "date_of_birth": "12-05-2017",
+            "dependent_until": "12-05-2035"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emma Larson",
+            "name": "Salary",
+            "amount": 5800.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emma Larson",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emma Larson",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Emma Larson",
+                "name": "Home Insurance",
+                "amount": 90.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emma Larson",
+                "name": "Car Maintenance and Insurance",
+                "amount": 130.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma Larson",
+                "name": "Fuel Costs",
+                "amount": 100.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emma Larson",
+                "name": "Netflix Subscription",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emma Larson",
+                "name": "Continuing Education Course",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2027"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emma Larson",
+                "name": "Streaming Subscriptions",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emma Larson",
+                "name": "Hobby Classes",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emma Larson",
+                "name": "Café Visits",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emma Larson",
+            "type": "Defined Contribution",
+            "provider": "Vanguard",
+            "value": 150000.0,
+            "policy_number": "VDG1234567A"
+        },
+        {
+            "owner": "Emma Larson",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emma Larson",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 35000.0
+        },
+        {
+            "owner": "Emma Larson",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 22000.0
+        },
+        {
+            "owner": "Emma Larson",
+            "type": "GIA",
+            "provider": "Charles Schwab",
+            "value": 18500.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emma Larson",
+            "description": "Antique Furniture Collection",
+            "current_value": 25000.0,
+            "original_value": 18000.0
+        },
+        {
+            "owner": "Emma Larson",
+            "description": "Emerald Jewelry Set",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emma Larson",
+            "type": "Mortgage",
+            "provider": "Blue Ridge Mortgages",
+            "monthly_cost": 1450.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2045-06-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emma Larson",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 85.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2055-12-31",
+            "objectives": "Provide financial security for family in case of premature death."
+        },
+        {
+            "owner": "Emma Larson",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 45.0,
+            "amount_assured": 3000.0,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "Ensure monthly income is protected in the event of illness or disability."
+        },
+        {
+            "owner": "Emma Larson",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 65.75,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2045-05-15",
+            "objectives": "Provide financial support to cover medical expenses and recovery time in case of a major illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

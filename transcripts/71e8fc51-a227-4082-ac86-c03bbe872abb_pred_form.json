@@ -1,0 +1,347 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Lucas",
+                "middle_names": [],
+                "last_name": "Moran",
+                "known_as": "Lucas",
+                "pronouns": "he/him",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "San Francisco, California",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "415-555-0123",
+                "mobile_phone": "415-555-0456",
+                "email_address": "lucas.moran@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Owner",
+                    "desired_retirement_age": 65,
+                    "occupation": "Entrepreneur",
+                    "employer": "Moran Ventures Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with mild seasonal allergies managed by over-the-counter medications.",
+                "state_of_health_explanation": "The client experiences few minor allergies but does not have any major health concerns.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "The client does not anticipate needing assistance as they age.",
+                "will": true,
+                "information_about_will": "The will was created in 2021 and is held with the family attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Emily Moran, the client's sister."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "12345",
+            "house_name_number": "15B",
+            "street_name": "Elm Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Springfield",
+            "county": "Springfield County",
+            "country": "USA",
+            "move_in_date": "2020-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Lucas",
+            "name": "Ownership of Moran Ventures Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        },
+        {
+            "owner": "Lucas",
+            "name": "Ownership of Moran Ventures Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Lucas",
+                "name": "Loan Repayment Setup",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Housing Expense",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Lucas",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Lucas",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Lucas",
+                "name": "Business Conference Fee",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Software Subscriptions",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Car Lease",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Car Maintenance",
+                "amount": 200.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Concert Tickets",
+                "amount": 250.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Coffee Subscription",
+                "amount": 20.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Lucas",
+                "name": "Networking Event Sponsorship",
+                "amount": 500.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Lucas",
+            "type": null,
+            "provider": "Moran Ventures Ltd.",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Lucas",
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Lucas",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Lucas",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Lucas",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,7 +1,0 @@
-{
-    "model": "Employment",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
-    "segments": 3,
-    "id": "e7394626-0c14-4ac8-ba34-c372ba36923d"
-}

@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
-    "segments": 3,
-    "id": "a92c6c4e-a1b7-4820-b56f-a07d59041a8e"
-}

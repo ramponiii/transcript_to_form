@@ -1,7 +1,0 @@
-{
-    "model": "LoanOrMortgage",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate a scenario where the client asks a direct question, and the advisor provides a straightforward answer.",
-    "segments": 2,
-    "id": "f057a7f8-3308-400f-b4fd-6c306846390c"
-}

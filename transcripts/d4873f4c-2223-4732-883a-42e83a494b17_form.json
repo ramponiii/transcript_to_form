@@ -1,0 +1,281 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr.",
+                "first_name": "Daniel",
+                "middle_names": [
+                    "Brian"
+                ],
+                "last_name": "Foster",
+                "known_as": "Danny",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Columbus, Ohio",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "614-555-0132",
+                "mobile_phone": "614-555-0199",
+                "email_address": "d.foster@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with minor seasonal allergies.",
+                "state_of_health_explanation": "Daniel has regular check-ups and maintains a healthy lifestyle.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 21",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": false,
+                "information_about_will": null,
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "90210",
+            "house_name_number": "22",
+            "street_name": "Maple Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Beverly Hills",
+            "county": "Los Angeles County",
+            "country": "USA",
+            "move_in_date": "2019-06-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Rented",
+            "postcode": "10009",
+            "house_name_number": "45B",
+            "street_name": "Avenue B",
+            "address_line_3": "East Village",
+            "address_line_4": "Apartment 3A",
+            "town_city": "New York",
+            "county": "New York County",
+            "country": "USA",
+            "move_in_date": "2017-09-01",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Alice Foster",
+            "date_of_birth": "15-04-2012",
+            "dependent_until": "15-04-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Foster",
+            "name": "Freelance Design Work",
+            "amount": 5000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Daniel Foster",
+            "name": "Rental Property Income",
+            "amount": 12000.0,
+            "frequency": "Quarterly",
+            "net_gross": "Gross",
+            "timeframe": "Until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Foster",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Foster",
+                "name": "Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Daniel Foster",
+                "name": "Car Insurance Premium",
+                "amount": 950.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Daniel Foster",
+                "name": "Car Maintenance",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Foster",
+                "name": "Gym Membership",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Foster",
+                "name": "Professional Association Membership",
+                "amount": 450.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Foster",
+                "name": "Conference Attendance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Next 5 years"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Spouse",
+                "name": "Garden Maintenance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Spring to Fall"
+            },
+            {
+                "owner": "Daniel",
+                "name": "Streaming Subscriptions",
+                "amount": 35.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Foster",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC-202305-FOS"
+        },
+        {
+            "owner": "Daniel Foster",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Foster",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.75
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Foster",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        },
+        {
+            "owner": "Daniel Foster",
+            "description": "Vintage Watch Collection",
+            "current_value": 10000.0,
+            "original_value": 8000.0
+        },
+        {
+            "owner": "Daniel Foster",
+            "description": "Wine Collection",
+            "current_value": 5000.0,
+            "original_value": 3500.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Foster",
+            "type": "Mortgage",
+            "provider": "Sunshine Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2043-07-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Foster",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 35.5,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Provide financial security for family in case of unexpected death."
+        },
+        {
+            "owner": "Daniel Foster",
+            "type": "Income Protection",
+            "provider": "Aviva Insurance",
+            "monthly_cost": 28.75,
+            "amount_assured": 1500.0,
+            "in_trust": null,
+            "assured_until": "At retirement age",
+            "objectives": "Ensure continuous income in case of inability to work due to illness or injury."
+        },
+        {
+            "owner": "Daniel Foster",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 42.0,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "2040-06-30",
+            "objectives": "Protect against financial hardship in case of major health issues."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jake",
+                "middle_names": [],
+                "last_name": "Miller",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "self-employed",
+                    "desired_retirement_age": null,
+                    "occupation": "freelance writer",
+                    "employer": null,
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jake Thomas Miller",
+            "name": "Freelance Writing Income",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jake Thomas Miller",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jake Thomas Miller",
+                "name": "Jake's Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until retirement"
+            },
+            {
+                "owner": "Jake Thomas Miller",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Jake Thomas Miller",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Retirement Savings Plan",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Current and Future"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "client",
+                "name": "Miscellaneous Expenses",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jake Thomas Miller",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": "Interested in future retirement goals, possibly considering pension types.",
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": "Jake Thomas Miller",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        },
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jake Thomas Miller",
+            "type": "Savings Account",
+            "provider": null,
+            "value": null
+        },
+        {
+            "owner": "Jake Thomas Miller",
+            "type": "Investment Portfolio",
+            "provider": "Online Investment Platform",
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jake Thomas Miller",
+            "description": "Non-standard Asset",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jake Thomas Miller",
+            "type": "Mortgage",
+            "provider": "ABC Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 150000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2026",
+            "final_payment": "2040-03-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jake Thomas Miller",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 30.0,
+            "amount_assured": 50000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "Provide income support in case of inability to work due to illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jim",
+                "middle_names": [
+                    "Robert"
+                ],
+                "last_name": "Harvey",
+                "known_as": "Jim",
+                "pronouns": "he/him",
+                "date_of_birth": "12-05-1985",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "555-0123",
+                "mobile_phone": "555-6789",
+                "email_address": "jim.harvey@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Tech Solutions Ltd.",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health with minor seasonal allergies.",
+                "state_of_health_explanation": "Maintains an active lifestyle, occasional check-ups for allergies.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Independent, no immediate need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored with attorney's office.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Spouse, Mary Harvey."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "221B",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2015-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Lucy Harvey",
+            "date_of_birth": "15-04-2012",
+            "dependent_until": "15-04-2030"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jim Harvey",
+            "name": "Freelance Consulting",
+            "amount": 5000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jim Harvey",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jim Harvey",
+                "name": "Streaming Services Subscription",
+                "amount": 20.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jim Harvey",
+                "name": "Guitar Lessons",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2024"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Conference Attendance",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Jim Harvey",
+                "name": "Legal Consultation Fees",
+                "amount": 2000.0,
+                "frequency": "Quarterly",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jim Harvey",
+                "name": "Streaming Services Subscription",
+                "amount": 25.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jim Harvey",
+                "name": "Gym Membership",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jim Harvey",
+            "type": "Defined Contribution",
+            "provider": "Aviva",
+            "value": 150000.0,
+            "policy_number": "AV12345678"
+        },
+        {
+            "owner": "Jim Harvey",
+            "type": "State Pension",
+            "provider": "UK Government",
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jim Harvey",
+            "type": "ISA",
+            "provider": "Nationwide Building Society",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jim Harvey",
+            "description": "Classic Car",
+            "current_value": 30000.0,
+            "original_value": 25000.0
+        },
+        {
+            "owner": "Jim Harvey",
+            "description": "Art Collection",
+            "current_value": 45000.0,
+            "original_value": 35000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jim Harvey",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2045-06-01"
+        },
+        {
+            "owner": "Jim Harvey",
+            "type": "Car Finance",
+            "provider": "City Auto Loans",
+            "monthly_cost": 300.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.0,
+            "special_rate": null,
+            "final_payment": "2028-10-15"
+        },
+        {
+            "owner": "Jim Harvey",
+            "type": "Personal Loan",
+            "provider": "Credit Union",
+            "monthly_cost": 450.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 7.25,
+            "special_rate": "6% fixed for the first 2 years",
+            "final_payment": "2026-03-20"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jim Harvey",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To secure financial stability for family in the event of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

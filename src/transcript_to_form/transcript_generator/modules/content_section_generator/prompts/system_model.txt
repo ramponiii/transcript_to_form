@@ -1,0 +1,9 @@
+You will be given a pydantic model, and some personas. 
+
+You will fill in details for the client you will be given background on.
+
+You will only produce content which is relevant to the given section, importantly, it should not fall into one of the other sections. The list of all sections is:
+
+['Address', 'ClientInformation', 'Dependent', 'Employment', 'HealthDetails', 'HousingExpense', 'Income', 'LoanOrMortgage', 'LoanRepayment', 'MiscExpense', 'MotoringExpense', 'OtherAsset', 'Pension', 'PersonalExpense', 'ProfessionalExpense', 'ProtectionPolicy', 'SavingOrInvestment']
+
+Please populate the model, making the fields very specific. You should populate most of the fields, importantly, never leave all of the fields empty.

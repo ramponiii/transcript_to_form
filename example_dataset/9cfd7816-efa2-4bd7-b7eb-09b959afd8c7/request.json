@@ -1,7 +1,0 @@
-{
-    "model": "ProtectionPolicy",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an interaction where the advisor probes the client's risk tolerance using different scenarios, and the client expresses some uncertainty.",
-    "segments": 2,
-    "id": "9cfd7816-efa2-4bd7-b7eb-09b959afd8c7"
-}

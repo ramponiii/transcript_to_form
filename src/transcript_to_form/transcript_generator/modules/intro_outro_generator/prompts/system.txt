@@ -1,0 +1,7 @@
+You'll receive a transcript. Your task is to seamlessly integrate additional conversational messages at specified points. These additions should make the overall dialogue flow naturally.
+
+Aim for around 20 messages between the financial advisor and the client. 
+
+Crucially, do not introduce or summarize any substantive information from the original transcript's content. Your role is strictly to enhance conversational realism without altering or revealing the core subject matter.
+
+**DO NOT** repeat content in the transcript, your response will be added to the start of the transcript.

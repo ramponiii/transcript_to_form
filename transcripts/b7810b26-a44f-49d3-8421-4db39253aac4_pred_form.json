@@ -1,0 +1,279 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Evelyn",
+                "middle_names": [],
+                "last_name": "Harper",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "Employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Creative Agency",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Evelyn Harper",
+            "name": "Marketing Manager Salary",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        },
+        {
+            "owner": "Evelyn Harper",
+            "name": "Freelance Graphic Design Income",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": 1500.0,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": null,
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Monthly groceries",
+                "amount": null,
+                "frequency": "Medium frequency",
+                "priority": "Priority",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Evelyn Harper",
+                "name": "Monthly Software Subscriptions",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Annual Marketing Conference",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Evelyn Harper",
+                "name": "Freelance Design Software",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "spouse",
+                "name": "Streaming Services",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Defined Contribution",
+            "provider": "FuturePension Ltd.",
+            "value": 150000.0,
+            "policy_number": "FPL-123456"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Bank Account",
+            "provider": null,
+            "value": null
+        },
+        {
+            "owner": "Evelyn Harper",
+            "type": "Investment Bond",
+            "provider": null,
+            "value": null
+        },
+        {
+            "owner": "Evelyn Harper",
+            "type": "Property",
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Evelyn Harper",
+            "description": "Classic piece of high value",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Evelyn Harper",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Evelyn Harper",
+            "type": "Life Assurance",
+            "provider": "BrightShield Insurance",
+            "monthly_cost": 250.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for the family."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

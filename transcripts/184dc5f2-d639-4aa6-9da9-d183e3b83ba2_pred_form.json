@@ -1,0 +1,229 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Daniel",
+                "middle_names": [],
+                "last_name": "Harris",
+                "known_as": "Daniel",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Sydney",
+                "nationality": "Australian",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "02 1234 5678",
+                "mobile_phone": "0401 234 567",
+                "email_address": "daniel.harris@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd",
+                    "employment_started": "01-06-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "name": "Income from Employment",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Loan Repayment",
+                "amount": 2400.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Car Insurance",
+                "amount": 900.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Alexander Harris",
+                "name": "Retirement Planning",
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "type": "Retirement Investment Plan",
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Daniel Alexander Harris",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": 50000.0,
+            "original_value": null
+        },
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "type": "Mortgage",
+            "provider": "National Home Loans",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2040-12-31"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Alexander Harris",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of sudden demise."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

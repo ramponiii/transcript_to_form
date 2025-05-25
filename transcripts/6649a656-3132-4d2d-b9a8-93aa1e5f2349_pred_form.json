@@ -1,0 +1,233 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "James",
+                "middle_names": [],
+                "last_name": "Parker",
+                "known_as": "James",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "London, UK",
+                "nationality": "British",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "02071234567",
+                "mobile_phone": "07912345678",
+                "email_address": "james.parker@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "Employed and Self-Employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager and Freelance Writer",
+                    "employer": "BrightStar Media Ltd.",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "James Parker",
+            "name": "Marketing Manager",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        },
+        {
+            "owner": "James Parker",
+            "name": "Freelance Writer",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "client",
+                "name": "Loan Repayment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Motoring Expense",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Gym Membership",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Vacation Fund",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "James Parker",
+                "name": "Marketing Manager Expenses",
+                "amount": null,
+                "frequency": null,
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "James Parker",
+                "name": "Freelance Writer Expenses",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "James Parker",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": null,
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "James Parker",
+            "type": "Personal Loan",
+            "provider": "BrightStar Bank",
+            "monthly_cost": 250.0,
+            "outstanding_value": 5000.0,
+            "interest_rate": 5.0,
+            "special_rate": null,
+            "final_payment": "2026-06-30"
+        },
+        {
+            "owner": "James Parker",
+            "type": "Mortgage",
+            "provider": "SunTrust",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": null,
+            "special_rate": "3.5% fixed until 2035",
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "James Parker",
+            "type": "Life Insurance",
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": "Seeking advice related to personal finance and protection policies."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

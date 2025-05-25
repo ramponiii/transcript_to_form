@@ -1,0 +1,289 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Rose"
+                ],
+                "last_name": "Santos",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "15-07-1990",
+                "place_of_birth": "San Francisco, CA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "505-555-0168",
+                "mobile_phone": "505-555-0182",
+                "email_address": "emily.santos@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 67,
+                    "occupation": "Marketing Director",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "01-06-2020",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, exercises regularly",
+                "state_of_health_explanation": "Emily is active and enjoys outdoor activities like hiking and cycling.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current indications or family history suggesting the need for long-term care.",
+                "will": true,
+                "information_about_will": "Created with a family lawyer in 2021, stored at her attorney's office.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Laura Santos, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "W1T 2HY",
+            "house_name_number": "Flat 5B",
+            "street_name": "Oxford Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-03-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "BN1 4GQ",
+            "house_name_number": "10",
+            "street_name": "Richmond Place",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Brighton",
+            "county": "East Sussex",
+            "country": "United Kingdom",
+            "move_in_date": "2018-07-12",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Lucas Santos",
+            "date_of_birth": "15-05-2015",
+            "dependent_until": "15-05-2033"
+        },
+        {
+            "name": "Sofia Santos",
+            "date_of_birth": "27-08-2018",
+            "dependent_until": "27-08-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Santos",
+            "name": "Freelance Graphic Design",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        },
+        {
+            "owner": "Emily Santos",
+            "name": "Online Art Courses",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Santos",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Car Loan Repayment",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Santos",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Home Insurance Premium",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until 2025"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Santos",
+                "name": "Car Insurance",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Fuel Costs",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Yoga Classes",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Santos",
+                "name": "Marketing Courses",
+                "amount": 1000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Conference Travel",
+                "amount": 1500.0,
+                "frequency": "Bi-Annually",
+                "priority": "Essential",
+                "timeframe": "Next 3 years"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Santos",
+                "name": "Travel Budget for Italy Trip",
+                "amount": 2000.0,
+                "frequency": "One-time",
+                "priority": "Discretionary",
+                "timeframe": "Summer 2024"
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Annual Creative Workshop Fees",
+                "amount": 500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Santos",
+                "name": "Monthly Art Supplies",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Santos",
+            "type": "Defined Contribution",
+            "provider": "Aviva",
+            "value": 85000.0,
+            "policy_number": "DC123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Santos",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Emily Santos",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 15000.0
+        },
+        {
+            "owner": "Emily Santos",
+            "type": "Investment Bond",
+            "provider": "Prudential",
+            "value": 18000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Santos",
+            "description": "18th Century Art Collection",
+            "current_value": 250000.0,
+            "original_value": 150000.0
+        },
+        {
+            "owner": "Emily Santos",
+            "description": "Antique Jewellery Collection",
+            "current_value": 100000.0,
+            "original_value": 75000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Santos",
+            "type": "Mortgage",
+            "provider": "Sunshine Home Loans",
+            "monthly_cost": 1450.75,
+            "outstanding_value": 285000.5,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2025",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Santos",
+            "type": "Life Assurance",
+            "provider": "Aviva",
+            "monthly_cost": 85.5,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2050-12-31",
+            "objectives": "Provide financial security for her family in case of unforeseen circumstances."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

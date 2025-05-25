@@ -1,0 +1,292 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Daniel",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Harris",
+                "known_as": "Daniel",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Sydney, Australia",
+                "nationality": "Australian",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "02 1234 5678",
+                "mobile_phone": "0401 234 567",
+                "email_address": "daniel.harris@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd",
+                    "employment_started": "01-06-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health, with regular exercise and balanced diet.",
+                "state_of_health_explanation": "No major health issues but is conscious about cholesterol levels due to family history.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 25",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Not anticipated currently, stays active and healthy.",
+                "will": true,
+                "information_about_will": "Will is stored with attorney, last updated in 2022.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Sarah Harris, spouse."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "NW3 5BP",
+            "house_name_number": "12B",
+            "street_name": "Elm Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophie Harris",
+            "date_of_birth": "12-06-2015",
+            "dependent_until": "12-06-2033"
+        },
+        {
+            "name": "Oliver Harris",
+            "date_of_birth": "03-04-2018",
+            "dependent_until": "03-04-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Harris",
+            "name": "Freelance Consulting",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "ongoing"
+        },
+        {
+            "owner": "Daniel Harris",
+            "name": "Rental Property Income",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "until 2028"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Car Loan Repayment",
+                "amount": 275.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Utilities (Electricity, Water, Gas)",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Car Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Conference Attendance Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "ongoing"
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Professional Certification Renewal",
+                "amount": 350.0,
+                "frequency": "Every 3 years",
+                "priority": "Essential",
+                "timeframe": "next renewal in 2025"
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Online Course Subscription",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "until 2026"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Harris",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Cooking Classes",
+                "amount": 200.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "One-year"
+            },
+            {
+                "owner": "Daniel Harris",
+                "name": "Travel Fund",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "2023-2025"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Daniel Harris",
+            "type": "Defined Contribution",
+            "provider": "Aviva",
+            "value": 85000.0,
+            "policy_number": "DC12345678"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Harris",
+            "type": "ISA",
+            "provider": "HSBC",
+            "value": 12000.0
+        },
+        {
+            "owner": "Daniel Harris",
+            "type": "Investment Bond",
+            "provider": "Fidelity",
+            "value": 8500.0
+        },
+        {
+            "owner": "Daniel Harris",
+            "type": "Property",
+            "provider": null,
+            "value": 300000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Harris",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        },
+        {
+            "owner": "Daniel Harris",
+            "description": "Classic Car",
+            "current_value": 32000.0,
+            "original_value": 28000.0
+        },
+        {
+            "owner": "Daniel Harris",
+            "description": "Luxury Watch",
+            "current_value": 8500.0,
+            "original_value": 7000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Harris",
+            "type": "Mortgage",
+            "provider": "Sunset National Bank",
+            "monthly_cost": 1800.5,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.99% fixed until 2030",
+            "final_payment": "2045-10-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Harris",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 45.75,
+            "amount_assured": 50000.0,
+            "in_trust": false,
+            "assured_until": "2045-05-01",
+            "objectives": "To ensure financial stability in case of an inability to work due to illness or injury."
+        },
+        {
+            "owner": "Daniel Harris",
+            "type": "Life Assurance",
+            "provider": "Legal & General",
+            "monthly_cost": 65.8,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "2050-01-01",
+            "objectives": "To provide financial security for family in the event of unexpected death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

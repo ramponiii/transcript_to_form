@@ -1,0 +1,303 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Daniel",
+                "middle_names": [],
+                "last_name": "Weaver",
+                "known_as": "Daniel",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Liverpool, UK",
+                "nationality": "British",
+                "gender": "male",
+                "legal_sex": "male",
+                "marital_status": "Married",
+                "home_phone": "0151 555 1234",
+                "mobile_phone": "07985 123456",
+                "email_address": "daniel.weaver@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Engineer",
+                    "employer": "Tech Innovations Ltd",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, keeping an eye on cholesterol with diet and exercise.",
+                "state_of_health_explanation": "Manageable, nothing too serious.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No plans for long-term care as he feels in decent health.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored safely with lawyer Sarah Johnson.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "His sister, Laura Weaver."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Daniel Weaver",
+            "name": "Salary from Tech Innovations Ltd",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Mortgage",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Property Tax",
+                "amount": null,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "client",
+                "name": "Home Insurance",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Mortgage Payment",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Insurance",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Groceries",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Daniel Weaver",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Streaming Services",
+                "amount": 27.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Maintenance and Fuel",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Car Insurance",
+                "amount": 600.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Gym Membership",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Professional Education",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Daniel Weaver",
+                "name": "Networking Events",
+                "amount": 800.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [],
+    "savings_and_investments": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "ISA",
+            "provider": "Local Bank",
+            "value": 15000.0
+        },
+        {
+            "owner": "Daniel Weaver",
+            "type": "Investment Bond",
+            "provider": "Global Invest",
+            "value": 20000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Daniel Weaver",
+            "description": "Classic Car",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Daniel Weaver",
+            "description": "Classic Car",
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Daniel Weaver",
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Daniel Weaver",
+            "type": "Life Assurance",
+            "provider": "Guardian Life",
+            "monthly_cost": 50.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security to family in case of unforeseen events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

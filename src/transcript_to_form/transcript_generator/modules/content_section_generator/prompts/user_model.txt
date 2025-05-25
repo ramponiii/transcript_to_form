@@ -1,0 +1,6 @@
+### Conversation Background
+{background}
+
+The name of the model you are producing is `{model_name}`
+
+{additional_guidance}

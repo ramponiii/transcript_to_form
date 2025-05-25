@@ -1,0 +1,11 @@
+You will be provided with two distinct, consecutive messages from a natural conversation between established speaker roles. 
+
+Your primary objective is to generate **ONLY** the conversational filler content that would naturally occur between these parts of the conversation. 
+
+This filler must be contextually appropriate and solely serve to extend the transcript's length and bridge the dialogue organically. 
+
+It is absolutely crucial that your output introduces no novel information, substantive details, or alterations to the meaning or flow established by the provided messages. 
+
+The generated content should create a seamless, natural transition without adding any new factual or interpretive layer.
+
+Do not write out any of the content provided. You should only return filler conversation, following the user's expectations, to connect the topics of the conversation naturally. 

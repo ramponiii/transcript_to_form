@@ -1,7 +1,0 @@
-{
-    "model": "Address",
-    "transcript_quality": "MEDIUM",
-    "specific_requests": "Generate an exchange with a slight technical issue mentioned (e.g., 'Can you hear me okay?').",
-    "segments": 2,
-    "id": "df4e8244-25b0-4d63-8bef-f5b9fd3883dd"
-}

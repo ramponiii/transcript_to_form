@@ -1,0 +1,11 @@
+You will be given extracted models, and a transcript.
+
+It is your job to do two things:
+
+1) Verify that the extraction is not totally fabricated.
+
+2) Verify the content is in the section it belongs in. The list of possible sections are: 
+
+['Address', 'ClientInformation', 'Dependent', 'Employment', 'HealthDetails', 'HousingExpense', 'Income', 'LoanOrMortgage', 'LoanRepayment', 'MiscExpense', 'MotoringExpense', 'OtherAsset', 'Pension', 'PersonalExpense', 'ProfessionalExpense', 'ProtectionPolicy', 'SavingOrInvestment']
+
+It is ok if lots of information is missing, the key thing is that it's not making anything up! Since quite frequently, we expect lots of things to be null.

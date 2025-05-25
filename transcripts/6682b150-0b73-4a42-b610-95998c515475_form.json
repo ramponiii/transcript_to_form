@@ -1,0 +1,260 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr.",
+                "first_name": "Jack",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Malone",
+                "known_as": "Jack",
+                "pronouns": "he/him",
+                "date_of_birth": "14-07-1982",
+                "place_of_birth": "Chicago, IL, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "312-555-0198",
+                "mobile_phone": "312-555-0124",
+                "email_address": "jack.malone@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "GreenTech Innovations Ltd.",
+                    "employment_started": "01-06-2019",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good with minor issues.",
+                "state_of_health_explanation": "Jack experiences occasional back pain from an old sports injury but maintains regular exercise and a balanced diet.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 22",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No immediate or anticipated need for long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2020; stored with attorney James Smith.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Sister, Emily Malone."
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": "Oliver Malone",
+            "date_of_birth": "15-04-2010",
+            "dependent_until": "15-04-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jack Malone",
+            "name": "Freelance Graphic Design",
+            "amount": 3500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jack",
+                "name": "Car Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2027"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jack Malone",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Property Taxes",
+                "amount": 3000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jack Malone",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jack Malone",
+                "name": "Streaming Services",
+                "amount": 45.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Gym Membership",
+                "amount": 29.99,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Weekly Groceries",
+                "amount": 150.0,
+                "frequency": "Weekly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jack Malone",
+                "name": "Professional Licensing Fee",
+                "amount": 250.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "ongoing"
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Continuing Education Courses",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "ongoing"
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Industry Conference Attendance",
+                "amount": 800.0,
+                "frequency": "Biannually",
+                "priority": "Discretionary",
+                "timeframe": "until 2025"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jack Malone",
+                "name": "Golf Club Membership",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Streaming Service Subscriptions",
+                "amount": 180.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jack Malone",
+                "name": "Travel Fund Contribution",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "for annual family vacation"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jack Malone",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 125000.0,
+            "policy_number": "DC-2456789"
+        },
+        {
+            "owner": "Jack Malone",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Vanguard",
+            "value": 93000.0,
+            "policy_number": "SIPP-8745632"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jack Malone",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Jack Malone",
+            "type": "GIA",
+            "provider": "Schwab",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jack Malone",
+            "description": "Classic Car Collection",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jack Malone",
+            "type": "Mortgage",
+            "provider": "Sunshine Bank",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 225000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.8% fixed until 2028",
+            "final_payment": "2045-09-30"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jack Malone",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance Co.",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To ensure financial security for family in the event of untimely death."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

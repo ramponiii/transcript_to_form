@@ -1,0 +1,10 @@
+### Transcript
+{transcript}
+
+### Clients Present
+{client_information}
+
+### Model I want to Produce 
+{model}
+
+The name of this model specifically is "{model_name}"

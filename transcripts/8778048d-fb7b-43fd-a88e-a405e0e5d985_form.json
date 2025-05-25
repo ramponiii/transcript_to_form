@@ -1,0 +1,296 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Reed",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "15-05-1985",
+                "place_of_birth": "San Francisco, USA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "415-555-0123",
+                "mobile_phone": "415-555-0456",
+                "email_address": "emily.reed@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "01-09-2018",
+                    "highest_rate_of_tax_paid": "40%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good",
+                "state_of_health_explanation": "Emily stays active with regular exercise and follows a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care, maintains a healthy lifestyle.",
+                "will": true,
+                "information_about_will": "Will created in 2022, located with attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Brother, Daniel Reed."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": "Westminster",
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "UK",
+            "move_in_date": "2019-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Ethan Reed",
+            "date_of_birth": "15-05-2015",
+            "dependent_until": "15-05-2033"
+        },
+        {
+            "name": "Chloe Reed",
+            "date_of_birth": "20-09-2018",
+            "dependent_until": "20-09-2036"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Reed",
+            "name": "Freelance Design Projects",
+            "amount": 4500.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Emily Reed",
+            "name": "Rental Property Income",
+            "amount": 1500.0,
+            "frequency": "Monthly",
+            "net_gross": "Gross",
+            "timeframe": "For the next 5 years"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Reed",
+                "name": "Student Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Reed",
+                "name": "Monthly Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Reed",
+                "name": "Home Insurance",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Reed",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Reed",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Reed",
+                "name": "Yoga Classes Subscription",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Reed",
+                "name": "Online Course Subscription",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Reed",
+                "name": "Travel Savings Contribution",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Reed",
+                "name": "Professional Development Courses",
+                "amount": 2000.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Reed",
+                "name": "Industry Conference Travel",
+                "amount": 1500.0,
+                "frequency": "Quarterly",
+                "priority": "Essential",
+                "timeframe": "Next 2 years"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Reed",
+                "name": "Yoga Classes",
+                "amount": 95.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Reed",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 75000.0,
+            "policy_number": "FID12345678"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Reed",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 50000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Reed",
+            "description": "Art Collection",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        },
+        {
+            "owner": "Emily Reed",
+            "description": "Vintage Watch Collection",
+            "current_value": 20000.0,
+            "original_value": 12000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Reed",
+            "type": "Mortgage",
+            "provider": "Green Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2048-05-15"
+        },
+        {
+            "owner": "Emily Reed",
+            "type": "Car Finance",
+            "provider": "AutoFin Solutions",
+            "monthly_cost": 450.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 5.0,
+            "special_rate": "3.8% introductory rate for 12 months",
+            "final_payment": "2026-11-30"
+        },
+        {
+            "owner": "Emily Reed",
+            "type": "Personal Loan",
+            "provider": "LoanDirect",
+            "monthly_cost": 300.0,
+            "outstanding_value": 5000.0,
+            "interest_rate": 6.5,
+            "special_rate": null,
+            "final_payment": "2025-08-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Reed",
+            "type": "Life Assurance",
+            "provider": "SunLife",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial support for her family in the event of her passing."
+        },
+        {
+            "owner": "Emily Reed",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 120.0,
+            "amount_assured": 3000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "To ensure income replacement in case of inability to work due to illness or accident."
+        },
+        {
+            "owner": "Emily Reed",
+            "type": "Critical Illness Cover",
+            "provider": "Legal & General",
+            "monthly_cost": 65.0,
+            "amount_assured": 200000.0,
+            "in_trust": false,
+            "assured_until": "2035-06-30",
+            "objectives": "To cover medical expenses and provide financial stability in the event of a critical illness diagnosis."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

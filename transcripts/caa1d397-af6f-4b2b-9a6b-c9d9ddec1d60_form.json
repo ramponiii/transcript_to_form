@@ -1,0 +1,279 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Anne"
+                ],
+                "last_name": "Patterson",
+                "known_as": "Emily",
+                "pronouns": "she/her",
+                "date_of_birth": "15-07-1985",
+                "place_of_birth": "Boston, USA",
+                "nationality": "American",
+                "gender": "female",
+                "legal_sex": "female",
+                "marital_status": "Single",
+                "home_phone": "555-0123",
+                "mobile_phone": "555-7890",
+                "email_address": "emily.patterson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Innovate Marketing Ltd",
+                    "employment_started": "12-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with minor seasonal allergies",
+                "state_of_health_explanation": "Emily visits her doctor regularly and manages her allergies with over-the-counter medications.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No immediate need for long-term care; Emily focuses on a healthy lifestyle.",
+                "will": true,
+                "information_about_will": "Will was created in 2020 and is kept with her lawyer.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her sister, Laura Patterson, has power of attorney."
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": "Sophia Patterson",
+            "date_of_birth": "15-04-2010",
+            "dependent_until": "15-04-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Patterson",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Student Loan Repayment",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Car Loan Repayment",
+                "amount": 400.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2027"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Monthly Rent",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Home Maintenance",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until new condo purchase"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Car Loan Payment",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2028"
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Car Insurance",
+                "amount": 75.5,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Travel Expenses",
+                "amount": 350.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Business Software Subscription",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Conference Attendance Fees",
+                "amount": 750.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "next 5 years"
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Online Marketing Services",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Patterson",
+                "name": "Streaming Service Subscriptions",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Patterson",
+                "name": "Annual Fitness Club Membership",
+                "amount": 350.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2030"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Patterson",
+            "type": "Defined Contribution",
+            "provider": "Aviva",
+            "value": 75000.0,
+            "policy_number": "DC893745"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Patterson",
+            "type": "ISA",
+            "provider": "Hargreaves Lansdown",
+            "value": 25000.0
+        },
+        {
+            "owner": "Emily Patterson",
+            "type": "Investment Bond",
+            "provider": "Legal & General",
+            "value": 15000.0
+        },
+        {
+            "owner": "Emily Patterson",
+            "type": "GIA",
+            "provider": "Vanguard",
+            "value": 30000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Patterson",
+            "description": "Vintage Art Collection",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        },
+        {
+            "owner": "Emily Patterson",
+            "description": "Antique Jewelry Collection",
+            "current_value": 30000.0,
+            "original_value": 20000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Patterson",
+            "type": "Mortgage",
+            "provider": "Sunshine Bank",
+            "monthly_cost": 1250.5,
+            "outstanding_value": 230000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-07-20"
+        },
+        {
+            "owner": "Emily Patterson",
+            "type": "Car Finance",
+            "provider": "Greenlight Auto Loans",
+            "monthly_cost": 300.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.0,
+            "special_rate": "4.0% fixed until 2026",
+            "final_payment": "2030-05-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Patterson",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial security for her family in case of her untimely passing."
+        },
+        {
+            "owner": "Emily Patterson",
+            "type": "Critical Illness Cover",
+            "provider": "Aviva",
+            "monthly_cost": 30.0,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "2035-06-30",
+            "objectives": "To cover medical expenses and maintain financial stability in case of a critical health condition."
+        },
+        {
+            "owner": "Emily Patterson",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 28.0,
+            "amount_assured": 2000.0,
+            "in_trust": null,
+            "assured_until": "Retirement",
+            "objectives": "To ensure continued income flow in the event of being unable to work due to illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

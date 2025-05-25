@@ -1,0 +1,208 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "ClientInformation",
+                "first_name": "Jamie",
+                "middle_names": [],
+                "last_name": null,
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": null,
+            "house_name_number": null,
+            "street_name": null,
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": null,
+            "county": null,
+            "country": null,
+            "move_in_date": null,
+            "address_type": null
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jamie",
+            "name": "Employment Income",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "CLIENT",
+                "name": "Loan Repayment Details",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Car Maintenance",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "CLIENT",
+                "name": "Expense for Retirement Savings",
+                "amount": null,
+                "frequency": "Regular",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie",
+                "name": "Investment in Stocks",
+                "amount": null,
+                "frequency": "Periodic",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jamie",
+                "name": "Marketing Budget Allocation",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Bright Ideas Ltd",
+                "name": "Consultant Fees",
+                "amount": null,
+                "frequency": "Variable",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Client",
+                "name": "Travel Expenses",
+                "amount": null,
+                "frequency": "Occasional",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jamie",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jamie",
+            "type": "ISA",
+            "provider": "Bright Future Bank",
+            "value": 25000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jamie",
+            "description": "Classic car",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [],
+    "objectives": {
+        "objectives": []
+    }
+}

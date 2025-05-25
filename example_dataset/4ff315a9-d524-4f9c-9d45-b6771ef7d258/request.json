@@ -1,7 +1,0 @@
-{
-    "model": "HealthDetails",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the advisor uses active listening cues (e.g., 'I understand,' 'Right') frequently.",
-    "segments": 2,
-    "id": "4ff315a9-d524-4f9c-9d45-b6771ef7d258"
-}

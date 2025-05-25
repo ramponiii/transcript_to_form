@@ -1,0 +1,427 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": null,
+                "first_name": "Emily",
+                "middle_names": [],
+                "last_name": "Harmon",
+                "known_as": null,
+                "pronouns": null,
+                "date_of_birth": "08-12-1985",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": "617-555-0134",
+                "mobile_phone": "617-555-0075",
+                "email_address": "emily.harmon@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd.",
+                    "employment_started": "15-06-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally good, mild seasonal allergies",
+                "state_of_health_explanation": "Client maintains a healthy lifestyle, exercises regularly, and eats a balanced diet.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current conditions that would require long-term care.",
+                "will": true,
+                "information_about_will": "Created in 2021, stored with attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Brother, James Harmon."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": null,
+            "postcode": "SW1A 1AA",
+            "house_name_number": "10",
+            "street_name": "Downing Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": null,
+            "country": "United Kingdom",
+            "move_in_date": null,
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        },
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        },
+        {
+            "name": null,
+            "date_of_birth": null,
+            "dependent_until": null
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily",
+            "name": "Marketing Manager at Creative Solutions Ltd.",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "CLIENT",
+                "name": "Mortgage Payment",
+                "amount": 1250.75,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "CLIENT",
+                "name": "Car Finance",
+                "amount": 300.5,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2027"
+            },
+            {
+                "owner": "CLIENT",
+                "name": "Credit Card Payment",
+                "amount": 5000.0,
+                "frequency": "One-time (or manageable)",
+                "priority": "Important",
+                "timeframe": "Special 0% for 12 months"
+            },
+            {
+                "owner": "CLIENT",
+                "name": "Student Loan",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily",
+                "name": "Home Insurance",
+                "amount": 400.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until December 2025"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Fuel",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Home Insurance",
+                "amount": 400.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until December 2025"
+            },
+            {
+                "owner": "Emily",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Art Supplies",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "for two years"
+            },
+            {
+                "owner": "Emily",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Fuel",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Yoga Classes Subscription",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Industry Conference",
+                "amount": 800.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Professional Development Course",
+                "amount": 1200.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "by 2025"
+            },
+            {
+                "owner": "Emily",
+                "name": "Magazine Subscription",
+                "amount": 150.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Conference Attendance Fee",
+                "amount": 800.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": null,
+                "name": "Professional Development Course",
+                "amount": 1200.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": null,
+                "name": "Industry Magazine Subscription",
+                "amount": 150.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily",
+                "name": "Rent",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Home Insurance",
+                "amount": 400.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until December 2025"
+            },
+            {
+                "owner": "Emily",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Art Supplies",
+                "amount": 120.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "2 years"
+            },
+            {
+                "owner": "Emily",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Fuel",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Yoga Classes Subscription",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Industry conference expense",
+                "amount": 800.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily",
+                "name": "Professional development course expense",
+                "amount": 1200.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "Emily",
+                "name": "Industry magazine subscription",
+                "amount": 150.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily",
+            "type": null,
+            "provider": null,
+            "value": null,
+            "policy_number": null
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 35000.0
+        },
+        {
+            "owner": "Emily",
+            "type": "Defined Contribution Plan",
+            "provider": "Fidelity Investments",
+            "value": 85000.0
+        },
+        {
+            "owner": "Emily",
+            "type": "Self-Invested Personal Pension (SIPP)",
+            "provider": "Vanguard",
+            "value": 92000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily",
+            "type": "Mortgage",
+            "provider": "Bank of World",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 200000.0,
+            "interest_rate": 3.5,
+            "special_rate": "Fixed until 2030",
+            "final_payment": "2035-06-01"
+        },
+        {
+            "owner": "Emily",
+            "type": "Car Finance",
+            "provider": "AutoLoans Inc.",
+            "monthly_cost": 300.0,
+            "outstanding_value": 15000.0,
+            "interest_rate": 5.0,
+            "special_rate": null,
+            "final_payment": "2025-08-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.75,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "Securing financial stability for family"
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

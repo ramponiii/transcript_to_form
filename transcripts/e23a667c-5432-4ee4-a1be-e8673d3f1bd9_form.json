@@ -1,0 +1,249 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Linda",
+                "middle_names": [
+                    "Yun"
+                ],
+                "last_name": "Chen",
+                "known_as": "Linda",
+                "pronouns": "she/her",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "Shanghai, China",
+                "nationality": "Chinese",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Married",
+                "home_phone": "0208-123-4567",
+                "mobile_phone": "07700-900800",
+                "email_address": "linda.chen@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Project Manager",
+                    "employer": "Innovate Solutions Ltd.",
+                    "employment_started": "15-03-2015",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, with minor seasonal allergies.",
+                "state_of_health_explanation": "Regular check-ups show good health; manages allergies with over-the-counter medication.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 25",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": null,
+                "will": true,
+                "information_about_will": "Created in 2020, stored with legal advisor.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": "Oliver Chen",
+            "date_of_birth": "15-04-2010",
+            "dependent_until": "15-04-2028"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Linda Chen",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Linda Chen",
+                "name": "Student Loan Repayment",
+                "amount": 400.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            },
+            {
+                "owner": "Linda Chen",
+                "name": "Car Loan Repayment",
+                "amount": 270.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Linda Chen",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            },
+            {
+                "owner": "Client's Spouse",
+                "name": "Property Tax",
+                "amount": 450.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Linda Chen",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Linda Chen",
+                "name": "Grocery Shopping",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Linda Chen",
+                "name": "Conference Registration Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Linda Chen",
+                "name": "Professional Membership Dues",
+                "amount": 350.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Linda Chen",
+                "name": "Streaming Services",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Linda Chen",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 250000.0,
+            "policy_number": "LC-PEN-2023-4567"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Linda Chen",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 25000.0
+        },
+        {
+            "owner": "Linda Chen",
+            "type": "Property",
+            "provider": null,
+            "value": 350000.0
+        },
+        {
+            "owner": "Linda Chen",
+            "type": "GIA",
+            "provider": "Fidelity",
+            "value": 18000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Linda Chen",
+            "description": "Art Collection",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Linda Chen",
+            "type": "Mortgage",
+            "provider": "Sunshine Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2029",
+            "final_payment": "2045-06-30"
+        },
+        {
+            "owner": "Linda Chen",
+            "type": "Car Finance",
+            "provider": "AutoFinance Corp",
+            "monthly_cost": 320.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 4.0,
+            "special_rate": null,
+            "final_payment": "2027-03-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Linda Chen",
+            "type": "Life Assurance",
+            "provider": "Sunlife Insurance",
+            "monthly_cost": 120.5,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2050-12-31",
+            "objectives": "To provide financial security for her family in case of an unexpected event."
+        },
+        {
+            "owner": "Linda Chen",
+            "type": "Income Protection",
+            "provider": "Aviva",
+            "monthly_cost": 75.0,
+            "amount_assured": 3000.0,
+            "in_trust": false,
+            "assured_until": "Retirement",
+            "objectives": "To ensure income continuity in the event of illness or injury."
+        },
+        {
+            "owner": "Linda Chen",
+            "type": "Critical Illness Cover",
+            "provider": "Prudential",
+            "monthly_cost": 90.0,
+            "amount_assured": 200000.0,
+            "in_trust": false,
+            "assured_until": "2045-06-30",
+            "objectives": "To cover medical expenses and provide financial support in the event of serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

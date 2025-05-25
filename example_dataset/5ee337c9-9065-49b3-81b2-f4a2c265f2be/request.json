@@ -1,7 +1,0 @@
-{
-    "model": "HealthDetails",
-    "transcript_quality": "LOW",
-    "specific_requests": "Generate an exchange where the client asks for clarification on financial jargon.",
-    "segments": 2,
-    "id": "5ee337c9-9065-49b3-81b2-f4a2c265f2be"
-}

@@ -1,0 +1,287 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Claire",
+                "middle_names": [],
+                "last_name": "Thompson",
+                "known_as": "Claire",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1985",
+                "place_of_birth": "London, UK",
+                "nationality": "British",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "020 7946 0958",
+                "mobile_phone": "078 9456 1234",
+                "email_address": "claire.thompson@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 12 34 56 C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Brightwave Media Ltd.",
+                    "employment_started": "01-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                },
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ 98 76 54 B",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 60,
+                    "occupation": "Freelance Graphic Designer",
+                    "employer": null,
+                    "employment_started": "15-06-2020",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with mild seasonal allergies",
+                "state_of_health_explanation": "Claire maintains a healthy lifestyle with regular exercise and balanced nutrition. She occasionally experiences allergic reactions during spring.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current need for long-term care, anticipated future requirement is minimal.",
+                "will": true,
+                "information_about_will": "Prepared by her lawyer in 2022, stored in a secure location at home.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Michael Thompson, holds the power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "W1F 7LT",
+            "house_name_number": "23A",
+            "street_name": "Berwick Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "London",
+            "county": "Greater London",
+            "country": "United Kingdom",
+            "move_in_date": "2022-03-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "NR2 1JL",
+            "house_name_number": "78",
+            "street_name": "Botolph Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Norwich",
+            "county": "Norfolk",
+            "country": "United Kingdom",
+            "move_in_date": "2015-06-10",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Oliver Thompson",
+            "date_of_birth": "15-07-2018",
+            "dependent_until": "15-07-2036"
+        },
+        {
+            "name": "Sophie Thompson",
+            "date_of_birth": "21-03-2020",
+            "dependent_until": "21-03-2038"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Claire Thompson",
+            "name": "Salary",
+            "amount": 65000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Claire Thompson",
+            "name": "Freelance Writing Income",
+            "amount": 1200.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Claire Thompson",
+                "name": "Student Loan Repayment",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until paid off"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Claire Thompson",
+                "name": "Rent Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Claire Thompson",
+                "name": "Home Insurance",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Until lease renewal"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Claire Thompson",
+                "name": "Car Insurance",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Claire Thompson",
+                "name": "Yoga Classes Subscription",
+                "amount": 75.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire Thompson",
+                "name": "Streaming Service",
+                "amount": 15.99,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Claire Thompson",
+                "name": "Art Supplies",
+                "amount": 50.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "Purchased every few months"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Claire Thompson",
+                "name": "Professional Development Course",
+                "amount": 1500.0,
+                "frequency": "One-time",
+                "priority": "Important",
+                "timeframe": "2023"
+            },
+            {
+                "owner": "Claire Thompson",
+                "name": "Networking Event Fees",
+                "amount": 300.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Claire",
+                "name": "Weekly Subscription Box",
+                "amount": 25.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Until December 2024"
+            },
+            {
+                "owner": "Claire",
+                "name": "Art Class Materials",
+                "amount": 50.0,
+                "frequency": "Quarterly",
+                "priority": "Discretionary",
+                "timeframe": "Through 2023"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Claire Thompson",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC12456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Claire Thompson",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Claire Thompson",
+            "type": "Property",
+            "provider": "Real Estate Holdings",
+            "value": 350000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Claire Thompson",
+            "description": "Art Collection",
+            "current_value": 15000.0,
+            "original_value": 12000.0
+        }
+    ],
+    "loans_and_mortgages": [],
+    "protection_policies": [
+        {
+            "owner": "Claire Thompson",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 45.5,
+            "amount_assured": 200000.0,
+            "in_trust": true,
+            "assured_until": "Retirement",
+            "objectives": "To provide financial support for her family in case of unforeseen events."
+        },
+        {
+            "owner": "Claire Thompson",
+            "type": "Critical Illness Cover",
+            "provider": "Aviva",
+            "monthly_cost": 30.75,
+            "amount_assured": 100000.0,
+            "in_trust": false,
+            "assured_until": "2045-12-31",
+            "objectives": "To cover medical expenses and maintain family lifestyle during recovery from serious illness."
+        },
+        {
+            "owner": "Claire Thompson",
+            "type": "Income Protection",
+            "provider": "Legal & General",
+            "monthly_cost": 28.0,
+            "amount_assured": 2500.0,
+            "in_trust": false,
+            "assured_until": "2035-06-30",
+            "objectives": "To replace her income in the event of being unable to work due to illness or injury."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Tom",
+                "middle_names": [
+                    "James"
+                ],
+                "last_name": "Chandler",
+                "known_as": "Tom",
+                "pronouns": "he/him",
+                "date_of_birth": "15-05-1980",
+                "place_of_birth": "Boston, Massachusetts",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Married",
+                "home_phone": "617-555-0123",
+                "mobile_phone": "617-555-4567",
+                "email_address": "tom.chandler@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Software Engineer",
+                    "employer": "Tech Innovations Ltd.",
+                    "employment_started": "15-04-2015",
+                    "highest_rate_of_tax_paid": "40%"
+                },
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "123-45-6789",
+                    "employment_status": "Self-employed",
+                    "desired_retirement_age": 70,
+                    "occupation": "Freelance Writer",
+                    "employer": null,
+                    "employment_started": "01-06-2010",
+                    "highest_rate_of_tax_paid": "30%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy with a few age-related concerns.",
+                "state_of_health_explanation": "Tom experiences occasional joint pain and is managing borderline high blood pressure.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 25",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Tom is currently independent and manages his health with regular check-ups.",
+                "will": true,
+                "information_about_will": "Created in 2018, stored with family attorney.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Owned",
+            "postcode": "NE1 6EE",
+            "house_name_number": "42",
+            "street_name": "Baker Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Newcastle upon Tyne",
+            "county": "Tyne and Wear",
+            "country": "United Kingdom",
+            "move_in_date": "2010-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophie Chandler",
+            "date_of_birth": "15-04-2015",
+            "dependent_until": "15-04-2036"
+        },
+        {
+            "name": "Max Chandler",
+            "date_of_birth": "23-09-2017",
+            "dependent_until": "23-09-2038"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Tom Chandler",
+            "name": "Salary",
+            "amount": 85000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Ongoing"
+        },
+        {
+            "owner": "Tom Chandler",
+            "name": "Freelance Consulting",
+            "amount": 2000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Until 2025"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Tom Chandler",
+                "name": "Student Loan Repayment",
+                "amount": 500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Tom Chandler",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2040"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Tom Chandler",
+                "name": "Car Maintenance and Fuel",
+                "amount": 250.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Spouse - Emily Chandler",
+                "name": "Monthly Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Tom Chandler",
+                "name": "Streaming Service Subscription",
+                "amount": 15.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Tom Chandler",
+                "name": "Professional Development Conference",
+                "amount": 1500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "Tom Chandler",
+                "name": "Certification Course in Data Analysis",
+                "amount": 600.0,
+                "frequency": "One-time",
+                "priority": "Essential",
+                "timeframe": "in 2024"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Tom Chandler",
+                "name": "Streaming Subscriptions",
+                "amount": 40.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Tom Chandler",
+                "name": "Office Supplies",
+                "amount": 25.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Tom Chandler",
+                "name": "Charity Donations",
+                "amount": 100.0,
+                "frequency": "Annually",
+                "priority": "Discretionary",
+                "timeframe": "Until 2030"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Tom Chandler",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 150000.0,
+            "policy_number": "DC123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Tom Chandler",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Tom Chandler",
+            "description": "Vintage Watch Collection",
+            "current_value": 25000.0,
+            "original_value": 15000.0
+        },
+        {
+            "owner": "Tom Chandler",
+            "description": "Classic Car - 1965 Ford Mustang",
+            "current_value": 45000.0,
+            "original_value": 30000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Tom Chandler",
+            "type": "Mortgage",
+            "provider": "National Homes Finance",
+            "monthly_cost": 1200.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.75,
+            "special_rate": "2.9% fixed until 2028",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Tom Chandler",
+            "type": "Life Assurance",
+            "provider": "ABC Life Insurance",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2045-12-31",
+            "objectives": "To provide financial security for his family in the event of his demise."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

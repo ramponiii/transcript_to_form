@@ -1,0 +1,180 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Jessica Turner",
+                "first_name": "Jessica",
+                "middle_names": [],
+                "last_name": "Turner",
+                "known_as": "Jess",
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1986",
+                "place_of_birth": "New York",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "555-0147",
+                "mobile_phone": "555-9876",
+                "email_address": "jessica.turner@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "UK",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": null,
+                    "employment_status": "Employed and Self-Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Specialist and Freelance Graphic Designer",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-04-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "In pretty good health",
+                "state_of_health_explanation": "I stick to a balanced lifestyle—regular exercise and a nutritious diet keep me going. I practice yoga and go for runs.",
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No health issues right now that would suggest I might need it.",
+                "will": true,
+                "information_about_will": "Created in 2021, safely stored with my family attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "My brother, Michael Turner, holds my power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "12345",
+            "house_name_number": "16B",
+            "street_name": "Maple Avenue",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Springfield",
+            "county": "Greenville",
+            "country": "USA",
+            "move_in_date": "2021-06-15",
+            "address_type": "Current"
+        }
+    ],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Jessica Turner",
+            "name": "Salary from job as a Marketing Specialist",
+            "amount": null,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": null
+        },
+        {
+            "owner": "Jessica Turner",
+            "name": "Freelance Graphic Designer",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "client",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2035"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": "Motoring Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [],
+        "professional_expenses": [
+            {
+                "owner": "Jessica Turner",
+                "name": "Professional Expense",
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [],
+    "savings_and_investments": [],
+    "other_assets": [
+        {
+            "owner": "Jessica Turner",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Jessica Turner",
+            "description": "Aspiring painter",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Jessica Turner",
+            "description": "Aspiring painter",
+            "current_value": null,
+            "original_value": null
+        },
+        {
+            "owner": "Jessica Turner",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [],
+    "protection_policies": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "amount_assured": null,
+            "in_trust": null,
+            "assured_until": null,
+            "objectives": null
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

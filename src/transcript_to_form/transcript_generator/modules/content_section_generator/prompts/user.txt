@@ -1,0 +1,15 @@
+### Conversation Background
+{background}
+
+### Specific User Request
+{specific_request}
+
+### Start the first advisor message with
+{advisor_message_begin}
+
+### Populated Model 
+{model}
+
+This is a populated model instance of a model with name `{model_name}`
+
+If youmiss a **SINGLE DETAIL** from any of the models, that would be un-forgivable. **EVERY** piece of information must be discussed.

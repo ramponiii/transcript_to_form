@@ -1,0 +1,174 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [
+                    "Jane"
+                ],
+                "last_name": "Hartman",
+                "known_as": "CLIENT",
+                "pronouns": null,
+                "date_of_birth": null,
+                "place_of_birth": null,
+                "nationality": null,
+                "gender": null,
+                "legal_sex": null,
+                "marital_status": null,
+                "home_phone": null,
+                "mobile_phone": null,
+                "email_address": null
+            },
+            "employments": [
+                {
+                    "country_domiciled": null,
+                    "resident_for_tax": null,
+                    "national_insurance_number": null,
+                    "employment_status": "employed",
+                    "desired_retirement_age": null,
+                    "occupation": "Marketing Manager",
+                    "employer": "Creative Solutions Ltd",
+                    "employment_started": null,
+                    "highest_rate_of_tax_paid": null
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": null,
+                "state_of_health_explanation": null,
+                "smoker": null,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": null,
+                "long_term_care_explanation": null,
+                "will": null,
+                "information_about_will": null,
+                "power_of_attorney": null,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [],
+    "incomes": [
+        {
+            "owner": "Emily Jane Hartman",
+            "name": "Emily's Salary",
+            "amount": null,
+            "frequency": null,
+            "net_gross": null,
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "client",
+                "name": "Emily's Loan",
+                "amount": null,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": null,
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Jane Hartman",
+                "name": "Car Insurance",
+                "amount": 120.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [],
+        "misc_expenses": [
+            {
+                "owner": "Emily Jane Hartman",
+                "name": null,
+                "amount": null,
+                "frequency": null,
+                "priority": null,
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Jane Hartman",
+            "type": "Defined Contribution",
+            "provider": "FutureSecure Pensions Ltd",
+            "value": 150000.0,
+            "policy_number": "FS123456789"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Jane Hartman",
+            "type": "Sustainable Ethical Fund",
+            "provider": "GreenBank",
+            "value": null
+        },
+        {
+            "owner": "Emily Jane Hartman",
+            "type": "Employee Shares",
+            "provider": "Creative Solutions Ltd",
+            "value": null
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Jane Hartman",
+            "description": null,
+            "current_value": null,
+            "original_value": null
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": null,
+            "type": null,
+            "provider": null,
+            "monthly_cost": null,
+            "outstanding_value": null,
+            "interest_rate": null,
+            "special_rate": null,
+            "final_payment": null
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Jane Hartman",
+            "type": "Life Assurance",
+            "provider": "GreenLife Insurance Co.",
+            "monthly_cost": 150.0,
+            "amount_assured": 500000.0,
+            "in_trust": true,
+            "assured_until": "2040-12-31",
+            "objectives": "Provide financial security for family in case of unforeseen events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

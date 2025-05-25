@@ -1,0 +1,285 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Ms",
+                "first_name": "Emily",
+                "middle_names": [],
+                "last_name": "Rodriguez",
+                "known_as": null,
+                "pronouns": "she/her",
+                "date_of_birth": "15-04-1990",
+                "place_of_birth": "Los Angeles, CA",
+                "nationality": "American",
+                "gender": "Female",
+                "legal_sex": "Female",
+                "marital_status": "Single",
+                "home_phone": "310-555-0123",
+                "mobile_phone": "310-555-0456",
+                "email_address": "emily.rodriguez@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United States",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "123-45-6789",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Futures Inc.",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": "22%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Good overall health, some minor stress-related issues.",
+                "state_of_health_explanation": "Emily maintains a healthy lifestyle but sometimes experiences stress from work. No serious medical conditions.",
+                "smoker": false,
+                "cigarettes_per_day": null,
+                "smoker_since": null,
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "Currently no need for long-term care based on health condition.",
+                "will": true,
+                "information_about_will": "Will created in March 2022, stored with her attorney.",
+                "power_of_attorney": true,
+                "details_of_individual_with_power_of_attorney": "Her brother, Michael Rodriguez, holds power of attorney."
+            }
+        }
+    ],
+    "addresses": [
+        {
+            "ownership_status": "Rented",
+            "postcode": "10001",
+            "house_name_number": "56A",
+            "street_name": "Hudson Street",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "New York",
+            "county": "New York County",
+            "country": "USA",
+            "move_in_date": "2021-07-15",
+            "address_type": "Current"
+        },
+        {
+            "ownership_status": "Owned",
+            "postcode": "90210",
+            "house_name_number": "123",
+            "street_name": "Palm Drive",
+            "address_line_3": null,
+            "address_line_4": null,
+            "town_city": "Beverly Hills",
+            "county": "Los Angeles County",
+            "country": "USA",
+            "move_in_date": "2018-05-21",
+            "address_type": "Previous"
+        }
+    ],
+    "dependents": [
+        {
+            "name": "Sophia Rodriguez",
+            "date_of_birth": "15-06-2010",
+            "dependent_until": "15-06-2028"
+        },
+        {
+            "name": "Lucas Rodriguez",
+            "date_of_birth": "22-11-2015",
+            "dependent_until": "22-11-2033"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Emily Rodriguez",
+            "name": "Salary",
+            "amount": 75000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Mortgage Payment",
+                "amount": 1500.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2045"
+            },
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Property Tax",
+                "amount": 3500.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Car Maintenance and Fuel",
+                "amount": 200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Yoga Classes Subscription",
+                "amount": 85.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Software Licensing Fee",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": "Ongoing"
+            },
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Conference Attendance Fee",
+                "amount": 850.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": "Next 3 years"
+            },
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Professional Networking Subscription",
+                "amount": 300.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": "Ongoing"
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Gym Membership",
+                "amount": 50.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Travel Fund Contribution",
+                "amount": 100.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            },
+            {
+                "owner": "Emily Rodriguez",
+                "name": "Monthly Book Subscription",
+                "amount": 20.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Defined Contribution",
+            "provider": "Fidelity Investments",
+            "value": 75000.0,
+            "policy_number": "ACD12345678"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Stocks and Shares ISA",
+            "provider": "Vanguard",
+            "value": 35000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Emily Rodriguez",
+            "description": "Art Collection",
+            "current_value": 30000.0,
+            "original_value": 15000.0
+        },
+        {
+            "owner": "Emily Rodriguez",
+            "description": "Vintage Jewellery Collection",
+            "current_value": 18000.0,
+            "original_value": 12000.0
+        },
+        {
+            "owner": "Emily Rodriguez",
+            "description": "Classic Car",
+            "current_value": 25000.0,
+            "original_value": 20000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Mortgage",
+            "provider": "ABC Bank",
+            "monthly_cost": 1250.75,
+            "outstanding_value": 275000.5,
+            "interest_rate": 3.75,
+            "special_rate": "2.5% fixed until 2030",
+            "final_payment": "2040-09-15"
+        },
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Car Finance",
+            "provider": "XYZ Finance Co",
+            "monthly_cost": 350.0,
+            "outstanding_value": 12000.0,
+            "interest_rate": 5.5,
+            "special_rate": "3.9% fixed for first 3 years",
+            "final_payment": "2027-06-20"
+        },
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Personal Loan",
+            "provider": "QuickCredit LLC",
+            "monthly_cost": 250.0,
+            "outstanding_value": 8000.0,
+            "interest_rate": 7.25,
+            "special_rate": null,
+            "final_payment": "2025-12-01"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Emily Rodriguez",
+            "type": "Life Assurance",
+            "provider": "SunLife Insurance",
+            "monthly_cost": 75.0,
+            "amount_assured": 500000.0,
+            "in_trust": false,
+            "assured_until": "2045-12-31",
+            "objectives": "To secure financial stability for her family in case of unforeseen events."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}

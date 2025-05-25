@@ -1,0 +1,259 @@
+{
+    "clients": [
+        {
+            "client_information": {
+                "title": "Mr",
+                "first_name": "Jamie",
+                "middle_names": [
+                    "Alexander"
+                ],
+                "last_name": "Whitmore",
+                "known_as": "Jamie",
+                "pronouns": "he/him",
+                "date_of_birth": "15-06-1985",
+                "place_of_birth": "New York, USA",
+                "nationality": "American",
+                "gender": "Male",
+                "legal_sex": "Male",
+                "marital_status": "Single",
+                "home_phone": "212-555-0173",
+                "mobile_phone": "+1-917-555-0101",
+                "email_address": "jamie.whitmore@example.com"
+            },
+            "employments": [
+                {
+                    "country_domiciled": "United Kingdom",
+                    "resident_for_tax": "Yes",
+                    "national_insurance_number": "QQ123456C",
+                    "employment_status": "Employed",
+                    "desired_retirement_age": 65,
+                    "occupation": "Marketing Manager",
+                    "employer": "Bright Ideas Ltd.",
+                    "employment_started": "15-03-2018",
+                    "highest_rate_of_tax_paid": "20%"
+                }
+            ],
+            "health_details": {
+                "current_state_of_health": "Generally healthy, with minor seasonal allergies.",
+                "state_of_health_explanation": "No chronic conditions but takes over-the-counter medication for allergies occasionally.",
+                "smoker": true,
+                "cigarettes_per_day": 5,
+                "smoker_since": "Age 22",
+                "long_term_care_needed": false,
+                "long_term_care_explanation": "No current requirement for long-term care.",
+                "will": true,
+                "information_about_will": "Will created in 2020, located with lawyer.",
+                "power_of_attorney": false,
+                "details_of_individual_with_power_of_attorney": null
+            }
+        }
+    ],
+    "addresses": [],
+    "dependents": [
+        {
+            "name": "Olivia Whitmore",
+            "date_of_birth": "15-03-2012",
+            "dependent_until": "15-03-2030"
+        },
+        {
+            "name": "Ethan Whitmore",
+            "date_of_birth": "09-07-2014",
+            "dependent_until": "09-07-2032"
+        }
+    ],
+    "incomes": [
+        {
+            "owner": "Jamie Whitmore",
+            "name": "Salary",
+            "amount": 85000.0,
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": null
+        },
+        {
+            "owner": "Jamie Whitmore",
+            "name": "Freelance Writing",
+            "amount": 2000.0,
+            "frequency": "Monthly",
+            "net_gross": "Net",
+            "timeframe": "Ongoing"
+        }
+    ],
+    "expenses": {
+        "loan_repayments": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Student Loan Repayment",
+                "amount": 450.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": "until 2030"
+            }
+        ],
+        "housing_expenses": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Rent Payment",
+                "amount": 1200.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "motoring_expenses": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Car Insurance",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Essential",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Fuel Costs",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Essential",
+                "timeframe": null
+            }
+        ],
+        "personal_expenses": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Streaming Subscriptions",
+                "amount": 45.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Gym Membership",
+                "amount": 60.0,
+                "frequency": "Monthly",
+                "priority": "Important",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Dining Out",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            }
+        ],
+        "professional_expenses": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Business Conference Fees",
+                "amount": 1200.0,
+                "frequency": "Annually",
+                "priority": "Important",
+                "timeframe": null
+            }
+        ],
+        "misc_expenses": [
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Hobby Supplies",
+                "amount": 150.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Streaming Subscriptions",
+                "amount": 40.0,
+                "frequency": "Monthly",
+                "priority": "Discretionary",
+                "timeframe": null
+            },
+            {
+                "owner": "Jamie Whitmore",
+                "name": "Travel Fund Contribution",
+                "amount": 300.0,
+                "frequency": "Quarterly",
+                "priority": "Important",
+                "timeframe": "until 2025"
+            }
+        ]
+    },
+    "pensions": [
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Defined Contribution",
+            "provider": "BrightFuture Pensions",
+            "value": 85000.0,
+            "policy_number": "DC123456789"
+        },
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Defined Benefit",
+            "provider": "SecureRetire Fund",
+            "value": 120000.0,
+            "policy_number": "DB987654321"
+        }
+    ],
+    "savings_and_investments": [
+        {
+            "owner": "Jamie Whitmore",
+            "type": "ISA",
+            "provider": "Vanguard",
+            "value": 15000.0
+        },
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Property",
+            "provider": null,
+            "value": 250000.0
+        }
+    ],
+    "other_assets": [
+        {
+            "owner": "Jamie Whitmore",
+            "description": "Art Collection",
+            "current_value": 75000.0,
+            "original_value": 50000.0
+        }
+    ],
+    "loans_and_mortgages": [
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Mortgage",
+            "provider": "First National Bank",
+            "monthly_cost": 1500.0,
+            "outstanding_value": 250000.0,
+            "interest_rate": 3.5,
+            "special_rate": "2.5% fixed until 2028",
+            "final_payment": "2045-06-15"
+        }
+    ],
+    "protection_policies": [
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Life Assurance",
+            "provider": "SunLife",
+            "monthly_cost": 75.0,
+            "amount_assured": 250000.0,
+            "in_trust": true,
+            "assured_until": "2045-05-15",
+            "objectives": "Provide financial security for family in the event of unexpected death."
+        },
+        {
+            "owner": "Jamie Whitmore",
+            "type": "Critical Illness Cover",
+            "provider": "Vitality",
+            "monthly_cost": 50.0,
+            "amount_assured": 150000.0,
+            "in_trust": false,
+            "assured_until": "2035-03-01",
+            "objectives": "Cover unexpected medical expenses and provide income support during recovery from a serious illness."
+        }
+    ],
+    "objectives": {
+        "objectives": []
+    }
+}
